@@ -6,6 +6,24 @@ Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài 
 
 Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
 
+## Phạm Vi Dự Án IELTS Writing
+
+Phần này mô tả bốn scope chức năng của dự án IELTS Writing và bộ nguồn nội dung được dùng để xây dựng chúng. Danh sách nguồn cùng URL đầy đủ nằm trong [IELTS Writing Sources](docs/IELTS_WRITING_SOURCES.md).
+
+| Scope                        | Mục đích                                                                                                                                  |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ask IELTS Writing**        | Trả lời câu hỏi về tiêu chí chấm, các band, cấu trúc bài thi Academic Writing và cách chuẩn bị; câu trả lời cần dựa trên nguồn tham khảo. |
+| **Band Descriptor Explorer** | Tra cứu mô tả từng tiêu chí chấm theo band để người học hiểu yêu cầu ở mỗi mức.                                                           |
+| **Compare Bands**            | Đặt các band cạnh nhau (đặc biệt Band 6 và Band 7) để làm rõ khác biệt trong mô tả tiêu chí.                                              |
+| **Essay Feedback**           | Đưa phản hồi cho bài viết theo các tiêu chí IELTS Writing, có căn cứ từ mô tả band và hướng dẫn/đề mẫu liên quan.                         |
+
+### Nguồn dữ liệu theo scope
+
+- **Ask IELTS Writing:** dùng cả 8 nguồn.
+- **Band Descriptor Explorer:** ưu tiên nguồn 1, 2 và 4.
+- **Compare Bands:** tập trung vào nguồn 1.
+- **Essay Feedback:** dùng nguồn 1, 2, 3, 5, 6, 7 và 8.
+
 ## Sản phẩm phải nộp
 
 - Repository nhóm chạy được.
