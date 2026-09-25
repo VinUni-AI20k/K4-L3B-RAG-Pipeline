@@ -5,9 +5,9 @@
 ## Thông tin
 
 - **Họ và tên:** Nguyễn Thị Lê Na
-- **Mã học viên:** HV-2026-002
-- **Nhóm:** Nhóm K4-L3B (RAG Pipeline tuyển sinh NEU 2026)
-- **Repository/branch:** `vietbui000/K4-L3B-RAG-Pipeline` (branch: `nguyenthilena`)
+- **Mã học viên:** 2A202602501
+- **Nhóm:** Nhóm K4-L3B-RAG-Pipeline
+- **Repository/branch:** `vietbui000/K4-L3B-RAG-Pipeline` (branch: `Na_update`)
 
 ---
 
