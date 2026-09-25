@@ -21,25 +21,32 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://ielts.idp.com/vietnam/about/news-and-articles/article-task-achievement",
+    "https://ielts.idp.com/vietnam/about/news-and-articles/article-coherence-and-cohesion",
+    "https://ielts.idp.com/vietnam/about/news-and-articles/article-l-is-for-lexical-resource",
+    "https://ielts.idp.com/vietnam/about/news-and-articles/article-grammatical-range-accuracy",
+    "https://ielts.idp.com/vietnam/results/scores/writing",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    from datetime import datetime, timezone
+
+    from crawl4ai import AsyncWebCrawler
+
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+        title = (result.metadata or {}).get("title") or url.rstrip("/").rsplit("/", 1)[-1]
+        content_markdown = (result.markdown or "").strip()
+        if not content_markdown:
+            raise ValueError(f"Crawl returned empty content: {url}")
+
+        return {
+            "url": url,
+            "title": title.strip(),
+            "date_crawled": datetime.now(timezone.utc).isoformat(),
+            "content_markdown": content_markdown,
+        }
 
 
 async def crawl_all() -> None:
