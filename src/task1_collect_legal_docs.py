@@ -42,6 +42,21 @@ SOURCES = {
     ),
 }
 
+# Human-readable Công báo page for each document (for citation in
+# standardized markdown headers) — separate from the signed CDN download
+# URL above, which is not meant to be read as a citation.
+SOURCE_PAGES = {
+    "tt18-2026-quan-ly-thue-ho-kinh-doanh.docx": (
+        "https://congbao.chinhphu.vn/van-ban/thong-tu-so-18-2026-tt-btc-469080/63294.htm"
+    ),
+    "nd68-2026-chinh-sach-thue-ho-kinh-doanh.docx": (
+        "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-68-2026-nd-cp-469047.htm"
+    ),
+    "nd254-2026-hoa-don-dien-tu.docx": (
+        "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-254-2026-nd-cp-469957.htm"
+    ),
+}
+
 
 def setup_directory() -> None:
     """Tạo thư mục lưu tài liệu gốc."""
