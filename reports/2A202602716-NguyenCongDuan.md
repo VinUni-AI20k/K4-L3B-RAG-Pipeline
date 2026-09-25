@@ -13,13 +13,13 @@
 
 | Module/deliverable | Việc tôi trực tiếp làm | File/commit/PR | Trạng thái |
 |---|---|---|---|
-| **Lead / DevOps — Setup môi trường** | Khởi tạo repo, cấu hình `pyproject.toml`, sửa lỗi TOML syntax , fix deps `sentence-transformers` constraint | `c70b473`, `5df87e5`, `92dfe09`, `7adeeb7` | Done |
-| **Lead / DevOps — `.env` & embedding config** | Cấu hình `.env`, chuyển `EMBEDDING_PROVIDER` từ `sentence_transformers` → `gemini` để tránh tải torch 124MB, giảm batch size 50→20 và tăng retry để xử lý Gemini rate limit 429 | `.env`, `src/task4_chunking_indexing.py` — `d68b48f` | Done |
+| **Lead / DevOps — Setup môi trường** | Khởi tạo repo, cấu hình `pyproject.toml`, sửa lỗi TOML syntax , fix deps `sentence-transformers` constraint | `c70b473` | Done |
+| **Lead / DevOps — `.env` & embedding config** | Cấu hình `.env`, chuyển `EMBEDDING_PROVIDER` từ `sentence_transformers` → `gemini` để tránh tải torch 124MB, giảm batch size 50→20 và tăng retry để xử lý Gemini rate limit 429 | `.env`| Done |
 | **Lead / DevOps — Chạy test cuối** | Chạy `pytest -q` toàn bộ 20 test, xác nhận pass 100% | `tests/` — `d68b48f` | Done |
 | **QA/Eval — Chatbot UI (`app.py`)** | Viết toàn bộ `app.py` từ skeleton TODO, tích hợp `generate_with_citation()`, hiển thị answer + source badges + score chunks, sidebar lịch sử hội thoại, 4 quick-reply chips | `app.py` — `d68b48f` | Done |
 | **QA/Eval — Golden dataset** | Tạo 15 cặp Q&A dựa trên corpus thực (14 in-domain + 1 out-of-domain safe refusal), đảm bảo đủ fields `question`, `expected_answer`, `expected_context` | `group_project/evaluation/golden_dataset.json` — `d68b48f` | Done |
-| **QA/Eval — Evaluation report** | Viết `RESULT.md` đầy đủ: overall scores 4 metrics, A/B comparison dense vs hybrid, worst performers, error analysis, recommendations | `group_project/evaluation/RESULT.md` — `d68b48f` | Done |
-| **QA/Eval — Individual report template** | Tạo `group_project/individual/INDIVIDUAL_REPORT.md` | `group_project/individual/INDIVIDUAL_REPORT.md` — `d68b48f` | Done |
+| **QA/Eval — Evaluation report** | Viết `RESULT.md` đầy đủ: overall scores 4 metrics, A/B comparison dense vs hybrid, worst performers, error analysis, recommendations | `group_project/evaluation/RESULT.md` — `7beec93` | Done |
+| **QA/Eval — Individual report template** | Tạo `group_project/individual/INDIVIDUAL_REPORT.md` | `group_project/individual/INDIVIDUAL_REPORT.md` — `7beec93` | Done |
 
 ## Quyết định kỹ thuật quan trọng
 
