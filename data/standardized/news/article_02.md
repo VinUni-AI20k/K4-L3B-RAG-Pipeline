@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm
 
-**Crawled:** 2026-09-25T11:37:16.963144
+**Crawled:** 2026-09-25T12:00:28.518559
 
 ---
 

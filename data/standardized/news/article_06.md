@@ -3,7 +3,7 @@ của hộ kinh doanh
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm
 
-**Crawled:** 2026-09-25T11:37:26.030017
+**Crawled:** 2026-09-25T12:00:33.854667
 
 ---
 

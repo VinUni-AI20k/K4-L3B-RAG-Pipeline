@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/muc-phat-tien-trong-xu-phat-vi-pham-hanh-chinh-ve-quan-ly-thue-119260331093932736.htm
 
-**Crawled:** 2026-09-25T11:37:28.772803
+**Crawled:** 2026-09-25T12:00:41.265531
 
 ---
 

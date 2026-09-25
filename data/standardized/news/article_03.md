@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-141-2026-nd-cp-nang-nguong-doanh-thu-khong-phai-chiu-thue-len-1-ty-dong-119260504154326455.htm
 
-**Crawled:** 2026-09-25T11:37:21.547854
+**Crawled:** 2026-09-25T12:00:29.581832
 
 ---
 

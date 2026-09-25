@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/huong-dan-trien-khai-nghi-dinh-so-141-2026-nd-cp-ve-chinh-sach-thue-doi-voi-ho-kinh-doanh-doanh-nghiep-119260502203430701.htm
 
-**Crawled:** 2026-09-25T11:37:23.062891
+**Crawled:** 2026-09-25T12:00:31.255360
 
 ---
 

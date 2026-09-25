@@ -2,7 +2,7 @@
 
 **Source:** https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm
 
-**Crawled:** 2026-09-25T11:37:24.662536
+**Crawled:** 2026-09-25T12:00:32.415171
 
 ---
 

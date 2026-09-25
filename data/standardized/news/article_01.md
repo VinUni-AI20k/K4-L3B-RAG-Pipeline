@@ -2,7 +2,7 @@
 
 **Source:** https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp
 
-**Crawled:** 2026-09-25T11:37:14.763145
+**Crawled:** 2026-09-25T12:00:24.936639
 
 ---
 
@@ -206,7 +206,7 @@ ADVERTISEMENT
 ##  [ Cục Dự trữ Liên bang Mỹ phát tín hiệu tăng lãi suất nếu lạm phát không hạ nhiệt ](https://www.vietnamplus.vn/cuc-du-tru-lien-bang-my-phat-tin-hieu-tang-lai-suat-neu-lam-phat-khong-ha-nhiet-post1133231.vnp "Cục Dự trữ Liên bang Mỹ phát tín hiệu tăng lãi suất nếu lạm phát không hạ nhiệt")
 ##  [ Đồng USD tăng mạnh sau tín hiệu cứng rắn từ Chủ tịch Fed ](https://www.vietnamplus.vn/dong-usd-tang-manh-sau-tin-hieu-cung-ran-tu-chu-tich-fed-post1133288.vnp "Đồng USD tăng mạnh sau tín hiệu cứng rắn từ Chủ tịch Fed")
 ###  [ Infographics ](https://www.vietnamplus.vn/infographics/ "Infographics")
-[ ![Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi](https://media.vietnamplus.vn/images/O5Y1aglPOMEyLwZt3P8V2WoijpBTadd-UppbrsfPb9uAUC0-Fcsm__ZVXzILtMTJRze75rVbjvZGUJXwD_cxQSIMZY3Arh7VAyk9omiFI1YjpWPVQWrnjV0b-qveJxR3_0-J0mB9b069O3d8fYp6vZv9RXPDytd3cXUmXE5oNEc2I08Nc2NZRQ0fy282a2qL6UUcghsC3mvPg1i8p4mi4Q/mot-so-noi-dung-chinh-trong-thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu.jpg.avif) ](https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gui-thu-chuc-tet-trung-thu-cac-thieu-nhi-post1138300.vnp "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi")
+[ ![Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gui-thu-chuc-tet-trung-thu-cac-thieu-nhi-post1138300.vnp "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi")
 ##  [ Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi ](https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gui-thu-chuc-tet-trung-thu-cac-thieu-nhi-post1138300.vnp "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi")
 25/09/2026 08:02
 ###  [ Video ](https://www.vietnamplus.vn/video/ "Video")
