@@ -1,0 +1,16 @@
+{
+  "status": "indexed",
+  "documents": 8,
+  "chunks": 498,
+  "collection": "rag_documents",
+  "distance": "cosine",
+  "embedding_provider": "sentence_transformers",
+  "embedding_model": "BAAI/bge-m3",
+  "embedding_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "embedding_dim": 1024,
+  "normalized": true,
+  "pipeline_owner": "k4-task4-v1",
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "chunking_method": "separator_window_per_page"
+}
