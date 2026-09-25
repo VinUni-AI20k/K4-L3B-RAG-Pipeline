@@ -142,7 +142,26 @@ def inject_styles() -> None:
           box-shadow:0 12px 30px rgba(44,72,119,.08);
           backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px);
         }
-        [data-testid="stChatMessage"] { margin-bottom:.85rem; }
+        [data-testid="stChatMessage"] { margin-bottom:.85rem; color:var(--ink); }
+        .stMain [data-testid="stChatMessage"] [data-testid="stMarkdownContainer"],
+        .stMain [data-testid="stChatMessage"] [data-testid="stMarkdownContainer"] :is(p,li,strong,em) {
+          color:var(--ink)!important;
+        }
+        .stMain [data-testid="stCaptionContainer"],
+        .stMain [data-testid="stCaptionContainer"] * {
+          color:var(--muted)!important;
+        }
+        .stMain [data-testid="stAlertContainer"] {
+          background:#deefff!important;
+          border:1px solid #bbdaf2;
+        }
+        .stMain [data-testid="stAlertContentInfo"] {
+          background:transparent!important;
+        }
+        .stMain [data-testid="stAlertContentInfo"] [data-testid="stMarkdownContainer"],
+        .stMain [data-testid="stAlertContentInfo"] [data-testid="stMarkdownContainer"] * {
+          color:#084b78!important;
+        }
         .source-card { padding:.85rem 1rem; margin:.55rem 0; }
         .source-card strong { color:var(--ink); }
         .source-meta { color:var(--muted); font-size:.84rem; margin-top:.25rem; }
@@ -165,7 +184,23 @@ def inject_styles() -> None:
           outline:3px solid #27b8cf; outline-offset:3px;
         }
         [data-testid="stChatInput"] { border-radius:16px; overflow:hidden; }
-        [data-testid="stChatInput"] textarea { color:var(--ink); }
+        [data-testid="stChatInput"]>div {
+          background:rgba(255,255,255,.94)!important;
+          border:1px solid rgba(103,148,187,.35)!important;
+        }
+        [data-testid="stChatInput"] textarea { color:var(--ink)!important; }
+        [data-testid="stChatInput"] textarea::placeholder { color:#50647e!important; opacity:1; }
+        [data-testid="stChatInput"] button:not(:disabled) {
+          color:#fff!important; background:#186f94!important;
+        }
+        [data-testid="stChatInput"] button:disabled {
+          color:#4f6680!important; background:rgba(20,40,71,.08)!important;
+        }
+        [data-testid="stBottom"]>div {
+          background:linear-gradient(180deg,rgba(235,245,251,.72),rgba(238,243,252,.96))!important;
+          border-top:1px solid rgba(255,255,255,.78);
+          backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px);
+        }
         a { color:#0a648f!important; }
         @media (max-width:760px) {
           .block-container { padding-top:1.25rem; }
