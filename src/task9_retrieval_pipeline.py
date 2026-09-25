@@ -28,27 +28,36 @@ def retrieve(
     use_reranking: bool = True,
 ) -> list[dict]:
     """Trả về hybrid hoặc pageindex SearchResult."""
-    # TODO: Implement full retrieval pipeline.
-    #
-    # dense = semantic_search(query, top_k=top_k * 2)
-    # sparse = lexical_search(query, top_k=top_k * 2)
-    # hybrid = (
-    #     rerank_rrf([dense, sparse], top_k=top_k)
-    #     if use_reranking else dense[:top_k]
-    # )
-    #
-    # best_dense_score = dense[0]["score"] if dense else 0.0
-    # if best_dense_score < score_threshold:
-    #     try:
-    #         fallback = pageindex_search(query, top_k=top_k)
-    #         if fallback:
-    #             return fallback
-    #     except Exception:
-    #         pass
-    # return hybrid[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    if not query or not query.strip() or top_k <= 0:
+        return []
+
+    # 1. Thu thập kết quả từ dense và sparse search
+    dense = semantic_search(query, top_k=top_k * 2)
+    sparse = lexical_search(query, top_k=top_k * 2)
+
+    # 2. Hợp nhất hai bảng xếp hạng bằng RRF
+    hybrid = (
+        rerank_rrf([dense, sparse], top_k=top_k)
+        if use_reranking
+        else dense[:top_k]
+    )
+
+    # 3. Lấy best cosine score gốc từ dense search (không dùng RRF score)
+    best_dense_score = dense[0]["score"] if dense else 0.0
+
+    # 4. Kiểm tra ngưỡng tin cậy để kích hoạt Fallback
+    if best_dense_score < score_threshold:
+        try:
+            fallback = pageindex_search(query, top_k=top_k)
+            if fallback:
+                return fallback[:top_k]
+        except Exception:
+            # Nếu nhà cung cấp fallback gặp sự cố, vẫn giữ an toàn cho pipeline
+            pass
+
+    return hybrid[:top_k]
 
 
 if __name__ == "__main__":
-    for result in retrieve("test query", top_k=3):
-        print(result)
+    for result in retrieve("học bổng khuyến khích học tập", top_k=3):
+        print(f"[{result['retrieval_method']} - {result['score']:.4f}] {result['metadata']['title']}")
