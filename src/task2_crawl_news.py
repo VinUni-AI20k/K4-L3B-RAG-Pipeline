@@ -15,31 +15,58 @@ Cài browser trước khi chạy:
 
 import asyncio
 import json
+import os
+from datetime import datetime, timezone
 from pathlib import Path
+
+from dotenv import load_dotenv
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
+load_dotenv(Path(__file__).parent.parent / ".env")
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://vnexpress.net/cam-nang-du-lich-tp-hcm-4608205.html"
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    """Scrape one article with Firecrawl and return the landing-page schema."""
+    try:
+        from firecrawl import AsyncFirecrawl
+    except ImportError:
+        from firecrawl import AsyncFirecrawlApp as AsyncFirecrawl
+
+    api_key = os.getenv("FIRECRAWL_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "FIRECRAWL_API_KEY is missing. Add it to the repository .env file."
+        )
+
+    firecrawl = AsyncFirecrawl(api_key=api_key)
+    if hasattr(firecrawl, "scrape"):
+        result = await firecrawl.scrape(url, formats=["markdown"])
+    else:
+        result = await firecrawl.scrape_url(url, formats=["markdown"])
+
+    if isinstance(result, dict):
+        markdown = result.get("markdown")
+        metadata = result.get("metadata") or {}
+        title = metadata.get("title") if isinstance(metadata, dict) else None
+    else:
+        markdown = getattr(result, "markdown", None)
+        metadata = getattr(result, "metadata", None)
+        title = getattr(metadata, "title", None) if metadata else None
+
+    if not isinstance(markdown, str) or not markdown.strip():
+        raise ValueError(f"Firecrawl returned no markdown content for {url}")
+
+    return {
+        "url": url,
+        "title": title or "Unknown",
+        "date_crawled": datetime.now(timezone.utc).isoformat(),
+        "content_markdown": markdown,
+    }
 
 
 async def crawl_all() -> None:
