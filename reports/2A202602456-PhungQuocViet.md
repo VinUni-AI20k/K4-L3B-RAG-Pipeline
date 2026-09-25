@@ -6,8 +6,8 @@
 
 - Họ và tên: Phùng Quốc Việt
 - Mã học viên: 2A202602456
-- Nhóm: K4-L3B (Nhóm Day 8 RAG Pipeline)
-- Repository/branch: `vietpq` (commit `b3008c2`)
+- Nhóm: Soul
+- Repository/branch: `vietpq`
 - Vai trò: Backend / Pipeline & Generation Engineer
 
 ## Phần việc đã thực hiện
