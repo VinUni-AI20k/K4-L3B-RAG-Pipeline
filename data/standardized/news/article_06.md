@@ -1,0 +1,58 @@
+---
+title: "Học phí 12 trường thuộc Đại học Quốc gia Hà Nội năm 2026"
+source: "article_06.json"
+url: "https://vnexpress.net/hoc-phi-12-truong-thuoc-dai-hoc-quoc-gia-ha-noi-nam-2026-chi-tiet-nhat-5079708.html"
+doc_type: "news"
+date_published: "2026-06-05T05:59:00+07:00"
+date_crawled: "2026-09-25T09:54:14"
+---
+
+# Học phí 12 trường thuộc Đại học Quốc gia Hà Nội năm 2026
+
+## Học phí 12 trường thuộc Đại học Quốc gia Hà Nội năm 2026
+
+* 16
+
+# Học phí 12 trường thuộc Đại học Quốc gia Hà Nội năm 2026
+
+Học phí các trường thuộc Đại học Quốc gia Hà Nội từ 17,9 đến 130 triệu đồng, áp dụng với tân sinh viên năm 2026, hầu hết tăng so với năm ngoái.
+
+Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội có mức thu thấp nhất, dự kiến 17,9-19,1 triệu đồng. So với năm ngoái, mức này tăng 3,8-5 triệu đồng. Riêng sinh viên khối Sư phạm được nhà nước hỗ trợ tiền học và sinh hoạt phí (3,6 triệu đồng/tháng).
+
+Hai trường khác cũng có ngành thu dưới 20 triệu là Khoa học Tự nhiên, Khoa học Xã hội và Nhân văn, nhưng tăng 2,2 triệu đồng.
+
+Trừ trường Quốc tế chưa công bố học phí, các trường còn lại chủ yếu thu trên 30 triệu đồng mỗi năm. Cao nhất là học phí trường Quản trị và Kinh doanh, với 44-78 triệu đồng. Riêng chương trình cử nhân Kinh doanh (chuyên ngành kép Marketing và Phân tích kinh doanh) liên kết với Đại học Victoria, Australia, mức thu là 130 triệu đồng.
+
+Thấp hơn một chút là chương trình liên kết Quản trị kinh doanh của Đại học Kinh tế với Đại học Troy, Mỹ, tổng hơn 492 triệu đồng cho 3,5 năm. Tuy nhiên, tân sinh viên được cấp học bổng, chỉ còn 389 triệu đồng (trung bình hơn 111 triệu đồng/năm).
+
+**Bảng quy đổi IELTS vào 12 trường thuộc Đại học Quốc gia Hà Nội**
+
+*Học phí dự kiến của 12 trường thuộc Đại học Quốc gia Hà Nội, áp dụng với sinh viên khóa tuyển sinh 2026 như sau:*
+
+| | | | |
+| --- | --- | --- | --- |
+| **TT** | **Trường** | **Học phí năm học 2025-2026** *(đơn vị: triệu đồng)* | **Học phí năm học 2026-2027** *(đơn vị: triệu đồng)* |
+| 1 | Đại học Khoa học Tự nhiên | 16,9-38 | 19,1-40 |
+| 2 | Đại học Khoa học Xã hội và Nhân văn | 16,9-33 | 19,1-35 |
+| 3 | Đại học Công nghệ | 34-40 | 38-44 |
+| 4 | Đại học Ngoại ngữ | 16,9-65 | 31-67 |
+| 5 | Đại học Kinh tế | 31,5-100,3 | 48-111,2 |
+| 6 | Đại học Giáo dục | 14,1 | 17,9-19,1 |
+| 7 | Đại học Việt Nhật | 25-58 | 35-58 |
+| 8 | Đại học Y Dược | 62 | 53,2-70 |
+| 9 | Đại học Luật | 27,03-31,8 | 30,43-35,8 |
+| 10 | Trường Quốc tế | 39,75-112,7 | Chưa công bố |
+| 11 | Trường Quản trị và Kinh doanh | 40-130 | 44-130 |
+| 12 | Trường Khoa học liên ngành và Nghệ thuật | 30,4-31,8 | 34,2-35 |
+
+Năm nay, các trường thuộc Đại học Quốc gia Hà Nội được dùng tối đa 5 trong các phương thức (không bao gồm xét tuyển thẳng): xét điểm thi tốt nghiệp THPT; dựa vào kết quả thi đánh giá năng lực HSA; xét các chứng chỉ quốc tế như SAT, A-Level, ACT; các phương thức kết hợp hoặc đặc thù như thi năng khiếu, phỏng vấn kết hợp điểm học bạ hoặc điểm thi tốt nghiệp.
+
+Điểm chuẩn năm ngoái vào 12 trường thuộc VNU là 19-30. Trong đó, ngành Sư phạm tiếng Anh và tiếng Trung của trường Đại học Ngoại ngữ lấy cao nhất.
+
+Sinh viên Đại học Quốc gia Hà Nội. Ảnh: *VNU*
+
+**Dương Tâm**
+
+#### Điểm chuẩn 12 trường thuộc Đại học Quốc gia Hà Nội
+
+Trường Đại học Ngoại ngữ hiện có điểm chuẩn cao nhất Đại học Quốc gia Hà Nội với 30 điểm, ở ngành Sư phạm tiếng Anh và tiếng Trung.

@@ -1,0 +1,48 @@
+---
+title: "Ban hành Quy chế tuyển sinh đại học năm 2026"
+source: "article_01.json"
+url: "https://moet.gov.vn/tin-tuc/tin-tong-hop2/ban-hanh-quy-che-tuyen-sinh-dai-hoc-nam-2026.html"
+doc_type: "news"
+date_published: "2026-02-15T10:57:38+0700"
+date_crawled: "2026-09-25T09:53:08"
+---
+
+# Ban hành Quy chế tuyển sinh đại học năm 2026
+
+# Ban hành Quy chế tuyển sinh đại học năm 2026
+
+**Sáng ngày 15/02/2026, Bộ Giáo dục và Đào tạo công bố Thông tư số 06/2026/TT-BGDĐT ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng sau khi tiếp thu các ý kiến phản hồi của các chuyên gia, học sinh, phụ huynh, các cơ sở giáo dục đại học, các sở giáo dục đào tạo và các bộ ngành.**
+
+Về bố cục Thông tư gồm có 03 chương, 22 điều quy định về tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng.
+
+Chương I gồm các quy định chung về tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng. Các nội dung của chương này quy định những nguyên tắc trong tuyển sinh, phương thức tuyển sinh và nguồn tuyển theo Luật Giáo dục đại học 125/2025/QH15 nhằm kiểm soát và nâng cao chất lượng đầu vào.
+
+Chương II tập trung chủ yếu về các giải pháp kỹ thuật thực hiện quy trình đăng ký và xét tuyển trên hệ thống tuyển sinh của Bộ Giáo dục và Đào tạo, những yêu cầu tăng cường qua các quy định về xét tuyển và công bố điểm trúng tuyển theo các phương thức tuyển sinh.
+
+Chương III quy định về trách nghiệm của các bên liên quan trong đó nhấn mạnh vai trò của thí sinh, các trường đại học trong hoạt động thi tuyển, xét tuyển.
+
+*Nhiều điểm mới trong Quy chế tuyển sinh đại học năm 2026*
+
+**Một số nội dung điều chỉnh trong Thông tư sau khi tiếp thu ý kiến và đánh giá tác động chính sách như sau:**
+
+*Thứ nhất*, nguồn tuyển là thí sinh có tổng điểm ba môn thi tốt nghiệp THPT tương ứng tổ hợp xét tuyển (hoặc điểm thi của môn Toán và Ngữ văn và một môn khác) đạt tối thiểu 15 theo thang điểm 30 (không áp dụng với thí sinh đặc cách hoặc được miễn thi tốt nghiệp).
+
+*Thứ hai*, thí sinh đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo, các trường khác nhau và sắp xếp các nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 01 là thứ tự ưu tiên cao nhất). Các chương trình đào tạo giáo viên chỉ xét tuyển các nguyện vọng có thứ tự từ 01 đến 05.
+
+*Thứ ba*, phương thức xét tuyển dựa trên kết quả học tập cấp THPT (học bạ), tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập 06 học kỳ (lớp 10, 11, 12) cấp THPT của tối thiểu 03 môn học trong đó bắt buộc phải có môn Toán hoặc Ngữ văn đóng góp tối thiểu 1/3 trọng số tính điểm xét trong tổ hợp xét tuyển.
+
+*Thứ tư*, điểm cộng (bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích) tối đa là 3 điểm theo thang điểm 30 (tương ứng 10% của thang điểm xét tuyển), trong đó:
+
+Điểm thưởng đối với thí sinh được tuyển thẳng nhưng không dùng để xét tuyển thẳng từ 0-3;
+
+Điểm xét thưởng đối với thí sinh có thành tích hoặc có năng khiếu đặc biệt từ 0 - 1,5;
+
+Điểm khuyến khích đối với thí sinh có chứng chỉ ngoại ngữ hoặc có chứng chỉ quốc tế (nếu có) từ 0 - 1,5. Chứng chỉ ngoại ngữ chỉ được dùng cho quy đổi điểm môn ngoại ngữ trong tổ hợp xét tuyển hoặc sử dụng cho điểm khuyến khích.
+
+*Thứ năm*, bổ sung đối tượng xét tuyển trung học nghề, người nước ngoài đăng ký xét tuyển vào các chương trình đào tạo trình độ đại học.
+
+---
+
+Trung tâm Truyền thông và Sự kiện
+
+64061 lượt xem
