@@ -290,6 +290,8 @@ def render_sources(sources: list[dict], retrieval_source: str) -> None:
         st.caption("Chưa có nguồn được sử dụng cho câu trả lời này.")
         return
     with st.expander(f"Nguồn đã dùng · {len(sources)} · {retrieval_source}", expanded=True):
+        if retrieval_source == "hybrid":
+            st.caption("Điểm RRF chuẩn hóa trên thang 0–100; đây không phải xác suất đúng.")
         for index, source in enumerate(sources, 1):
             metadata = source.get("metadata", {})
             title = escape(str(metadata.get("title", "Không có tiêu đề")))
@@ -297,7 +299,13 @@ def render_sources(sources: list[dict], retrieval_source: str) -> None:
             url = metadata.get("url")
             method = escape(str(source.get("retrieval_method", "unknown")))
             score = source.get("score")
-            score_text = f"{score:.4f}" if isinstance(score, (int, float)) else "n/a"
+            if isinstance(score, (int, float)) and source.get("retrieval_method") == "hybrid":
+                # RRF k=60 from two lists has theoretical maximum 2 / 61.
+                # Scale to that maximum for display; preserve the raw score in the API result.
+                score_100 = min(100.0, max(0.0, score * 61 * 50))
+                score_text = f"{score_100:.1f}/100 (RRF)"
+            else:
+                score_text = f"{score:.4f}" if isinstance(score, (int, float)) else "n/a"
             parsed_url = urlparse(url) if isinstance(url, str) else None
             safe_url = escape(url, quote=True) if parsed_url and parsed_url.scheme in {"http", "https"} else None
             link = f'<a href="{safe_url}" target="_blank" rel="noopener">Mở nguồn</a>' if safe_url else "Không có URL"
