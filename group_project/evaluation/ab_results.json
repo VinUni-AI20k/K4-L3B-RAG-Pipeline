@@ -1,0 +1,713 @@
+{
+  "run_at_utc": "2026-09-25T10:33:24.476581+00:00",
+  "question_count": 15,
+  "top_k": 5,
+  "summary": {
+    "dense_only": {
+      "hit_at_5": 1,
+      "mrr_at_5": 0.9333,
+      "avg_latency_seconds": 1.845
+    },
+    "hybrid_rrf": {
+      "hit_at_5": 1,
+      "mrr_at_5": 0.9222,
+      "avg_latency_seconds": 0.148
+    }
+  },
+  "cases": {
+    "dense_only": [
+      {
+        "question": "Lúa ở Tam Cốc bắt đầu chín rộ vào tháng nào?",
+        "expected_answer": "Khoảng tháng 5 đến tháng 6.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_01.md::chunk-3",
+          "news/article_01.md::chunk-1",
+          "news/article_01.md::chunk-2",
+          "news/article_01.md::chunk-7",
+          "news/article_01.md::chunk-6"
+        ],
+        "retrieved_sources": [
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 26.301
+      },
+      {
+        "question": "Đi thuyền khám phá Tam Cốc trên con sông nào?",
+        "expected_answer": "Sông Ngô Đồng.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_01.md::chunk-4",
+          "news/article_05.md::chunk-5",
+          "news/article_05.md::chunk-7",
+          "news/article_01.md::chunk-0",
+          "news/article_01.md::chunk-1"
+        ],
+        "retrieved_sources": [
+          "news/article_01.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_01.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.092
+      },
+      {
+        "question": "Ba hang động ở Tam Cốc được bài viết nêu tên là gì?",
+        "expected_answer": "Hang Cả, Hang Hai và Hang Ba.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_05.md::chunk-5",
+          "news/article_01.md::chunk-4",
+          "news/article_05.md::chunk-7",
+          "news/article_05.md::chunk-6",
+          "news/article_04.md::chunk-8"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 0.5,
+        "first_rank": 2,
+        "latency_seconds": 0.085
+      },
+      {
+        "question": "Theo bài viết, du khách leo bao nhiêu bậc đá để lên đỉnh Hang Múa?",
+        "expected_answer": "500 bậc đá.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-3",
+          "news/article_02.md::chunk-0",
+          "news/article_02.md::chunk-2",
+          "news/article_05.md::chunk-7",
+          "news/article_02.md::chunk-4"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_05.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.105
+      },
+      {
+        "question": "Theo truyền thuyết trong bài viết, vì sao nơi này được gọi là Hang Múa?",
+        "expected_answer": "Vua Trần thường tới đây nghe các mỹ nữ và cung tần múa hát.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-2",
+          "news/article_02.md::chunk-4",
+          "news/article_02.md::chunk-6",
+          "news/article_02.md::chunk-0",
+          "news/article_02.md::chunk-3"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.092
+      },
+      {
+        "question": "Bài viết khuyên leo Hang Múa vào lúc nào?",
+        "expected_answer": "Buổi sáng sớm.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-0",
+          "news/article_02.md::chunk-3",
+          "news/article_02.md::chunk-2",
+          "news/article_05.md::chunk-7",
+          "news/article_02.md::chunk-4"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_05.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.102
+      },
+      {
+        "question": "Quần thể danh thắng Tràng An gồm những khu vực bảo tồn nào theo bài viết?",
+        "expected_answer": "Khu di tích lịch sử văn hóa Cố đô Hoa Lư, khu danh thắng Tràng An - Tam Cốc - Bích Động và rừng nguyên sinh đặc dụng Hoa Lư.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_03.md::chunk-1",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-14",
+          "news/article_04.md::chunk-5",
+          "news/article_04.md::chunk-7"
+        ],
+        "retrieved_sources": [
+          "news/article_03.md",
+          "news/article_05.md",
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.098
+      },
+      {
+        "question": "Bài viết nêu tổng diện tích quần thể danh thắng Tràng An là bao nhiêu?",
+        "expected_answer": "12.251 ha, theo bài viết về bảo tàng địa chất ngoài trời.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_04.md::chunk-5",
+          "news/article_03.md::chunk-1",
+          "news/article_03.md::chunk-14",
+          "news/article_03.md::chunk-7",
+          "news/article_03.md::chunk-0"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_03.md",
+          "news/article_03.md",
+          "news/article_03.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 0.5,
+        "first_rank": 2,
+        "latency_seconds": 0.09
+      },
+      {
+        "question": "Bài viết gọi quần thể danh thắng Tràng An là bảo tàng gì?",
+        "expected_answer": "Bảo tàng địa chất ngoài trời.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_03.md::chunk-0",
+          "news/article_03.md::chunk-1",
+          "news/article_04.md::chunk-7",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-14"
+        ],
+        "retrieved_sources": [
+          "news/article_03.md",
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.09
+      },
+      {
+        "question": "Bài viết về ba di tích quốc gia đặc biệt của Ninh Bình nêu tên những di tích nào?",
+        "expected_answer": "Cố đô Hoa Lư, Tràng An – Tam Cốc – Bích Động và Núi Non Nước.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-0",
+          "news/article_04.md::chunk-1",
+          "news/article_04.md::chunk-8",
+          "news/article_05.md::chunk-5",
+          "news/article_05.md::chunk-0"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_05.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.09
+      },
+      {
+        "question": "Cố đô Hoa Lư là kinh đô đầu tiên của nhà nước nào theo bài viết?",
+        "expected_answer": "Nhà nước Đại Cồ Việt.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-2",
+          "news/article_04.md::chunk-1",
+          "news/article_04.md::chunk-4",
+          "news/article_05.md::chunk-2",
+          "news/article_02.md::chunk-2"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.092
+      },
+      {
+        "question": "Theo bài viết, UNESCO công nhận Quần thể danh thắng Tràng An là di sản thế giới vào năm nào?",
+        "expected_answer": "Năm 2014.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-7",
+          "news/article_03.md::chunk-14",
+          "news/article_04.md::chunk-4",
+          "news/article_03.md::chunk-1",
+          "news/article_04.md::chunk-5"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_03.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.133
+      },
+      {
+        "question": "Bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình nêu Ninh Bình cách Hà Nội bao xa?",
+        "expected_answer": "Khoảng 90 km về phía đông nam.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_05.md::chunk-1",
+          "news/article_05.md::chunk-0",
+          "news/article_05.md::chunk-20",
+          "news/article_05.md::chunk-12",
+          "news/article_04.md::chunk-6"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.105
+      },
+      {
+        "question": "Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Bích Động có nghĩa là gì?",
+        "expected_answer": "Động xanh.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_05.md::chunk-6",
+          "news/article_04.md::chunk-8",
+          "news/article_05.md::chunk-5",
+          "news/article_01.md::chunk-2",
+          "news/article_03.md::chunk-12"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.098
+      },
+      {
+        "question": "Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Tam Cốc nghĩa là gì?",
+        "expected_answer": "Ba hang, gồm hang Cả, hang Hai và hang Ba.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_05.md::chunk-5",
+          "news/article_01.md::chunk-1",
+          "news/article_05.md::chunk-6",
+          "news/article_04.md::chunk-8",
+          "news/article_01.md::chunk-7"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_05.md",
+          "news/article_04.md",
+          "news/article_01.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.096
+      }
+    ],
+    "hybrid_rrf": [
+      {
+        "question": "Lúa ở Tam Cốc bắt đầu chín rộ vào tháng nào?",
+        "expected_answer": "Khoảng tháng 5 đến tháng 6.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_01.md::chunk-3",
+          "news/article_01.md::chunk-1",
+          "news/article_01.md::chunk-2",
+          "news/article_01.md::chunk-7",
+          "news/article_01.md::chunk-4"
+        ],
+        "retrieved_sources": [
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md",
+          "news/article_01.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.814
+      },
+      {
+        "question": "Đi thuyền khám phá Tam Cốc trên con sông nào?",
+        "expected_answer": "Sông Ngô Đồng.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_01.md::chunk-4",
+          "news/article_05.md::chunk-5",
+          "news/article_05.md::chunk-7",
+          "news/article_01.md::chunk-0",
+          "news/article_03.md::chunk-12"
+        ],
+        "retrieved_sources": [
+          "news/article_01.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.098
+      },
+      {
+        "question": "Ba hang động ở Tam Cốc được bài viết nêu tên là gì?",
+        "expected_answer": "Hang Cả, Hang Hai và Hang Ba.",
+        "expected_source": "news/article_01.md",
+        "source_ids": [
+          "news/article_05.md::chunk-5",
+          "news/article_01.md::chunk-4",
+          "news/article_04.md::chunk-8",
+          "news/article_02.md::chunk-2",
+          "news/article_05.md::chunk-7"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_04.md",
+          "news/article_02.md",
+          "news/article_05.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 0.5,
+        "first_rank": 2,
+        "latency_seconds": 0.107
+      },
+      {
+        "question": "Theo bài viết, du khách leo bao nhiêu bậc đá để lên đỉnh Hang Múa?",
+        "expected_answer": "500 bậc đá.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-3",
+          "news/article_05.md::chunk-7",
+          "news/article_02.md::chunk-2",
+          "news/article_02.md::chunk-4",
+          "news/article_02.md::chunk-1"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_05.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.096
+      },
+      {
+        "question": "Theo truyền thuyết trong bài viết, vì sao nơi này được gọi là Hang Múa?",
+        "expected_answer": "Vua Trần thường tới đây nghe các mỹ nữ và cung tần múa hát.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-2",
+          "news/article_02.md::chunk-6",
+          "news/article_02.md::chunk-3",
+          "news/article_02.md::chunk-4",
+          "news/article_02.md::chunk-1"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.106
+      },
+      {
+        "question": "Bài viết khuyên leo Hang Múa vào lúc nào?",
+        "expected_answer": "Buổi sáng sớm.",
+        "expected_source": "news/article_02.md",
+        "source_ids": [
+          "news/article_02.md::chunk-3",
+          "news/article_02.md::chunk-2",
+          "news/article_02.md::chunk-4",
+          "news/article_02.md::chunk-1",
+          "news/article_02.md::chunk-0"
+        ],
+        "retrieved_sources": [
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.091
+      },
+      {
+        "question": "Quần thể danh thắng Tràng An gồm những khu vực bảo tồn nào theo bài viết?",
+        "expected_answer": "Khu di tích lịch sử văn hóa Cố đô Hoa Lư, khu danh thắng Tràng An - Tam Cốc - Bích Động và rừng nguyên sinh đặc dụng Hoa Lư.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_03.md::chunk-1",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-14",
+          "news/article_04.md::chunk-5",
+          "news/article_03.md::chunk-0"
+        ],
+        "retrieved_sources": [
+          "news/article_03.md",
+          "news/article_05.md",
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.1
+      },
+      {
+        "question": "Bài viết nêu tổng diện tích quần thể danh thắng Tràng An là bao nhiêu?",
+        "expected_answer": "12.251 ha, theo bài viết về bảo tàng địa chất ngoài trời.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_03.md::chunk-1",
+          "news/article_04.md::chunk-5",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-0",
+          "news/article_03.md::chunk-14"
+        ],
+        "retrieved_sources": [
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_03.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.106
+      },
+      {
+        "question": "Bài viết gọi quần thể danh thắng Tràng An là bảo tàng gì?",
+        "expected_answer": "Bảo tàng địa chất ngoài trời.",
+        "expected_source": "news/article_03.md",
+        "source_ids": [
+          "news/article_03.md::chunk-0",
+          "news/article_03.md::chunk-1",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-14",
+          "news/article_04.md::chunk-7"
+        ],
+        "retrieved_sources": [
+          "news/article_03.md",
+          "news/article_03.md",
+          "news/article_05.md",
+          "news/article_03.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.086
+      },
+      {
+        "question": "Bài viết về ba di tích quốc gia đặc biệt của Ninh Bình nêu tên những di tích nào?",
+        "expected_answer": "Cố đô Hoa Lư, Tràng An – Tam Cốc – Bích Động và Núi Non Nước.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-0",
+          "news/article_04.md::chunk-1",
+          "news/article_04.md::chunk-8",
+          "news/article_04.md::chunk-11",
+          "news/article_04.md::chunk-4"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.095
+      },
+      {
+        "question": "Cố đô Hoa Lư là kinh đô đầu tiên của nhà nước nào theo bài viết?",
+        "expected_answer": "Nhà nước Đại Cồ Việt.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-2",
+          "news/article_04.md::chunk-1",
+          "news/article_04.md::chunk-4",
+          "news/article_05.md::chunk-2",
+          "news/article_03.md::chunk-1"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.097
+      },
+      {
+        "question": "Theo bài viết, UNESCO công nhận Quần thể danh thắng Tràng An là di sản thế giới vào năm nào?",
+        "expected_answer": "Năm 2014.",
+        "expected_source": "news/article_04.md",
+        "source_ids": [
+          "news/article_04.md::chunk-7",
+          "news/article_03.md::chunk-14",
+          "news/article_04.md::chunk-5",
+          "news/article_04.md::chunk-4",
+          "news/article_03.md::chunk-1"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_03.md",
+          "news/article_04.md",
+          "news/article_04.md",
+          "news/article_03.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.108
+      },
+      {
+        "question": "Bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình nêu Ninh Bình cách Hà Nội bao xa?",
+        "expected_answer": "Khoảng 90 km về phía đông nam.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_05.md::chunk-0",
+          "news/article_05.md::chunk-1",
+          "news/article_04.md::chunk-6",
+          "news/article_05.md::chunk-12",
+          "news/article_02.md::chunk-6"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_04.md",
+          "news/article_05.md",
+          "news/article_02.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.101
+      },
+      {
+        "question": "Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Bích Động có nghĩa là gì?",
+        "expected_answer": "Động xanh.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_04.md::chunk-8",
+          "news/article_01.md::chunk-2",
+          "news/article_05.md::chunk-0",
+          "news/article_05.md::chunk-6",
+          "news/article_05.md::chunk-5"
+        ],
+        "retrieved_sources": [
+          "news/article_04.md",
+          "news/article_01.md",
+          "news/article_05.md",
+          "news/article_05.md",
+          "news/article_05.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 0.3333333333333333,
+        "first_rank": 3,
+        "latency_seconds": 0.103
+      },
+      {
+        "question": "Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Tam Cốc nghĩa là gì?",
+        "expected_answer": "Ba hang, gồm hang Cả, hang Hai và hang Ba.",
+        "expected_source": "news/article_05.md",
+        "source_ids": [
+          "news/article_05.md::chunk-5",
+          "news/article_01.md::chunk-2",
+          "news/article_04.md::chunk-8",
+          "news/article_01.md::chunk-1",
+          "news/article_01.md::chunk-7"
+        ],
+        "retrieved_sources": [
+          "news/article_05.md",
+          "news/article_01.md",
+          "news/article_04.md",
+          "news/article_01.md",
+          "news/article_01.md"
+        ],
+        "hit_at_5": 1,
+        "reciprocal_rank": 1.0,
+        "first_rank": 1,
+        "latency_seconds": 0.115
+      }
+    ]
+  }
+}

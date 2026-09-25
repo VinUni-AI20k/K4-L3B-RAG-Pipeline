@@ -1,48 +1,61 @@
-"""
-Task 6 — Lexical search bằng BM25.
+"""Task 6 — Tìm kiếm từ khóa bằng BM25."""
 
-Dùng cùng corpus chunks với Task 5. BM25 phù hợp với từ khóa chính xác, mã tài
-liệu và tên riêng. Output phải theo SearchResult và sort score giảm dần.
-"""
+import re
+
+from rank_bm25 import BM25Plus
+
+from .task4_chunking_indexing import chunk_documents, load_documents
 
 
+# Để trống khi chạy thật. Test có thể gán corpus mẫu vào biến này.
 CORPUS: list[dict] = []
 
 
+def tokenize(text: str) -> list[str]:
+    """Tách từ, giữ được chữ tiếng Việt và số."""
+    return re.findall(r"\w+", text.lower(), flags=re.UNICODE)
+
+
 def build_bm25_index(corpus: list[dict]):
-    """Tạo BM25 index từ cùng corpus chunks của Task 4."""
-    # TODO: Tokenize và tạo BM25 index.
-    #
-    # from rank_bm25 import BM25Okapi
-    # tokenized = [item["content"].lower().split() for item in corpus]
-    # return BM25Okapi(tokenized)
-    raise NotImplementedError("Implement build_bm25_index")
+    """Tạo BM25 index từ các chunks của Task 4."""
+    return BM25Plus([tokenize(item["content"]) for item in corpus])
 
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
-    """Trả về BM25 SearchResult theo score giảm dần."""
-    # TODO: Tính BM25 scores và map lại corpus.
-    #
-    # import numpy as np
-    # bm25 = build_bm25_index(CORPUS)
-    # scores = bm25.get_scores(query.lower().split())
-    # indices = np.argsort(scores)[::-1][:top_k]
-    # results = []
-    # for index in indices:
-    #     if scores[index] <= 0:
-    #         continue
-    #     item = CORPUS[index]
-    #     results.append({
-    #         "id": item["id"],
-    #         "content": item["content"],
-    #         "score": float(scores[index]),
-    #         "metadata": item["metadata"],
-    #         "retrieval_method": "bm25",
-    #     })
-    # return results
-    raise NotImplementedError("Implement lexical_search")
+    """Tìm chunks theo từ khóa, sắp xếp điểm giảm dần."""
+    query_tokens = tokenize(query)
+    if not query_tokens or top_k <= 0:
+        return []
 
+    corpus = CORPUS if CORPUS else chunk_documents(load_documents())
+    if not corpus:
+        return []
 
-if __name__ == "__main__":
-    for result in lexical_search("test query", top_k=3):
-        print(result)
+    scores = build_bm25_index(corpus).get_scores(query_tokens)
+    query_words = set(query_tokens)
+
+    indices = sorted(
+        range(len(corpus)),
+        key=lambda i: float(scores[i]),
+        reverse=True,
+    )
+
+    results = []
+    for i in indices:
+        if len(results) >= top_k:
+            break
+
+        item = corpus[i]
+        # BM25Plus có thể cho điểm dương dù đoạn không chứa từ khóa.
+        if not query_words.intersection(tokenize(item["content"])):
+            continue
+
+        results.append({
+            "id": item["id"],
+            "content": item["content"],
+            "score": float(scores[i]),
+            "metadata": item["metadata"],
+            "retrieval_method": "bm25",
+        })
+
+    return results

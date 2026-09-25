@@ -1,49 +1,59 @@
-"""
-Task 2 — Crawl bài viết/thông báo.
-
-Hướng dẫn:
-    1. Điền tối thiểu 5 URL công khai vào ARTICLE_URLS.
-    2. Crawl từng URL bằng Crawl4AI.
-    3. Lưu mỗi bài thành một JSON trong data/landing/news/.
-    4. Giữ đủ url, title, date_crawled và content_markdown.
-
-Cài browser trước khi chạy:
-    python -m playwright install chromium
-    
--> Dùng Firecrawl or bất cứ công cụ nào bạn quen    
-"""
+"""Task 2 — Thu thập bài viết du lịch Ninh Bình."""
 
 import asyncio
 import json
+from datetime import datetime, timezone
 from pathlib import Path
-
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://dulichninhbinh.com.vn/item/3076",
+    "https://dulichninhbinh.com.vn/item/2864",
+    "https://dulichninhbinh.com.vn/item/3021",
+    "https://dulichninhbinh.com.vn/item/2760",
+    "https://dulichninhbinh.com.vn/item/1431",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig
+    from crawl4ai.content_filter_strategy import PruningContentFilter
+    from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
+
+    run_config = CrawlerRunConfig(
+        excluded_tags=["nav", "header", "footer", "aside"],
+        exclude_external_images=True,
+        markdown_generator=DefaultMarkdownGenerator(
+            content_filter=PruningContentFilter(
+                threshold=0.45,
+                threshold_type="dynamic",
+                min_word_threshold=5,
+            )
+        ),
+    )
+
+    # Dùng Chromium đầy đủ đã tải trên máy, không cần headless shell.
+    async with AsyncWebCrawler(config=BrowserConfig(headless=False)) as crawler:
+        result = await crawler.arun(url=url, config=run_config)
+
+        if not result.success:
+            raise RuntimeError(f"Không crawl được: {url}")
+
+        content = result.markdown.fit_markdown
+        if not content or len(content.strip()) < 200:
+            raise ValueError(f"Nội dung sau khi lọc quá ngắn: {url}")
+
+        return {
+            "url": url,
+            "title": (result.metadata or {}).get("title") or url,
+            "date_crawled": datetime.now(timezone.utc).isoformat(),
+            "content_markdown": content.strip(),
+        }
 
 
 async def crawl_all() -> None:
-    """Crawl và lưu từng bài thành một file JSON."""
+    """Thu thập và lưu mỗi bài vào một file JSON."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     for index, url in enumerate(ARTICLE_URLS, 1):
