@@ -22,6 +22,7 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
     # TODO: Thêm ít nhất 5 public URL.
+    "https://www.baovietnhantho.com.vn/san-pham/dau-tu/an-khang-hanh-phuc",
 ]
 
 

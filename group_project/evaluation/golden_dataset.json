@@ -1,0 +1,234 @@
+[
+  {
+    "id": "golden-001",
+    "category": "direct_factual",
+    "question": "Trong chương trình Cơ bản, thời gian cân nhắc hợp đồng là bao lâu kể từ ngày nhận hợp đồng?",
+    "expected_answer": "Thời gian cân nhắc là 21 ngày kể từ ngày Bên mua bảo hiểm nhận được Hợp đồng.",
+    "expected_context": [
+      "Điều 27: Thời gian cân nhắc Trong vòng 21 ngày kể từ ngày nhận được Hợp đồng, nếu chưa xảy ra sự kiện bảo hiểm hoặc chưa có yêu cầu giải quyết quyền lợi bảo hiểm, Bên mua bảo hiểm có thể từ chối tiếp tục tham gia bảo hiểm bằng cách thông báo bằng văn bản cho Bảo Việt Nhân thọ."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điều 27"
+  },
+  {
+    "id": "golden-002",
+    "category": "paraphrase",
+    "question": "Hợp đồng chương trình Cơ bản đã mất hiệu lực thì khách hàng được đề nghị khôi phục trong thời hạn tối đa nào?",
+    "expected_answer": "Bên mua bảo hiểm phải yêu cầu khôi phục trong vòng 24 tháng kể từ ngày Hợp đồng chấm dứt hiệu lực và trước Ngày đáo hạn Hợp đồng.",
+    "expected_context": [
+      "a) Bên mua bảo hiểm yêu cầu khôi phục hiệu lực Hợp đồng trong vòng 24 tháng kể từ ngày Hợp đồng chấm dứt hiệu lực và trước Ngày đáo hạn Hợp đồng;"
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điểm 29.1.a"
+  },
+  {
+    "id": "golden-003",
+    "category": "direct_factual",
+    "question": "Theo chương trình Cơ bản, hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm phải được gửi trong bao lâu?",
+    "expected_answer": "Hồ sơ phải được lập và gửi tới Bảo Việt Nhân thọ trong vòng 1 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+    "expected_context": [
+      "Thời hạn lập hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm Người yêu cầu giải quyết quyền lợi bảo hiểm phải lập hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm và gửi tới Bảo Việt Nhân thọ trong vòng 01 năm kể từ ngày xảy ra sự kiện bảo hiểm."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Khoản 30.2"
+  },
+  {
+    "id": "golden-004",
+    "category": "multi_condition",
+    "question": "Chương trình Cơ bản quy định thời hạn giải quyết quyền lợi đáo hạn và các quyền lợi khác như thế nào?",
+    "expected_answer": "Bảo Việt Nhân thọ giải quyết trong vòng 5 ngày làm việc đối với Quyền lợi đáo hạn và 30 ngày đối với các quyền lợi khác, tính từ khi nhận đủ hồ sơ hợp lệ.",
+    "expected_context": [
+      "Bảo Việt Nhân thọ có trách nhiệm giải quyết quyền lợi bảo hiểm trong vòng 05 ngày làm việc đối với Quyền lợi đáo hạn, 30 ngày đối với các Quyền lợi khác kể từ ngày nhận được hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ nêu tại Điều 31."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Khoản 32.1"
+  },
+  {
+    "id": "golden-005",
+    "category": "direct_factual",
+    "question": "Quyền lợi bệnh hiểm nghèo giai đoạn cuối của chương trình Cơ bản được chi trả ở mức nào?",
+    "expected_answer": "Quyền lợi bằng 50% Quyền lợi bảo hiểm tử vong, tối đa 500 triệu đồng hoặc mức khác được áp dụng tại thời điểm chi trả, sau khi trừ Khoản nợ nếu có.",
+    "expected_context": [
+      "Bảo Việt Nhân thọ trả 50% Quyền lợi bảo hiểm tử vong nêu tại Khoản 9.1 (tối đa 500 triệu đồng hoặc số tiền khác do Bảo Việt Nhân thọ áp dụng tại thời điểm chi trả) trừ đi Khoản nợ (nếu có) trong trường hợp Người được bảo hiểm được chẩn đoán mắc bệnh hiểm nghèo giai đoạn cuối."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điểm 9.3.1"
+  },
+  {
+    "id": "golden-006",
+    "category": "exact_definition",
+    "question": "Theo chương trình Cơ bản, mức độ và diện tích bỏng thế nào được coi là bỏng nặng?",
+    "expected_answer": "Bỏng nặng là bỏng từ độ ba trở lên và chiếm ít nhất 20% diện tích bề mặt cơ thể.",
+    "expected_context": [
+      "Bỏng nặng được hiểu là bỏng từ độ ba (III) trở lên và diện tích bỏng chiếm từ 20% diện tích bề mặt cơ thể trở lên."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Phụ lục 2, mục 3"
+  },
+  {
+    "id": "golden-007",
+    "category": "direct_factual",
+    "question": "Độ tuổi tham gia của Người được bảo hiểm trong chương trình Nâng cao là bao nhiêu?",
+    "expected_answer": "Người được bảo hiểm phải từ 0 đến 60 tuổi vào Ngày hiệu lực Hợp đồng và được Bảo Việt Nhân thọ chấp nhận bảo hiểm.",
+    "expected_context": [
+      "“Người được bảo hiểm” là cá nhân hiện đang cư trú tại Việt Nam, từ 0 đến 60 tuổi vào Ngày hiệu lực Hợp đồng và được Bảo Việt Nhân thọ chấp nhận bảo hiểm theo quy định tại Hợp đồng."
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Khoản 1.3"
+  },
+  {
+    "id": "golden-008",
+    "category": "paraphrase",
+    "question": "Nếu chọn Quyền lợi đáo hạn ở chương trình Nâng cao, hợp đồng đáo hạn khi Người được bảo hiểm đạt mấy tuổi?",
+    "expected_answer": "Ngày đáo hạn là Ngày kỷ niệm Hợp đồng khi Người được bảo hiểm đạt 90 tuổi.",
+    "expected_context": [
+      "“Ngày đáo hạn Hợp đồng” là Ngày kỷ niệm Hợp đồng khi Người được bảo hiểm đạt 90 tuổi. Định nghĩa này chỉ áp dụng khi Bên mua bảo hiểm lựa chọn nhận Quyền lợi đáo hạn."
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Khoản 1.10"
+  },
+  {
+    "id": "golden-009",
+    "category": "multi_condition",
+    "question": "Quy định miễn truy xét của chương trình Nâng cao bắt đầu sau thời gian nào và ngoại lệ là gì?",
+    "expected_answer": "Việc miễn truy xét áp dụng sau 24 tháng kể từ ngày Hợp đồng có hiệu lực hoặc từ lần khôi phục hiệu lực gần nhất, lấy ngày xảy ra sau; quy định này không áp dụng khi cố ý vi phạm nghĩa vụ cung cấp thông tin.",
+    "expected_context": [
+      "Khi Người được bảo hiểm còn sống, các nội dung kê khai không chính xác hoặc bỏ sót trong Hồ sơ yêu cầu bảo hiểm và các giấy tờ có liên quan sẽ được Bảo Việt Nhân thọ miễn truy xét sau 24 tháng kể từ ngày Hợp đồng phát sinh hiệu lực hoặc 24 tháng kể từ ngày Hợp đồng được khôi phục hiệu lực gần nhất, tùy thuộc ngày nào xảy ra sau. Quy định này không áp dụng đối với trường hợp cố ý vi phạm nghĩa vụ cung cấp thông tin nêu tại Khoản 6.2 Điều 6."
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Điều 7"
+  },
+  {
+    "id": "golden-010",
+    "category": "direct_factual",
+    "question": "Quyền lợi Thưởng đặc biệt của chương trình Nâng cao được trả vào các dịp nào?",
+    "expected_answer": "Quyền lợi Thưởng đặc biệt được trả vào Giá trị Tài khoản Hợp đồng tại Ngày kỷ niệm hợp đồng lần thứ 10 và lần thứ 20, với điều kiện hợp đồng đang có hiệu lực.",
+    "expected_context": [
+      "#### 8.3.1. Khi Hợp đồng đang có hiệu lực, vào Ngày kỷ niệm hợp đồng lần thứ 10 và lần thứ 20, Quyền lợi Thưởng đặc biệt được trả vào Giá trị Tài khoản Hợp đồng như sau:"
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Điểm 8.3.1"
+  },
+  {
+    "id": "golden-011",
+    "category": "exact_keyword",
+    "question": "Khái niệm bệnh nan y trong chương trình Nâng cao bao gồm những bệnh nào?",
+    "expected_answer": "Bệnh nan y gồm bệnh ung thư, bệnh đột quỵ và bệnh nhồi máu cơ tim.",
+    "expected_context": [
+      "Bệnh nan y trong Quy tắc, Điều khoản này bao gồm Bệnh ung thư, Bệnh đột quỵ và Bệnh nhồi máu cơ tim."
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Khoản 9.5"
+  },
+  {
+    "id": "golden-012",
+    "category": "multi_condition",
+    "question": "Người được bảo hiểm chương trình Nâng cao mắc bệnh đột quỵ thì quyền lợi bệnh nan y được tính thế nào?",
+    "expected_answer": "Bảo Việt Nhân thọ trả 100% Số tiền bảo hiểm bệnh nan y, sau khi trừ quyền lợi bệnh nan y đã chi trả và Khoản nợ nếu có.",
+    "expected_context": [
+      "Bảo Việt Nhân thọ trả 100% Số tiền bảo hiểm bệnh nan y trừ đi bất kỳ Quyền lợi bệnh nan y nào đã chi trả (nếu có) và Khoản nợ (nếu có) nếu Người được bảo hiểm mắc bệnh đột quỵ."
+    ],
+    "source": "an-khang-hanh-phuc-nang-cao.md",
+    "supporting_section": "Điểm 9.5.3"
+  },
+  {
+    "id": "golden-013",
+    "category": "direct_factual",
+    "question": "Quyền lợi bảo hiểm tử vong do tai nạn mở rộng của chương trình Cao cấp chấm dứt ở độ tuổi nào?",
+    "expected_answer": "Quyền lợi này chấm dứt khi kết thúc ngày liền trước Ngày kỷ niệm hợp đồng mà Người được bảo hiểm đạt 75 tuổi.",
+    "expected_context": [
+      "Quyền lợi bảo hiểm tử vong do tai nạn mở rộng sẽ chấm dứt khi kết thúc ngày liền trước Ngày kỷ niệm hợp đồng khi Người được bảo hiểm đạt 75 tuổi."
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.2.3"
+  },
+  {
+    "id": "golden-014",
+    "category": "paraphrase",
+    "question": "Ở chương trình Cao cấp, phải nằm viện tối thiểu bao nhiêu ngày mới được xét Trợ cấp viện phí cơ bản?",
+    "expected_answer": "Người được bảo hiểm phải nằm viện từ 2 ngày trở lên và thuộc một trong các nguyên nhân được quy định.",
+    "expected_context": [
+      "#### 9.6.1.1. Trợ cấp viện phí cơ bản Bảo Việt Nhân thọ trả Trợ cấp viện phí cơ bản cho mỗi Ngày nằm viện nếu Người được bảo hiểm nằm viện từ 02 ngày trở lên do một trong các nguyên nhân sau:"
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.6.1.1"
+  },
+  {
+    "id": "golden-015",
+    "category": "direct_factual",
+    "question": "Trợ cấp viện phí đặc biệt khi điều trị tại ICU của chương trình Cao cấp bằng bao nhiêu lần trợ cấp cơ bản?",
+    "expected_answer": "Trợ cấp viện phí đặc biệt bằng 2 lần Trợ cấp viện phí cơ bản cho mỗi Ngày nằm viện tại ICU khi đáp ứng điều kiện quy định.",
+    "expected_context": [
+      "#### 9.6.1.2. Trợ cấp viện phí đặc biệt Bảo Việt Nhân thọ trả Trợ cấp viện phí đặc biệt bằng 02 lần Trợ cấp viện phí cơ bản cho mỗi Ngày nằm viện nếu Người được bảo hiểm phải nằm điều trị tại Khoa hồi sức tích cực/Khoa điều trị tích cực (ICU) của Bệnh viện do một trong các nguyên nhân sau:"
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.6.1.2"
+  },
+  {
+    "id": "golden-016",
+    "category": "direct_factual",
+    "question": "Mỗi lần phẫu thuật, chương trình Cao cấp trả Trợ cấp phẫu thuật bằng bao nhiêu lần Số tiền bảo hiểm chăm sóc y tế?",
+    "expected_answer": "Trợ cấp phẫu thuật bằng 5 lần Số tiền bảo hiểm chăm sóc y tế cho mỗi lần phẫu thuật đủ điều kiện.",
+    "expected_context": [
+      "#### 9.6.2.1. Bảo Việt Nhân thọ trả Trợ cấp phẫu thuật bằng 05 lần Số tiền bảo hiểm chăm sóc y tế cho mỗi lần phẫu thuật nếu Người được bảo hiểm phải phẫu thuật do:"
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.6.2.1"
+  },
+  {
+    "id": "golden-017",
+    "category": "multi_condition",
+    "question": "Chương trình Cao cấp hỗ trợ chi phí vận chuyển cấp cứu ở mức nào và giới hạn tối đa bao nhiêu?",
+    "expected_answer": "Mỗi lần đủ điều kiện được trả 2 lần Số tiền bảo hiểm chăm sóc y tế, tối đa 1 triệu đồng hoặc mức khác do Bảo Việt Nhân thọ áp dụng tại thời điểm chi trả.",
+    "expected_context": [
+      "Bảo Việt Nhân thọ trả 02 lần Số tiền bảo hiểm chăm sóc y tế (tối đa 01 triệu đồng hoặc số tiền khác do Bảo Việt Nhân thọ áp dụng tại thời điểm chi trả) cho mỗi lần Người được bảo hiểm sử dụng dịch vụ vận chuyển cấp cứu được cấp phép bởi cơ quan có thẩm quyền để di chuyển tới Bệnh viện trong phạm vi lãnh thổ Việt Nam nhằm mục đích khám chữa bệnh."
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.6.3.1"
+  },
+  {
+    "id": "golden-018",
+    "category": "scenario",
+    "question": "Trong chương trình Cao cấp, nếu một tai nạn gây ra nhiều thương tật nghiêm trọng cùng thỏa mãn Phụ lục 2 thì có được trả cho tất cả thương tật không?",
+    "expected_answer": "Không. Bảo Việt Nhân thọ chỉ trả cho một thương tật nghiêm trọng do tai nạn thỏa mãn quy định.",
+    "expected_context": [
+      "Trường hợp một tai nạn gây ra nhiều thương tật nghiêm trọng cho Người được bảo hiểm thỏa mãn Phụ lục 2 - “Các thương tật nghiêm trọng do tai nạn được bảo hiểm” của Quy tắc, Điều khoản này, Bảo Việt Nhân thọ chỉ trả cho một thương tật nghiêm trọng do tai nạn thỏa mãn quy định."
+    ],
+    "source": "an-khang-hanh-phuc-cao-cap.md",
+    "supporting_section": "Điểm 9.3.6.2"
+  },
+  {
+    "id": "golden-019",
+    "category": "paraphrase",
+    "question": "Sau khi nhận hợp đồng chương trình Cơ bản, khách hàng có bao nhiêu ngày để đổi ý và ngừng tham gia bảo hiểm?",
+    "expected_answer": "Khách hàng có 21 ngày kể từ ngày nhận được Hợp đồng để thông báo bằng văn bản về việc không tiếp tục tham gia, với điều kiện chưa xảy ra sự kiện bảo hiểm hoặc chưa có yêu cầu giải quyết quyền lợi bảo hiểm.",
+    "expected_context": [
+      "## Điều 27: Thời gian cân nhắc Trong vòng 21 ngày kể từ ngày nhận được Hợp đồng, nếu chưa xảy ra sự kiện bảo hiểm hoặc chưa có yêu cầu giải quyết quyền lợi bảo hiểm, Bên mua bảo hiểm có thể từ chối tiếp tục tham gia bảo hiểm bằng cách thông báo bằng văn bản cho Bảo Việt Nhân thọ. Hợp đồng sẽ bị huỷ và Bên mua bảo hiểm được hoàn lại số Phí bảo hiểm đã đóng (không có lãi) trừ đi Phí kiểm tra sức khỏe (nếu có). Bảo Việt Nhân thọ không chịu trách nhiệm bảo hiểm đối với các rủi ro đã phát sinh đối với Người được bảo hiểm kể từ Ngày hiệu lực Hợp đồng. 27 Bảo Việt Nhân thọ"
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điều 27"
+  },
+  {
+    "id": "golden-020",
+    "category": "temporal_reasoning",
+    "question": "Hợp đồng chương trình Cơ bản đã chấm dứt hiệu lực được 25 tháng thì Bên mua bảo hiểm còn thời hạn yêu cầu khôi phục không?",
+    "expected_answer": "Không. Yêu cầu khôi phục phải được gửi trong vòng 24 tháng kể từ ngày Hợp đồng chấm dứt hiệu lực và trước Ngày đáo hạn Hợp đồng; 25 tháng đã vượt quá thời hạn này.",
+    "expected_context": [
+      "a) Bên mua bảo hiểm yêu cầu khôi phục hiệu lực Hợp đồng trong vòng 24 tháng kể từ ngày Hợp đồng chấm dứt hiệu lực và trước Ngày đáo hạn Hợp đồng;"
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điểm 29.1.a"
+  },
+  {
+    "id": "golden-021",
+    "category": "multi_chunk_scenario",
+    "question": "Nếu Người được bảo hiểm đột tử trong thời gian gia hạn đóng phí của chương trình Cơ bản thì có được hưởng quyền lợi bảo hiểm không?",
+    "expected_answer": "Có thể được giải quyết Quyền lợi bảo hiểm tử vong nếu sự kiện xảy ra trong thời gian gia hạn đóng phí, vì hợp đồng chỉ tự động chấm dứt ngay sau khi thời gian gia hạn kết thúc nếu phí cần thiết vẫn chưa được đóng đủ. Việc chi trả còn phụ thuộc hợp đồng đang có hiệu lực, các điều kiện và loại trừ áp dụng; số tiền được trả sẽ trừ Khoản nợ nếu có.",
+    "expected_context": [
+      "#### 9.1.3. Nếu Người được bảo hiểm tử vong khi Hợp đồng đang có hiệu lực, Bảo Việt Nhân thọ trả Quyền lợi bảo hiểm tử vong dưới đây trừ đi Khoản nợ (nếu có):",
+      "### 16.2. Nếu Phí bảo hiểm cần thiết không được đóng đủ theo yêu cầu của Bảo Việt Nhân thọ trong thời gian gia hạn đóng phí quy định tại Khoản 16.1, Hợp đồng và Sản phẩm bổ trợ (nếu có) sẽ tự động chấm dứt hiệu lực ngay sau khi kết thúc thời gian gia hạn đóng phí. Bảo Việt Nhân thọ sẽ thông báo cho Bên mua bảo hiểm nhận Giá trị hoàn lại (nếu có) xác định tại thời điểm Hợp đồng chấm dứt hiệu lực, trừ đi Khoản nợ (nếu có). Nếu chưa nhận Giá trị hoàn lại (nếu có), Bên mua bảo hiểm có thể yêu cầu khôi phục hiệu lực hợp đồng theo quy định tại Điều 29."
+    ],
+    "source": "an-khang-hanh-phuc-co-ban.md",
+    "supporting_section": "Điểm 9.1.3 và Khoản 16.2"
+  }
+]
