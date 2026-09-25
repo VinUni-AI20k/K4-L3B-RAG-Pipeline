@@ -1,0 +1,127 @@
+[
+  {
+    "question": "VinUni có những viện đào tạo nào?",
+    "expected_answer": "VinUni có 4 viện đào tạo chính: Viện Kinh doanh Quản trị, Viện Kỹ thuật và Khoa học Máy tính, Viện Khoa học Sức khỏe, và Viện Khoa học và Giáo dục khai phóng.",
+    "expected_context": "VinUni tuyển sinh đại học các nhóm ngành thuộc 4 Viện đào tạo chính: Viện Kinh doanh Quản trị, Viện Kỹ thuật và Khoa học Máy tính, Viện Khoa học Sức khỏe, Viện Khoa học và Giáo dục khai phóng."
+  },
+  {
+    "question": "Viện Kinh doanh Quản trị của VinUni đào tạo những chuyên ngành gì?",
+    "expected_answer": "Viện Kinh doanh Quản trị đào tạo Cử nhân Quản trị Kinh doanh với 6 chuyên ngành: Tài chính, Marketing, Quản lý chuỗi cung ứng và vận hành, Quản trị khách sạn, Khởi nghiệp, Phân tích kinh doanh.",
+    "expected_context": "Viện Kinh doanh Quản trị: Cử nhân Quản trị Kinh doanh với 6 chuyên ngành: Tài chính, Marketing, Quản lý chuỗi cung ứng và vận hành, Quản trị khách sạn, Khởi nghiệp, Phân tích kinh doanh."
+  },
+  {
+    "question": "Ngành Khoa học Máy tính thuộc viện nào tại VinUni?",
+    "expected_answer": "Ngành Khoa học Máy tính thuộc Viện Kỹ thuật và Khoa học Máy tính.",
+    "expected_context": "Viện Kỹ thuật và Khoa học Máy tính: Cử nhân các ngành: Kỹ thuật Điện, Kỹ thuật Cơ khí, Khoa học Máy tính và Khoa học Dữ liệu."
+  },
+  {
+    "question": "Viện Khoa học Sức khỏe tại VinUni có những ngành học nào?",
+    "expected_answer": "Viện Khoa học Sức khỏe đào tạo Bác sĩ Y khoa và Cử nhân Điều dưỡng.",
+    "expected_context": "Viện Khoa học Sức khỏe: Bác sĩ Y khoa, Cử nhân Điều dưỡng."
+  },
+  {
+    "question": "Tôi muốn học Tâm lý học thì nên đăng ký vào viện nào ở VinUni?",
+    "expected_answer": "Bạn nên đăng ký vào Viện Khoa học và Giáo dục khai phóng, nơi có đào tạo Cử nhân Tâm lý học.",
+    "expected_context": "Viện Khoa học và Giáo dục khai phóng: Cử nhân các ngành: Truyền thông đa phương tiện, Tâm lý học, Kinh tế."
+  },
+  {
+    "question": "Học phí niêm yết các ngành thông thường tại VinUni là bao nhiêu?",
+    "expected_answer": "Học phí niêm yết cho các ngành thông thường là khoảng 815.850.000 VND (tương đương 35.000 USD) một năm.",
+    "expected_context": "Học phí niêm yết: Các ngành thông thường: ~815.850.000 VND (~35.000 USD)/năm."
+  },
+  {
+    "question": "Học phí ngành Điều dưỡng tại VinUni là bao nhiêu?",
+    "expected_answer": "Học phí niêm yết của ngành Điều dưỡng là 349.650.000 VND (tương đương khoảng 15.000 USD) một năm.",
+    "expected_context": "Học phí niêm yết: Ngành Điều dưỡng: 349.650.000 VND (~15.000 USD)/năm."
+  },
+  {
+    "question": "Sinh viên nhập học VinUni có được hỗ trợ học phí không?",
+    "expected_answer": "Có, tất cả sinh viên nhập học đều được Tập đoàn Vingroup tài trợ 35% học phí cho toàn bộ thời gian học chuẩn (Hỗ trợ Phát triển Giáo dục).",
+    "expected_context": "Hỗ trợ Phát triển Giáo dục: Tất cả sinh viên nhập học đều được Tập đoàn Vingroup tài trợ 35% học phí cho toàn bộ thời gian học chuẩn."
+  },
+  {
+    "question": "Sau khi trừ hỗ trợ 35% của Vingroup, học phí thực tế của các ngành thông thường là bao nhiêu?",
+    "expected_answer": "Sau khi được tài trợ, học phí thực tế của các ngành thông thường còn khoảng 530 triệu VND/năm.",
+    "expected_context": "Học phí thực tế sau tài trợ: Khoảng 530 triệu VND/năm (các ngành thường)."
+  },
+  {
+    "question": "Sau khi trừ hỗ trợ 35% của Vingroup, học phí ngành Điều dưỡng còn bao nhiêu?",
+    "expected_answer": "Sau khi được tài trợ, học phí thực tế ngành Điều dưỡng còn khoảng 227 triệu VND/năm.",
+    "expected_context": "Học phí thực tế sau tài trợ: Khoảng 227 triệu VND/năm (ngành Điều dưỡng)."
+  },
+  {
+    "question": "Học bổng Tài năng (Merit-based) của VinUni có giá trị như thế nào?",
+    "expected_answer": "Học bổng Tài năng có trị giá từ 50% đến 100% học phí.",
+    "expected_context": "Học bổng Tài năng (Merit-based): Trị giá từ 50% đến 100% học phí, xét duyệt dựa trên thành tích học tập và phẩm chất cá nhân."
+  },
+  {
+    "question": "VinUni xét duyệt học bổng Tài năng dựa trên tiêu chí nào?",
+    "expected_answer": "Học bổng Tài năng được xét duyệt dựa trên thành tích học tập và phẩm chất cá nhân của ứng viên.",
+    "expected_context": "Học bổng Tài năng (Merit-based): Trị giá từ 50% đến 100% học phí, xét duyệt dựa trên thành tích học tập và phẩm chất cá nhân."
+  },
+  {
+    "question": "Học bổng WIT của VinUni là gì và dành cho ai?",
+    "expected_answer": "Học bổng WIT (Woman in Tech) trị giá 5% học phí, dành cho ứng viên nữ ứng tuyển vào khối ngành công nghệ.",
+    "expected_context": "Học bổng WIT (Woman in Tech) cho ứng viên nữ khối ngành công nghệ (5% học phí)."
+  },
+  {
+    "question": "Học sinh hệ thống Vinschool có được ưu đãi gì khi vào VinUni không?",
+    "expected_answer": "Học sinh Vinschool có thể nhận Học bổng liên thông Vinschool-VinUni trị giá 5% học phí.",
+    "expected_context": "Học bổng liên thông Vinschool-VinUni (5% học phí)."
+  },
+  {
+    "question": "Nếu gia đình có hoàn cảnh khó khăn nhưng tôi muốn học VinUni thì có chính sách nào hỗ trợ không?",
+    "expected_answer": "VinUni có chương trình Hỗ trợ tài chính dành cho sinh viên có hoàn cảnh khó khăn, mức hỗ trợ có thể lên đến 100% học phí.",
+    "expected_context": "Hỗ trợ tài chính: Ngoài học bổng, sinh viên có hoàn cảnh khó khăn có thể nộp đơn xin hỗ trợ tài chính (lên đến 100% học phí)."
+  },
+  {
+    "question": "VinUni xét tuyển đại học dựa trên điểm thi THPT Quốc gia đúng không?",
+    "expected_answer": "Không hoàn toàn. VinUni áp dụng phương thức xét tuyển toàn diện (holistic review) dựa trên nhiều yếu tố của hồ sơ ứng viên thay vì chỉ dựa vào một kỳ thi duy nhất.",
+    "expected_context": "VinUni áp dụng phương thức xét tuyển toàn diện (holistic review) dựa trên hồ sơ ứng viên thay vì chỉ dựa vào một kỳ thi duy nhất."
+  },
+  {
+    "question": "Hồ sơ ứng tuyển vào VinUni cần những tài liệu gì?",
+    "expected_answer": "Hồ sơ ứng tuyển thường bao gồm: kết quả học tập (GPA), trình độ tiếng Anh, các bài luận, hoạt động ngoại khóa, và thư giới thiệu.",
+    "expected_context": "Hồ sơ ứng tuyển thường bao gồm: kết quả học tập (GPA), trình độ tiếng Anh, các bài luận, hoạt động ngoại khóa, thư giới thiệu và vòng phỏng vấn"
+  },
+  {
+    "question": "VinUni có tổ chức phỏng vấn tuyển sinh không?",
+    "expected_answer": "Có, vòng phỏng vấn là một phần trong quy trình tuyển sinh để đánh giá sự phù hợp với các tiêu chí của trường.",
+    "expected_context": "Hồ sơ ứng tuyển thường bao gồm... và vòng phỏng vấn để đánh giá sự phù hợp với các tiêu chí về trí tuệ, khát vọng và bản lĩnh của ứng viên."
+  },
+  {
+    "question": "VinUni đánh giá ứng viên qua vòng phỏng vấn dựa trên các tiêu chí cốt lõi nào?",
+    "expected_answer": "VinUni đánh giá sự phù hợp của ứng viên dựa trên các tiêu chí về trí tuệ, khát vọng và bản lĩnh.",
+    "expected_context": "vòng phỏng vấn để đánh giá sự phù hợp với các tiêu chí về trí tuệ, khát vọng và bản lĩnh của ứng viên."
+  },
+  {
+    "question": "Một năm VinUni có bao nhiêu đợt xét tuyển?",
+    "expected_answer": "VinUni thường chia làm 3 đợt tuyển sinh: kỳ sớm, kỳ thường và kỳ cuốn chiếu.",
+    "expected_context": "Ứng viên cần theo dõi sát sao lịch trình tuyển sinh của nhà trường (thường chia làm 3 đợt: kỳ sớm, kỳ thường và kỳ cuốn chiếu)"
+  },
+  {
+    "question": "Làm thế nào để cập nhật thông tin về lịch trình tuyển sinh của VinUni?",
+    "expected_answer": "Bạn có thể cập nhật thông tin chi tiết và lịch trình tuyển sinh tại cổng thông tin chính thức của VinUni (vinuni.edu.vn).",
+    "expected_context": "tại cổng thông tin chính thức của VinUni để đảm bảo nộp hồ sơ đúng hạn. Truy cập trang web chính thức vinuni.edu.vn"
+  },
+  {
+    "question": "Thông tin liên hệ của bộ phận tuyển sinh VinUni là gì?",
+    "expected_answer": "Bạn có thể liên hệ bộ phận tuyển sinh qua email admission@vinuni.edu.vn hoặc số điện thoại tổng đài 18008189.",
+    "expected_context": "liên hệ trực tiếp bộ phận tuyển sinh (Email: admission@vinuni.edu.vn, SĐT: 18008189) để được tư vấn chính xác"
+  },
+  {
+    "question": "Các loại học bổng đặc thù tại VinUni có được cộng dồn không?",
+    "expected_answer": "Có, các loại học bổng đặc thù như học bổng ngành, WIT, Vinschool, học bổng gia đình Vingroup có thể được cộng dồn.",
+    "expected_context": "Học bổng đặc thù (có thể cộng dồn): Học bổng đặc thù ngành, Học bổng WIT, Học bổng liên thông Vinschool-VinUni, Học bổng gia đình Vingroup."
+  },
+  {
+    "question": "Ngoài ngành Tâm lý học và Truyền thông, Viện Khoa học và Giáo dục khai phóng còn ngành nào khác?",
+    "expected_answer": "Viện Khoa học và Giáo dục khai phóng còn đào tạo Cử nhân ngành Kinh tế.",
+    "expected_context": "Viện Khoa học và Giáo dục khai phóng: Cử nhân các ngành: Truyền thông đa phương tiện, Tâm lý học, Kinh tế."
+  },
+  {
+    "question": "Tôi quan tâm đến ngành Phân tích kinh doanh, ngành này thuộc viện nào?",
+    "expected_answer": "Ngành Phân tích kinh doanh là một trong các chuyên ngành thuộc Cử nhân Quản trị Kinh doanh của Viện Kinh doanh Quản trị.",
+    "expected_context": "Viện Kinh doanh Quản trị: Cử nhân Quản trị Kinh doanh với 6 chuyên ngành: Tài chính, Marketing, Quản lý chuỗi cung ứng và vận hành, Quản trị khách sạn, Khởi nghiệp, Phân tích kinh doanh."
+  }
+]
