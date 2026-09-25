@@ -45,6 +45,9 @@ data/_tmp_pdf/
 pageindex_doc_ids.json
 pageindex_pdfs/
 
+# Local vector database
+chroma_db/
+
 # Jupyter
 .ipynb_checkpoints/
 
