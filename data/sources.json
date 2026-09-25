@@ -1,0 +1,94 @@
+[
+  {
+    "id": "neu2026_college_transfer",
+    "title": "Thông tin TS năm 2026 hình thức đào tạo Liên thông ĐHCQ với đối tượng có bằng tốt nghiệp CĐCQ",
+    "doc_type": "legal",
+    "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-Lien-thong-DHCQ-voi-doi-tuong-co-bang-tot-nghiep-CDCQ.pdf",
+    "source_page": "https://neu.edu.vn/quyet-dinh-ve-viec-ban-hanh-thong-tin-tuyen-sinh-trinh-do-dai-hoc-chinh-quy-nam-2026-cua-dai-hoc-kinh-te-quoc-dan/",
+    "local_path": "data/landing/legal/Thông tin TS năm 2026 hình thức đào tạo Liên thông ĐHCQ với đối tượng có bằng tốt nghiệp CĐCQ.pdf",
+    "admission_year": 2026,
+    "audience": "lien_thong_cao_dang",
+    "date_published": "2026-03-06",
+    "date_crawled": null,
+    "provenance_note": "User supplied PDF; original download date unknown. Source link identified on NEU publication page; remote bytes not compared.",
+    "source_verified_on": "2026-09-25"
+  },
+  {
+    "id": "neu2026_second_degree",
+    "title": "Thông tin TS năm 2026 hình thức đào tạo Liên thông ĐHCQ với đối tượng đã có bằng tốt nghiệp ĐHCQ",
+    "doc_type": "legal",
+    "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-Lien-thong-DHCQ-voi-doi-tuong-da-co-bang-tot-nghiep-DHCQ.pdf",
+    "source_page": "https://neu.edu.vn/quyet-dinh-ve-viec-ban-hanh-thong-tin-tuyen-sinh-trinh-do-dai-hoc-chinh-quy-nam-2026-cua-dai-hoc-kinh-te-quoc-dan/",
+    "local_path": "data/landing/legal/Thông tin TS năm 2026 hình thức đào tạo Liên thông ĐHCQ với đối tượng đã có bằng tốt nghiệp ĐHCQ.pdf",
+    "admission_year": 2026,
+    "audience": "lien_thong_dai_hoc",
+    "date_published": "2026-03-06",
+    "date_crawled": null,
+    "provenance_note": "User supplied PDF; original download date unknown. Source link identified on NEU publication page; remote bytes not compared.",
+    "source_verified_on": "2026-09-25"
+  },
+  {
+    "id": "neu2026_undergraduate",
+    "title": "Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ",
+    "doc_type": "legal",
+    "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+    "source_page": "https://neu.edu.vn/quyet-dinh-ve-viec-ban-hanh-thong-tin-tuyen-sinh-trinh-do-dai-hoc-chinh-quy-nam-2026-cua-dai-hoc-kinh-te-quoc-dan/",
+    "local_path": "data/landing/legal/Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ.pdf",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-03-06",
+    "date_crawled": null,
+    "provenance_note": "User supplied PDF; original download date unknown. Source link identified on NEU publication page; remote bytes not compared.",
+    "source_verified_on": "2026-09-25"
+  },
+  {
+    "id": "neu2026_news_01",
+    "title": "Hướng dẫn đăng ký hồ sơ xét tuyển kết hợp, xét tuyển theo kết quả thi tốt nghiệp THPT vào ĐHCQ NEU 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+    "local_path": "data/landing/news/article_01.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-05-28"
+  },
+  {
+    "id": "neu2026_news_02",
+    "title": "Thông báo hồ sơ xét tuyển kết hợp và đăng ký nguyện vọng vào NEU năm 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+    "local_path": "data/landing/news/article_02.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-06-26"
+  },
+  {
+    "id": "neu2026_news_03",
+    "title": "Hướng dẫn sử dụng công cụ Quy đổi điểm xét tuyển NEU 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/guide-neu-2026-score-conversion-tool",
+    "local_path": "data/landing/news/article_03.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-07-04"
+  },
+  {
+    "id": "neu2026_news_04",
+    "title": "Hướng dẫn sử dụng công cụ Tra cứu hồ sơ xét tuyển NEU 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/guide-neu-2026-application-lookup-tool",
+    "local_path": "data/landing/news/article_04.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-07-04"
+  },
+  {
+    "id": "neu2026_news_05",
+    "title": "Đại học Kinh tế Quốc dân công bố bảng quy đổi tương đương điểm trúng tuyển 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/quy-doi-diem-trung-tuyen-neu-2026",
+    "local_path": "data/landing/news/article_05.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_published": "2026-07-03"
+  }
+]

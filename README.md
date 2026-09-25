@@ -1,5 +1,11 @@
 # Day 8 — RAG Pipeline
 
+## Dữ liệu nhóm: tuyển sinh NEU 2026
+
+Phần Task 1–3 đã có dữ liệu và hướng dẫn chạy lại tại [Bàn giao dữ liệu](docs/DATA_HANDOFF.md).
+Bộ hiện tại gồm 3 PDF scan (22 trang), 5 bài NEU, 20 golden Q&A và 6 tình huống fallback.
+Hai PDF liên thông được gắn đối tượng riêng. Một số bảng PDF còn cần rà soát OCR; xem giới hạn trong tài liệu bàn giao trước khi dùng để trả lời mã ngành/chỉ tiêu.
+
 ## Mục tiêu
 
 Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.

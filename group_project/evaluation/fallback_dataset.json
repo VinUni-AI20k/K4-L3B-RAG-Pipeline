@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CAL-01",
+    "question": "Làm thế nào sửa xe máy không nổ?",
+    "kind": "out_of_domain",
+    "expected_behavior": "Từ chối do ngoài phạm vi tuyển sinh NEU.",
+    "split": "calibration"
+  },
+  {
+    "id": "CAL-02",
+    "question": "Điểm chuẩn NEU năm 2030 là bao nhiêu?",
+    "kind": "missing_evidence",
+    "expected_behavior": "Nói corpus 2026 không có thông tin năm 2030; không suy đoán.",
+    "split": "calibration"
+  },
+  {
+    "id": "CAL-03",
+    "question": "Tôi đã trúng tuyển NEU chưa?",
+    "kind": "personal_data_unavailable",
+    "expected_behavior": "Không tự tra cứu hoặc kết luận; hướng dẫn cổng tra cứu chính thức.",
+    "split": "calibration"
+  },
+  {
+    "id": "CAL-04",
+    "question": "Tôi đã tốt nghiệp cao đẳng, có áp dụng mọi điều kiện của học sinh THPT không?",
+    "kind": "audience_disambiguation",
+    "expected_behavior": "Phân biệt tuyển sinh liên thông cao đẳng với tuyển sinh chính quy; hỏi rõ hình thức dự tuyển.",
+    "split": "calibration"
+  },
+  {
+    "id": "CAL-05",
+    "question": "Cho biết điều kiện tuyển sinh NEU",
+    "kind": "underspecified",
+    "expected_behavior": "Hỏi rõ năm, phương thức, đối tượng hoặc nêu rõ phạm vi 2026 trước khi trả lời.",
+    "split": "calibration"
+  },
+  {
+    "id": "CAL-06",
+    "question": "Thông tin liên hệ tư vấn tuyển sinh NEU năm 2026?",
+    "kind": "in_domain",
+    "expected_behavior": "Tìm được nguồn, trả lời hotline 0888.128.558 trong giờ hành chính, có citation.",
+    "split": "calibration"
+  }
+]

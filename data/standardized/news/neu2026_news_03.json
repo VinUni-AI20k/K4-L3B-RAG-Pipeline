@@ -1,0 +1,21 @@
+{
+  "id": "neu2026_news_03",
+  "content": "Công cụ **Quy đổi điểm** thuộc hệ thống AI hỗ trợ tuyển sinh NEU, truy cập tại <https://ai.neu.edu.vn/tuyen-sinh/tools/quy-doi>. Công cụ tính điểm xét tuyển tương đương từ điểm các kỳ thi, chứng chỉ quốc tế và điểm thi tốt nghiệp THPT.\n\nGiao diện gồm ba mục có thể mở/thu gọn: Điểm của các kỳ thi, Điểm thi THPT và Ưu tiên. Kết quả quy đổi hiển thị ngay khi thí sinh nhập số liệu.\n\n## 🧮 Bước 1: Nhập điểm kỳ thi và chứng chỉ\n\nTại mục **Điểm của các kỳ thi** ở địa chỉ <https://ai.neu.edu.vn/tuyen-sinh/tools/quy-doi>, thí sinh nhập các điểm đang có: SAT, ACT, HSA, V-ACT, TSA, IELTS, TOEFL iBT hoặc TOEIC. Chỉ cần nhập những mục có điểm; hệ thống tự quy đổi sang thang điểm xét tuyển.\n\nBa mục nhập liệu: điểm kỳ thi, điểm thi THPT và ưu tiên\n\nNhập SAT và IELTS, hệ thống tính điểm quy đổi cao nhất\n\n## 📖 Bước 2: Nhập điểm thi THPT và xem tổ hợp\n\nMở mục **Điểm thi THPT** và nhập điểm các môn Toán, Văn, Lý, Hóa, Tiếng Anh. Hệ thống tự tính điểm bốn tổ hợp xét tuyển A00 (Toán - Lý - Hóa), A01 (Toán - Lý - Anh), D01 (Toán - Văn - Anh) và D07 (Toán - Hóa - Anh).\n\nMục **Ưu tiên** cho phép cộng điểm ưu tiên khu vực và đối tượng theo quy định.\n\nĐiểm bốn tổ hợp A00, A01, D01, D07 được tính tự động\n\n## 🏅 Bước 3: Đọc kết quả quy đổi\n\nMục **Kết quả quy đổi** hiển thị điểm quy đổi cao nhất cùng phương thức tương ứng, kèm phân vị (ví dụ Top 59%) và danh sách chi tiết điểm theo từng phương thức. Thí sinh dùng con số này để so sánh với điểm chuẩn tham khảo.\n\n## 🎓 Bước 4: Xem danh sách ngành có khả năng trúng tuyển\n\nNgay dưới kết quả quy đổi, mục **Ngành có khả năng trúng tuyển** đối chiếu điểm của thí sinh với điểm chuẩn tham khảo của từng ngành. Bảng hiển thị mã ngành, tên ngành, điểm chuẩn 2025, mức chênh lệch so với điểm của thí sinh, nhóm dự báo 2026 và tỷ lệ khả năng trúng tuyển ước tính.\n\nCột **Chênh lệch** mang dấu dương khi điểm của thí sinh cao hơn điểm chuẩn tham khảo, giúp nhận diện nhanh những ngành nằm trong tầm với. Danh sách này chỉ mang tính tham khảo để cân nhắc chiến lược sắp xếp nguyện vọng, không phải cam kết trúng tuyển.\n\nKéo xuống dưới cùng của trang để xem toàn bộ bảng, xếp theo mức chênh lệch từ cao xuống thấp. Danh sách trải rộng nhiều ngành, giúp thí sinh khoanh vùng cả nhóm ngành trong tầm với lẫn nhóm ngành cần cân nhắc kỹ.\n\nBảng ngành đối chiếu điểm quy đổi với điểm chuẩn và tỷ lệ khả năng trúng tuyển",
+  "metadata": {
+    "id": "neu2026_news_03",
+    "title": "Hướng dẫn sử dụng công cụ Quy đổi điểm xét tuyển NEU 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/guide-neu-2026-score-conversion-tool",
+    "local_path": "data/landing/news/article_03.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_crawled": "2026-09-25T03:56:38.899284+00:00",
+    "date_published": "2026-07-04",
+    "raw_html_path": "data/landing/raw_html/neu2026_news_03.html",
+    "raw_sha256": "a474826ea42fe3136fbbbd24250ba599c48b6eefa017fd99fdd2aa433f31159d",
+    "collection_method": "requests+beautifulsoup+markdownify",
+    "content_status": "collected",
+    "extraction_method": "html_to_markdown",
+    "source": "data/landing/news/article_03.json"
+  }
+}
