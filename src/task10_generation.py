@@ -12,6 +12,7 @@ Nếu context không đủ hoặc provider lỗi, trả safe refusal; không b�
 """
 
 import os
+from typing import Any
 
 from dotenv import load_dotenv
 
@@ -26,6 +27,25 @@ TEMPERATURE = 0.3
 
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai")
 LLM_MODEL = os.getenv("LLM_MODEL", "")
+
+_GEMINI_CLIENTS: dict[str, Any] = {}
+
+
+def _get_gemini_client(api_key: str) -> Any:
+    """Trả về client Gemini đã cache theo API key.
+
+    Phải giữ client trong một biến/module-level cache. Nếu tạo
+    ``genai.Client(...)`` ngay trong lời gọi thì đối tượng tạm bị thu hồi và
+    đóng kết nối HTTP trước khi request được gửi, sinh lỗi
+    "Cannot send a request, as the client has been closed".
+    """
+    client = _GEMINI_CLIENTS.get(api_key)
+    if client is None:
+        from google import genai
+
+        client = genai.Client(api_key=api_key)
+        _GEMINI_CLIENTS[api_key] = client
+    return client
 
 SYSTEM_PROMPT = """Trả lời chỉ từ context được cung cấp.
 Mỗi khẳng định phải có citation dạng [Source: <ID>] khớp với ID trong
@@ -86,13 +106,12 @@ def call_llm(system_prompt: str, user_message: str) -> str:
         text = response.choices[0].message.content
 
     elif provider == "gemini":
-        from google import genai
         from google.genai import types
 
         api_key = os.getenv("GEMINI_API_KEY", "").strip()
         if not api_key:
             raise ValueError("GEMINI_API_KEY is not configured")
-        response = genai.Client(api_key=api_key).models.generate_content(
+        response = _get_gemini_client(api_key).models.generate_content(
             model=model,
             contents=user_message,
             config=types.GenerateContentConfig(
