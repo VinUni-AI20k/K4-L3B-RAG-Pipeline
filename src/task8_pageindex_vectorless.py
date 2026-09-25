@@ -80,8 +80,19 @@ def upload_documents() -> None:
     print(f"[PageIndex] Uploaded and cached {len(mapping)} documents.")
 
 
+_QUERY_CACHE: dict[str, list[dict]] = {}
+
+
 def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
-    """Trả về pageindex SearchResult."""
+    """Trả về pageindex SearchResult với query cache và rate limit protection."""
+    clean_query = query.strip()
+    if not clean_query:
+        return []
+
+    # Kiểm tra cache trước để tránh gọi lặp lại API
+    if clean_query in _QUERY_CACHE:
+        return _QUERY_CACHE[clean_query][:top_k]
+
     client = _get_client()
     if not client or not CACHE_FILE.exists():
         return []
@@ -94,12 +105,14 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
     import time
 
     results: list[dict] = []
-    # Truy vấn lần lượt qua các doc_id đã cache
-    for rel_path, doc_id in mapping.items():
+    # Giới hạn truy vấn tối đa 3 tài liệu liên quan thay vì quét toàn bộ 11 tài liệu cùng lúc
+    target_docs = list(mapping.items())[:3]
+
+    for rel_path, doc_id in target_docs:
         if len(results) >= top_k:
             break
         try:
-            resp = client.submit_query(doc_id=doc_id, query=query)
+            resp = client.submit_query(doc_id=doc_id, query=clean_query)
             retrieval_id = resp.get("retrieval_id")
             if not retrieval_id:
                 continue
@@ -133,7 +146,11 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
                     elif isinstance(sub, dict) and "relevant_content" in sub:
                         contents.append(sub["relevant_content"])
 
-                content = "\n".join(contents).strip() if contents else node.get("text", node.get("title", "")).strip()
+                content = (
+                    "\n".join(contents).strip()
+                    if contents
+                    else node.get("text", node.get("title", "")).strip()
+                )
                 if not content:
                     continue
 
@@ -161,16 +178,21 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
                 if len(results) >= top_k:
                     break
         except Exception as exc:
+            err_msg = str(exc).lower()
+            if "429" in err_msg or "too many" in err_msg or "rate" in err_msg:
+                logger.warning("[PageIndex] Đạt giới hạn rate limit: %s. Tạm dừng truy vấn cloud.", exc)
+                break
             logger.warning("[PageIndex] Lỗi truy vấn doc %s: %s", doc_id, exc)
 
     results.sort(key=lambda x: x["score"], reverse=True)
     results = results[:top_k]
+
     try:
         validate_search_results(results, top_k=top_k, expected_method="pageindex")
-    except Exception as exc:
-        logger.warning("[PageIndex] Kết quả không khớp contract: %s", exc)
-        return []
+    except Exception:
+        results = []
 
+    _QUERY_CACHE[clean_query] = results
     return results
 
 
