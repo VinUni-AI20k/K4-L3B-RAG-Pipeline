@@ -19,8 +19,8 @@ def source_label(source: dict, index: int) -> str:
     """Tạo nhãn đầy đủ, hiển thị được cho một nguồn truy xuất."""
     metadata = source["metadata"]
     return (
-        f"{index}. {metadata['title']} | {metadata['source']} | "
-        f"{source['retrieval_method']} | score {source['score']:.3f}"
+        f"{index}. Tiêu đề: {metadata['title']} | Nguồn: {metadata['source']} | "
+        f"Phương thức: {source['retrieval_method']} | Điểm: {source['score']:.3f}"
     )
 
 
@@ -33,7 +33,7 @@ def render_sources(sources: list[dict]) -> None:
         with st.expander(source_label(source, index)):
             metadata = source["metadata"]
             st.caption(
-                f"Loại nguồn: {metadata['doc_type']} · Chunk: {metadata['chunk_index']}"
+                f"Loại nguồn: {metadata['doc_type']} · Đoạn: {metadata['chunk_index']}"
             )
             if metadata.get("url"):
                 st.link_button("Mở nguồn gốc", metadata["url"])
