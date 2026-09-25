@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T10:24:33.254210
 
-**Doc Type:** news
-
 ---
 
 # Học bổng hỗ trợ học tập của Tập đoàn Vingroup

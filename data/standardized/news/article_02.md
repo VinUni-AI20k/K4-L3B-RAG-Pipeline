@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T10:24:24.685067
 
-**Doc Type:** news
-
 ---
 
 # Thông báo số 5 về triển khai cho sinh viên tham gia BHYT năm 2026

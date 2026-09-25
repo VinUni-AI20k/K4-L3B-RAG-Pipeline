@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T10:24:28.456156
 
-**Doc Type:** news
-
 ---
 
 # Thông tin về Chương trình Học bổng Khoa học Công nghệ Đào tạo Thạc sĩ, Tiến sĩ Du học Nước ngoài của Tập đoàn Vingroup

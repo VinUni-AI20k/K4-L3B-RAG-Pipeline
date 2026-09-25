@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T10:24:22.892954
 
-**Doc Type:** news
-
 ---
 
 # Kế hoạch kết thúc khóa học của các lớp QH-2021 (K66) chương trình kỹ sư, các khóa cũ và TN trước hạn  đợt xét tháng 01/2026

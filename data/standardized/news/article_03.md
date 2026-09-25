@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T10:24:26.609294
 
-**Doc Type:** news
-
 ---
 
 # Tham gia cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp”
