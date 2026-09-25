@@ -42,7 +42,7 @@ Mô tả tối đa hai quyết định mà bạn trực tiếp tham gia:
 ## Kiểm thử và kết quả
 
 - Test hoặc query tôi đã dùng: `pytest -q`, contract tests, query semantic/BM25/hybrid thật, Streamlit AppTest và audit 15 golden cases.
-- Kết quả trước/sau nếu có: `19 passed, 1 failed`; lỗi còn lại là evaluation report trước khi tạo file đúng path. Hybrid đạt context recall `0.733`, precision `0.356`.
+- Kết quả trước/sau nếu có: `20 passed`; Hybrid đạt context recall `0.733` (11/15 câu) và precision `0.356` trên golden audit.
 - Lỗi đã phát hiện và cách xử lý: threshold `0.3` quá thấp nên điều chỉnh mặc định thành `0.6`; BGE-M3 chưa đủ cache nên UI báo rõ và dùng TF-IDF fallback.
 
 ## Điều còn hạn chế

@@ -43,7 +43,7 @@ Hai config phải dùng cùng golden dataset, generator, evaluator, prompt và `
 | --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------------------- | ---------- |
 |   1 | Mã phương thức xét điểm ĐGNL ĐHQG TP.HCM của HUTECH năm 2026 là gì? | Config B | N/A | N/A | 0 | 0 | retrieval | Top-k chưa đưa đúng tài liệu thông tin tuyển sinh vào kết quả |
 |   2 | Hạn cung cấp minh chứng xét học bạ HUTECH 2026 theo bài viết tuyển sinh là khi nào? | Config B | N/A | N/A | 0 | 0 | retrieval | Chunk chứa hạn minh chứng chưa được xếp vào top-k |
-|   3 | Số điện thoại tư vấn chương trình đại học chính quy HUTECH 2026 là gì? | Config B | N/A | N/A | 0 | 0 | retrieval | Thông tin liên hệ nằm trong tài liệu dài và bị cạnh tranh bởi chunk khác |
+|   3 | Chính sách học bổng tuyển sinh HUTECH 2026 trong corpus có các mức chính nào? | Config B | N/A | N/A | 0 | 0 | retrieval | Chunk chính sách học bổng không nằm trong top-k dù câu hỏi chứa đúng chủ đề |
 
 ## Recommendations
 

@@ -31,7 +31,7 @@ Hai config dùng cùng golden dataset, corpus, embedding model và `top_k=3`; ch
 | Context precision | 0.289    | 0.356    | +0.067    |
 | **Average**       | N/A      | N/A      | N/A       |
 
-Faithfulness và answer relevance chưa được chấm bằng evaluator LLM; các số liệu đã ghi là audit retrieval xác định theo `expected_context` của golden dataset.
+Faithfulness và answer relevance chưa được chấm bằng evaluator LLM vì chưa có output answer/judge. Các số liệu retrieval đã ghi là audit xác định theo `expected_context` của golden dataset; Config B hit đúng 11/15 câu.
 
 ## A/B comparison
 
@@ -45,7 +45,7 @@ Faithfulness và answer relevance chưa được chấm bằng evaluator LLM; c�
 | --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------------------- | ---------- |
 |   1 | Mã phương thức xét điểm ĐGNL ĐHQG TP.HCM của HUTECH năm 2026 là gì? | Config B | N/A | N/A | 0 | 0 | retrieval | Top-k chưa đưa đúng tài liệu thông tin tuyển sinh vào kết quả |
 |   2 | Hạn cung cấp minh chứng xét học bạ HUTECH 2026 theo bài viết tuyển sinh là khi nào? | Config B | N/A | N/A | 0 | 0 | retrieval | Chunk chứa hạn minh chứng chưa được xếp vào top-k |
-|   3 | Số điện thoại tư vấn chương trình đại học chính quy HUTECH 2026 là gì? | Config B | N/A | N/A | 0 | 0 | retrieval | Thông tin liên hệ nằm trong tài liệu dài và bị cạnh tranh bởi chunk khác |
+|   3 | Chính sách học bổng tuyển sinh HUTECH 2026 trong corpus có các mức chính nào? | Config B | N/A | N/A | 0 | 0 | retrieval | Chunk chính sách học bổng không nằm trong top-k dù câu hỏi chứa đúng chủ đề |
 
 ## Recommendations
 
