@@ -1,45 +1,46 @@
-"""
-Task 1 — Thu thập tài liệu chính sách/quy định.
-
-Hướng dẫn:
-    1. Chọn chủ đề của nhóm.
-    2. Tìm tối thiểu 3 tài liệu PDF/DOCX từ nguồn công khai.
-    3. Lưu file gốc vào data/landing/legal/.
-    4. Đặt tên không dấu và thể hiện đúng nội dung.
-
-Ví dụ tài liệu: học phí, học bổng, ký túc xá, quy trình đăng ký.
-Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vượt WAF.
-"""
-
+"""Register existing PDFs; optionally download missing files from the manifest."""
+import argparse
+import hashlib
+import json
 from pathlib import Path
 
-
-DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data/landing/legal"
+MANIFEST = ROOT / "data/sources.json"
 
 
 def setup_directory() -> None:
-    """Tạo thư mục lưu tài liệu gốc."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"Ready: {DATA_DIR}")
 
 
-def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+def download_documents(download_missing: bool = False) -> None:
+    import requests
+    records = []
+    for item in json.loads(MANIFEST.read_text(encoding="utf-8-sig")):
+        if item["doc_type"] != "legal":
+            continue
+        path = ROOT / item["local_path"]
+        if not path.exists():
+            if not download_missing:
+                raise FileNotFoundError(f"{path}: use --download-missing or copy the PDF manually")
+            response = requests.get(item["url"], timeout=(15, 60))
+            response.raise_for_status()
+            if not response.content.startswith(b"%PDF-"):
+                raise ValueError(f"Not a PDF: {item['url']}")
+            path.write_bytes(response.content)
+        content = path.read_bytes()
+        if path.suffix.lower() == ".pdf" and not content.startswith(b"%PDF-"):
+            raise ValueError(f"Invalid PDF: {path}")
+        records.append({**item, "sha256": hashlib.sha256(content).hexdigest(), "bytes": len(content)})
+    if len(records) < 3:
+        raise ValueError("At least three legal documents are required")
+    (ROOT / "data/legal_inventory.json").write_text(
+        json.dumps(records, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Registered {len(records)} legal documents; originals preserved.")
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--download-missing", action="store_true")
     setup_directory()
-    download_documents()
+    download_documents(parser.parse_args().download_missing)
