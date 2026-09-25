@@ -13,6 +13,7 @@ chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung
 
 import os
 import re
+import time
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -48,17 +49,29 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY is not configured")
     from google import genai
-    from google.genai import types
+    from google.genai import errors, types
 
     client = genai.Client(api_key=api_key)
-    response = client.models.embed_content(
-        model=EMBEDDING_MODEL,
-        contents=texts,
-        config=types.EmbedContentConfig(
-            output_dimensionality=EMBEDDING_DIM,
-            task_type="SEMANTIC_SIMILARITY",
-        ),
+    max_attempts = max(1, int(os.getenv("EMBEDDING_MAX_ATTEMPTS", "4")))
+    retry_delay = max(
+        0.0, float(os.getenv("EMBEDDING_RETRY_DELAY_SECONDS", "5"))
     )
+    for attempt in range(max_attempts):
+        try:
+            response = client.models.embed_content(
+                model=EMBEDDING_MODEL,
+                contents=texts,
+                config=types.EmbedContentConfig(
+                    output_dimensionality=EMBEDDING_DIM,
+                    task_type="SEMANTIC_SIMILARITY",
+                ),
+            )
+            break
+        except errors.APIError as exc:
+            retryable = exc.code == 429 or 500 <= exc.code < 600
+            if not retryable or attempt == max_attempts - 1:
+                raise
+            time.sleep(retry_delay * (2 ** attempt))
     vectors = [list(embedding.values) for embedding in (response.embeddings or [])]
     if len(vectors) != len(texts):
         raise RuntimeError("Gemini returned an unexpected number of embeddings")
@@ -158,12 +171,17 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     if not chunks:
         return []
     batch_size = max(1, int(os.getenv("EMBEDDING_BATCH_SIZE", "32")))
+    batch_delay = max(
+        0.0, float(os.getenv("EMBEDDING_BATCH_DELAY_SECONDS", "0"))
+    )
     output = [dict(chunk) for chunk in chunks]
     for start in range(0, len(output), batch_size):
         batch = output[start:start + batch_size]
         vectors = embed_texts([chunk["content"] for chunk in batch])
         for chunk, vector in zip(batch, vectors):
             chunk["embedding"] = vector
+        if batch_delay and start + batch_size < len(output):
+            time.sleep(batch_delay)
     return output
 
 
