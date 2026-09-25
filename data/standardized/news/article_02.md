@@ -1,261 +1,127 @@
-# Chính thức bỏ thuế môn bài từ 01/01/2026: Hộ kinh doanh phải nộp những loại thuế nào?
+# Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý
 
-**Source:** https://einvoice.vn/tin-tuc/bo-thue-mon-bai
+**Source:** https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm
 
-**Crawled:** 2026-09-25T10:44:05.495449
+**Crawled:** 2026-09-25T11:37:16.963144
 
 ---
 
-[ ![E-Invoice](https://einvoice.vn/Content/img/logoktxt.png) Chuyên gia hóa đơn điện tử Phần mềm hóa đơn điện tử E-invoice được nhiều DN FDI tin dùng ](https://einvoice.vn/)
-  * [Giới thiệu](https://einvoice.vn/gioi-thieu-phan-mem-hoa-don-dien-tu)
-  * [Tính năng](https://einvoice.vn/tinh-nang)
-  * [Kinh nghiệm](https://einvoice.vn/cau-chuyen-thanh-cong)
-  * Sản phẩm
-    * [Dịch vụ Truyền nhận và lưu trữ dữ liệu HĐĐT eTVAN](https://einvoice.vn/dich-vu-truyen-du-lieu-hoa-don-dien-tu-etvan)
-    * [Dịch vụ quản lý hóa đơn đầu vào](https://einvoice.vn/getinvoice)
-  * [Tin tức](https://einvoice.vn/tin-tuc)
-  * Tra cứu
-    * [Tra cứu hóa đơn](https://einvoice.vn/tra-cuu)
-    * [Hàng hóa không giảm thuế](https://einvoice.vn/tra-cuu-hang-hoa-khong-giam-thue)
-  * [Tiện ích](https://einvoice.vn/tien-ich)
-  * Hỗ trợ
-    * [Tài liệu hướng dẫn](https://einvoice.vn/tai-lieu)
-    * [Video hướng dẫn](https://einvoice.vn/video)
-    * [FAQ](https://einvoice.vn/faq)
-    * [Văn bản](https://einvoice.vn/van-ban-hddt)
-    * [Mẫu hóa đơn](https://einvoice.vn/mau-hoa-don)
-    * [Tải phần mềm](https://einvoice.vn/tai-phan-mem)
-    * [Liên hệ](https://einvoice.vn/lien-he)
-  * 
-
-  * [Giới thiệu](https://einvoice.vn/gioi-thieu-phan-mem-hoa-don-dien-tu)
-  * [Tính năng](https://einvoice.vn/tinh-nang)
-  * [Kinh nghiệm](https://einvoice.vn/cau-chuyen-thanh-cong)
-  * [Sản phẩm](https://einvoice.vn/)
-+
-    * [Dịch vụ Truyền nhận và lưu trữ dữ liệu HĐĐT eTVAN](https://einvoice.vn/dich-vu-truyen-du-lieu-hoa-don-dien-tu-etvan)
-    * [Dịch vụ quản lý hóa đơn đầu vào](https://einvoice.vn/getinvoice)
-  * [Tin tức](https://einvoice.vn/tin-tuc)
-  * [Tra cứu](https://einvoice.vn/tra-cuu)
-+
-    * [Tra cứu hóa đơn](https://einvoice.vn/tra-cuu)
-    * [Hàng hóa không giảm thuế](https://einvoice.vn/tra-cuu-hang-hoa-khong-giam-thue)
-  * [Tiện ích](https://einvoice.vn/tien-ich)
-  * [Hỗ trợ](https://einvoice.vn/ho-tro)
-+
-    * [Tài liệu hướng dẫn](https://einvoice.vn/tai-lieu)
-    * [Video hướng dẫn](https://einvoice.vn/video)
-    * [FAQ](https://einvoice.vn/faq)
-    * [Văn bản](https://einvoice.vn/van-ban-hddt)
-    * [Mẫu hóa đơn](https://einvoice.vn/mau-hoa-don)
-    * [Tải phần mềm](https://einvoice.vn/tai-phan-mem)
-    * [Liên hệ](https://einvoice.vn/lien-he)
-  * Tìm kiếm
-
-
-Phía Bắc: [1900.4767](tel:19004767)
-Phía Nam: [1900.4768](tel:19004768)
-[Đăng nhập](https://einvoice.com.vn)  
-
-[Trang chủ](https://einvoice.vn/) ![Tin tức](https://einvoice.vn/Content/img/icon-right-fa.png) [Tin tức ](https://einvoice.vn/tin-tuc) ![Tin tức](https://einvoice.vn/Content/img/icon-right-fa.png) Chính thức bỏ thuế môn bài từ 01/01/2026: Hộ kinh doanh phải nộp những loại thuế nào?
-# Chính thức bỏ thuế môn bài từ 01/01/2026: Hộ kinh doanh phải nộp những loại thuế nào?
-Bởi: Einvoice.vn  - 26/01/2026  Lượt xem:  20205 
-Từ ngày 01/01/2026, thuế môn bài chính thức được bãi bỏ theo quy định mới, chấm dứt một nghĩa vụ tài chính quen thuộc đối với hộ kinh doanh. Tuy nhiên, việc không còn thuế môn bài không đồng nghĩa hộ kinh doanh hết nghĩa vụ thuế. Vậy từ năm 2026, [**hộ kinh doanh**](https://einvoice.vn/tin-tuc/phan-biet-ho-kinh-doanh-va-doanh-nghiep) phải nộp những loại thuế nào, tính ra sao và cần lưu ý điều gì để thực hiện đúng quy định?
-![Bãi bỏ thuế môn bài](https://einvoice.vn/FileUpload/ArticleMaterials/dcbe9493-b1c5-4082-ba3b-f0565b0989e5.jpg) _Bãi bỏ thuế môn bài từ 01/01/2026._  
-|  **Mục Lục** [**1. Chính thức bãi bỏ thuế môn bài từ ngày 01/01/2026**](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_253670308416381769392091176) [**2. Các loại thuế hộ kinh doanh phải nộp từ năm 2026**](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_571749789421241769392094745) [2.1. Ngưỡng doanh thu phải nộp thuế từ 2026](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_4316233425641769392098583) [2.2. Cách tính thuế GTGT từ năm 2026](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_262081151430131769392102840) [2.3. Cách tính thuế TNCN từ năm 2026](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_577226244434311769392107096) [**3. Một số lưu ý cho hộ kinh doanh khi bỏ thuế môn bài từ năm 2026**](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#h_31506555439991769392113464)  |  
-| --- |  
-## **1. Chính thức bãi bỏ thuế môn bài từ ngày 01/01/2026**
-Tại **Điều 10,[Nghị quyết 198/2025/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=213695)** về hỗ trợ thuế, phí, lệ phí, Quốc hội đã chính thức quy định chấm dứt việc thu, nộp lệ phí môn bài (thuế môn bài) kể từ ngày 01/01/2026.
-Theo Nghị quyết này, đối tượng áp dụng bao gồm doanh nghiệp, hộ kinh doanh, cá nhân kinh doanh và các tổ chức, cá nhân khác có liên quan, qua đó mở rộng phạm vi thụ hưởng chính sách, giảm nghĩa vụ tài chính cho người nộp thuế ngay từ đầu kỳ tính thuế năm 2026.
-Trước đó, **Nghị quyết 68-NQ/TW** của Bộ Chính trị về phát triển kinh tế tư nhân đã xác định rõ định hướng cải cách, trong đó nhấn mạnh yêu cầu bãi bỏ lệ phí môn bài như một giải pháp quan trọng nhằm:
--Hỗ trợ doanh nghiệp nhỏ và vừa theo nguyên tắc thị trường và phù hợp với các cam kết quốc tế.
--Giảm chi phí tuân thủ, tạo dư địa tài chính cho doanh nghiệp trong giai đoạn đầu hoạt động.
--Tăng cường vai trò của khu vực kinh tế tư nhân trong phát triển kinh tế và tham gia xây dựng, phản biện chính sách.
-Việc bãi bỏ thuế môn bài từ năm 2026 được đánh giá là bước đi nhất quán trong lộ trình cải cách chính sách thuế, góp phần tạo môi trường kinh doanh thuận lợi, minh bạch và bền vững hơn cho doanh nghiệp và hộ kinh doanh.
-## **2. Các loại thuế hộ kinh doanh phải nộp từ năm 2026**
-Theo quy định về quản lý thuế, hộ kinh doanh trước đây phải thực hiện 03 khoản thuế, phí gồm: lệ phí môn bài, [**thuế GTGT**](https://einvoice.vn/tin-tuc/thue-gtgt) và thuế TNCN. Tuy nhiên, kể từ ngày 01/01/2026, lệ phí môn bài chính thức bị bãi bỏ, do đó hộ kinh doanh chỉ còn phải nộp thuế GTGT và thuế TNCN.
-Ngoài ra, trong trường hợp kinh doanh hàng hóa, dịch vụ thuộc diện chịu thuế bảo vệ môi trường, thuế tài nguyên… hộ kinh doanh vẫn phải thực hiện nghĩa vụ theo quy định của từng luật chuyên ngành.
-### **2.1. Ngưỡng doanh thu phải nộp thuế từ 2026**
-Theo **Khoản 25, Điều 5 và Điều 17, Luật Thuế GTGT 2024** , từ 01/01/2026, hộ, cá nhân sản xuất – kinh doanh có doanh thu từ 200 triệu đồng/năm trở lên thuộc diện phải nộp thuế GTGT và thuế TNCN.
-### **2.2. Cách tính thuế GTGT từ năm 2026**
-Theo [**Quyết định 3389/QĐ-BTC**](https://einvoice.vn/van-ban-hddt/quyet-dinh-3389-qd-btc-chuyen-doi-mo-hinh-va-phuong-phap-quan-ly-thue) năm 2025, thuế GTGT đối với hộ kinh doanh được xác định như sau:
-#### **2.2.1. Doanh thu từ 200 triệu đến ≤ 3 tỷ đồng/năm**
-Áp dụng phương pháp trực tiếp trên doanh thu:  
-|  **Thuế GTGT phải nộp = Doanh thu × Tỷ lệ %**  |  
-| --- |  
-Tỷ lệ % tính thuế GTGT:
--Phân phối, cung cấp hàng hóa: 1%.
--Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%.
--Sản xuất, vận tải, dịch vụ gắn với hàng hóa; xây dựng có bao thầu NVL: 3%.
--Hoạt động kinh doanh khác: 2%.
-Doanh thu tính thuế là tổng tiền ghi trên hóa đơn, bao gồm cả phụ thu, phí thu thêm mà hộ kinh doanh được hưởng (Điểm b, Khoản 2, Điều 12, Luật Thuế GTGT 2024).  
-| **Tham khảo:[Hóa đơn điện tử](https://einvoice.vn/); [Báo giá hóa đơn điện tử](https://einvoice.vn/bao-gia/bao-gia-phien-ban-web).**  |  
-| --- |  
-#### **2.2.2. Doanh thu trên 3 tỷ đồng/năm**
-Áp dụng phương pháp khấu trừ:  
-|  **Thuế GTGT phải nộp = Thuế GTGT đầu ra – Thuế GTGT đầu vào**  |  
-| --- |  
-### **2.3. Cách tính thuế TNCN từ năm 2026**
-![Thuế TNCN](https://einvoice.vn/FileUpload/ArticleMaterials/ed5b5db4-85ad-4beb-bc43-03df1f69abbe.jpg) _Tính thuế TNCN thế nào?_
-#### **2.3.1. Doanh thu từ 200 triệu đến ≤ 3 tỷ đồng/năm**
-Thuế TNCN được tính **theo tỷ lệ % trên doanh thu** , cụ thể:  
-|  **Thuế TNCN phải nộp = Doanh thu × Tỷ lệ %**  |  
-| --- |  
-Tỷ lệ [**thuế TNCN**](https://einvoice.vn/tin-tuc/thue-thu-nhap-ca-nhan-la-gi-vai-tro-cua-thue-thu-nhap-ca-nhan):
--Phân phối, cung cấp hàng hóa: 0,5%.
--Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 2%.
--Cho thuê tài sản, đại lý bảo hiểm, xổ số, bán hàng đa cấp: 5%.
--Sản xuất, vận tải, dịch vụ gắn với hàng hóa; xây dựng có bao thầu NVL: 1,5%.
--Hoạt động kinh doanh khác: 1%. (Căn cứ Điều 10 Luật Thuế TNCN 2007, sửa đổi 2014).
-#### **2.3.2. Doanh thu trên 3 tỷ đồng/năm**
-Thuế TNCN được tính 17% trên lợi nhuận, trong đó:  
-|  **Lợi nhuận = Doanh thu – Chi phí hợp lý**  |  
-| --- |  
-Như vậy, từ năm 2026, việc bỏ thuế môn bài giúp giảm nghĩa vụ tài chính ban đầu, nhưng hộ kinh doanh cần xác định đúng ngưỡng doanh thu và phương pháp tính thuế để thực hiện nghĩa vụ thuế GTGT và TNCN đúng quy định.
-## **3. Một số lưu ý cho hộ kinh doanh khi bỏ thuế môn bài từ năm 2026**
-Khi lệ phí môn bài chính thức bị bãi bỏ từ **01/01/2026** , hộ kinh doanh, doanh nghiệp và bộ phận kế toán cần lưu ý một số nội dung sau để áp dụng đúng quy định:
--Không còn nghĩa vụ kê khai, nộp lệ phí môn bài từ kỳ tài chính năm 2026, kể cả với hộ kinh doanh mới thành lập hoặc mới ra hoạt động.
--Không phát sinh hồ sơ khai lệ phí môn bài hằng năm như trước đây; các mẫu tờ khai liên quan không còn áp dụng.
--Việc bãi bỏ thuế môn bài không làm thay đổi nghĩa vụ thuế GTGT và thuế TNCN, hộ kinh doanh vẫn phải theo dõi doanh thu để xác định đúng ngưỡng chịu thuế.
--Trường hợp hộ kinh doanh tạm ngừng, chấm dứt hoạt động từ năm 2026 trở đi sẽ không phải thực hiện thủ tục liên quan đến thuế môn bài như trước.
--Doanh nghiệp và kế toán cần theo dõi chi tiết quy định tại [**Nghị định 362/2025/NĐ-CP**](https://vanban.chinhphu.vn/?pageid=27160&docid=216389) để áp dụng thống nhất, đúng thời điểm từ kỳ tài chính năm 2026, tránh nhầm lẫn với các quy định đã hết hiệu lực.
-Việc bãi bỏ thuế môn bài từ 01/01/2026 là bước cải cách quan trọng, giúp giảm chi phí và thủ tục cho hộ kinh doanh. Tuy nhiên, hộ kinh doanh vẫn cần theo dõi doanh thu và thực hiện đúng nghĩa vụ thuế GTGT, thuế TNCN, đồng thời cập nhật đầy đủ các quy định mới để áp dụng thống nhất từ kỳ tài chính năm 2026.
-**Dương Thúy.**  
-|  Trong thời đại chuyển đổi số mạnh mẽ cùng với yêu cầu siết chặt quản lý thuế, **[Phần mềm hóa đơn điện tử](https://einvoice.vn/) E-invoice** của Công ty Phát triển Công nghệ Thái Sơn là công cụ đắc lực giúp doanh nghiệp quản lý **hóa đơn điện tử** hiệu quả và đúng quy định. Theo đó, giúp doanh nghiệp tối ưu quy trình kế toán, giảm thiểu sai sót và nâng cao hiệu quả hoạt động. Liên hệ ngay theo đường dây nóng 24/7 để được tư vấn và dùng thử hoàn toàn MIỄN PHÍ: - **Miền Bắc** : 1900 4767. - **Miền Nam/Trung** : 1900 4768.  |  
-| --- |  
-**Các tin tức liên quan:**
-[![Từ 01/01/2026, hộ kinh doanh nộp chậm hồ sơ khai thuế bị xử phạt ra sao?](https://einvoice.vn/FileUpload/images/News/12163af3-b796-4be4-88b0-d813a7811a46.jpg)](https://einvoice.vn/tin-tuc/muc-phat-cham-nop-ho-so-khai-thue)
-### [Từ 01/01/2026, hộ kinh doanh nộp chậm hồ sơ khai thuế bị xử phạt ra sao? ](https://einvoice.vn/tin-tuc/muc-phat-cham-nop-ho-so-khai-thue) 05/01/2026-43945 lượt xem 
-[![Hộ kinh doanh nhiều cửa hàng sẽ khai thuế chung một mã số thuế từ năm 2026](https://einvoice.vn/FileUpload/images/News/27bed760-0b17-4bb6-bf5b-90b457c262c9.png)](https://einvoice.vn/tin-tuc/hkd-nhieu-cua-hang-ke-khai-chung-mot-ma-so-thue)
-### [Hộ kinh doanh nhiều cửa hàng sẽ khai thuế chung một mã số thuế từ năm 2026 ](https://einvoice.vn/tin-tuc/hkd-nhieu-cua-hang-ke-khai-chung-mot-ma-so-thue) 12/01/2026-7434 lượt xem 
-[![Từ năm 2026, thuế với hộ kinh doanh cho thuê nhà được tính như thế nào?](https://einvoice.vn/FileUpload/images/News/3c45efbf-cada-451c-9369-ee6c41720013.jpg)](https://einvoice.vn/tin-tuc/thue-hkd-cho-thue-nha)
-### [Từ năm 2026, thuế với hộ kinh doanh cho thuê nhà được tính như thế nào? ](https://einvoice.vn/tin-tuc/thue-hkd-cho-thue-nha) 19/01/2026-39217 lượt xem 
-[![Hướng dẫn xác định nghĩa vụ thuế khi kết hợp bán hàng qua sàn TMĐT và kinh doanh truyền thống](https://einvoice.vn/FileUpload/images/News/0454b761-eeec-44de-9071-b32434a4b6d8.jpg)](https://einvoice.vn/tin-tuc/nghia-vu-thue-ket-hop-ban-hang-tmdt-va-kd-truyen-thong)
-### [Hướng dẫn xác định nghĩa vụ thuế khi kết hợp bán hàng qua sàn TMĐT và kinh doanh truyền thống ](https://einvoice.vn/tin-tuc/nghia-vu-thue-ket-hop-ban-hang-tmdt-va-kd-truyen-thong) 21/01/2026-13618 lượt xem 
-[![Hướng dẫn kế toán đối với hộ kinh doanh không thuộc đối tượng chịu thuế GTGT và thuế TNCN](https://einvoice.vn/FileUpload/images/News/b9fe63e3-90f8-4ffc-810a-6b5db875ee0d.jpg)](https://einvoice.vn/tin-tuc/ke-toan-hkd-khong-chiu-thue-gtgt-tncn)
-### [Hướng dẫn kế toán đối với hộ kinh doanh không thuộc đối tượng chịu thuế GTGT và thuế TNCN ](https://einvoice.vn/tin-tuc/ke-toan-hkd-khong-chiu-thue-gtgt-tncn) 22/01/2026-3015 lượt xem 
-
-
-[Về trang trước](https://einvoice.vn/tin-tuc)
-  * [ ![Đăng ký dùng thử hóa đơn điện tử E-invoice](https://einvoice.vn/FileUpload/banner/tintuc-chitiet.png) ](https://einvoice.vn/dang-ky-dung-thu)
-
-
-## Tin tức nổi bật
-[![Báo cáo thuế hộ kinh doanh năm 2026 gồm những gì? Lưu ý theo từng mức doanh thu](https://einvoice.vn/FileUpload/images/News/994dd72b-728a-4e5d-9ad9-e55f0759dfc1.png)](https://einvoice.vn/tin-tuc/bao-cao-thue-hkd) 1
-### [Báo cáo thuế hộ kinh doanh năm 2026 gồm những gì? Lưu ý theo từng mức doanh thu ](https://einvoice.vn/tin-tuc/bao-cao-thue-hkd)
-[![Hộ kinh doanh có thể kê khai, nộp thuế qua Trợ lý ảo trên eTax Mobile](https://einvoice.vn/FileUpload/images/News/3d12f055-fa3f-4488-a0e0-7d7f06023a54.png)](https://einvoice.vn/tin-tuc/hkd-ke-khai-thue-nop-thue-tro-ly-ao-etax-mobile) 2
-### [Hộ kinh doanh có thể kê khai, nộp thuế qua Trợ lý ảo trên eTax Mobile ](https://einvoice.vn/tin-tuc/hkd-ke-khai-thue-nop-thue-tro-ly-ao-etax-mobile)
-[![Đặt cọc có phải xuất hóa đơn không? Quy định theo từng trường hợp](https://einvoice.vn/FileUpload/images/News/09a3734c-6365-4302-b02c-d82d7a552ff4.png)](https://einvoice.vn/tin-tuc/dat-coc-co-phai-xuat-hoa-don) 3
-### [Đặt cọc có phải xuất hóa đơn không? Quy định theo từng trường hợp ](https://einvoice.vn/tin-tuc/dat-coc-co-phai-xuat-hoa-don)
-[![Hóa đơn điện tử có mã của cơ quan thuế: 8 quy định cần biết từ 1/7/2026](https://einvoice.vn/FileUpload/images/News/20159688-b14e-4dce-a246-ce08f368b5b0.png)](https://einvoice.vn/tin-tuc/hoa-don-dien-tu-co-ma-cua-co-quan-thue) 4
-### [Hóa đơn điện tử có mã của cơ quan thuế: 8 quy định cần biết từ 1/7/2026 ](https://einvoice.vn/tin-tuc/hoa-don-dien-tu-co-ma-cua-co-quan-thue)
-[![Hóa đơn điện tử cấp theo từng lần phát sinh: Trường hợp áp dụng và thủ tục thực hiện](https://einvoice.vn/FileUpload/images/News/fca33bad-7dda-4440-8a55-4a83f6ad9c88.png)](https://einvoice.vn/tin-tuc/hoa-don-dien-tu-tung-lan-phat-sinh) 5
-### [Hóa đơn điện tử cấp theo từng lần phát sinh: Trường hợp áp dụng và thủ tục thực hiện ](https://einvoice.vn/tin-tuc/hoa-don-dien-tu-tung-lan-phat-sinh)
-## Xem nhiều nhất
-[![Cách tính thuế TNCN năm 2026 theo mức giảm trừ gia cảnh mới nhất](https://einvoice.vn/FileUpload/images/News/b4415505-1e75-41a4-aea1-9c4441242894.jpg)](https://einvoice.vn/tin-tuc/tinh-thue-tncn-2026)
-### [Cách tính thuế TNCN năm 2026 theo mức giảm trừ gia cảnh mới nhất ](https://einvoice.vn/tin-tuc/tinh-thue-tncn-2026)05/02/2026 - 179881 lượt xem
-### [Hướng dẫn tra cứu nợ thuế thu nhập cá nhân online theo kênh chính thức của cơ quan thuế ](https://einvoice.vn/tin-tuc/tra-cuu-no-thue-tncn)13/03/2026 - 77482 lượt xem
-### [Toàn cảnh chính sách thuế năm 2026: Hệ thống thuế bước vào giai đoạn đổi mới toàn diện ](https://einvoice.vn/tin-tuc/chinh-sach-thue-2026)13/01/2026 - 52023 lượt xem
-### [Kể từ 1/1/2026, hộ kinh doanh nhỏ lẻ sẽ đóng thuế theo cách nào? ](https://einvoice.vn/tin-tuc/ho-kinh-doanh-nho-dong-thue-the-nao)14/01/2026 - 44124 lượt xem
-  * [ ![Phần mềm hải quan điện tử ECUS](https://einvoice.vn/FileUpload/banner/9.png) ](https://ecus.vn "Phần mềm hải quan điện tử ECUS")
-  * [ ![Phần mềm bảo hiểm xã hội điện tử eBH](https://einvoice.vn/FileUpload/banner/4.png) ](https://ebh.vn "Phần mềm bảo hiểm xã hội điện tử eBH")
-  * [ ![Phần mềm thuế điện tử ETAX](https://einvoice.vn/FileUpload/banner/10.png) ](https://www.etax.net.vn "Phần mềm thuế điện tử ETAX")
-  * [ ![Phần mềm văn phòng điện tử CloudOffice](https://einvoice.vn/FileUpload/banner/8.png) ](https://cloudoffice.com.vn "Phần mềm văn phòng điện tử CloudOffice")
-  * [ ![Phần mềm Hợp đồng điện tử iContract](https://einvoice.vn/FileUpload/banner/6.png) ](https://icontract.com.vn "Phần mềm Hợp đồng điện tử iContract")
-  * [ ![Dịch vụ chữ ký số công cộng ECA](https://einvoice.vn/FileUpload/banner/3.png) ](https://eca.com.vn "Dịch vụ chữ ký số công cộng ECA")
-  * [ ![Chứng từ khấu trừ thuế thu nhập cá nhân điện tử ECN](https://einvoice.vn/FileUpload/banner/7.png) ](https://ecn.net.vn "Chứng từ khấu trừ thuế thu nhập cá nhân điện tử ECN")
-  * [ ![Phần mềm quản lý bán hàng TruePos](https://einvoice.vn/FileUpload/banner/11.png) ](https://truepos.vn "Phần mềm quản lý bán hàng TruePos")
-
-
-## Sản phẩm
-  * [ Giới thiệu chung ](https://einvoice.vn/gioi-thieu)
-  * [ Tính năng ](https://einvoice.vn/tinh-nang)
-  * [ Kinh nghiệm triển khai ](https://einvoice.vn/cau-chuyen-thanh-cong)
-
-
-## Khách hàng
-  * [ Liên hệ ](https://einvoice.vn/lien-he)
-  * [ FAQ ](https://einvoice.vn/faq)
-
-
-## Hỗ trợ
-  * [ Hướng dẫn sử dụng ](https://einvoice.vn/huong-dan)
-  * [ Mẫu hóa đơn ](https://einvoice.vn/mau-hoa-don)
-  * [ Văn bản ](https://einvoice.vn/van-ban-hddt)
-  * [ Tra cứu ](https://einvoice.vn/hoa-don-dien-tu)
-
-
-## Sản phẩm khác
-  * [ Phần mềm hải quan điện tử ECUS ](https://ecus.vn)
-  * [ Phần mềm bảo hiểm xã hội điện tử eBH ](https://ebh.vn)
-  * [ Phần mềm thuế điện tử ETAX ](https://www.etax.net.vn)
-  * [ Phần mềm văn phòng điện tử CloudOffice ](https://cloudoffice.com.vn)
-  * [ Phần mềm quản lý hóa đơn đầu vào GETinvoice ](https://einvoice.vn/getinvoice)
-  * [ Phần mềm Hợp đồng điện tử iContract ](https://icontract.com.vn)
-  * [ Dịch vụ chữ ký số công cộng ECA ](https://eca.com.vn)
-  * [ Chứng từ khấu trừ thuế thu nhập cá nhân điện tử ECN ](https://ecn.net.vn)
-  * [ Phần mềm quản lý bán hàng TruePos ](https://truepos.vn)
-
-
-Trụ sở chính
-Số 15, phố Đặng Thùy Trâm, phường Nghĩa Đô, Thành phố Hà Nội
-[024.3754.5222](tel:02437545222)
-Trung tâm lập trình
-Số 15, phố Đặng Thùy Trâm, phường Nghĩa Đô, Thành phố Hà Nội
-[024.3754.5222](tel:02437545222)
-Chi nhánh 1 TP.HCM
-33A, đường Cửu Long, phường Tân Sơn Hoà, Thành phố Hồ Chí Minh
-[028.3547.0355](tel:02437545222)
-Chi nhánh 2 TP.HCM
-B4-08 Toà nhà BICONSI số 215A, đường Yersin, phường Thủ Dầu Một, Thành phố Hồ Chí Minh 
-[027.4384.8886](tel:02437545222)
-Chi nhánh Đồng Nai
-595, đường Đồng Khởi, khu phố 8, phường Tân Triều, Thành Phố Đồng Nai
-[025.1887.1868](tel:02437545222)
-Chi nhánh Đà Nẵng
-Tầng 4 - Tòa nhà EVNGENCO 2, số 143, đường Xô Viết Nghệ Tĩnh, phường Cẩm Lệ, Thành phố Đà Nẵng
-[023.6386.8363](tel:02437545222)
-[ ](https://www.dmca.com/Protection/Status.aspx?ID=c90ac2d4-b5b8-4009-899c-ef6de6f2195d&refurl=https://einvoice.vn/ "DMCA.com Protection Status") [](https://www.facebook.com/einvoicevn) [](https://www.youtube.com/channel/UCOCzX6RVpgH-lffjdxsdy6Q)
-© Bản quyền thuộc về TSD CO.,LTD. All rights reserved.
-Đóng lại ×
-Đăng ký nhận tư vấn
-Họ & tên *
-Mã số thuế *
-Email *
-Điện thoại *
-Vui lòng chọn khu vực *
-Miền Bắc Miền Trung Miền Nam
-Nội dung 
-Nhập lại Đăng ký
-Đóng lại ×
-Đăng ký sử dụng
-Họ & tên *
-Email *
-Điện thoại *
-Vui lòng chọn khu vực*
-Miền Bắc Miền Trung Miền Nam
-Mã số thuế 
-Tên doanh nghiệp
-Nội dung 
-Mã giới thiệu 
-Mã kiểm tra *
-  
-![](https://einvoice.vn/DefaultCaptcha/Generate?t=42f474e5670f4f5cb7ddbd414ddb7f2a)   
-[Refresh](https://einvoice.vn/tin-tuc/bo-thue-mon-bai#CaptchaImage)  
-Input symbols  
+[ ![Xây dựng chính sách](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/logo.png) ](https://xaydungchinhsach.chinhphu.vn/ "Trang chủ")
+Báo điện tử chính phủ 
+Xây dựng chính sách, pháp luật 
+Diễn đàn của nhân dân, doanh nghiệp về xây dựng, thực thi chính sách, pháp luật 
+[ ](https://xaydungchinhsach.chinhphu.vn/ "Trang chủ")
+[Chính sách mới](https://xaydungchinhsach.chinhphu.vn/chinh-sach-moi.htm "Chính sách mới")
+[Tham vấn chính sách](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach.htm "Tham vấn chính sách")
+[Người dân góp ý](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach/nguoi-dan-gop-y.htm "Người dân góp ý") [Doanh nghiệp hiến kế](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach/doanh-nghiep-hien-ke.htm "Doanh nghiệp hiến kế")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/huong-dan-thuc-hien-chinh-sach.htm "Hướng dẫn thực hiện chính sách")
+[Phát triển kinh tế tư nhân và doanh nghiệp dân tộc](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc.htm "Phát triển kinh tế tư nhân và doanh nghiệp dân tộc")
+[Ocop và chuỗi giá trị Nông sản](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/ocop-va-chuoi-gia-tri-nong-san.htm "Ocop và chuỗi giá trị Nông sản") [Kinh tế tư nhân](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/kinh-te-tu-nhan.htm "Kinh tế tư nhân") [Doanh nghiệp dân tộc](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/doanh-nghiep-dan-toc.htm "Doanh nghiệp dân tộc")
+Gửi thông tin góp ý hiến kế 
+![Chúng tôi luôn Lắng nghe và phản hồi](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/image-feedback.png) Chúng tôi luôn Lắng nghe và phản hồi 
+Gọi tổng đài 
+![Chúng tôi luôn Lắng nghe và phản hồi](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/image-feedback.png) Chúng tôi luôn Lắng nghe và phản hồi 
+Gọi đến 0964 96 66 88 tổng đài tiếp nhận các góp ý, đề xuất, hiến kế 
+Hoặc
+[ ](https://zalo.me/3692566389422713378 "Góp ý qua Zalo") [ ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Góp ý trực tiếp")
+Đóng
+Gửi thông tin góp ý hiến kế 
+[ ![Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý](https://xdcs.cdnchinhphu.vn/zoom/200_125/446259493575335936/2026/3/12/t1-17732991101161477888570-0-0-1051-1681-crop-17732992893961593134797.jpg) ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý")
+###  [ Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư 18/2026/TT-BTC người nộp thuế cần lưu ý ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý")
+(Chinhphu.vn) - Nghị định số 68/2026/NĐ-CP và Thông tư số 18/2026/TT-BTC quy định nhiều nội dung mới liên quan đến khai thuế, nộp thuế, sử dụng hóa đơn điện tử và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh. 
+Gọi tổng đài 
+![Chúng tôi luôn Lắng nghe và phản hồi](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/image-feedback.png) Chúng tôi luôn Lắng nghe và phản hồi 
+Gọi đến 0964 96 66 88 tổng đài tiếp nhận các góp ý, đề xuất, hiến kế 
+Hoặc
+[ ](https://zalo.me/3692566389422713378 "Góp ý qua Zalo") [ ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Góp ý trực tiếp")
+Đóng
+[ ](javascript:; "chia sẻ facebook") [ ](javascript:; "copy link") [ ](https://xaydungchinhsach.chinhphu.vn/print/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "In bài viết")
+[ ](javascript:; "Tăng cỡ chữ") [ ](javascript:; "Giảm cỡ chữ")
+[ HƯỚNG DẪN CHÍNH SÁCH THUẾ MỚI ](https://xaydungchinhsach.chinhphu.vn/huong-dan-chinh-sach-thue-moi.htm "HƯỚNG DẪN CHÍNH SÁCH THUẾ MỚI ")
+#  Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư 18/2026/TT-BTC người nộp thuế cần lưu ý 
+23/04/2026 09:19 
+![google news](https://static.mediacdn.vn/VTV/web/images/gg.png) [ Chia sẻ ](javascript:; "Chia sẻ Facebook")
+##  (Chinhphu.vn) - Nghị định số 68/2026/NĐ-CP và Thông tư số 18/2026/TT-BTC quy định nhiều nội dung mới liên quan đến khai thuế, nộp thuế, sử dụng hóa đơn điện tử và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh. 
+![Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý- Ảnh 1.](https://xdcs.cdnchinhphu.vn/thumb_w/640/446259493575335936/2026/3/12/t1-17732991101161477888570.jpg)
+Theo quy định mới, HKD, CNKD tự xác định doanh thu và thực hiện nghĩa vụ khai, nộp thuế theo các ngưỡng doanh thu khác nhau
+Nhằm tiếp tục hoàn thiện chính sách thuế, tạo thuận lợi cho hộ kinh doanh, cá nhân kinh doanh và nâng cao hiệu quả quản lý thuế trong bối cảnh chuyển đổi số, Chính phủ đã ban hành Nghị định số 68/2026/NĐ-CP ngày 05/3/2026, Bộ Tài chính ban hành Thông tư số 18/2026/TT-BTC hướng dẫn thực hiện. Các văn bản này quy định nhiều nội dung mới liên quan đến khai thuế, nộp thuế, sử dụng hóa đơn điện tử và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.
+Nghị định số 68/2026/NĐ-CP và Thông tư số 18/2026/TT-BTC được ban hành trên cơ sở các luật mới về thuế và quản lý thuế, gồm: Luật Thuế giá trị gia tăng số 48/2024/QH15, Luật sửa đổi bổ sung một số Luật Thuế giá trị gia tăng số 149/2025/QH15, Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Luật Quản lý thuế số 108/2025/QH15. Các quy định mới hướng tới mục tiêu minh bạch hóa nghĩa vụ thuế, tăng cường ứng dụng công nghệ thông tin và phù hợp với sự phát triển của thương mại điện tử và kinh tế số.
+## **Hoàn thiện cơ chế khai và nộp thuế đối với HKD, CNKD**
+Theo quy định mới, hộ kinh doanh, cá nhân kinh doanh (HKD, CNKD) tự xác định doanh thu và thực hiện nghĩa vụ khai, nộp thuế theo các ngưỡng doanh thu khác nhau. 
+Theo đó, HKD, CNKD tự xác định có doanh thu năm từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ từ 500 triệu đồng trở xuống thực hiện thông báo doanh thu thực tế phát sinh trong năm và kê khai các loại thuế liên quan với cơ quan thuế chậm nhất vào ngày 31/01 của năm dương lịch tiếp theo. Trường hợp phát sinh doanh thu thực tế trên 500 triệu đồng trong năm thì thực hiện khai thuế, nộp thuế kể từ quý phát sinh doanh thu trên 500 triệu đồng.
+Đối với HKD, CNKD tự xác định có mức doanh thu năm từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ trên 500 triệu đồng bao gồm cả doanh thu đã được tổ chức, cá nhân khấu trừ, khai thay, nộp thay; trường hợp HKD, CNKD lựa chọn nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) Doanh thu tính thuế thì việc khai, nộp thuế GTGT, thuế TNCN và các loại thuế khác theo quý và thời hạn nộp hồ sơ khai thuế chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo. 
+Trường hợp HKD, CNKD thuộc đối tượng nộp thuế TNCN theo phương pháp thu nhập tính thuế nhân (x) thuế suất thì việc khai, nộp thuế GTGT và các loại thuế khác theo tháng, tạm nộp thuế TNCN theo tháng (nếu doanh thu năm trên 50 tỷ đồng), khai, nộp thuế GTGT và các loại thuế khác, tạm nộp thuế TNCN quý (nếu doanh thu năm từ 50 tỷ đồng trở xuống).
+Số thuế TNCN tạm nộp bằng thuế suất nhân (x) doanh thu tính thuế của tháng, quý và khai quyết toán thuế TNCN theo năm, thời hạn nộp chậm nhất là ngày 31/3 của năm dương lịch tiếp theo.
+## **Tăng cường ứng dụng hóa đơn điện tử**
+Nghị định 68/2026/NĐ-CP cũng quy định rõ về việc sử dụng hóa đơn điện tử. Theo đó, HKD, CNKD có doanh thu tính thuế giá trị gia tăng hằng năm từ 01 tỷ đồng trở lên phải áp dụng hóa đơn điện tử.
+Đối với HKD, CNKD có doanh thu tính thuế giá trị gia tăng năm trên 500 triệu đồng và dưới 01 tỷ đồng không bắt buộc sử dụng hóa đơn điện tử. Trường hợp đáp ứng điều kiện và có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Trường hợp HKD, CNKD không đăng ký sử dụng hóa đơn điện tử, có nhu cầu sử dụng hóa đơn điện tử thì thực hiện khai và nộp thuế trước khi được cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh giao dịch bán hàng hóa, cung cấp dịch vụ.
+![Nội dung mới của Nghị định 68/2026/NĐ-CP và Thông tư  18/2026/TT-BTC người nộp thuế cần lưu ý- Ảnh 2.](https://xdcs.cdnchinhphu.vn/446259493575335936/2026/3/12/t2-17732991114331822835231.jpg)
+HKD, CNKD thực hiện thông báo cho cơ quan thuế theo phương thức điện tử
   
 
-Tôi đồng ý với chính sách bảo mật
-Nhập lại Đăng ký
-Điều khoản bảo mật & Thu thập thông tin 
-Chúng tôi cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của bạn.   
-Khi đăng ký thông tin vào form, bạn đồng ý với các điều khoản sau: 
-Mục đích thu thập thông tin  
-Dữ liệu của bạn được sử dụng để cung cấp dịch vụ, hỗ trợ khách hàng và cải thiện trải nghiệm của bạn.
-Phạm vi sử dụng dữ liệu  
-Chúng tôi chỉ thu thập các thông tin cần thiết để hỗ trợ đăng ký và phục vụ khách hàng như tên, số điện thoại, email và thông tin khác (mã số thuế, đơn vị, người đại diện…)   
-Dữ liệu này sẽ được bảo mật theo chính sách của chúng tôi. 
-Bảo mật thông tin  
-Chúng tôi không chia sẻ thông tin cá nhân với bên thứ ba nếu không có sự đồng ý của bạn, trừ trường hợp cơ quan thực hiện pháp luật yêu cầu.   
-Bạn có quyền yêu cầu chỉnh sửa hoặc xóa dữ liệu cá nhân bất cứ lúc nào. 
-Chấp nhận
+Trường hợp HKD, CNKD mới ra kinh doanh hoặc có doanh thu tính thuế giá trị gia tăng năm trước chưa đến 01 tỷ đồng nhưng trong năm tính thuế có doanh thu tính thuế giá trị gia tăng từ 01 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. HKD, CNKD đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu tính thuế giá trị gia tăng lũy kế từ 01 tỷ đồng trở lên.
+**Quy định chuyển tiếp và trách nhiệm của người nộp thuế**
+Để tạo thuận lợi cho người nộp thuế trong quá trình chuyển đổi sang phương thức quản lý mới, Nghị định và Thông tư cũng quy định các điều khoản chuyển tiếp. Theo đó, các trường hợp Đối với trường hợp đã kê khai, nộp thuế theo hướng dẫn tại Thông tư số 40/2021/TT-BTC thì không điều chỉnh lại. Trường hợp chưa khai thuế thì thực hiện theo hồ sơ, thủ tục quy định tại Thông tư này và không bị xử phạt.
+Đối với HKD, CNKD chuyển từ phương pháp khoán sang phương pháp kê khai từ năm 2026, cơ quan thuế không sử dụng doanh thu khai thuế năm 2026 để xác định lại nghĩa vụ thuế các năm trước, không xử phạt vi phạm hành chính đối với các nghĩa vụ thuế đã thực hiện theo phương pháp khoán, trừ trường hợp cơ quan thuế, cơ quan nhà nước có thẩm quyền phát hiện HKD, CNKD có hành vi che giấu doanh thu dẫn đến thiếu số thuế phải nộp.
+Bên cạnh đó, HKD, CNKD thực hiện thông báo cho cơ quan thuế theo phương thức điện tử tất cả các số tài khoản mở tại tổ chức cung ứng dịch vụ thanh toán, số hiệu ví điện tử mở tại tổ chức cung ứng dịch vụ trung gian thanh toán liên quan đến sản xuất, kinh doanh nhằm phục vụ công tác quản lý thuế và tăng cường minh bạch trong hoạt động kinh doanh.
+Việc ban hành Nghị định số 68/2026/NĐ-CP và Thông tư số 18/2026/TT-BTC được kỳ vọng sẽ góp phần hoàn thiện hệ thống chính sách thuế, thúc đẩy chuyển đổi số trong quản lý thuế, đồng thời tạo môi trường kinh doanh minh bạch, bình đẳng cho các HKD, CNKD.
+Các quy định mới không chỉ đơn giản hóa thủ tục khai, nộp thuế mà còn tăng cường ứng dụng công nghệ thông tin, giúp người nộp thuế thực hiện nghĩa vụ thuế thuận lợi hơn, qua đó nâng cao hiệu quả quản lý nhà nước về thuế trong giai đoạn phát triển kinh tế số hiện nay./.
+  * Tham khảo thêm
+#### [Thông tư 18/2026/TT-BTC quy định về hồ sơ, thủ tục quản lý thuế với hộ, cá nhân kinh doanh](https://xaydungchinhsach.chinhphu.vn/thong-tu-18-2026-tt-btc-quy-dinh-ve-ho-so-thu-tuc-quan-ly-thue-voi-ho-ca-nhan-kinh-doanh-119260309174321852.htm)
+[![Thông tư 18/2026/TT-BTC quy định về hồ sơ, thủ tục quản lý thuế với hộ, cá nhân kinh doanh](https://xdcs.cdnchinhphu.vn/thumb_w/300/446259493575335936/2026/3/9/quan-ly-thue-la-gi-1773052691883749051429-0-33-288-494-crop-1773052708479644245832.png)](https://xaydungchinhsach.chinhphu.vn/thong-tu-18-2026-tt-btc-quy-dinh-ve-ho-so-thu-tuc-quan-ly-thue-voi-ho-ca-nhan-kinh-doanh-119260309174321852.htm)
+  * Tham khảo thêm
+#### [TOÀN VĂN: Nghị định 68/2026/NĐ-CP quy định về chính sách thuế, quản lý thuế với hộ kinh doanh](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-68-2026-nd-cp-quy-dinh-ve-chinh-sach-thue-quan-ly-thue-voi-ho-kinh-doanh-119260306102906789.htm)
+[![TOÀN VĂN: Nghị định 68/2026/NĐ-CP quy định về chính sách thuế, quản lý thuế với hộ kinh doanh](https://xdcs.cdnchinhphu.vn/thumb_w/300/446259493575335936/2026/3/6/thue-1772767493777390971800-0-20-168-289-crop-17727675010391777581118.jpg)](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-68-2026-nd-cp-quy-dinh-ve-chinh-sach-thue-quan-ly-thue-voi-ho-kinh-doanh-119260306102906789.htm)
+
+
+Nội dung này, đã nhận được 0 góp ý, hiến kế
+Góp ý, hiến kế cho Chính phủ ngay tại đây 
+[ Gọi tổng đài  ](tel:+0964966688 "Gọi tổng đài") [ Góp ý qua Zalo  ](https://zalo.me/3692566389422713378 "Góp ý qua Zalo") [ Gửi góp ý trực tiếp  ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Gửi góp ý trực tiếp")
+Đọc nhiều 
+[ ![NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2026/1/13/phat-trien-van-hoa-1768292590074525173439-0-11-168-280-crop-176829259721141935935.jpg) ](https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm "NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương")
+###  [NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương](https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm "NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+(Chinhphu.vn) - Quốc hội đã thông qua Nghị quyết quy định ngày 24/11 hằng năm là “Ngày Văn hóa Việt Nam”, người lao động được nghỉ làm việc và hưởng nguyên lương. Bộ Nội vụ đề xuất 2 phương án nghỉ Ngày Văn hóa Việt Nam năm 2026.
+[ ![Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2026/6/29/tuyensinh-1782717198796128509659-0-0-428-684-crop-1782717211537240408280.jpg) ](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
+###  [Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Hướng dẫn thực hiện chính sách")
+(Chinhphu.vn) - Toàn văn Quyết định số 1826/QĐ-BGDĐT của Bộ GDĐT ban hành danh mục 111 đào tạo (thuộc 15 nhóm ngành) người học được nhận học bổng theo Nghị định số 179/2026/NĐ-CP của Chính phủ.
+[ ![Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2025/6/12/cover-2-1749718862944335083148.jpg) ](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
+###  [Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+(Chinhphu.vn) - Kể từ ngày 12/6/2025, cả nước có 34 đơn vị hành chính cấp tỉnh, gồm 28 tỉnh và 6 thành phố. Trong đó có 19 tỉnh và 4 thành phố hình thành sau sắp xếp và 11 tỉnh, thành phố không thực hiện sắp xếp.
+[ ![Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2024/10/30/huu-1730262006262356742418-0-0-500-800-crop-1730262008638710542553.jpeg) ](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")
+###  [Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Hướng dẫn thực hiện chính sách")
+(Chinhphu.vn) - Năm 2026, độ tuổi nghỉ hưu của người lao động nam là 61 tuổi 6 tháng, lao động nữ là 57 tuổi. Năm 2027, độ tuổi nghỉ hưu của người lao động nam sẽ là 61 tuổi 9 tháng, lao động nữ sẽ là 57 tuổi 4 tháng;...
+[ ![TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2024/12/24/khcn-1735037666032281784375-4-0-504-800-crop-1735037676858439032787.jpg) ](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia")
+###  [TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+(Chinhphu.vn) - Tổng Bí thư Tô Lâm đã ký ban hành Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Cổng TTĐT Chính phủ trân trọng giới thiệu toàn văn Nghị quyết.
+![Chúng tôi luôn Lắng nghe và phản hồi](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/image-feedback.png) Chúng tôi   
+luôn   
+Lắng nghe   
+và phản hồi 
+Người dân và Doanh nghiệp, ngay bây giờ có có thể thực hiện góp ý và hiến kế cho Chính Phủ bằng các phương thức dưới đây
+[ Gọi tổng đài  ](tel:+0964966688 "Gọi tổng đài") [ Góp ý qua Zalo  ](https://zalo.me/3692566389422713378 "Góp ý qua Zalo") [ Gửi góp ý trực tiếp  ](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Gửi góp ý trực tiếp")
+[ ](https://xaydungchinhsach.chinhphu.vn/ "Trang chủ")
+[Chính sách mới](https://xaydungchinhsach.chinhphu.vn/chinh-sach-moi.htm "Chính sách mới")
+[Tham vấn chính sách](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach.htm "Tham vấn chính sách")
+[Người dân góp ý](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach/nguoi-dan-gop-y.htm "Người dân góp ý") [Doanh nghiệp hiến kế](https://xaydungchinhsach.chinhphu.vn/tham-van-chinh-sach/doanh-nghiep-hien-ke.htm "Doanh nghiệp hiến kế")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/huong-dan-thuc-hien-chinh-sach.htm "Hướng dẫn thực hiện chính sách")
+[Phát triển kinh tế tư nhân và doanh nghiệp dân tộc](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc.htm "Phát triển kinh tế tư nhân và doanh nghiệp dân tộc")
+[Ocop và chuỗi giá trị Nông sản](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/ocop-va-chuoi-gia-tri-nong-san.htm "Ocop và chuỗi giá trị Nông sản") [Kinh tế tư nhân](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/kinh-te-tu-nhan.htm "Kinh tế tư nhân") [Doanh nghiệp dân tộc](https://xaydungchinhsach.chinhphu.vn/phat-trien-kinh-te-tu-nhan-va-doanh-nghiep-dan-toc/doanh-nghiep-dan-toc.htm "Doanh nghiệp dân tộc")
+[Lấy ý kiến nhân dân dự thảo VBQPPL](https://xaydungchinhsach.chinhphu.vn/#Box-Draft "Lấy ý kiến nhân dân dự thảo VBQPPL")
+[ ![Cổng thông tin điện tử chính phủ](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/images/logo-ft.png) ](https://xaydungchinhsach.chinhphu.vn/ "Cổng thông tin điện tử chính phủ")
+###  © BÁO ĐIỆN TỬ CHÍNH PHỦ 
+Tổng Biên tập:  Nguyễn Hồng Sâm 
+Theo dõi trên: 
+[ ](https://www.facebook.com/thongtinchinhphu "Facebook")
+Giấy phép số: 19/GP-CBC, cấp ngày 10/5/2024.   
+Trụ sở: 16 Lê Hồng Phong - Ba Đình - Hà Nội.   
+Điện thoại: 080 43162; Fax: 080.48924;   
+Email: thongtinchinhphu@chinhphu.vn. 
+Bản quyền thuộc Báo Điện tử Chính phủ - Cổng Thông tin điện tử Chính phủ. 
+Ghi rõ nguồn "Báo Điện tử Chính phủ", "Cổng Thông tin điện tử Chính phủ", hoặc www.baochinhphu.vn, www.chinhphu.vn khi phát hành lại thông tin từ các nguồn này. 

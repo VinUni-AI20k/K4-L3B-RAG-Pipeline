@@ -1,267 +1,186 @@
-# Cách tính thuế hộ kinh doanh 2026 chi tiết & ví dụ thực tế
+# Chính thức: Nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm, áp dụng từ 1/1/2026
 
-**Source:** https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-khoan-ho-kinh-doanh/
+**Source:** https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm
 
-**Crawled:** 2026-09-25T10:44:35.338094
+**Crawled:** 2026-09-25T11:37:24.662536
 
 ---
 
-  * [Tính năng](https://www.meinvoice.vn/tinh-nang) [ Bộ giải pháp Hộ kinh doanh NĐ254 ![hiệu ứng](https://www.meinvoice.vn/meInvoice/images/menu/ic-star.svg) Hóa đơn điện tử từ máy tính tiền Bán hàng - Hóa đơn - Khai thuế ](https://www.misaeshop.vn/giai-phap-chuyen-doi-so-toan-dien-cho-ho-kinh-doanh/?source=menu_web&medium=meinvoice.vn&campaign=bogiaiphapHKD)
-    * [Hóa đơn điện tử](https://www.meinvoice.vn/tinh-nang-hoa-don-dien-tu/)
-    * [Hóa đơn điện tử từ máy tính tiền](https://www.meinvoice.vn/hoa-don-dien-tu-khoi-tao-tu-may-tinh-tien/)
-    * [Vé điện tử/Vé điện tử từ máy tính tiền ](https://www.meinvoice.vn/ve-dien-tu/)
-    * [Xử lý hóa đơn](https://www.meinvoice.vn/xu-ly-hoa-don-dau-vao/)
-    * [Biên lai điện tử](https://www.meinvoice.vn/bien-lai-dien-tu/)
-  * [Mua hàng](https://www.meinvoice.vn/bao-gia/)
-    * [Doanh nghiệp](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-      * [Phát hành hóa đơn điện tử](https://www.meinvoice.vn/bao-gia)
-      * [Xử lý hóa đơn](https://www.meinvoice.vn/bao-gia-xu-ly-hoa-don/)
-    * [Hộ, cá nhân kinh doanh](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-      * [Phát hành hóa đơn điện tử](https://store.misa.vn/v3/quote?pid=422&lang=vi)
-      * [Xử lý hóa đơn](https://store.misa.vn/v3/quote?pid=424&lang=vi)
-  * [Kiến thức](https://www.meinvoice.vn/tin-tuc/)
-  * [Tra cứu](https://www.meinvoice.vn/tra-cuu/)
-  * [Tiện ích](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-    * [Tính thuế TNCN](https://www.meinvoice.vn/tien-ich/tinh-thue-thu-nhap-ca-nhan/#can-nop)
-    * [Tính hoàn thuế TNCN](https://www.meinvoice.vn/tien-ich/tinh-thue-thu-nhap-ca-nhan/#hoan-thue)
-    * [Công cụ tính thuế HKD](https://www.misaeshop.vn/cong-cu-tinh-thue-hkd/)
-  * [Download](https://www.meinvoice.vn/download/)
-  * [Hỗ trợ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-    * [Hướng dẫn sử dụng](https://helpv4.meinvoice.vn/)
-    * [Hướng dẫn qua video](https://www.youtube.com/@HoadondientuMISA)
-    * [Lịch đào tạo/chia sẻ online](https://www.misa.vn/danh-sach-lich-dao-tao/?product=misa-meinvoice&type=seminar)
-    * [Cộng đồng MISA](https://www.misa.vn/cong-dong/)
-    * [Chat trực tuyến](https://www.misa.vn/misa-chat/)
-  * [Chứng từ thuế TNCN](https://amis.misa.vn/amis-thue-tncn/?utm_source=meinvoice-vn&utm_medium=menu-web)
-  * [Dùng thử](https://sign-up.meinvoice.vn/)
-  * [Đăng nhập](https://app3.meinvoice.vn/login/1)
+[ ![Báo chính phủ](https://static-cttcp.cdnchinhphu.vn/baochinhphu/image/logo_bcp.png) ](https://baochinhphu.vn/)
+chính phủ nước cộng hòa xã hội chủ nghĩa việt nam
+Báo Điện tử Chính phủ
+[English](https://en.baochinhphu.vn/ "Tiếng Anh") [中文](https://cn.baochinhphu.vn/ "Tiếng Trung")
+  * [ trang chủ ](https://baochinhphu.vn/ "Trang chủ")
+  * [Chính trị](https://baochinhphu.vn/chinh-tri.htm "Chính trị")
+[Đối ngoại](https://baochinhphu.vn/chinh-tri/doi-ngoai.htm "Đối ngoại") [Tổ chức nhân sự](https://baochinhphu.vn/chinh-tri/to-chuc-nhan-su.htm "Tổ chức nhân sự") [Hội nhập](https://baochinhphu.vn/chinh-tri/hoi-nhap.htm "Hội nhập")
+  * [Kinh tế](https://baochinhphu.vn/kinh-te.htm "Kinh tế")
+[Ngân hàng](https://baochinhphu.vn/kinh-te/ngan-hang.htm "Ngân hàng") [Chứng khoán](https://baochinhphu.vn/kinh-te/chung-khoan.htm "Chứng khoán") [Kinh doanh](https://baochinhphu.vn/kinh-te/kinh-doanh.htm "Kinh doanh")
+  * [Văn hóa](https://baochinhphu.vn/van-hoa.htm "Văn hóa")
+[Thể thao](https://baochinhphu.vn/van-hoa/the-thao.htm "Thể thao") [Du lịch](https://baochinhphu.vn/van-hoa/du-lich.htm "Du lịch")
+  * [Xã hội](https://baochinhphu.vn/xa-hoi.htm "Xã hội")
+[Pháp luật](https://baochinhphu.vn/xa-hoi/phap-luat.htm "Pháp luật") [Đời sống](https://baochinhphu.vn/xa-hoi/doi-song.htm "Đời sống") [Y tế](https://baochinhphu.vn/xa-hoi/y-te.htm "Y tế")
+  * [Khoa giáo](https://baochinhphu.vn/khoa-giao.htm "Khoa giáo")
+[Giáo dục](https://baochinhphu.vn/khoa-giao/giao-duc.htm "Giáo dục") [Khoa học - Công nghệ](https://baochinhphu.vn/khoa-giao/khoa-hoc-cong-nghe.htm "Khoa học - Công nghệ")
+  * [Quốc tế](https://baochinhphu.vn/quoc-te.htm "Quốc tế")
+  * [ Góp Ý Hiến Kế ](https://baochinhphu.vn/#gop-y-hien-ke "Góp Ý Hiến Kế")
 
 
-Tìm kiếm
-[ ![MEINVOICE - Hóa Đơn Điện Tử MISA | Tiết kiệm 90% Chi Phí | An toàn nhất](https://www.meinvoice.vn/wp-content/uploads/2026/03/meInvoice.svg) meInvoice Hóa Đơn Điện Tử MISA | Tiết kiệm 90% Chi Phí | An toàn nhất ](https://www.meinvoice.vn/)
-[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-Tiếng Việt
-  * [ English 🔍 📄 🌍 ](https://www.meinvoice.vn/en/ "Switch to English")
+[ Mới Nhất ](https://baochinhphu.vn/tin-moi.htm "Mới Nhất") [ ](javascript:; "Tìm kiếm")
+[ ](https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm)
+[ Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm Liên bang Nga, Cộng hòa Pháp ](https://baochinhphu.vn/chu-de/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-lien-bang-nga-cong-hoa-phap-294.htm "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm Liên bang Nga, Cộng hòa Pháp")
+[ Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ ](https://baochinhphu.vn/chu-de/chien-dich-500-ngay-dem-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si-291.htm "Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ")
+[ Bảo vệ nền tảng tư tưởng của Đảng trong kỷ nguyên phát triển mới ](https://baochinhphu.vn/chu-de/bao-ve-nen-tang-tu-tuong-cua-dang-trong-ky-nguyen-phat-trien-moi-290.htm "Bảo vệ nền tảng tư tưởng của Đảng trong kỷ nguyên phát triển mới")
+[ 100 ngày xử lý các điểm nghẽn về chuyển đổi số ](https://baochinhphu.vn/chu-de/100-ngay-xu-ly-cac-diem-nghen-ve-chuyen-doi-so-295.htm "100 ngày xử lý các điểm nghẽn về chuyển đổi số")
+[ Phát triển nhà ở cho thuê - Trụ cột chiến lược, lâu dài ](https://baochinhphu.vn/chu-de/phat-trien-nha-o-cho-thue-tru-cot-chien-luoc-lau-dai-293.htm "Phát triển nhà ở cho thuê - Trụ cột chiến lược, lâu dài")
+[ Cổng TTĐT Chính phủ ](https://chinhphu.vn "Cổng TTĐT Chính phủ") [ Văn phòng Chính phủ ](https://vpcp.chinhphu.vn/ "Văn phòng Chính phủ") [ ](https://mail.chinhphu.vn/ "email")
+  * An Giang
+  * Bình Dương
+  * Bình Phước
+  * Bình Thuận
+  * Bình Định
+  * Bạc Liêu
+  * Bắc Giang
+  * Bắc Kạn
+  * Bắc Ninh
+  * Bến Tre
+  * Cao Bằng
+  * Cà Mau
+  * Cần Thơ
+  * Điện Biên
+  * Đà Nẵng
+  * Đà Lạt
+  * Đắk Lắk
+  * Đắk Nông
+  * Đồng Nai
+  * Đồng Tháp
+  * Gia Lai
+  * Hà Nội
+  * Hồ Chí Minh
+  * Hà Giang
+  * Hà Nam
+  * Hà Tây
+  * Hà Tĩnh
+  * Hòa Bình
+  * Hưng Yên
+  * Hải Dương
+  * Hải Phòng
+  * Hậu Giang
+  * Khánh Hòa
+  * Kiên Giang
+  * Kon Tum
+  * Lai Châu
+  * Long An
+  * Lào Cai
+  * Lâm Đồng
+  * Lạng Sơn
+  * Nam Định
+  * Nghệ An
+  * Ninh Bình
+  * Ninh Thuận
+  * Phú Thọ
+  * Phú Yên
+  * Quảng Bình
+  * Quảng Nam
+  * Quảng Ngãi
+  * Quảng Ninh
+  * Quảng Trị
+  * Sóc Trăng
+  * Sơn La
+  * Thanh Hóa
+  * Thái Bình
+  * Thái Nguyên
+  * Thừa Thiên Huế
+  * Tiền Giang
+  * Trà Vinh
+  * Tuyên Quang
+  * Tây Ninh
+  * Vĩnh Long
+  * Vĩnh Phúc
+  * Vũng Tàu
+  * Yên Bái
 
 
-[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-[ ![MEINVOICE - Hóa Đơn Điện Tử MISA | Tiết kiệm 90% Chi Phí | An toàn nhất](https://www.meinvoice.vn/wp-content/uploads/2026/03/meInvoice.svg) ](https://www.meinvoice.vn/)
-  * [Tính năng](https://www.meinvoice.vn/tinh-nang)
-    * [Hóa đơn điện tử](https://www.meinvoice.vn/tinh-nang-hoa-don-dien-tu/)
-    * [Hóa đơn điện tử từ máy tính tiền](https://www.meinvoice.vn/hoa-don-dien-tu-khoi-tao-tu-may-tinh-tien/)
-    * [Vé điện tử/Vé điện tử từ máy tính tiền ](https://www.meinvoice.vn/ve-dien-tu/)
-    * [Xử lý hóa đơn](https://www.meinvoice.vn/xu-ly-hoa-don-dau-vao/)
-    * [Biên lai điện tử](https://www.meinvoice.vn/bien-lai-dien-tu/)
-  * [Mua hàng](https://www.meinvoice.vn/bao-gia/)
-    * [Doanh nghiệp](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-      * [Phát hành hóa đơn điện tử](https://www.meinvoice.vn/bao-gia)
-      * [Xử lý hóa đơn](https://www.meinvoice.vn/bao-gia-xu-ly-hoa-don/)
-    * [Hộ, cá nhân kinh doanh](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-      * [Phát hành hóa đơn điện tử](https://store.misa.vn/v3/quote?pid=422&lang=vi)
-      * [Xử lý hóa đơn](https://store.misa.vn/v3/quote?pid=424&lang=vi)
-  * [Kiến thức](https://www.meinvoice.vn/tin-tuc/)
-  * [Tra cứu](https://www.meinvoice.vn/tra-cuu/)
-  * [Tiện ích](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-    * [Tính thuế TNCN](https://www.meinvoice.vn/tien-ich/tinh-thue-thu-nhap-ca-nhan/#can-nop)
-    * [Tính hoàn thuế TNCN](https://www.meinvoice.vn/tien-ich/tinh-thue-thu-nhap-ca-nhan/#hoan-thue)
-    * [Công cụ tính thuế HKD](https://www.misaeshop.vn/cong-cu-tinh-thue-hkd/)
-  * [Download](https://www.meinvoice.vn/download/)
-  * [Hỗ trợ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-    * [Hướng dẫn sử dụng](https://helpv4.meinvoice.vn/)
-    * [Hướng dẫn qua video](https://www.youtube.com/@HoadondientuMISA)
-    * [Lịch đào tạo/chia sẻ online](https://www.misa.vn/danh-sach-lich-dao-tao/?product=misa-meinvoice&type=seminar)
-    * [Cộng đồng MISA](https://www.misa.vn/cong-dong/)
-    * [Chat trực tuyến](https://www.misa.vn/misa-chat/)
-  * [Chứng từ thuế TNCN](https://amis.misa.vn/amis-thue-tncn/?utm_source=meinvoice-vn&utm_medium=menu-web)
-  * [Dùng thử](https://sign-up.meinvoice.vn/)
-  * [Đăng nhập](https://app3.meinvoice.vn/login/1)
+[ ](javascript:; "chia sẻ facebook") [ ](javascript:; "chia sẻ zalo") [ 0 ](https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm#commentpage "bình luận") [ ](https://baochinhphu.vn/print/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm "In bài viết") [ aA  ](javascript:; "Tăng cỡ chữ")
+  * [ Chỉ đạo, quyết định của Chính phủ - Thủ tướng Chính phủ ](https://baochinhphu.vn/chi-dao-quyet-dinh-cua-chinh-phu-thu-tuong-chinh-phu.htm "Chỉ đạo, quyết định của Chính phủ - Thủ tướng Chính phủ")
 
 
-Tiếng Việt
-  * [ English 🔍 📄 🌍 ](https://www.meinvoice.vn/en/ "Switch to English")
+# Chính thức: Nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm, áp dụng từ 1/1/2026
+##  (Chinhphu.vn) - Chính phủ ban hành Nghị định số 141/2026/NĐ-CP ngày 29/4/2026 sửa đổi, bổ sung một số điều của Nghị định số 68/2026/NĐ-CP quy định về chính sách thuế đối với hộ kinh doanh, cá nhân kinh doanh và Nghị định số 320/2025/NĐ-CP quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp. Nghị định này có hiệu lực thi hành từ ngày 01/01/2026. 
+29/04/2026 19:05 
+![Chính thức: Nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm, áp dụng từ 1/1/2026- Ảnh 1.](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/29/hkd-17774632790771885778607.jpg)
+Nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm, áp dụng từ 1/1/2026
+## Nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm 
+Điều 1 Nghị định số 141/2026/NĐ-CP đã sửa đổi, bổ sung một số điều của Nghị định số [68/2026/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=217111 "68/2026/NĐ-CP") ngày 05 tháng 3 năm 2026 của Chính phủ về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh. Cụ thể:
+Sửa đổi cụm từ "500 triệu đồng" thành "01 tỷ đồng" tại Điều 3 (thuế giá trị gia tăng), Điều 4 (thuế thu nhập cá nhân), khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.
+Nghị định số 141/2026/NĐ-CP cũng nêu rõ: Trường hợp hộ kinh doanh, cá nhân kinh doanh tự xác định mức doanh thu năm từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ từ 01 tỷ đồng trở xuống mà đã kê khai nộp thuế thu nhập cá nhân, thuế giá trị gia tăng theo quy định tại Nghị định số 68/2026/NĐ-CP thì được xử lý tiền thuế đã nộp theo quy định tại Điều 12 Nghị định số 68/2026/NĐ-CP.
+Bộ Tài chính cho biết, việc áp dụng mức doanh thu năm không phải nộp thuế thu nhập cá nhân của hộ, cá nhân kinh doanh lên 01 tỷ đồng/năm đồng thời nâng mức doanh thu không chịu thuế giá trị gia tăng của hộ, cá nhân kinh doanh lên 01 tỷ đồng/năm thống nhất với quy định hộ kinh doanh, cá nhân kinh doanh có mức doanh thu hằng năm từ 01 tỷ đồng trở lên sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền kết nối chuyển dữ liệu điện tử với cơ quan thuế.
+Theo số liệu tính toán của cơ quan thuế, hiện nay, số hộ, cá nhân có doanh thu dưới 01 tỷ đồng là khoảng 2.556.042 hộ, cá nhân. Với quy định mới này thì dự kiến số giảm thu ngân sách nhà nước là khoảng 16.650 tỷ đồng so với năm 2025 (thu theo chế độ thuế khoán và mức ngưỡng doanh thu không phải nộp thuế là 100 triệu đồng/năm) và giảm khoảng 4.850 tỷ đồng so với chính sách hiện hành đã điều chỉnh ngưỡng doanh thu miễn thuế lên 500 triệu/năm.
+### Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồng phải áp dụng hóa đơn điện tử
+Nghị định số 141/2026/NĐ-CP cũng sửa đổi, bổ sung khoản 5 Điều 8 Nghị định số 68/2026/NĐ-CP (sử dụng hóa đơn điện tử) như sau:
+Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồng thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.
+Trường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn.
+Trường hợp hộ kinh doanh, cá nhân kinh doanh có doanh thu năm từ 01 tỷ đồng trở xuống đáp ứng điều kiện và có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.
+Hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh tại Điều 9 Nghị định này hoặc hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trước chưa trên 01 tỷ đồng (trừ trường hợp đã đăng ký sử dụng hóa đơn điện tử) nhưng trong năm tính thuế có doanh thu trên 01 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu lũy kế trên 01 tỷ đồng.
+## Ngưỡng thu nhập được miễn thuế của doanh nghiệp là 01 tỷ đồng/năm
+Nghị định số 141/2026/NĐ-CP bổ sung khoản 15 Điều 4 Nghị định số 320/2025/NĐ-CP về thu nhập được miễn thuế thu nhập doanh nghiệp.
+Theo đó, miễn thuế thu nhập doanh nghiệp đối với thu nhập của doanh nghiệp, tổ chức được thành lập theo quy định của pháp luật Việt Nam có tổng doanh thu năm từ 01 tỷ đồng trở xuống, cụ thể như sau:
+Tổng doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được miễn thuế thu nhập doanh nghiệp là tổng doanh thu từ hoạt động bán hàng, cung cấp dịch vụ (không bao gồm các khoản giảm trừ doanh thu), doanh thu từ hoạt động tài chính và thu nhập khác trên Phụ lục kết quả hoạt động sản xuất, kinh doanh kèm theo tờ khai quyết toán thuế thu nhập doanh nghiệp của kỳ tính thuế năm trước liền kề.
+Trường hợp doanh nghiệp có thời gian hoạt động của kỳ tính thuế năm trước liền kề dưới 12 tháng thì tổng doanh thu kỳ tính thuế năm trước liền kề được xác định bằng tổng doanh thu thực tế trong kỳ tính thuế đó chia cho số tháng doanh nghiệp thực tế hoạt động sản xuất, kinh doanh trong kỳ tính thuế nhân với 12 tháng. Trường hợp doanh nghiệp mới thành lập, doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách trong tháng bất kỳ của kỳ tính thuế năm trước liền kề thì thời gian hoạt động được tính đủ tháng.
+Trường hợp doanh nghiệp mới thành lập trong kỳ tính thuế và dự kiến tổng doanh thu trong kỳ tính thuế không quá 01 tỷ đồng thì doanh nghiệp không phải tạm nộp thuế thu nhập doanh nghiệp. Kết thúc kỳ tính thuế, trường hợp tổng doanh thu thực tế trong kỳ tính thuế vượt mức 01 tỷ đồng thì doanh nghiệp thực hiện kê khai, quyết toán thuế thu nhập doanh nghiệp theo quy định và không phải tính tiền chậm nộp.
+Quy định miễn thuế không áp dụng đối với doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam là công ty con hoặc công ty có quan hệ liên kết mà doanh nghiệp trong quan hệ liên kết không phải là doanh nghiệp đáp ứng điều kiện miễn thuế quy định tại khoản này.
+Nghị định số 141/2026/NĐ-CP cũng nêu rõ: Trường hợp doanh nghiệp đã tạm nộp thuế thu nhập doanh nghiệp quý I năm 2026 mà doanh nghiệp dự kiến tổng doanh thu trong kỳ tính thuế từ 01 tỷ đồng trở xuống thì không phải tạm nộp thuế thu nhập các quý tiếp theo, được bù trừ, hoàn trả, hoàn trả kiêm bù trừ thu ngân sách theo quy định của pháp luật về quản lý thuế đối với số thuế nộp thừa.
+Trường hợp kỳ tính thuế năm 2025 có thời điểm kết thúc sau ngày 01 tháng 01 năm 2026 mà doanh nghiệp đáp ứng điều kiện quy định trên thì được miễn thuế thu nhập doanh nghiệp cho thời gian tính từ ngày 01 tháng 01 năm 2026 đến hết kỳ tính thuế năm 2025. Số thuế thu nhập doanh nghiệp được miễn thuế của kỳ tính thuế năm 2025 quy định tại khoản này bằng tổng số thuế thu nhập doanh nghiệp phải nộp của năm 2025 chia cho 12 tháng (hoặc số tháng thực hoạt động của kỳ tính thuế năm 2025 đối với trường hợp doanh nghiệp thành lập mới trong năm 2025) và nhân với số tháng của kỳ tính thuế năm 2025 thuộc năm dương lịch 2026. Từ kỳ tính thuế năm 2026 thực hiện theo quy định tại Điều 2 Nghị định này.
+Theo Bộ Tài chính, để đồng bộ với ngưỡng doanh thu không phải nộp thuế của hộ, cá nhân kinh doanh thì ngưỡng thu nhập được miễn thuế của doanh nghiệp nhỏ là 01 tỷ đồng/năm, qua đó đảm bảo công bằng trong chính sách, giúp cho người nộp thuế lựa chọn mô hình kinh doanh phù hợp, góp phần khuyến khích các hộ kinh doanh chuyển đổi lên mô hình doanh nghiệp với chế độ quản trị chuyên nghiệp và có nhiều điều kiện để nâng cao hơn nữa quy mô, hiệu quả kinh doanh. Quy định này cũng nhằm thể chế hóa Nghị quyết số 68-NQ/TW, trong đó đặt ra mục tiêu đến năm 2030 phấn đấu có 2 triệu doanh nghiệp hoạt động trong nền kinh tế, 20 doanh nghiệp hoạt động/nghìn dân.
+Theo tính toán của Bộ Tài chính, với quy định miễn thuế thu nhập doanh nghiệp đối với doanh nghiệp có tổng doanh thu không quá 01 tỷ đồng/năm thì số thuế thu nhập doanh nghiệp được miễn là khoảng 2.164 tỷ đồng và số lượng doanh nghiệp được miễn khoảng 235.800 doanh nghiệp. 
+  * Tham khảo thêm
+#### [Hộ kinh doanh lập bảng kê tồn kho để xác định thu nhập chịu thuế](https://baochinhphu.vn/ho-kinh-doanh-lap-bang-ke-ton-kho-de-xac-dinh-thu-nhap-chiu-thue-102260423105813212.htm)
+[![Hộ kinh doanh lập bảng kê tồn kho để xác định thu nhập chịu thuế](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/23/419a5bf4-6d83-4b9a-a-17769165815681715140037-0-0-496-794-crop-17769165846431685560467.jpeg)](https://baochinhphu.vn/ho-kinh-doanh-lap-bang-ke-ton-kho-de-xac-dinh-thu-nhap-chiu-thue-102260423105813212.htm)
+  * Tham khảo thêm
+#### [Nơi nộp hồ sơ quyết toán thuế với cá nhân có nhiều nguồn thu nhập](https://baochinhphu.vn/noi-nop-ho-so-quyet-toan-thue-voi-ca-nhan-co-nhieu-nguon-thu-nhap-102260422101055486.htm)
+[![Nơi nộp hồ sơ quyết toán thuế với cá nhân có nhiều nguồn thu nhập](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/22/thue-1776827368390833136696-0-0-393-629-crop-17768273711321040548548.png)](https://baochinhphu.vn/noi-nop-ho-so-quyet-toan-thue-voi-ca-nhan-co-nhieu-nguon-thu-nhap-102260422101055486.htm)
+  * Tham khảo thêm
+#### [Cách xác định khoản chi được trừ khi tính thuế thu nhập doanh nghiệp](https://baochinhphu.vn/cach-xac-dinh-khoan-chi-duoc-tru-khi-tinh-thue-thu-nhap-doanh-nghiep-102260422094512792.htm)
+[![Cách xác định khoản chi được trừ khi tính thuế thu nhập doanh nghiệp](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/22/image-1460-1776825825760359604117-103-0-350-395-crop-17768258387211332974580.png)](https://baochinhphu.vn/cach-xac-dinh-khoan-chi-duoc-tru-khi-tinh-thue-thu-nhap-doanh-nghiep-102260422094512792.htm)
+  * Tham khảo thêm
+#### [Ngưỡng doanh thu chịu thuế 1 tỷ đồng là hài hòa điều kiện hiện nay](https://baochinhphu.vn/nguong-doanh-thu-chiu-thue-1-ty-dong-la-hai-hoa-dieu-kien-hien-nay-102260423132237766.htm)
+[![Ngưỡng doanh thu chịu thuế 1 tỷ đồng là hài hòa điều kiện hiện nay](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/23/202604230910393279z7754148538746f8e1746597b516c16c97b6fb3c62ed3d-1776924826076168807656-33-0-521-780-crop-1776924935266430641804.jpg)](https://baochinhphu.vn/nguong-doanh-thu-chiu-thue-1-ty-dong-la-hai-hoa-dieu-kien-hien-nay-102260423132237766.htm)
+  * Tham khảo thêm
+#### [Đề xuất nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm](https://baochinhphu.vn/de-xuat-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-102260422175516103.htm)
+[![Đề xuất nâng ngưỡng chịu thuế với hộ kinh doanh lên 01 tỷ đồng/năm](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/22/thuehkd1-1776855023907282478324-0-81-630-1089-crop-17768552366251806653632.jpg)](https://baochinhphu.vn/de-xuat-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-102260422175516103.htm)
+  * Tham khảo thêm
+#### [Từ chính sách thuế xăng dầu đến tư duy quản trị mới](https://baochinhphu.vn/tu-chinh-sach-thue-xang-dau-den-tu-duy-quan-tri-moi-102260421231611132.htm)
+[![Từ chính sách thuế xăng dầu đến tư duy quản trị mới](https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2026/4/21/gia-xang-dau-hom-nay-1776788014040647364959-3-0-489-777-crop-1776788090629591137777.jpg)](https://baochinhphu.vn/tu-chinh-sach-thue-xang-dau-den-tu-duy-quan-tri-moi-102260421231611132.htm)
 
 
-[Dùng thử](https://www.meinvoice.vn/dang-ky-dung-thu/) [Đăng nhập](https://app3.meinvoice.vn/login/1)
-[Home](https://www.meinvoice.vn/) [Kiến thức](https://www.meinvoice.vn/tin-tuc/ "View all posts in Kiến thức") Cách tính thuế hộ kinh doanh 2026: Hướng dẫn chi tiết và...
-# Cách tính thuế hộ kinh doanh 2026: Hướng dẫn chi tiết và ví dụ thực tế
-14/04/2026
-163164
-[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.meinvoice.vn%2Ftin-tuc%2F17722%2Fcach-tinh-thue-ho-kinh-doanh%2F "Facebook")[Twitter](https://twitter.com/intent/tweet?text=C%C3%A1ch+t%C3%ADnh+thu%E1%BA%BF+h%E1%BB%99+kinh+doanh+2026%3A+H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+chi+ti%E1%BA%BFt+v%C3%A0+v%C3%AD+d%E1%BB%A5+th%E1%BB%B1c+t%E1%BA%BF&url=https%3A%2F%2Fwww.meinvoice.vn%2Ftin-tuc%2F17722%2Fcach-tinh-thue-ho-kinh-doanh%2F&via=H%C3%B3a+%C4%90%C6%A1n+%C4%90i%E1%BB%87n+T%E1%BB%AD+MISA+%7C+Ti%E1%BA%BFt+ki%E1%BB%87m+90%25+Chi+Ph%C3%AD+%7C+An+to%C3%A0n+nh%E1%BA%A5t "Twitter")
-[Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.meinvoice.vn%2Ftin-tuc%2F17722%2Fcach-tinh-thue-ho-kinh-doanh%2F&title=C%C3%A1ch+t%C3%ADnh+thu%E1%BA%BF+h%E1%BB%99+kinh+doanh+2026%3A+H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+chi+ti%E1%BA%BFt+v%C3%A0+v%C3%AD+d%E1%BB%A5+th%E1%BB%B1c+t%E1%BA%BF "Linkedin")
-[ ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/ "More")
-[![cách tính thuế khoán hộ kinh doanh](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20854%20619'%3E%3C/svg%3E)](https://www.meinvoice.vn/wp-content/uploads/2022/11/cach-tinh-thue-khoan-ho-kinh-doanh.jpg)
-_Việc nắm rõ**cách tính thuế hộ kinh doanh** không chỉ giúp các chủ hộ chủ động trong việc quản lý dòng tiền mà còn là “lá chắn” bảo vệ hộ kinh doanh trước những sai sót đáng tiếc khi đối soát với cơ quan thuế. Trong bối cảnh các quy định về ngưỡng doanh thu chịu thuế và cách tính thuế có nhiều thay đổi từ năm 2026, việc tự tính toán chính xác số thuế phải nộp sẽ giúp bạn tối ưu chi phí và vận hành kinh doanh bền vững hơn._
-**Mục Lục** [Ẩn](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-[ 1. Tổng hợp quy định về cách tính thuế hộ kinh doanh từ 1/1/2026 ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/#1_Tong_hop_quy_dinh_ve_cach_tinh_thue_ho_kinh_doanh_tu_112026)
-[ 2. Chi tiết cách tính thuế hộ kinh doanh theo 4 nhóm doanh thu ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/#2_Chi_tiet_cach_tinh_thue_ho_kinh_doanh_theo_4_nhom_doanh_thu)
-[ ✅ Ví dụ thực tế về cách tính thuế hộ kinh doanh ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/#Vi_du_thuc_te_ve_cach_tinh_thue_ho_kinh_doanh)
-[ 3. Bảng tra cứu mức thuế suất hộ kinh doanh theo ngành nghề mới nhất ](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/#3_Bang_tra_cuu_muc_thue_suat_ho_kinh_doanh_theo_nganh_nghe_moi_nhat)
-## **1. Tổng hợp quy định về cách tính thuế hộ kinh doanh từ 1/1/2026**
-Thuế khoán đã chính thức được xóa bỏ đối với hộ kinh doanh, cá nhân kinh doanh từ ngày 01/01/2026. Tất cả các hộ kinh doanh, cá nhân kinh doanh đều phải thực hiện kê khai và nộp thuế theo quy định mới. Theo đó, từ ngày 01/01/2026, các quy định về thuế đối với hộ kinh doanh và cá nhân kinh doanh có những điều chỉnh quan trọng:
-**(1) Bãi bỏ lệ phí môn bài**
-Theo Điều 10 Nghị quyết 198/2025/QH15, sẽ [**xóa bỏ lệ phí môn bài**](https://www.meinvoice.vn/tin-tuc/44493/bo-thue-mon-bai/) đối với hộ kinh doanh, cá nhân kinh doanh từ ngày 01/01/2026. Do đó, từ 2026, hộ kinh doanh, cá nhân kinh doanh sẽ **chỉ nộp 2 loại thuế là thuế GTGT và thuế TNCN**.
-**(2) Nâng ngưỡng doanh thu chịu thuế lên 1 tỷ đồng**
-Theo Luật Thuế GTGT sửa đổi 2025 và Luật Thuế TNCN 2025, hộ kinh doanh và cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch **từ 1 tỷ đồng trở xuống** (thay vì mức 500 triệu đồng như trước đây) sẽ thuộc diện **không chịu thuế GTGT và TNCN**.
-Mức 1 tỷ đồng cũng là khoảng được trừ trước khi tính thuế TNCN cho hộ, cá nhân kinh doanh với các hộ có doanh thu trên 1 tỷ đồng/năm thuộc diện nộp thuế.
-**(3) Chia hộ kinh doanh thành 4 nhóm doanh thu để tính thuế**
-Hộ kinh doanh, cá nhân kinh doanh được phân chia thành 04 nhóm với quy định cách tính thuế TNCN và GTGT riêng như sau:
-– **Nhóm 1:** Hộ kinh doanh có doanh thu từ **1 tỷ đồng/năm trở xuống**
-– **Nhóm 2:** Hộ kinh doanh có doanh thu **trên 1 tỷ đồng/năm đến 3 tỷ đồng**
-– **Nhóm 3:** Hộ kinh doanh có doanh thu**trên 3 tỷ đồng đến 50 tỷ đồng**
-– **Nhóm 4:** Hộ kinh doanh có doanh thu **trên 50 tỷ đồng**
-Chi tiết cách tính thuế cho từng nhóm hộ kinh doanh sẽ được trình bày tại phần 2 dưới đây.
-Đồng hành cùng hộ kinh doanh kê khai thuế đúng quy định sau khi chuyển lên kê khai, MISA đã triển khai chương trình: **Tặng MIỄN PHÍ phần mềm khai thuế (kèm 50 hóa đơn đầu vào, 3 tháng bán hàng và lập tờ khai thuế, sổ sách miễn phí)** giúp bà con an tâm khai thuế dễ dàng, đúng quy định.  
-| ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20393%20584'%3E%3C/svg%3E)  |  **_  
-_**_Đồng hành cùng bà con,**MISA tặng MIỄN PHÍ phần mềm khai thuế sử dụng được ngay trên điện thoại,** giúp bà con an tâm chuyển đổi kê khai dễ dàng, đúng quy định._ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2028'%3E%3C/svg%3E)[![CTA dùng thử](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20246%2075'%3E%3C/svg%3E)](https://ld.misa.vn/chinh-sach-ho-tro-hkd-mien-phi-bo-giai-phap-dap-ung-nd70/?utm_source=Blog&utm_medium=content&utm_campaign=17722&utm_content=CTA&utm_term=billing_ntqchi_)  |  
-| --- | --- |  
-**(4) Bổ sung phương pháp tính thuế TNCN trên lợi nhuận**
-Theo Luật Thuế TNCN 2025, hộ kinh doanh có **doanh thu trên 1 tỷ đồng/năm** **có thể** **nộp thuế TNCN theo lợi nhuận** bên cạnh phương pháp tính thuế theo doanh thu trước đây. Cụ thể, nhóm hộ kinh doanh có doanh thu trên 1 tỷ đồng/năm đến 3 tỷ đồng/năm được lựa chọn tính thuế TNCN theo lợi nhuận hoặc theo doanh thu. Đồng thời, phương pháp tính thuế TNCN trên lợi nhuận là bắt buộc đối với hộ kinh doanh trên 3 tỷ.
-> Xem thêm: [Các trường hợp bị truy thu thuế hộ kinh doanh](https://www.meinvoice.vn/tin-tuc/41615/truy-thu-thue-ho-kinh-doanh/)
-## **2. Chi tiết cách tính thuế hộ kinh doanh theo 4 nhóm doanh thu**
-Căn cứ theo các quy định nêu trên, hộ kinh doanh được chia thành 4 nhóm dựa trên doanh thu năm để áp dụng theo phương pháp tính thuế cho phù hợp. Dưới đây là bảng cách tính thuế TNCN, thuế GTGT cho hộ kinh doanh năm 2026.  
-|  **Tiêu chí**  |  Nhóm 1: **Dưới 1 tỷ đồng**  |  Nhóm 2: **Từ 1 tỷ đến dưới 3 tỷ đồng**  |  Nhóm 3: **Từ 3 tỷ đến dưới 50 tỷ đồng**  |  Nhóm 4: **Trên 50 tỷ đồng**  |  
-| --- | --- | --- | --- | --- |  
-| **Thuế GTGT**  | Không chịu thuế  |  **Doanh thu (x) tỷ lệ VAT** theo ngành nghề (trình bày chi tiết tại phần 3 dưới đây)  |  
-| **Thuế TNCN**  | Không chịu thuế  | Lựa chọn: * ** _Cách 1_** :  _Áp dụng trong trường hợp không xác định được chi phí_ **(Doanh thu – 1 tỷ) x tỷ lệ TNCN theo ngành nghề** (trình bày chi tiết tại phần 3 dưới đây) ***_Cách 2_** _: Áp dụng khi xác định được chi phí_ **(Doanh thu – chi phí) x 15%**  | **(Doanh thu – chi phí) × 17%**  | **(Doanh thu – chi phí) × 20%**  |  
-|  **Khai thuế GTGT**  | Thông báo doanh thu theo quý  | Theo quý  | Theo tháng  |  
-|  **Khai thuế TNCN**  |  Theo quý và quyết toán năm (31/1 năm sau)  |  
-|  **Hóa đơn điện tử**  | Không bắt buộc  | Bắt buộc nếu >1 tỷ Khuyến khích nếu <1 tỷ  |  Bắt buộc  |  Bắt buộc  |  
-### **✅ Ví dụ thực tế về cách tính thuế hộ kinh doanh**
-Anh A có một cửa hàng bán lẻ đồ điện tử (thuộc nhóm Phân phối, cung cấp hàng hóa). Doanh thu năm 2026 của cửa hàng dự kiến là 2 tỷ đồng, chi phí dự kiến là 1.5 tỷ đồng. Vì doanh thu này đã vượt ngưỡng 1 tỷ đồng/năm và nằm trong ở nhóm 2, anh A cần nộp thuế như sau:
-  * Thuế GTGT phải nộp = 2.000.000.000 x 1% = 20.000.000 đ
-  * Thuế TNCN được lựa chọn 1 trong 2 cách:
+  
+
+  * [thuế](https://baochinhphu.vn/thue.html "thuế")
+  * [Hộ kinh doanh](https://baochinhphu.vn/ho-kinh-doanh.html "Hộ  kinh doanh")
+  * [doanh nghiệp](https://baochinhphu.vn/doanh-nghiep.html "doanh nghiệp")
 
 
-**Cách 1** : Tính trực tiếp trên doanh thu (phần vượt ngưỡng)
-Thuế TNCN phải nộp = (Doanh thu chịu thuế – Ngưỡng doanh thu được trừ) x Tỷ lệ % tính thuế TNCN theo ngành nghề
-Thuế TNCN phải nộp = (2.000.000.000 – 1.000.000.000) x 0.5% = 5.000.000 đ
-→ Tổng số thuế: = 20.000.000 + 5.000.000 = 25.000.000đ
-**Cách 2** : Tính theo thu nhập chịu thuế (Lợi nhuận = Doanh thu – Chi phí hợp lý)
-=Thuế TNCN phải nộp: (2.000.000.000 – 1.500.000.000) x 15% = 75.000.000 đ
-→ Tổng số thuế: = 20.000.000 + 75.000.000 = 95.000.000đ
-> Thay vì phải tự mình nghiên cứu hàng loạt thông tư, nghị định phức tạp hay loay hoay với các bảng tính Excel dễ nhầm lẫn, chủ hộ kinh doanh hiện nay đã có giải pháp tối ưu hơn để xác định chính xác nghĩa vụ thuế của mình.
-> Nhằm hỗ trợ các cá nhân và hộ kinh doanh kê khai và tính thuế đúng quy định, dễ dàng, **MISA eShop** đã phát triển**Công cụ tính thuế hộ kinh doanh online** **hoàn toàn miễn phí và cực kỳ tiện lợi**. Chủ hộ chỉ cần thực hiện **3 bước đơn giản** : Chọn lĩnh vực kinh doanh, chọn nhóm ngành nghề cụ thể và nhập tổng doanh thu thực tế.
-> Hệ thống sẽ tự động áp dụng các công thức tính thuế mới nhất để trả về **kết quả chi tiết về số thuế GTGT và thuế TNCN phải nộp**. Đồng thời, đưa ra gợi ý các hộ kinh doanh **nên lựa chọn phương pháp nộp thuế TNCN theo lợi nhuận hay doanh thu** sao cho tối ưu nhất.
-> → Trải nghiệm công cụ tính thuế hộ kinh doanh 2026 mới nhất nhanh chóng, chính xác và miễn phí ngay [**TẠI ĐÂY**](https://www.misaeshop.vn/cong-cu-tinh-thue-hkd/)
-![công cụ tính thuế blog meinvoice ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201071%20813'%3E%3C/svg%3E)
-_Kết quả hiển thị trên Công cụ tính thuế hộ kinh doanh online MISA eShop với trường hợp của anh A_
-## **3. Bảng tra cứu mức thuế suất hộ kinh doanh theo ngành nghề mới nhất**
-Tra cứu tỷ lệ % tính thuế TNCN, thuế GTGT đối với hộ kinh doanh tính trực tiếp trên doanh thu quy định tại Điều 7 Luật thuế thu nhập cá nhân 2025 và Điều 12 Luật Thuế Giá trị gia tăng 2024 (được quy định chi tiết tại Phụ lục I ban hành kèm theo Thông tư 40/2021/TT-BTC) như sau:  
-| **Danh mục ngành nghề**  | **Mức thuế GTGT**  | **Mức thuế TNCN**  |  
-| --- | --- | --- |  
-| Phân phối, cung cấp hàng hóa  | 1%  | 0,5%  |  
-| Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu  | 3%  | 1,5%  |  
-| Dịch vụ, xây dựng không bao thầu nguyên vật liệu  
-_Riêng hoạt động cho thuê tài sản, đại lý bảo hiểm, đại lý xổ số, đại lý bán hàng đa cấp: thuế suất tính thuế TNCN 5%_  | 5%  | 2%  |  
-| Cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số  | 5%  | 5%  |  
-| Cho thuê bất động sản, trừ hoạt động kinh doanh lưu trú  | 5%  | 5%  |  
-| Hoạt động kinh doanh khác  | 2%  | 1%  |  
-_**Xem thêm:**_
-  * [_Thuế hộ kinh doanh cá thể 2026: Mức đóng, Cách tính & Quy định mới nhất_](https://www.meinvoice.vn/tin-tuc/31295/thue-ho-kinh-doanh/)
-  * [_Hướng dẫn kê khai thuế hộ, cá nhân kinh doanh năm 2026_](https://www.meinvoice.vn/tin-tuc/14863/ke-khai-thue-doi-voi-ho-kinh-doanh/)
+  * [ trang chủ ](https://baochinhphu.vn/ "trang chủ")
+  * [ Chính trị ](https://baochinhphu.vn/chinh-tri.htm "Chính trị")
+  * [ Kinh tế ](https://baochinhphu.vn/kinh-te.htm "Kinh tế")
+  * [ Văn hóa ](https://baochinhphu.vn/van-hoa.htm "Văn hóa")
+  * [ Xã hội ](https://baochinhphu.vn/xa-hoi.htm "Xã hội")
+  * [ Khoa giáo ](https://baochinhphu.vn/khoa-giao.htm "Khoa giáo")
+  * [ Quốc tế ](https://baochinhphu.vn/quoc-te.htm "Quốc tế")
+  * [ GÓP Ý HIẾN KẾ ](https://baochinhphu.vn/#gop-y-hien-ke "GÓP Ý HIẾN KẾ")
 
 
-Trên đây là những thông tin về **cách tính thuế hộ kinh doanh** nhỏ lẻ mà **[meInvoice](https://www.meinvoice.vn/)** chia sẻ tới bạn đọc. Hy vọng những thông tin này sẽ góp phần giúp bạn khi cần tính các loại thuế của hộ kinh doanh. 
-Bên cạnh việc sử dụng công cụ tính toán, để giải quyết triệt để bài toán về kê khai thuế, sổ sách kế toán và tuân thủ các quy định mới nhất từ năm 2026, các chủ hộ kinh doanh nên cân nhắc áp dụng công nghệ vào quản lý.
-Phần mềm **MISA eShop** là giải pháp chuyên biệt giúp anh/chị **quản lý toàn bộ hoạt động kinh doanh** một cách khoa học, đồng thời **đáp ứng đầy đủ các nghĩa vụ pháp lý** với trọn bộ tính năng vượt trội:
-[![Phần mềm MISA eShop 6-trong-1 cho Hộ kinh doanh,](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%20481'%3E%3C/svg%3E)](https://ld.misa.vn/chinh-sach-ho-tro-hkd-mien-phi-bo-giai-phap-dap-ung-nd70/?utm_source=blog&utm_medium=content&utm_campaign=mei-17722&utm_content=tang-pm-2tr-hkd&utm_term=rtl_ntqchi_)
-  * **An tâm kinh doanh tuyệt đối:** MISA eShop **tích hợp đầy đủ các nghiệp vụ từ Bán hàng, Xuất hóa đơn, Kê khai đến Sổ sách kế toán**.
-  * **Giao diện trực quan, dễ tiếp cận:** Phần mềm được thiết kế với giao diện thân thiện, giúp các **chủ hộ dễ dàng làm quen và sử dụng hiệu quả ngay** mà không cần có kiến thức chuyên sâu về kế toán.
-  * **Thao tác tự động hóa toàn diện:** Tiết kiệm tối đa thời gian nhờ khả năng **lên đơn bằng giọng nói, tự động xuất hóa đơn điện tử** ngay khi tạo đơn hàng. Đặc biệt, dữ liệu từ hoạt động bán hàng sẽ được **tự động đồng bộ lên tờ khai thuế và các loại sổ sách kế toán** , hạn chế tối đa sai sót so với việc nhập liệu thủ công.
-  * **Đồng hành và hỗ trợ tận tâm:** Khi sử dụng MISA eShop, anh/chị sẽ được tham gia các lớp **đào tạo, hướng dẫn chi tiết từ đội ngũ chuyên gia**.
-
-
-ĐẶC BIỆT, **MISA đang có ưu đãi tặng miễn phí phần mềm MISA eShop** (kèm 50 hóa đơn đầu vào, 3 tháng bán hàng và lập tờ khai thuế, sổ sách miễn phí). Không chỉ vậy, hộ kinh doanh còn được **Miễn phí tư vấn thuế từ các chuyên gia, đại lý thuế** và **Miễn phí hướng dẫn khai thuế,** hướng dẫn ĐÚNG – ĐỦ – CẦM TAY CHỈ VIỆC, giúp bà con không sợ làm sai quy định.
-_ƯU ĐÃI CÓ HẠN, ANH/CHỊ ĐĂNG KÝ NGAY TẠI ĐÂY:_
-**[![CTA dùng thử](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20246%2075'%3E%3C/svg%3E)](https://ld.misa.vn/chinh-sach-ho-tro-hkd-mien-phi-bo-giai-phap-dap-ung-nd70/?utm_source=Blog&utm_medium=content&utm_campaign=17722&utm_content=CTA&utm_term=billing_ntqchi_)**
-**Lưu ý:** Nội dung bài viết được biên soạn dựa trên quy định pháp luật hiện hành tại thời điểm đăng tải, nhằm mục đích cung cấp thông tin tham khảo, không thay thế hoàn toàn tư vấn pháp lý, thuế hoặc kế toán chuyên biệt cho từng trường hợp cụ thể. Do quy định pháp luật có thể thay đổi hoặc áp dụng khác nhau tùy tình huống thực tế, MISA khuyến nghị người đọc đối chiếu văn bản pháp luật gốc (MISA có đính kèm căn cứ pháp lý gốc ở trên bài viết) hoặc liên hệ cơ quan thuế/chuyên gia tư vấn trước khi áp dụng. MISA không chịu trách nhiệm đối với thiệt hại phát sinh từ việc áp dụng thông tin trong bài viết mà không có sự xác minh phù hợp.
-[Ngô Trần Quỳnh Chi](https://www.meinvoice.vn/author/a-0631/)
-####  [Bài viết liên quan](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)[Bài viết cùng tác giả](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-[![nghị định quản lý chi phí xây dựng](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/51591/quan-ly-chi-phi-dau-tu-xay-dung-theo-nghi-dinh-206-2026-nd-cp/ "Tổng hợp 10 ĐIỂM MỚI NỔI BẬT về quản lý chi phí đầu tư xây dựng theo Nghị định 206/2026/NĐ-CP")
-### [Tổng hợp 10 ĐIỂM MỚI NỔI BẬT về quản lý chi phí đầu tư xây dựng theo Nghị định 206/2026/NĐ-CP](https://www.meinvoice.vn/tin-tuc/51591/quan-ly-chi-phi-dau-tu-xay-dung-theo-nghi-dinh-206-2026-nd-cp/ "Tổng hợp 10 ĐIỂM MỚI NỔI BẬT về quản lý chi phí đầu tư xây dựng theo Nghị định 206/2026/NĐ-CP")
-[![văn bản hợp nhất xử lý vi phạm](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/51293/van-ban-hop-nhat-xu-phat-vi-pham-hanh-chinh-ve-thue-hoa-don/ "Văn bản hợp nhất Nghị định xử phạt vi phạm hành chính về thuế hóa đơn số 27/2026/VBHN-NĐ-BTC")
-### [Văn bản hợp nhất Nghị định xử phạt vi phạm hành chính về thuế hóa đơn số 27/2026/VBHN-NĐ-BTC](https://www.meinvoice.vn/tin-tuc/51293/van-ban-hop-nhat-xu-phat-vi-pham-hanh-chinh-ve-thue-hoa-don/ "Văn bản hợp nhất Nghị định xử phạt vi phạm hành chính về thuế hóa đơn số 27/2026/VBHN-NĐ-BTC")
-[![cập nhật địa chỉ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/51227/cap-nhat-hoa-don-dien-tu-quang-ninh-bac-ninh-len-thanh-pho/ "MISA meInvoice hướng dẫn cập nhật địa chỉ, cơ quan thuế khi Quảng Ninh và Bắc Ninh lên thành phố")
-### [MISA meInvoice hướng dẫn cập nhật địa chỉ, cơ quan thuế khi Quảng Ninh và Bắc Ninh lên thành phố](https://www.meinvoice.vn/tin-tuc/51227/cap-nhat-hoa-don-dien-tu-quang-ninh-bac-ninh-len-thanh-pho/ "MISA meInvoice hướng dẫn cập nhật địa chỉ, cơ quan thuế khi Quảng Ninh và Bắc Ninh lên thành phố")
-[![thuế nhập khẩu xăng dầu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/45439/thue-nhap-khau-xang-dau/ "Chính thức giảm thuế nhập khẩu xăng dầu về 0% theo Nghị định 72/2026/NĐ-CP")
-### [Chính thức giảm thuế nhập khẩu xăng dầu về 0% theo Nghị định 72/2026/NĐ-CP](https://www.meinvoice.vn/tin-tuc/45439/thue-nhap-khau-xang-dau/ "Chính thức giảm thuế nhập khẩu xăng dầu về 0% theo Nghị định 72/2026/NĐ-CP")
-[![hóa đơn xăng dầu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/13180/hoa-don-dien-tu-xang-dau/ "\[Mới\] Tổng hợp các quy định về hóa đơn điện tử xăng dầu")
-### [[Mới] Tổng hợp các quy định về hóa đơn điện tử xăng dầu](https://www.meinvoice.vn/tin-tuc/13180/hoa-don-dien-tu-xang-dau/ "\[Mới\] Tổng hợp các quy định về hóa đơn điện tử xăng dầu")
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/21105/bat-buoc-xuat-hoa-don-dien-tu-xang-dau-theo-tung-lan-ban/ "Cách xuất hóa đơn điện tử xăng dầu theo từng lần bán")
-### [Cách xuất hóa đơn điện tử xăng dầu theo từng lần bán](https://www.meinvoice.vn/tin-tuc/21105/bat-buoc-xuat-hoa-don-dien-tu-xang-dau-theo-tung-lan-ban/ "Cách xuất hóa đơn điện tử xăng dầu theo từng lần bán")
-[![mẫu 07 người phụ thuộc](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/50893/to-khai-07-xn-npt-tncn/ "Mẫu tờ khai 07/XN-NPT-TNCN mới theo thông tư 90/2026/TT-BTC")
-### [Mẫu tờ khai 07/XN-NPT-TNCN mới theo thông tư 90/2026/TT-BTC](https://www.meinvoice.vn/tin-tuc/50893/to-khai-07-xn-npt-tncn/ "Mẫu tờ khai 07/XN-NPT-TNCN mới theo thông tư 90/2026/TT-BTC")
-[![phần mềm xử lý hóa đơn](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/50841/phan-mem-misa-meinvoice-xu-ly-hoa-don-dien-mao-moi-trai-nghiem-moi/ "Phần mềm MISA meInvoice Xử lý hóa đơn: Diện mạo mới, trải nghiệm mới")
-### [Phần mềm MISA meInvoice Xử lý hóa đơn: Diện mạo mới, trải nghiệm mới](https://www.meinvoice.vn/tin-tuc/50841/phan-mem-misa-meinvoice-xu-ly-hoa-don-dien-mao-moi-trai-nghiem-moi/ "Phần mềm MISA meInvoice Xử lý hóa đơn: Diện mạo mới, trải nghiệm mới")
-[![hóa đơn kinh doanh xe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20207%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/50771/hoa-don-kinh-doanh-xe/ "Hướng dẫn lập và phát hành hóa đơn kinh doanh xe CHUẨN nghị định 254/2026/NĐ-CP")
-### [Hướng dẫn lập và phát hành hóa đơn kinh doanh xe CHUẨN nghị định 254/2026/NĐ-CP](https://www.meinvoice.vn/tin-tuc/50771/hoa-don-kinh-doanh-xe/ "Hướng dẫn lập và phát hành hóa đơn kinh doanh xe CHUẨN nghị định 254/2026/NĐ-CP")
-[![người phụ thuộc trên vneid là gì](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/27089/nguoi-phu-thuoc-tren-vneid-la-gi/ "Người phụ thuộc trên VNeID là gì? Cách tích hợp NPT vào VNeID")
-### [Người phụ thuộc trên VNeID là gì? Cách tích hợp NPT vào VNeID](https://www.meinvoice.vn/tin-tuc/27089/nguoi-phu-thuoc-tren-vneid-la-gi/ "Người phụ thuộc trên VNeID là gì? Cách tích hợp NPT vào VNeID")
-[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-[![Dùng thử hóa đơn điện tử](https://www.meinvoice.vn/wp-content/uploads/2020/12/banner-web-meinvoice.jpg)](https://sign-up.meinvoice.vn/)
-> [Hóa đơn điện tử MISA](https://www.facebook.com/MISA.MEINVOICE/)
-[![](https://www.meinvoice.vn/wp-content/uploads/2022/05/trai-nghiem-chu-ky-so-misa-esign.jpeg)](https://esign.misa.vn/dang-ky-dung-thu/)
-> [Hóa đơn điện tử MISA](https://www.facebook.com/MISAESIGN/)
-[ ![banner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20312%20302'%3E%3C/svg%3E)](https://www.meinvoice.vn/xu-ly-hoa-don-dau-vao/?utm_source=meinvoice-vn&utm_medium=banner&utm_campaign=meinbot&utm_content=slidebar&utm_term=billing_bthtrang_)[ ![banner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20312%20312'%3E%3C/svg%3E)](https://www.misaeshop.vn/giai-phap-chuyen-doi-so-toan-dien-cho-ho-kinh-doanh/?source=Blog&medium=content&campaign=meinvoice-banner-goc-phai&term=retail__eshop)
-#### Bài viết nổi bật
-[![hóa đơn điện tử là gì](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/699/hoa-don-dien-tu-la-gi/ "Hóa đơn điện tử là gì? 5 điều doanh nghiệp CẦN PHẢI BIẾT")
-### [Hóa đơn điện tử là gì? 5 điều doanh nghiệp CẦN...](https://www.meinvoice.vn/tin-tuc/699/hoa-don-dien-tu-la-gi/ "Hóa đơn điện tử là gì? 5 điều doanh nghiệp CẦN PHẢI BIẾT")
-[![cách tính thuế TNCN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/18211/cach-tinh-thue-thu-nhap-ca-nhan/ "Mức đóng và cách tính thuế thu nhập cá nhân chi tiết")
-### [Mức đóng và cách tính thuế thu nhập cá nhân chi...](https://www.meinvoice.vn/tin-tuc/18211/cach-tinh-thue-thu-nhap-ca-nhan/ "Mức đóng và cách tính thuế thu nhập cá nhân chi tiết")
-[![tra cứu hóa đơn điện tử](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/771/tra-cuu-hoa-don-dien-tu/ "3 Cách tra cứu hóa đơn đầu vào CHÍNH XÁC trên trang Tổng cục thuế 2026")
-### [3 Cách tra cứu hóa đơn đầu vào CHÍNH XÁC trên...](https://www.meinvoice.vn/tin-tuc/771/tra-cuu-hoa-don-dien-tu/ "3 Cách tra cứu hóa đơn đầu vào CHÍNH XÁC trên trang Tổng cục thuế 2026")
-[![thuế suất thuế GTGT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/14101/thue-suat-thue-gtgt/ "Danh mục hàng hóa thuế suất thuế GTGT 0%, 5%, 10% và 8%")
-### [Danh mục hàng hóa thuế suất thuế GTGT 0%, 5%, 10%...](https://www.meinvoice.vn/tin-tuc/14101/thue-suat-thue-gtgt/ "Danh mục hàng hóa thuế suất thuế GTGT 0%, 5%, 10% và 8%")
-[![quy dinh hoa don dien tu moi nhat](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%20150'%3E%3C/svg%3E)](https://www.meinvoice.vn/tin-tuc/10056/quy-dinh-hoa-don-dien-tu-thong-tu-78/ "\[Tổng hợp\] Những quy định mới về hóa đơn điện tử đáng lưu ý theo Thông tư 78 & Nghị định 123")
-### [[Tổng hợp] Những quy định mới về hóa đơn điện tử...](https://www.meinvoice.vn/tin-tuc/10056/quy-dinh-hoa-don-dien-tu-thong-tu-78/ "\[Tổng hợp\] Những quy định mới về hóa đơn điện tử đáng lưu ý theo Thông tư 78 & Nghị định 123")
-[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/)
-Tìm kiếm nhiều nhất 
-[Hóa đơn điện tử](https://www.meinvoice.vn/)[Hóa đơn điện tử là gì](https://www.meinvoice.vn/tin-tuc/699/hoa-don-dien-tu-la-gi/)[Phần mềm hóa đơn điện tử miễn phí](https://www.meinvoice.vn/tin-tuc/7418/phan-mem-hoa-don-dien-tu-tot-nhat-2/)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2018'%3E%3C/svg%3E)
-Bạn có chia sẻ, góp ý hay cần MISA tư vấn về giải pháp phần mềm? 
-Họ và tên
-Số điện thoại *
-Mã số thuế (hoặc tên DN) *
-Email *
-Tôi muốn: *
-Tôi muốn: * Tư vấn & mua phần mềm Hỗ trợ sau mua Góp ý tới MISA
-Giải pháp tôi quan tâm: *
-Giải pháp tôi quan tâm: * Hóa đơn điện tử MISA meInvoice Chữ ký số MISA eSign PM Thuế thu nhập cá nhân điện tử Nền tảng ký kết hợp đồng điện tử Bộ giải pháp hóa đơn - kế toán cho Hộ KD Khác
-_Lời nhắn của tôi:..._
-Tôi đồng ý với [Chính sách bảo vệ dữ liệu cá nhân](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/) của MISA 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
-Hơn 250.000 Doanh nghiệp đã tư vấn và tin dùng 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20394%20104'%3E%3C/svg%3E)
-[](https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-ho-kinh-doanh/ "Back Top")
-[ ![MISA logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2093%2048'%3E%3C/svg%3E)](https://www.misa.vn/) [ ![MISA AMIS badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20182%2040'%3E%3C/svg%3E)](https://www.meinvoice.vn/) [ ![MISA meInvoice](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)MISA meInvoice ](https://www.meinvoice.vn/)
-CÔNG TY CỔ PHẦN MISA
-Trụ sở chính:
-Tầng 9, tòa nhà Technosoft, phố Duy Tân, phường Cầu Giấy, TP. Hà Nội
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)contact@misa.com.vn
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)Tư vấn bán hàng: [0904 885 833](tel:0904%20885%20833)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)<https://amis.misa.vn/>
-Giấy CNĐKKD: 0101243150 - Ngày cấp lần đầu 22/04/2002 Cơ quan cấp: Phòng Đăng ký kinh doanh - Sở Kế hoạch và Đầu tư TP. Hà Nội 
-Công ty
-[Về MISA](https://www.misa.vn/cong-ty/) [Tin tức](https://www.misa.vn/tin-tuc/) [Tuyển dụng](https://www.misa.vn/tuyen-dung/) [Hợp tác](https://www.misa.vn/tro-thanh-doi-tac-cua-misa/) [Liên hệ](https://www.misa.vn/lien-he/) [Chính sách bảo vệ dữ liệu cá nhân](https://personalagreement.misa.vn/files/privacy/2ad20c3b-f6ce-4912-a85b-9c13dd2737bf/vi/ChinhSachBaoVeDuLieuCaNhan.pdf) [Thông tin thanh toán](https://www.misa.vn/thong-tin-thanh-toan/)
-Liên kết
-[Facebook](https://www.facebook.com/MISA.MEINVOICE) [Youtube](https://www.youtube.com/@HoadondientuMISA) [Zalo](https://zalo.me/3252746980966831395) [Liên hệ](https://amis.misa.vn/lien-he/) [Tiktok](https://www.tiktok.com/@hoadondientu.misa)
-Blogs
-[Tài chính - Kế toán](https://amis.misa.vn/tin-tuc/tai-chinh-ke-toan/) [Quản trị nguồn nhân lực](https://amis.misa.vn/tin-tuc/quan-ly-nhan-su/) [Marketing - Bán hàng](https://amis.misa.vn/tin-tuc/quan-tri-khach-hang/) [Quản lý - Điều hành](https://amis.misa.vn/tin-tuc/quan-tri-doanh-nghiep/) [Kinh doanh cửa hàng bán lẻ](https://www.misaeshop.vn/tin-tuc/) [Kinh doanh nhà hàng](https://www.cukcuk.vn/kien-thuc/) [AI & Data](https://amis.misa.vn/tin-tuc/quan-tri-doanh-nghiep/ai-data/)
-[ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2042'%3E%3C/svg%3E)](https://www.facebook.com/MISA.MEINVOICE) [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2042'%3E%3C/svg%3E)](https://www.youtube.com/@HoadondientuMISA) [ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2042'%3E%3C/svg%3E)](https://zalo.me/3252746980966831395)
-[ ![App Store](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20135%2040'%3E%3C/svg%3E)](https://apps.apple.com/vn/app/meinvoice-h%C3%B3a-%C4%91%C6%A1n/id1460947129?l=vi) [ ![Google Play](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20135%2040'%3E%3C/svg%3E)](https://play.google.com/store/apps/details?id=vn.com.misa.meinvoice&hl=vi)
-![ISO 27001:2022](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)![ISO 9001:2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)![ISO 27017:2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)![CMMI DEV/3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2064'%3E%3C/svg%3E)![CSA STAR Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%2064'%3E%3C/svg%3E)[ ![DMCA.com Protection Status](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://www.dmca.com/Protection/Status.aspx?ID=806ea618-1dc3-47d3-9a25-d282d6d34cea&refurl=https%3A%2F%2Fwww.meinvoice.vn%2Ftin-tuc%2F17722%2Fcach-tinh-thue-ho-kinh-doanh%2F "DMCA.com Protection Status") [ ![ĐÃ THÔNG BÁO BỘ CÔNG THƯƠNG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%2064'%3E%3C/svg%3E)](http://online.gov.vn/Home/WebDetails/3741) [ ![NCSC: Website an toàn thông tin mạng \(mức NÂNG CAO\)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20146%2064'%3E%3C/svg%3E)](https://tinnhiemmang.vn/danh-ba-tin-nhiem/meinvoicevn-1671070936) [ ![NCSC: Website an toàn thông tin mạng \(mức NÂNG CAO\)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2085%20137'%3E%3C/svg%3E)](https://dnschecker.org/ipv6-compatibility-checker.php?url=referer)
-Copyright © 1994–2026 MISA JSC. All rights reserved.
-[Chính sách bảo vệ dữ liệu cá nhân](https://personalagreement.misa.vn/files/privacy/2ad20c3b-f6ce-4912-a85b-9c13dd2737bf/vi/ChinhSachBaoVeDuLieuCaNhan.pdf)
-Tiếng Việt
-Tiếng Việt
-English
-Chat Zalo [ ![zalo](https://www.meinvoice.vn/sites/support-channel/image/ic-zalo.svg)](https://zalo.me/3252746980966831395)
-Gọi điện: 0904885833 [ ![phone](https://www.meinvoice.vn/sites/support-channel/image/ic-phone.svg)](tel:0904885833)
-CHAT NGAY
-![ava](https://www.meinvoice.vn/sites/support-channel/image/img-ava.png)
-CHAT NGAY
-![open](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
-![open](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-Chat mua hàng
-1
-1
+© BÁO ĐIỆN TỬ CỦA CHÍNH PHỦ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Tổng Biên tập: Nguyễn Hồng Sâm
+Giấy phép số: 102/GP-BTTTT, cấp ngày 15/04/2024.
+Trụ sở: 16 Lê Hồng Phong - Ba Đình - Hà Nội;
+Điện thoại: Văn phòng: 080.43162;Fax: 080.48924;
+Email: thongtinchinhphu@chinhphu.vn. 
+[ ![logo](https://static-cttcp.cdnchinhphu.vn/baochinhphu/image/logo-footrer-ap.png) ](https://baochinhphu.vn/ "trang chủ")
+Tải ứng dụng: 
+BÁO ĐIỆN TỬ CHÍNH PHỦ 
+[ ![app store](https://static-cttcp.cdnchinhphu.vn/baochinhphu/image/ip.png) ](https://apps.apple.com/app/b%C3%A1o-%C4%91t-ch%C3%ADnh-ph%E1%BB%A7/id6503898662 "appstore") [ ![google play](https://static-cttcp.cdnchinhphu.vn/baochinhphu/image/gg.png) ](https://play.google.com/store/apps/details?id=vn.chinhphu.baochinhphu "googleplays")
+![Quét ma QR](https://static-cttcp.cdnchinhphu.vn/thumb_w/200/baochinhphu/image/download-app-qrcode.png)
+Quét mã QR để tải
+Bản quyền thuộc Báo Điện tử Chính phủ - Cục Thông tin và Truyền thông Chính phủ. 
+Ghi rõ nguồn "Cục Thông tin và Truyền thông Chính phủ", "Báo Điện tử Chính phủ" hoặc "www.chinhphu.vn" khi phát hành lại thông tin từ các nguồn này. 
+[ ](javascript:;)
