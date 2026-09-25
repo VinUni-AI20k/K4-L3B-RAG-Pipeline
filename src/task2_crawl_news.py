@@ -15,41 +15,53 @@ Cài browser trước khi chạy:
 
 import asyncio
 import json
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from dotenv import load_dotenv
+from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 load_dotenv()
 
 ARTICLE_URLS = [
-    url.strip() for url in os.getenv("ARTICLE_URLS", "").split(",") if url.strip()
+    "https://policy.vinuni.edu.vn/academic-affairs/english-language-requirements-for-undergraduate-admissions/",
+    "https://policy.vinuni.edu.vn/all-policies/english-language-proficiency-requirements-for-graduation-at-vinuniversity/",
+    "https://policy.vinuni.edu.vn/all-policies/guideline-for-program-change-request/",
+    "https://policy.vinuni.edu.vn/all-policies/student-grade-appeal-procedure/",
+    "https://policy.vinuni.edu.vn/all-policies/procedure-for-requesting-a-leave-of-absence-withdrawal-and-return-from-a-leave-of-absence/",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    if not url.startswith(("http://", "https://")):
-        raise ValueError(f"Invalid public URL: {url!r}")
-    from crawl4ai import AsyncWebCrawler
+    """Crawl one public VinUni policy page and return normalized content."""
+    browser_config = BrowserConfig(headless=True, verbose=False)
+    run_config = CrawlerRunConfig(
+        cache_mode=CacheMode.BYPASS,
+        excluded_tags=["nav", "footer", "script", "style", "form"],
+        remove_overlay_elements=True,
+        page_timeout=60_000,
+    )
 
-    async with AsyncWebCrawler() as crawler:
-        result = await crawler.arun(url=url)
-    if getattr(result, "success", True) is False:
-        raise RuntimeError(getattr(result, "error_message", "crawl failed"))
-    metadata = getattr(result, "metadata", None) or {}
-    markdown = getattr(result, "markdown", "")
-    if not isinstance(markdown, str):
-        markdown = getattr(markdown, "raw_markdown", str(markdown))
-    if not markdown.strip():
-        raise ValueError(f"Crawler returned empty content for {url}")
+    async with AsyncWebCrawler(config=browser_config) as crawler:
+        result = await crawler.arun(url=url, config=run_config)
+
+    if not result.success:
+        raise RuntimeError(result.error_message or "Crawler returned an unsuccessful result")
+
+    markdown_result = result.markdown
+    content = getattr(markdown_result, "raw_markdown", markdown_result)
+    content = str(content or "").strip()
+    if len(content) < 200:
+        raise ValueError("Crawled Markdown is empty or too short")
+
+    metadata = result.metadata or {}
+    title = str(metadata.get("title") or url.rstrip("/").rsplit("/", 1)[-1]).strip()
     return {
         "url": url,
-        "title": str(metadata.get("title") or url),
+        "title": title,
         "date_crawled": datetime.now(timezone.utc).isoformat(),
-        "content_markdown": markdown.strip(),
+        "content_markdown": content,
     }
 
 

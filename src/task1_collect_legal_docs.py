@@ -14,14 +14,26 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 import json
 import os
 from pathlib import Path
-from urllib.parse import unquote, urlparse
 
 import requests
-from dotenv import load_dotenv
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
-load_dotenv()
+
+DOCUMENT_SOURCES = {
+    "230515_VUNI_Quy-che-dao-tao-Tien-si.pdf": (
+        "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/"
+        "230515_VUNI_Quy-che-dao-tao-Tien-si.pdf"
+    ),
+    "VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.pdf": (
+        "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/"
+        "VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.pdf"
+    ),
+    "VU_HT03.EN_Academic-Regulations-For-Full-Time-Undergraduate-Programs_30102024.pdf": (
+        "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/"
+        "VU_HT03.EN_Academic-Regulations-For-Full-Time-Undergraduate-Programs_30102024.pdf"
+    ),
+}
 
 
 def setup_directory() -> None:
@@ -32,37 +44,45 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    raw_sources = os.getenv("LEGAL_DOCUMENTS_JSON", "{}").strip()
-    try:
-        sources = json.loads(raw_sources)
-    except json.JSONDecodeError as error:
-        raise ValueError("LEGAL_DOCUMENTS_JSON must be valid JSON") from error
-    if not isinstance(sources, dict) or not sources:
-        raise ValueError(
-            "Set LEGAL_DOCUMENTS_JSON to a JSON object mapping filenames to URLs"
-        )
-    if len(sources) < 3:
-        raise ValueError("LEGAL_DOCUMENTS_JSON must contain at least 3 documents")
+    setup_directory()
+    existing_documents = [
+        path
+        for path in DATA_DIR.iterdir()
+        if path.suffix.lower() in {".pdf", ".doc", ".docx"}
+        and path.stat().st_size > 1024
+    ]
+    if len(existing_documents) >= 3:
+        print("Skipped download: at least 3 valid documents already exist")
+        return
 
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    for configured_name, url in sources.items():
-        if not isinstance(url, str) or not url.startswith(("http://", "https://")):
-            raise ValueError(f"Invalid public URL for {configured_name!r}")
-        filename = str(configured_name).strip() or Path(
-            unquote(urlparse(url).path)
-        ).name
-        if Path(filename).name != filename or Path(filename).suffix.lower() not in {
-            ".pdf", ".doc", ".docx"
-        }:
-            raise ValueError(f"Unsupported or unsafe filename: {filename!r}")
+    headers = {"User-Agent": "VinUni-RAG-Lab/1.0"}
 
-        response = requests.get(url, timeout=(10, 60))
-        response.raise_for_status()
-        if len(response.content) < 1024:
-            raise ValueError(f"Downloaded file is unexpectedly small: {filename}")
+    for filename, url in DOCUMENT_SOURCES.items():
         output = DATA_DIR / filename
-        output.write_bytes(response.content)
-        print(f"Saved: {output}")
+        if output.exists() and output.stat().st_size > 1024:
+            print(f"Skipped existing file: {output}")
+            continue
+
+        temporary_output = output.with_suffix(f"{output.suffix}.part")
+        try:
+            with requests.get(url, headers=headers, timeout=60, stream=True) as response:
+                response.raise_for_status()
+                with temporary_output.open("wb") as file:
+                    for chunk in response.iter_content(chunk_size=64 * 1024):
+                        if chunk:
+                            file.write(chunk)
+
+            if temporary_output.stat().st_size <= 1024:
+                raise ValueError("Downloaded document is too small")
+            with temporary_output.open("rb") as file:
+                if file.read(5) != b"%PDF-":
+                    raise ValueError("Downloaded content is not a PDF")
+
+            temporary_output.replace(output)
+            print(f"Downloaded: {output}")
+        except Exception:
+            temporary_output.unlink(missing_ok=True)
+            raise
 
 
 if __name__ == "__main__":
