@@ -6,41 +6,85 @@ liệu và tên riêng. Output phải theo SearchResult và sort score giảm d�
 """
 
 
-CORPUS: list[dict] = []
+import re
+import unicodedata
+from functools import lru_cache
+
+from rank_bm25 import BM25Okapi
+
+from .task4_chunking_indexing import get_collection
+
+
+# None: đọc snapshot từ Chroma. Gán list chunks để chạy offline/kiểm thử.
+CORPUS: list[dict] | None = None
+
+
+def tokenize(text: str) -> list[str]:
+    """Chuẩn hóa Unicode, chữ thường, tách dấu câu và giữ dấu tiếng Việt."""
+    return re.findall(r"[^\W_]+", unicodedata.normalize("NFC", text).casefold())
+
+
+def load_indexed_corpus() -> list[dict]:
+    """Đọc đúng ID, nội dung và nguồn mà dense search đang sử dụng."""
+    response = get_collection().get(include=["documents", "metadatas"])
+    return [
+        {"id": item_id, "content": content, "metadata": metadata}
+        for item_id, content, metadata in zip(
+            response["ids"], response["documents"], response["metadatas"]
+        )
+    ]
+
+
+@lru_cache(maxsize=1)
+def _cached_index(tokenized: tuple[tuple[str, ...], ...]) -> BM25Okapi | None:
+    if not any(tokenized):
+        return None
+    return BM25Okapi(tokenized)
 
 
 def build_bm25_index(corpus: list[dict]):
-    """Tạo BM25 index từ cùng corpus chunks của Task 4."""
-    # TODO: Tokenize và tạo BM25 index.
-    #
-    # from rank_bm25 import BM25Okapi
-    # tokenized = [item["content"].lower().split() for item in corpus]
-    # return BM25Okapi(tokenized)
-    raise NotImplementedError("Implement build_bm25_index")
+    """Tái sử dụng index nếu token corpus không đổi; corpus không có từ trả None."""
+    tokenized = tuple(tuple(tokenize(item["content"])) for item in corpus)
+    return _cached_index(tokenized)
 
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
-    """Trả về BM25 SearchResult theo score giảm dần."""
-    # TODO: Tính BM25 scores và map lại corpus.
-    #
-    # import numpy as np
-    # bm25 = build_bm25_index(CORPUS)
-    # scores = bm25.get_scores(query.lower().split())
-    # indices = np.argsort(scores)[::-1][:top_k]
-    # results = []
-    # for index in indices:
-    #     if scores[index] <= 0:
-    #         continue
-    #     item = CORPUS[index]
-    #     results.append({
-    #         "id": item["id"],
-    #         "content": item["content"],
-    #         "score": float(scores[index]),
-    #         "metadata": item["metadata"],
-    #         "retrieval_method": "bm25",
-    #     })
-    # return results
-    raise NotImplementedError("Implement lexical_search")
+    """Xếp hạng các chunk có từ khớp; điểm BM25 có thể bằng 0 hoặc âm.
+
+    Mặc định đọc lại snapshot Chroma mỗi lần để nhận thay đổi sau re-index.
+    Index BM25 được cache theo token corpus, không theo số lượng tài liệu.
+    """
+    tokens = tokenize(query)
+    if not tokens or top_k <= 0:
+        return []
+
+    source = CORPUS if CORPUS is not None else load_indexed_corpus()
+    # Giữ lần xuất hiện đầu tiên, cùng quy ước với RRF.
+    unique = {}
+    for item in source:
+        unique.setdefault(item["id"], item)
+    corpus = list(unique.values())
+    bm25 = build_bm25_index(corpus)
+    if bm25 is None:
+        return []
+
+    scores = bm25.get_scores(tokens)
+    query_terms = set(tokens)
+    candidates = [
+        index for index, frequencies in enumerate(bm25.doc_freqs)
+        if query_terms.intersection(frequencies)
+    ]
+    indices = sorted(candidates, key=lambda index: float(scores[index]), reverse=True)
+    return [
+        {
+            "id": corpus[index]["id"],
+            "content": corpus[index]["content"],
+            "score": float(scores[index]),
+            "metadata": corpus[index]["metadata"],
+            "retrieval_method": "bm25",
+        }
+        for index in indices[:top_k]
+    ]
 
 
 if __name__ == "__main__":
