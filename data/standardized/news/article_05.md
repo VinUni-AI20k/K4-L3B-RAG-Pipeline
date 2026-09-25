@@ -1,7 +1,7 @@
 ---
 title: "Tổng hợp các văn bản pháp luật quan trọng cho hộ kinh doanh năm 2025"
 url: "https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh"
-date_crawled: "2026-09-25T10:23:56.377284"
+date_crawled: "2026-09-25T12:24:17.059906"
 doc_type: "news"
 ---
 
@@ -58,7 +58,7 @@ Phía Nam: [1900.4768](tel:19004768)
 
 [Trang chủ](https://einvoice.vn/) ![Tin tức](https://einvoice.vn/Content/img/icon-right-fa.png) [Tin tức ](https://einvoice.vn/tin-tuc) ![Tin tức](https://einvoice.vn/Content/img/icon-right-fa.png) Tổng hợp các văn bản pháp luật quan trọng cho hộ kinh doanh năm 2025
 # Tổng hợp các văn bản pháp luật quan trọng cho hộ kinh doanh năm 2025
-Bởi: Einvoice.vn  - 27/08/2025  Lượt xem:  6238 
+Bởi: Einvoice.vn  - 27/08/2025  Lượt xem:  6239 
 Năm 2025, nhiều văn bản pháp luật quan trọng liên quan đến hộ kinh doanh đã được ban hành và cập nhật. Việc nắm bắt kịp thời các quy định mới không chỉ giúp hộ kinh doanh tuân thủ đúng pháp luật mà còn hạn chế rủi ro trong quá trình hoạt động. Bài viết này tổng hợp những văn bản nổi bật, đang có hiệu lực để hộ kinh doanh dễ dàng tra cứu và áp dụng.  
 |  **Mục Lục** [**1. Hệ thống Luật cho hộ kinh doanh theo quy định pháp luật hiện hành**](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#h_170572285676511756258528066) [1.1. Luật Bảo hiểm xã hội năm 2024](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#h_620845490681831756258533276) [1.2. Luật Quản lý thuế năm 2019 (số 38/2019/QH14)](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#h_260204623685711756258537588) [**2. Nghị định quan trọng áp dụng cho hộ kinh doanh**](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#h_926789996690051756258542456) [**3. Hệ thống Thông tư hướng dẫn dành cho hộ kinh doanh**](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#h_179958821694581756258546408)  |  
 | --- |  
@@ -116,7 +116,7 @@ Việc nắm vững các quy định này giúp chủ hộ thực hiện đúng 
 [![Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử](https://einvoice.vn/FileUpload/images/News/aea2863d-f2cb-40b7-bd26-5450434c0f31.png)](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu)
 ### [Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử ](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu) 04/08/2025-2843 lượt xem 
 [![Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu?](https://einvoice.vn/FileUpload/images/News/0616f3fb-ed32-4f33-b154-4ca7dc1ab97a.png)](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau)
-### [Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu? ](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau) 12/08/2025-2210 lượt xem 
+### [Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu? ](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau) 12/08/2025-2211 lượt xem 
 [![Bộ Tài chính đề xuất cấp miễn phí phần mềm kế toán cho hộ kinh doanh & doanh nghiệp nhỏ](https://einvoice.vn/FileUpload/images/News/1b531ed2-be85-43c6-9a42-4e716b848aa7.jpg)](https://einvoice.vn/tin-tuc/bo-tai-chinh-de-xuat-cap-mien-phi-phan-mem-ke-toan)
 ### [Bộ Tài chính đề xuất cấp miễn phí phần mềm kế toán cho hộ kinh doanh & doanh nghiệp nhỏ ](https://einvoice.vn/tin-tuc/bo-tai-chinh-de-xuat-cap-mien-phi-phan-mem-ke-toan) 23/08/2025-3191 lượt xem 
 [![Tổng hợp biểu mẫu mới về hóa đơn, chứng từ điện tử tại Nghị định 70/2025/NĐ-CP](https://einvoice.vn/FileUpload/images/News/4bfac1a3-71b8-42c8-8e6f-14007fe4c944.jpg)](https://einvoice.vn/tin-tuc/bieu-mau-ve-hoa-don-chung-tu-dien-tu-nghi-dinh-70-2025-nd-cp)
@@ -140,10 +140,10 @@ Việc nắm vững các quy định này giúp chủ hộ thực hiện đúng 
 ### [Hóa đơn điện tử cấp theo từng lần phát sinh: Trường hợp áp dụng và thủ tục thực hiện ](https://einvoice.vn/tin-tuc/hoa-don-dien-tu-tung-lan-phat-sinh)
 ## Xem nhiều nhất
 [![Cách tính thuế TNCN năm 2026 theo mức giảm trừ gia cảnh mới nhất](https://einvoice.vn/FileUpload/images/News/b4415505-1e75-41a4-aea1-9c4441242894.jpg)](https://einvoice.vn/tin-tuc/tinh-thue-tncn-2026)
-### [Cách tính thuế TNCN năm 2026 theo mức giảm trừ gia cảnh mới nhất ](https://einvoice.vn/tin-tuc/tinh-thue-tncn-2026)05/02/2026 - 179868 lượt xem
-### [Hướng dẫn tra cứu nợ thuế thu nhập cá nhân online theo kênh chính thức của cơ quan thuế ](https://einvoice.vn/tin-tuc/tra-cuu-no-thue-tncn)13/03/2026 - 77473 lượt xem
-### [Toàn cảnh chính sách thuế năm 2026: Hệ thống thuế bước vào giai đoạn đổi mới toàn diện ](https://einvoice.vn/tin-tuc/chinh-sach-thue-2026)13/01/2026 - 52021 lượt xem
-### [Kể từ 1/1/2026, hộ kinh doanh nhỏ lẻ sẽ đóng thuế theo cách nào? ](https://einvoice.vn/tin-tuc/ho-kinh-doanh-nho-dong-thue-the-nao)14/01/2026 - 44124 lượt xem
+### [Cách tính thuế TNCN năm 2026 theo mức giảm trừ gia cảnh mới nhất ](https://einvoice.vn/tin-tuc/tinh-thue-tncn-2026)05/02/2026 - 179955 lượt xem
+### [Hướng dẫn tra cứu nợ thuế thu nhập cá nhân online theo kênh chính thức của cơ quan thuế ](https://einvoice.vn/tin-tuc/tra-cuu-no-thue-tncn)13/03/2026 - 77512 lượt xem
+### [Toàn cảnh chính sách thuế năm 2026: Hệ thống thuế bước vào giai đoạn đổi mới toàn diện ](https://einvoice.vn/tin-tuc/chinh-sach-thue-2026)13/01/2026 - 52026 lượt xem
+### [Kể từ 1/1/2026, hộ kinh doanh nhỏ lẻ sẽ đóng thuế theo cách nào? ](https://einvoice.vn/tin-tuc/ho-kinh-doanh-nho-dong-thue-the-nao)14/01/2026 - 44130 lượt xem
   * [ ![Phần mềm hải quan điện tử ECUS](https://einvoice.vn/FileUpload/banner/9.png) ](https://ecus.vn "Phần mềm hải quan điện tử ECUS")
   * [ ![Phần mềm bảo hiểm xã hội điện tử eBH](https://einvoice.vn/FileUpload/banner/4.png) ](https://ebh.vn "Phần mềm bảo hiểm xã hội điện tử eBH")
   * [ ![Phần mềm thuế điện tử ETAX](https://einvoice.vn/FileUpload/banner/10.png) ](https://www.etax.net.vn "Phần mềm thuế điện tử ETAX")
@@ -227,7 +227,7 @@ Nội dung
 Mã giới thiệu 
 Mã kiểm tra *
   
-![](https://einvoice.vn/DefaultCaptcha/Generate?t=946ee45e1bdd4edd93dbd09821eefa70)   
+![](https://einvoice.vn/DefaultCaptcha/Generate?t=df0e247a0b2144c29cb25c9043cb3cd2)   
 [Refresh](https://einvoice.vn/tin-tuc/cac-van-ban-phap-luat-cho-ho-kinh-doanh#CaptchaImage)  
 Input symbols  
   

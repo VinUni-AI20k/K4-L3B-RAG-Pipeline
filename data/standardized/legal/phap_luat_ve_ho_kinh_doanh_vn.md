@@ -1,5 +1,5 @@
 ---
-title: "Phap luat ve ho kinh doanh o Viet Nam hien nay"
+title: "phap luat ve ho kinh doanh vn"
 source: "phap_luat_ve_ho_kinh_doanh_vn.pdf"
 url: "https://fdvn.vn/wp-content/uploads/2025/05/luu-ban-nhap-tu-dong-9-5.pdf"
 doc_type: "legal"

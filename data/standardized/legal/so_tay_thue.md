@@ -1,5 +1,5 @@
 ---
-title: "So tay huong dan thuc hien nghia vu thue danh cho ho kinh doanh"
+title: "so tay thue"
 source: "so_tay_thue.pdf"
 url: "https://cdn.thuvienphapluat.vn/uploads/khoinghiep/2026/03/10/SO-TAY-HO-KINH-DOANH.pdf"
 doc_type: "legal"

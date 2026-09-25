@@ -1,7 +1,7 @@
 ---
 title: "Địa vị pháp lý của hộ kinh doanh theo pháp luật Việt Nam"
 url: "https://tapchitoaan.vn/dia-vi-phap-ly-cua-ho-kinh-doanh-theo-phap-luat-viet-nam15367.html"
-date_crawled: "2026-09-25T10:23:50.351491"
+date_crawled: "2026-09-25T12:24:14.480161"
 doc_type: "news"
 ---
 
@@ -61,7 +61,6 @@ doc_type: "news"
 # Địa vị pháp lý của hộ kinh doanh theo pháp luật Việt Nam
 14/04/2026 15:23
 [ Chia sẻ Zalo ](https://zalo.me/share?u=https://tapchitoaan.vn/dia-vi-phap-ly-cua-ho-kinh-doanh-theo-phap-luat-viet-nam15367.html)
-[Chia sẻ](https://www.facebook.com/sharer/sharer.php?u=ehttps://tapchitoaan.vn/dia-vi-phap-ly-cua-ho-kinh-doanh-theo-phap-luat-viet-nam15367.html)
 ##### **Bài viết phân tích những vấn đề lý luận về địa vị pháp lý của hộ kinh doanh, đánh giá thực trạng pháp luật hiện hành và thực tiễn thi hành trên địa bàn thành phố Hà Nội, từ đó chỉ ra các nút thắt chủ yếu liên quan đến tư cách chủ thể, cơ chế đại diện, trách nhiệm tài sản và khả năng thích ứng với yêu cầu quản lý mới. Trên cơ sở đó, bài viết đề xuất định hướng hoàn thiện pháp luật theo hướng luật hóa chế định hộ kinh doanh, phân hóa cấu trúc chủ thể và thiết kế cơ chế chuyển tiếp phù hợp trong bối cảnh phát triển kinh tế tư nhân và chuyển đổi số.**
 **Đặt vấn đề**
 Hộ kinh doanh hiện là một bộ phận chủ thể kinh doanh có vị trí quan trọng trong khu vực kinh tế tư nhân ở Việt Nam, với số lượng lớn, phạm vi hoạt động rộng và mức độ hiện diện ngày càng rõ trong môi trường kinh doanh số. Theo số liệu công bố đầu năm 2025, cả nước có trên 5 triệu hộ kinh doanh[1](/#_ftn1); riêng Hà Nội đến cuối năm 2025 có 356.737 hộ và cá nhân kinh doanh đang hoạt động[2](/#_ftn2). Tuy nhiên, trong khi pháp luật về đăng ký, hóa đơn, kế toán và quản lý thuế đối với hộ kinh doanh đang được hoàn thiện nhanh theo hướng số hóa và minh bạch hóa, thì địa vị pháp lý của mô hình này vẫn chưa được luật hóa đầy đủ, rõ ràng và ổn định. Từ thực tiễn đó, việc nghiên cứu địa vị pháp lý của hộ kinh doanh, đặc biệt qua thực tiễn thi hành tại thành phố Hà Nội, có ý nghĩa cả về lý luận và thực tiễn, nhằm làm rõ những nút thắt của pháp luật hiện hành và đề xuất định hướng hoàn thiện phù hợp với yêu cầu phát triển kinh tế tư nhân trong bối cảnh chuyển đổi số.

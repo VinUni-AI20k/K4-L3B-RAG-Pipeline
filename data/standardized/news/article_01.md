@@ -1,7 +1,7 @@
 ---
 title: "QUY ĐỊNH PHÁP LUẬT VỀ HỘ KINH DOANH"
 url: "https://nplaw.vn/quy-dinh-phap-luat-ve-ho-kinh-doanh.html"
-date_crawled: "2026-09-25T10:23:30.033769"
+date_crawled: "2026-09-25T12:23:59.553184"
 doc_type: "news"
 ---
 
@@ -334,3 +334,11 @@ Mã số thuế: [0315564218](tel:0315564218)
   * [ ![](https://nplaw.vn/template/frontend/resources/img/zalo.webp) ](https://zalo.me/1540805131431808564 "Zalo")
   * [ ![](https://nplaw.vn/template/frontend/resources/img/icon/mail.png) ](https://mail.google.com/mail/?view=cm&fs=1&to=legal@nplaw.vn "Gmail")
   * [ ](https://nplaw.vn/ "Về đầu trang")
+
+
+#### A PHP Error was encountered
+Severity: Core Warning
+Message: PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php72/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php72/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php72/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory))
+Filename: Unknown
+Line Number: 0
+Backtrace:

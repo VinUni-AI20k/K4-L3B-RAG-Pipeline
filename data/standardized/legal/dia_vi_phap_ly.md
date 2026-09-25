@@ -1,7 +1,7 @@
 ---
-title: "Dia vi phap ly cua ho kinh doanh - Thuc trang va Giai phap"
+title: "dia vi phap ly"
 source: "dia_vi_phap_ly.pdf"
-url: "https://economica.vn/Content/files/PUBL%20%26%20REP/Dia%20vi%20Phap%20ly%20cua%20Ho%20Kinh%20doanh%20-%20Thuc%20trang%20v%C3%A0%20Giai%20phap.pdf"
+url: "https://economica.vn/Content/files/PUBL%20%26%20REP/Dia%20vi%20Phap%20ly%20cua%20Ho%20Kinh%20doanh%20-%20Thuc%20trang%20và%20Giai%20phap.pdf"
 doc_type: "legal"
 ---
 

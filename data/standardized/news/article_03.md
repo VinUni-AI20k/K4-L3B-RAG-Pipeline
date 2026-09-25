@@ -1,7 +1,7 @@
 ---
 title: "Hộ kinh doanh cá thể là gì? Quy định về hộ kinh doanh (HKD)"
 url: "https://luattinminh.vn/ho-kinh-doanh-la-gi"
-date_crawled: "2026-09-25T10:23:45.027176"
+date_crawled: "2026-09-25T12:24:09.427887"
 doc_type: "news"
 ---
 
