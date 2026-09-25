@@ -1,0 +1,77 @@
+[
+  {
+    "question": "HUTECH dự kiến áp dụng những phương thức tuyển sinh đại học nào trong năm 2026?",
+    "expected_answer": "Các phương thức được corpus liệt kê gồm: xét kết quả kỳ thi tốt nghiệp THPT năm 2026, xét học bạ THPT, xét điểm kỳ thi V-SAT năm 2026, xét điểm kỳ thi ĐGNL năm 2026 của ĐHQG TP.HCM và xét tuyển thẳng hoặc ưu tiên xét tuyển theo quy định.",
+    "expected_context": "data/standardized/legal/hutech_2026_phuong_thuc_tuyen_sinh.md"
+  },
+  {
+    "question": "Phương thức xét học bạ HUTECH 2026 sử dụng kết quả của bao nhiêu học kỳ?",
+    "expected_answer": "Phương thức xét học bạ sử dụng kết quả học tập của 6 học kỳ THPT.",
+    "expected_context": "data/standardized/news/article_01.md"
+  },
+  {
+    "question": "Mã phương thức tuyển sinh bằng điểm V-SAT của HUTECH năm 2026 là gì?",
+    "expected_answer": "Mã phương thức xét điểm V-SAT là 417.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  },
+  {
+    "question": "Mã phương thức xét điểm ĐGNL ĐHQG TP.HCM của HUTECH năm 2026 là gì?",
+    "expected_answer": "Mã phương thức xét điểm ĐGNL ĐHQG TP.HCM là 402.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  },
+  {
+    "question": "Điều kiện chung để thí sinh đăng ký xét tuyển đại học chính quy HUTECH 2026 là gì?",
+    "expected_answer": "Thí sinh cần được công nhận tốt nghiệp THPT hoặc tương đương, đáp ứng ngưỡng đầu vào, bảo đảm điều kiện sức khỏe và hoàn thành đầy đủ thông tin, hồ sơ đăng ký theo yêu cầu.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  },
+  {
+    "question": "Các nhóm ngành lớn được giới thiệu trong thông tin tuyển sinh HUTECH 2026 gồm những nhóm nào?",
+    "expected_answer": "Các nhóm được giới thiệu gồm kinh doanh và quản lý; công nghệ thông tin và trí tuệ nhân tạo; truyền thông, thiết kế và nghệ thuật; kỹ thuật và công nghệ; luật, ngôn ngữ và khoa học xã hội; y và khoa học sức khỏe.",
+    "expected_context": "data/standardized/legal/hutech_2026_chuong_trinh_dao_tao.md"
+  },
+  {
+    "question": "Một số tổ hợp xét tuyển được nêu trong thông tin chương trình HUTECH 2026 là gì?",
+    "expected_answer": "Một số tổ hợp được nêu gồm A00, A01, D01, D09, D10, D14 và D15.",
+    "expected_context": "data/standardized/legal/hutech_2026_chuong_trinh_dao_tao.md"
+  },
+  {
+    "question": "Hạn cung cấp minh chứng xét học bạ HUTECH 2026 theo bài viết tuyển sinh là khi nào?",
+    "expected_answer": "Thí sinh cần cung cấp minh chứng trước ngày 15/07/2026 theo hướng dẫn trong bài viết.",
+    "expected_context": "data/standardized/news/article_01.md"
+  },
+  {
+    "question": "Số điện thoại tư vấn chương trình đại học chính quy HUTECH 2026 là gì?",
+    "expected_answer": "Số điện thoại tư vấn chương trình đại học chính quy là (028) 3510 8888.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  },
+  {
+    "question": "Số điện thoại tư vấn chương trình quốc tế hoặc liên kết của HUTECH là gì?",
+    "expected_answer": "Số điện thoại tư vấn chương trình quốc tế hoặc liên kết là 0818 177 207.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  },
+  {
+    "question": "Chính sách học bổng tuyển sinh HUTECH 2026 trong corpus có các mức chính nào?",
+    "expected_answer": "Các mức học bổng chính được nêu là 25%, 50% và 100% học phí toàn khóa.",
+    "expected_context": "data/standardized/legal/hutech_2026_hoc_bong.md"
+  },
+  {
+    "question": "HUTECH có thể dùng những kết quả học tập nào để xét học bổng tuyển sinh 2026?",
+    "expected_answer": "Tiêu chí có thể dựa trên điểm trung bình của 3 môn lớp 11, 3 môn học kỳ 1 lớp 12 hoặc 3 môn cả năm lớp 12, theo chính sách và điều kiện công bố.",
+    "expected_context": "data/standardized/legal/hutech_2026_hoc_bong.md"
+  },
+  {
+    "question": "Mức học bổng dành cho nhóm ngành khoa học sức khỏe trong thông tin học phí HUTECH 2026 là bao nhiêu?",
+    "expected_answer": "Thông tin học phí và học bổng nêu học bổng 30% toàn khóa cho nhóm ngành khoa học sức khỏe; con của cán bộ, nhân viên ngành y tế có mức 35% theo điều kiện áp dụng.",
+    "expected_context": "data/standardized/news/article_02.md"
+  },
+  {
+    "question": "HUTECH 2026 tổ chức thu học phí trong một năm thành bao nhiêu đợt?",
+    "expected_answer": "Học phí được thu thành 4 đợt trong một năm.",
+    "expected_context": "data/standardized/news/article_02.md"
+  },
+  {
+    "question": "Mã xét tuyển ngành Công nghệ thông tin của HUTECH trong thông tin tuyển sinh 2026 là gì?",
+    "expected_answer": "Mã xét tuyển ngành Công nghệ thông tin là 7480201.",
+    "expected_context": "data/standardized/legal/thong_tin_tuyen_sinh_dhcq_2026.md"
+  }
+]
