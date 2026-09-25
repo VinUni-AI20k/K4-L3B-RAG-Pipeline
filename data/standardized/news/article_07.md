@@ -1,0 +1,329 @@
+---
+title: "ĐIỂM CHUẨN ĐẠI HỌC QUỐC GIA HÀ NỘI 2026"
+source: "article_07.json"
+url: "https://xaydungchinhsach.chinhphu.vn/diem-chuan-dai-hoc-quoc-gia-ha-noi-2026-119260809163517452.htm"
+doc_type: "news"
+date_published: "2026-08-13T09:15:00+07:00"
+date_crawled: "2026-09-25T09:54:25"
+---
+
+# ĐIỂM CHUẨN ĐẠI HỌC QUỐC GIA HÀ NỘI 2026
+
+Đại học Quốc gia Hà Nội (ĐHQGHN) thông báo điểm chuẩn (điểm trúng tuyển) đại học chính quy năm 2026 vào các ngành/nhóm ngành của 09 trường đại học thành viên và 03 trường trực thuộc, chi tiết như sau:
+
+## Chi tiết điểm chuẩn (điểm trúng tuyển) đại học chính quy Đại học Quốc gia Hà Nội 2026
+
+## 1. Trường Đại học Công nghệ (Mã trường QHI)
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| STT | Mã xét tuyển | Ngành đào tạo | Điểm trúng tuyển | Tiêu chí phụ |
+| 1 | CN1 | Công nghệ thông tin | 25 | |
+| 2 | CN2 | Kỹ thuật máy tính | 26,63 | NV<=5 |
+| 3 | CN3 | Vật lý kỹ thuật | 25,41 | NV<=2 |
+| 4 | CN4 | Cơ kỹ thuật | 26,13 | NV<=2 |
+| 5 | CN5 | Kỹ thuật xây dựng | 22,51 | NV<=6 |
+| 6 | CN6 | Kỹ thuật cơ điện tử | 26,86 | NV<=4 |
+| 7 | CN7 | Kỹ thuật không gian | 24,49 | NV<=1 |
+| 8 | CN8 | Khoa học máy tính | 26,86 | NV<=1 |
+| 9 | CN9 | Kỹ thuật điện tử - viễn thông | 26,29 | NV<=2 |
+| 10 | CN10 | Công nghệ nông nghiệp | 22 | |
+| 11 | CN11 | Kỹ thuật điều khiển và tự động hoá | 27,78 | NV<=1 |
+| 12 | CN12 | Trí tuệ nhân tạo | 26,26 | NV<=3 |
+| 13 | CN13 | Kỹ thuật năng lượng | 25,25 | NV<=1 |
+| 14 | CN14 | Hệ thống thông tin | 25,85 | NV<=3 |
+| 15 | CN15 | Mạng máy tính và truyền thông dữ liệu | 26 | NV<=3 |
+| 16 | CN17 | Kỹ thuật Robot | 26,05 | NV<=4 |
+| 17 | CN18 | Thiết kế công nghiệp và Đồ họa | 23 | NV<=2 |
+| 18 | CN19 | Kỹ thuật vật liệu | 25,67 | NV<=7 & ĐC<=0,5 |
+| 19 | CN20 | Khoa học dữ liệu | 26,85 | NV<=2 |
+| 20 | CN21 | Công nghệ sinh học | 22,48 | NV<=4 |
+
+*Lưu ý:*
+
+1. Điểm trúng tuyển (điểm chuẩn) của một ngành là như nhau giữa các tổ hợp xét tuyển, được xác định trên cơ sở điểm xét tuyển (theo thang điểm 30) và được làm tròn đến hàng phần trăm.
+
+2. Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ưu tiên đối với các thí sinh có điểm cộng (ĐC) thấp hơn; rồi đến thứ tự ưu tiên nguyện vọng (NV) cao hơn.
+
+## 2. Trường ĐH Khoa học Tự nhiên (Mã trường QHT)
+
+| STT | Mã xét tuyển | Tên ngành/CTĐT | Các mã PTXT | Điểm chuẩn |
+| --- | --- | --- | --- | --- |
+| 1 | QHT01 | Toán học | 100|401|415|409|500 | 26.35 |
+| 2 | QHT02 | Toán tin | 100|401|415|409|500 | 25.69 |
+| 3 | QHT03 | Vật lý học | 100|401|415|409|500 | 24.74 |
+| 4 | QHT04 | Khoa học vật liệu | 100|401|415|409|500 | 24.8 |
+| 5 | QHT05 | Công nghệ kỹ thuật hạt nhân | 100|401|415|409|500 | 24.4 |
+| 6 | QHT06 | Hóa học | 100|401|415|409|500 | 24.73 |
+| 7 | QHT07 | Công nghệ kỹ thuật hóa học | 100|401|415|409|500 | 24.48 |
+| 8 | QHT08 | Sinh học | 100|401|415|409|500 | 22 |
+| 9 | QHT09 | Công nghệ sinh học | 100|401|415|409|500 | 23.2 |
+| 10 | QHT10 | Địa lý tự nhiên | 100|401|415|409|500 | 24.2 |
+| 11 | QHT12 | Quản lý đất đai | 100|401|415|409|500 | 22.25 |
+| 12 | QHT13 | Khoa học môi trường | 100|401|415|409|500 | 22.23 |
+| 13 | QHT15 | Công nghệ kỹ thuật môi trường | 100|401|415|409|500 | 22.64 |
+| 14 | QHT16 | Khí tượng và khí hậu học | 100|401|415|409|500 | 23.22 |
+| 15 | QHT17 | Hải dương học | 100|401|415|409|500 | 22.4 |
+| 16 | QHT18 | Địa chất học | 100|401|415|409|500 | 23.23 |
+| 17 | QHT20 | Quản lý tài nguyên và môi trường | 100|401|415|409|500 | 22.75 |
+| 18 | QHT43 | Hóa dược | 100|401|415|409|500 | 23.85 |
+| 19 | QHT81 | Sinh dược học (thuộc ngành Sinh học ứng dụng) | 100|401|415|409|500 | 22.24 |
+| 20 | QHT82 | Môi trường, sức khỏe và an toàn (thuộc ngành Bảo hộ lao động) | 100|401|415|409|500 | 22.52 |
+| 21 | QHT91 | Khoa học thông tin địa không gian (thuộc ngành Kỹ thuật không gian) | 100|401|415|409|500 | 24.38 |
+| 22 | QHT92 | Tài nguyên và môi trường nước (thuộc ngành Thủy văn học) | 100|401|415|409|500 | 22 |
+| 23 | QHT93 | Khoa học dữ liệu | 100|401|415|409|500 | 26.06 |
+| 24 | QHT94 | Kỹ thuật điện tử và tin học (thuộc ngành Kỹ thuật điện tử - viễn thông) | 100|401|415|409|500 | 24.95 |
+| 25 | QHT95 | Quản lý phát triển đô thị và bất động sản | 100|401|415|409|500 | 22.64 |
+| 26 | QHT96 | Khoa học và công nghệ thực phẩm (thuộc ngành Công nghệ thực phẩm) | 100|401|415|409|500 | 23.58 |
+| 27 | QHT98 | Khoa học máy tính và thông tin (thuộc ngành Khoa học máy tính) | 100|401|415|409|500 | 25.28 |
+| 28 | QHT99 | Công nghệ bán dẫn (thuộc ngành Khoa học vật liệu) | 100|401|415|409|500 | 25.43 |
+
+## 3. Trường Đại học Khoa học Xã hội và Nhân văn (Mã trường QHX)
+
+| STT | Mã ngành | Tên ngành / Chương trình đào tạo | Điểm chuẩn A01 | Điểm chuẩn C00 | Điểm chuẩn D01 & các tổ hợp D | Điểm chuẩn ĐGNL (Q21) | Tiêu chí phụ (Thứ tự NV) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | QHX01 | Báo chí | 22.00 | — | 22.00 | 22.00 | 1 |
+| 2 | QHX02 | Chính trị học | — | 24.20 | 22.70 | 22.70 | 1 |
+| 3 | QHX03 | Công tác xã hội | 23.67 | 25.17 | 23.67 | 23.67 | 1 |
+| 4 | QHX04 | Lý luận, lịch sử và phê bình điện ảnh, truyền hình | — | 24.68 | 23.18 | 23.18 | 3 |
+| 5 | QHX05 | Đông Nam Á học | — | — | 21.50 | 21.50 | 4 |
+| 6 | QHX06 | Đông phương học | — | — | 23.23 | 23.23 | 2 |
+| 7 | QHX07 | Hán Nôm | — | 23.93 | 22.43 | 22.43 | 2 |
+| 8 | QHX08 | Hàn Quốc học | — | — | 22.73 | 22.73 | 5 |
+| 9 | QHX09 | Khoa học quản lý | 19.00 | — | 19.00 | 19.00 | — |
+| 10 | QHX10 | Lịch sử | — | 25.50 | 24.00 | 24.00 | 3 |
+| 11 | QHX11 | Lưu trữ học | 22.07 | 23.57 | 22.07 | 22.07 | 1 |
+| 12 | QHX12 | Ngôn ngữ học | 21.85 | 23.35 | 21.85 | 21.85 | 6 |
+| 13 | QHX13 | Nhân học | — | 22.08 | 20.58 | 20.58 | 7 |
+| 14 | QHX14 | Nhật Bản học | 21.60 | — | 21.60 | 21.60 | 2 |
+| 15 | QHX15 | Quan hệ công chúng | 24.20 | — | 24.20 | 24.20 | 4 |
+| 16 | QHX16 | Quản lý thông tin | 19.27 | — | 19.27 | 19.27 | — |
+| 17 | QHX17 | Quản trị dịch vụ du lịch và lữ hành | — | — | 22.50 | 22.50 | 1 |
+| 18 | QHX18 | Quản trị khách sạn | — | — | 21.24 | 21.24 | 1 |
+| 19 | QHX19 | Quản trị văn phòng | 19.50 | — | 19.50 | 19.50 | 2 |
+| 20 | QHX20 | Quốc tế học | 22.00 | — | 22.00 | 22.00 | 3 |
+| 21 | QHX21 | Tâm lý học | — | — | 25.00 | 25.00 | 1 |
+| 22 | QHX22 | Thông tin - Thư viện | 21.50 | 23.00 | 21.50 | 21.50 | 2 |
+| 23 | QHX23 | Tôn giáo học | — | 20.50 | 19.00 | 19.00 | — |
+| 24 | QHX24 | Triết học | — | 22.75 | 21.25 | 21.25 | 3 |
+| 25 | QHX25 | Văn hóa học | — | 23.48 | 21.98 | 21.98 | 5 |
+| 26 | QHX26 | Văn học | — | 25.41 | 23.91 | 23.91 | 5 |
+| 27 | QHX27 | Việt Nam học | 21.50 | 23.00 | 21.50 | 21.50 | 2 |
+| 28 | QHX28 | Xã hội học | 22.43 | 23.93 | 22.43 | 22.43 | 1 |
+| 29 | QHX29 | Truyền thông đa phương tiện | 25.50 | — | 25.50 | 25.50 | 7 |
+
+• Các phương thức xét tuyển và thang điểm trúng tuyển áp dụng:
+
+Phương thức 100 (Xét điểm thi tốt nghiệp THPT năm 2026): Áp dụng điểm xét tuyển theo các tổ hợp A01, C00, D01, D04, D06, D09, D10, D11, D14, D15, DD2.
+
+Phương thức 401 (Xét kết quả thi ĐGNL của ĐHQGHN - HSA): Mã bài thi Q21 đã quy đổi về thang điểm 30.
+
+• Tiêu chí phụ (TTNV): Thí sinh có điểm xét tuyển bằng điểm chuẩn phải đạt điều kiện thứ tự nguyện vọng (NV ≤ mốc quy định) để trúng tuyển.
+
+## 4. Trường Đại học Ngoại ngữ (Mã trường QHF)
+
+| STT | Ngành | Mã ngành | Điểm trúng tuyển | Tiêu chí phụ (chỉ áp dụng đối với thí sinh có điểm xét tuyển bằng điểm trúng tuyển) |
+| --- | --- | --- | --- | --- |
+| 1 | Sư phạm tiếng Anh | 7140231 | 28.12 | Điểm cộng ≤ 0.75, NV1 |
+| 2 | Sư phạm tiếng Trung | 7140234 | 28.11 | Điểm cộng = 0, NV1 |
+| 3 | Sư phạm tiếng Đức | 7140235 | 26.10 | Điểm cộng = 0, NV1 |
+| 4 | Sư phạm tiếng Nhật | 7140236 | 27.10 | Điểm cộng = 0, từ NV1 đến NV3 |
+| 5 | Sư phạm tiếng Hàn Quốc | 7140237 | 27.60 | Điểm cộng = 0, từ NV1 đến NV3 |
+| 6 | Tiếng Việt và Văn hóa Việt Nam | 7220101 | 22.26 | Điểm cộng = 0, từ NV1 đến NV5 |
+| 7 | Ngôn ngữ Anh | 7220201 | 25.92 | Điểm cộng = 0, NV1 |
+| 8 | Ngôn ngữ Nga | 7220202 | 22.15 | Điểm cộng = 0, từ NV1 đến NV2 |
+| 9 | Ngôn ngữ Pháp | 7220203 | 21.45 | Điểm cộng = 0, từ NV1 đến NV2 |
+| 10 | Ngôn ngữ Trung Quốc | 7220204 | 25.65 | Điểm cộng = 0, NV1 |
+| 11 | Ngôn ngữ Đức | 7220205 | 22.80 | Điểm cộng = 0, NV1 |
+| 12 | Ngôn ngữ Nhật | 7220209 | 23.00 | Điểm cộng = 0, từ NV1 đến NV2 |
+| 13 | Ngôn ngữ Hàn Quốc | 7220210 | 24.30 | Điểm cộng = 0, từ NV1 đến NV2 |
+| 14 | Ngôn ngữ Ả Rập | 7220211 | 21.05 | Điểm cộng = 0, từ NV1 đến NV9 |
+| 15 | Kinh tế | 7310101 | 15.00 | |
+| 16 | Tâm lý học giáo dục | 7310403 | 22.05 | Điểm cộng = 0, từ NV1 đến NV3 |
+| 17 | Truyền thông quốc tế | 7320107 | 24.49 | Điểm cộng ≤ 1, từ NV1 đến NV6 |
+
+Điểm trúng tuyển đã bao gồm điểm cộng, điểm ưu tiên khu vực, đối tượng (nếu có). Mỗi ngành học chỉ có một điểm trúng tuyển, không phân biệt điểm trúng tuyển giữa các tổ hợp, các phương thức.
+
+## 5. Trường Đại học Kinh tế (Mã trường QHE)
+
+*5.1. Tuyển sinh đại học chính quy*
+
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| STT | Mã ngành | Tên ngành | Điểm trúng tuyển *(thang điểm 30)* | Các mã phương thức xét tuyển (PTXT) | Tiêu chí phụ (Áp dụng đối với thí sinh có điểm xét tuyển bằng điểm trúng tuyển) | |
+| *Điểm cộng* | *Thứ tự nguyện vọng* |
+| 1 | 7340101 | Quản trị kinh doanh | 24.4 | 100 | 401 | 0 | NV3 |
+| 2 | 7340201 | Tài chính - Ngân hàng | 24.4 | 100 | 401 | 0 | NV4 |
+| 3 | 7340301 | Kế toán | 24.54 | 100 | 401 | 0 | NV2 |
+| 4 | 7310106 | Kinh tế quốc tế | 25.17 | 100 | 401 | 0 | NV3 |
+| 5 | 7310101 | Kinh tế | 24.44 | 100 | 401 | 0 | NV2 |
+| 6 | 7310105 | Kinh tế phát triển | 24.2 | 100 | 401 | 0 | NV4 |
+
+*Lưu ý mã phương thức:*
+
+- Mã PTXT sử dụng kết quả thi tốt nghiệp THPT năm 2026: 100
+
+- Mã PTXT kết quả thi đánh giá năng lực (HAS): 401
+
+*5.2. Tuyển sinh đại học liên kết đào tạo với nước ngoài*
+
+5.2.1. Đối với phương thức Xét kết quả thi tốt nghiệp THPT năm 2026
+
+| | | | |
+| --- | --- | --- | --- |
+| STT | Mã ngành | Tên ngành | Điểm trúng tuyển |
+| 1 | 734010168 | Quản trị Kinh doanh (do ĐH Troy – Hoa Kỳ cấp bằng) | 19 (theo thang 30) |
+| 2 | 734010198 | Quản trị Kinh doanh (do ĐH St.Francis – Hoa Kỳ cấp bằng) | 19 (theo thang 30) |
+
+5.2.2. Đối với phương thức Xét kết quả học tập bậc THPT
+
+| | | | |
+| --- | --- | --- | --- |
+| STT | Mã ngành | Tên ngành | Điểm trúng tuyển |
+| 1 | 734010168 | Quản trị Kinh doanh (do ĐH Troy – Hoa Kỳ cấp bằng) | 21 (theo thang 30) |
+| 2 | 734010198 | Quản trị Kinh doanh (do ĐH St.Francis – Hoa Kỳ cấp bằng) | 20 (theo thang 30) |
+
+5.2.3. Đối với phương thức Xét kết quả thi Đánh giá năng lực do ĐHQGHN tổ chức
+
+| | | | |
+| --- | --- | --- | --- |
+| STT | Mã ngành | Tên ngành | Điểm trúng tuyển |
+| 1 | 734010168 | Quản trị Kinh doanh (do ĐH Troy – Hoa Kỳ cấp bằng) | 19 (theo thang 30) |
+| 2 | 734010198 | Quản trị Kinh doanh (do ĐH St.Francis – Hoa Kỳ cấp bằng) | 19 (theo thang 30) |
+
+5.2.4. Đối với phương thức Xét điểm các bài thi đánh giá năng lực khác
+
+| | | | |
+| --- | --- | --- | --- |
+| STT | Mã ngành | Tên ngành | Điều kiện trúng tuyển |
+| 1 | 734010168 | Quản trị Kinh doanh (do ĐH Troy – Hoa Kỳ cấp bằng) | - Bài thi ACT đạt tối thiểu điểm 20/36 (điểm tiếng Anh tối thiểu là 18); - Bài thi SAT đạt từ 1050/1600 điểm trở lên (điểm đọc và viết không dưới 480); - Chứng chỉ A-Level do CIE cấp với kết quả 3 môn học theo khối xét tuyển tương ứng đạt điểm C trở lên. |
+| 2 | 734010198 | Quản trị Kinh doanh (do ĐH St.Francis – Hoa Kỳ cấp bằng) | - Bài thi ACT đạt tối thiểu điểm 20/36 (điểm tiếng Anh tối thiểu là 18); - Bài thi SAT đạt từ 1050/1600 điểm trở lên (điểm đọc và viết không dưới 480); - Chứng chỉ A-Level (Pearson Edexcel; Oxford, OCR; CCEA; WJEC; CIE;…) với kết quả 3 môn học theo khối xét tuyển tương ứng đạt điểm C trở lên. |
+
+## 6. Trường Đại học Giáo dục (Mã trường QHS)
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| STT | Mã xét tuyển | Tên mã xét tuyển | Chỉ tiêu công bố | Điểm trúng tuyển |
+| 1 | QHS01 | Sư phạm Toán học | 120 | 27.55 |
+| 2 | QHS02 | Sư phạm Vật lý | 32 | 26.72 |
+| 3 | QHS03 | Sư phạm Hóa học | 36 | 27.16 |
+| 4 | QHS04 | Sư phạm Sinh học | 50 | 25.55 |
+| 5 | QHS05 | Sư phạm Khoa học Tự nhiên | 100 | 25.55 |
+| 6 | QHS06 | Sư phạm Ngữ văn | 150 | 27.19 |
+| 7 | QHS07 | Sư phạm Lịch sử | 45 | 27.18 |
+| 8 | QHS08 | Sư phạm Lịch sử - Địa lý | 85 | 25.28 |
+| 9 | QHS09 | Giáo dục Mầm non | 150 | 25.85 |
+| 10 | QHS10 | Giáo dục Tiểu học | 150 | 27.18 |
+| 11 | QHS11 | Khoa học giáo dục và khác (Khoa học Giáo dục; Quản trị công nghệ giáo dục; Quản trị chất lượng giáo dục; Quản trị trường học) | 420 | 19.5 |
+| 12 | QHS12 | Tâm lý học và Tâm lý học giáo dục (Tham vấn học đường; Tâm lý học) | 312 | 22.25 |
+
+## 7. Trường Đại học Y Dược (Mã trường QHY)
+
+| | | | |
+| --- | --- | --- | --- |
+| STT | Tên ngành/CTĐT | Mã ngành | Điểm chuẩn trúng tuyển |
+| 1 | Y khoa | 7720101 | 27.43 |
+| 2 | Dược học | 7720201 | 23.39 |
+| 3 | Răng hàm mặt | 7720501 | 27.19 |
+| 4 | Kĩ thuật xét nghiệm y học | 7720601 | 23.21 |
+| 5 | Kĩ thuật hình ảnh y học | 7720602 | 22.51 |
+| 6 | Điều dưỡng | 7720301 | 22.76 |
+
+*Lưu ý:*
+
+- Điểm chuẩn trúng tuyển là điểm quy đổi tương đương giữa các phương thức xét tuyển, tổ hợp xét tuyển thang điểm 30 theo điểm thi THPT năm 2026.
+
+- Điểm chuẩn trúng tuyển áp dụng đối với tất cả các phương thức xét tuyển
+
+8. Trường Đại học Việt Nhật(Mã trường VJU)
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| TT | Mã xét tuyển | Tên chương trình/ngành | Mã ngành/Nhóm ngành | Các mã phương thức xét tuyển (PTXT) | Điểm trúng tuyển |
+| 1 | VJU1 | Nhật Bản học | 7310613 | 100, 401, 415, 501 | 21 |
+| 2 | VJU2 | Khoa học và Kỹ thuật máy tính | 7480101 | 100, 401, 415, 501 | 20.75 |
+| 3 | VJU3 | Kỹ thuật cơ điện tử (Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản) | 7520114 | 100, 401, 415 | 20.5 |
+| 4 | VJU4 | Công nghệ thực phẩm và sức khỏe | 7540101 | 100, 401, 415, 501 | 20 |
+| 5 | VJU5 | Nông nghiệp thông minh và bền vững | 7519002 | 100, 401, 415, 501 | 20 |
+| 6 | VJU6 | Kỹ thuật xây dựng | 7580201 | 100, 401, 415, 501 | 20 |
+| 7 | VJU7 | Đổi mới và phát triển toàn cầu | 7310601 | 100, 401, 415, 501 | 20 |
+| 8 | VJU8 | Công nghệ kỹ thuật Chip bán dẫn | 7510301 | 100, 401, 415, 501 | 21.25 |
+| 9 | VJU9 | Điều khiển thông minh và Tự động hóa | 7520216 | 100, 401, 415, 501 | 20.25 |
+
+*Ghi chú:*
+
+- Mức điểm trúng tuyển tính trên thang điểm 30, bao gồm điểm ưu tiên theo khu vực, đối tượng và khuyến khích (nếu có);
+
+- Điểm trúng tuyển các phương thức xét tuyển quy đổi theo quy tắc quy đổi điểm giữa các phương thức xét tuyển đại học chính quy của Trường Đại học Việt Nhật năm 2026
+
+## 9. Trường Đại học Luật (Mã trường QHL)
+
+| | | | |
+| --- | --- | --- | --- |
+| Mã xét tuyển | Tên ngành | Chỉ tiêu | Điểm chuẩn |
+| 7380101 | Luật | 520 | 24.52 |
+| 7380107 | Luật kinh tế | 320 | 24.83 |
+| 7380109 | Luật thương mại quốc tế | 150 | 24.50 |
+
+## 10. Trường Quốc tế (Mã trường QHQ)
+
+| TT | Mã xét tuyển | Chương trình đào tạo | Số lượng tuyển sinh 2026 | Điểm trúng tuyển 2026 |
+| --- | --- | --- | --- | --- |
+| 1 | 7340120 | Kinh doanh quốc tế | 170 | 20,5 |
+| Trường Quản trị và Kinh doanh2 | 7340301 | Kế toán, Phân tích và Kiểm toán | 140 | 20 |
+| 3 | 7340405 | Hệ thống thông tin quản lý | 100 | 19 |
+| 4 | 7480106 | Tin học và Kỹ thuật máy tính | 80 | 19 |
+| 5 | 7460108 | Phân tích dữ liệu kinh doanh | 110 | 20 |
+| 6 | 7340115 | Marketing\* (ĐHQGHN và trường đại học HELP, Malaysia cùng cấp bằng) | 70 | 19 |
+| 7 | 7340101 | Quản lý\* (ĐHQGHN và trường đại học Keuka, Hoa Kỳ cùng cấp bằng) | 40 | 19 |
+| 8 | 7520216 | Tự động hóa và Tin học | 100 | 19 |
+| 9 | 7220201 | Ngôn ngữ Anh | 100 | 21,25 |
+| 10 | 7480201 | Công nghệ thông tin ứng dụng | 100 | 19 |
+| 11 | 7340205 | Công nghệ tài chính và kinh doanh số | 90 | 19,25 |
+| 12 | 7520118 | Kỹ thuật hệ thống công nghiệp và Logistics | 70 | 19,5 |
+| 13 | 7340122 | Kinh doanh số | 60 | 21 |
+| 14 | 7320106 | Truyền thông số | 60 | 21 |
+| Tổng cộng | | | 1290 | |
+
+*Ghi chú**:*Điểm trúng tuyển theo các phương thức xét tuyển (trừ phương thức xét tuyển thẳng theo Quy chế của Bộ GD&ĐT) được quy về thang điểm 30, đã bao gồm điểm cộng, điểm ưu tiên khu vực, đối tượng (nếu có) theo Quy chế tuyển sinh của Bộ GDĐT và của ĐHQGHN. Các điều kiện phụ khác theo quy định tại Thông tin tuyển sinh đại học năm 2026 của Trường Quốc tế.
+
+\* Thí sinh trúng tuyển ngành Marketing (VNU-HELP đồng cấp bằng) và ngành Quản lý (VNU-KEUKA đồng cấp bằng) cần có Chứng chỉ tiếng Anh quốc tế IELTS Academic từ 5.5 hoặc tương đương trong vòng 12 tháng kể từ ngày nhập học để được công nhận là sinh viên chính thức (Sinh viên không đạt điều kiện này sẽ bị buộc thôi học theo Thông tư 07/2025/TT-BGDĐT).
+
+## 11. Trường Khoa học liên ngành và Nghệ thuật (Mã trường QHD)
+
+| STT | Chương trình đào tạo | Mã ngành | Mã tổ hợp xét tuyển | Điểm trúng tuyển |
+| --- | --- | --- | --- | --- |
+| 1. | Quản trị doanh nghiệp và công nghệ | 7340401 | A01, D01, D07, D08, D09, D10, X25, X26, X27, X28 | 19.5 |
+| 2. | Marketing và truyền thông | 7340101 | 20.75 |
+| 3. | Quản trị nhân lực và nhân tài | 7340101 | 19 |
+| 4. | Quản trị và An ninh | 7340401 | 19 |
+| 5. | Khoa học quản lý (Chương trình đào tạo: Quản trị An ninh phi truyền thống) | 7340401 | 19 |
+| 6. | Quản trị kinh doanh (Chương trình đào tạo: Quản trị dịch vụ khách hàng và Chăm sóc sức khỏe) | 7340101 | 19 |
+
+*Ghi chú*: Điểm trúng tuyển đã bao gồm điểm ưu tiên theo đối tượng và khu vực.
+
+## 12. Trường đại học liên ngành và Nghệ thuật (Mã trường QHK)
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| TT | Mã xét tuyển | Tên chương trình đào tạo (CTĐT) | Điểm trúng tuyển | Tổ hợp gốc |
+| 1 | 7210301 | Nhiếp ảnh mỹ thuật | 20.90 | H00 |
+| 2 | 7210403 | Đồ họa công nghệ số | 23.30 | H00 |
+| 3 | 7210404 | Thời trang và sáng tạo | 21.80 | H00 |
+| 4 | 7210408 | Nghệ thuật tạo hình đương đại | 20.90 | H00 |
+| 5 | 7229042 | Quản lý giải trí và sự kiện | 24.50 | D01 |
+| 6 | 7229047 | Quản trị tài nguyên di sản | 22.75 | C00 |
+| 7 | 7320106 | Công nghệ truyền thông | 22.75 | A00 |
+| 8 | 7340115 | Quản trị thương hiệu | 23.57 | D01 |
+| 9 | 7340115TA | Quản trị thương hiệu (Tiếng Anh) | 22.00 | D01 |
+| 10 | 7580101 | Kiến trúc và Thiết kế cảnh quan | 20.01 | V00 |
+| 11 | 7580103 | Nội thất bền vững | 22.45 | H00 |
+| 12 | 7580106 | Quản trị đô thị thông minh và bền vững | 20.75 | A00 |
+
+*Ghi chú:*
+
+1. Ngưỡng bảo đảm chất lượng của môn thi năng khiếu áp dụng cho các CTĐT nghệ thuật (Nhiếp ảnh mỹ thuật, Nghệ thuật tạo hình đương đại, Đồ họa công nghệ số, Thời trang và sáng tạo, Nội thất bền vững, Kiến trúc và thiết kế cảnh quan) là 5,0 (năm phẩy không) điểm.
+
+2. Ngưỡng bảo đảm chất lượng của Tiếng Anh áp dụng cho CTĐT Quản trị thương hiệu (Tiếng Anh) là bậc 4 trở lên theo khung Năng lực ngoại ngữ 6 bậc dành cho người Việt Nam.
+
+3. Ngưỡng bảo đảm chất lượng của Tiếng Anh áp dụng cho CTĐT Công nghệ truyền thông là bậc 3 trở lên theo khung Năng lực ngoại ngữ 6 bậc dành cho người Việt Nam hoặc đạt điểm thi tốt nghiệp THPT môn tiếng Anh từ 6,0 trở lên hoặc điểm TBC (6 học kỳ) môn tiếng Anh ở THPT đạt từ 7,0 trở lên. Áp dụng điều kiện này đối với cả thí sinh diện xét tuyển thẳng và ưu tiên xét tuyển./.
