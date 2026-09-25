@@ -40,7 +40,7 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
     """
     Chạy đánh giá cho một phương thức tìm kiếm (dense hoặc hybrid).
     """
-    print(f"🔄 Đang thu thập câu trả lời cho phương thức: {retrieval_method.upper()}...")
+    print(f"[EVAL] Collecting answers for: {retrieval_method.upper()}...")
     os.environ["USE_RERANKING"] = "true" if retrieval_method.lower() == "hybrid" else "false"
     data = load_golden_dataset(dataset_path)
     
@@ -49,10 +49,10 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
     contexts = []
     ground_truths = []
     
-    for item in data:
+    for idx, item in enumerate(data, 1):
         q = item["question"]
         gt = item.get("expected_answer") or item.get("answer")
-        
+        print(f"  - [{idx}/{len(data)}] Processing question {idx}...")
         # 1. Gọi hàm sinh câu trả lời thật từ task 10
         result = generate_with_citation(q)
         
@@ -73,7 +73,7 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
         "ground_truth": ground_truths
     })
     
-    print(f"📊 Đang chấm điểm bằng LLM-as-a-judge cho {retrieval_method.upper()}...")
+    print(f"[EVAL] Evaluating with LLM-as-a-judge for {retrieval_method.upper()}...")
     # 2. Chạy evaluate với 4 metrics
     metrics = [
         faithfulness,
@@ -96,7 +96,6 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
     return eval_results
 
 if __name__ == "__main__":
-    # Đọc API Key từ .env (Ragas cần OpenAI API Key để làm giám khảo chấm thi)
     load_dotenv()
     
     dataset_file = "group_project/evaluation/golden_dataset.json"
@@ -107,15 +106,15 @@ if __name__ == "__main__":
     # 2. Đánh giá phương thức Hybrid (Vector + BM25)
     hybrid_results = run_evaluation(dataset_file, "hybrid")
     
-    # 3. In kết quả ra màn hình để bạn tự điền vào file RESULT.md
+    # 3. In kết quả ra màn hình
     print("\n" + "="*50)
-    print("🏆 KẾT QUẢ ĐÁNH GIÁ (A/B TESTING)")
+    print("EVALUATION RESULTS (A/B TESTING)")
     print("="*50)
     
-    print("\n[A] Phương thức DENSE-ONLY:")
+    print("\n[A] DENSE-ONLY:")
     print(dense_results)
     
-    print("\n[B] Phương thức HYBRID:")
+    print("\n[B] HYBRID + RRF:")
     print(hybrid_results)
     
-    print("\n>>> Hãy copy các chỉ số trên điền vào file group_project/evaluation/RESULT.md nhé! <<<")
+    print("\n>>> Copy the scores above into RESULT.md <<<")
