@@ -28,6 +28,24 @@ Runner hiện dùng token-overlap proxy xác định để kiểm tra hồi quy 
 
 Các con số chỉ được công bố sau khi chạy lệnh trên thành công. Điều này giúp tránh nhầm kết quả mô phỏng với kết quả thực tế.
 
+## Overall scores
+
+Điểm tổng hợp được đọc trực tiếp từ trường `metrics` trong hai file run. Báo cáo không chèn số liệu khi lần chạy chưa có bằng chứng JSON tương ứng.
+
+## A/B comparison
+
+Nhánh A dùng Dense-only; nhánh B dùng Dense + BM25 + RRF. Hai nhánh được giữ cùng corpus, câu hỏi, `top_k`, threshold và chính sách fallback.
+
+## Worst performers
+
+Các câu có context recall hoặc precision thấp nhất được lấy từ trường `metrics` của từng record trong `dense_run.json` và `hybrid_run.json`. Nguyên nhân cần phân loại theo retrieval, generation hoặc dữ liệu thay vì suy đoán từ điểm tổng hợp.
+
+## Recommendations
+
+1. Chạy lại A/B sau mỗi thay đổi corpus và lưu nguyên vẹn JSON kết quả.
+2. Đánh giá semantic bằng RAGAS sau khi cố định evaluator model và API key.
+3. Rà soát riêng các câu hỏi khác năm tuyển sinh và các câu cần tổng hợp nhiều nguồn.
+
 ## Lỗi tiêu biểu và giới hạn
 
 - Câu hỏi ngoài phạm vi hoặc khác năm tuyển sinh có thể kích hoạt PageIndex fallback; nếu fallback không khả dụng, hệ thống trả kết quả hybrid và generation phải từ chối khi thiếu bằng chứng.
