@@ -38,7 +38,7 @@ if "messages" not in st.session_state:
 def render_sources(sources: list[dict], retrieval_source: str) -> None:
     if not sources:
         return
-    with st.expander(f"📚 {len(sources)} nguồn | retrieval: {retrieval_source}"):
+    with st.expander(f"{len(sources)} nguồn | retrieval: {retrieval_source}"):
         for index, source in enumerate(sources, 1):
             meta = source.get("metadata", {})
             title = meta.get("title", "Tài liệu không có tiêu đề")
@@ -52,21 +52,21 @@ def render_sources(sources: list[dict], retrieval_source: str) -> None:
             st.code(source.get("content", "").strip(), language="text")
 
 with st.sidebar:
-    st.title("🧀 Tuyển sinh NEU")
-    st.caption("Một que phô mai nhỏ giúp bạn tìm đúng thông tin tuyển sinh.")
+    st.title("Tuyển sinh NEU")
+    st.caption("Giúp bạn tìm đúng thông tin tuyển sinh.")
     top_k = st.slider("Số chunks truy xuất (top_k)", 1, 10, 5)
-    st.info("Phạm vi: đề án, hướng dẫn và tin tuyển sinh NEU 2026 trong corpus hiện có. Với thông tin năm khác, hãy nêu rõ năm để chatbot phân biệt.")
+    st.info("Phạm vi: đề án, hướng dẫn và tin tuyển sinh NEU 2026 trong corpus hiện có.")
     if st.button("Xóa lịch sử hội thoại"):
         st.session_state.messages = []
         st.rerun()
 
 st.markdown("""
 <div class="cheese-card">
-  <h3>🧀 Trợ lý phô mai que — Tuyển sinh NEU 2026</h3>
+  <h3>Tuyển sinh NEU 2026</h3>
   <p>Hỏi nhẹ nhàng, tìm thông tin chắc chắn, luôn kèm nguồn để bạn kiểm tra lại.</p>
-  <span class="mini-badge">✨ Dense + BM25 + RRF</span>
-  <span class="mini-badge">📚 Có trích dẫn</span>
-  <span class="mini-badge">🥨 Phạm vi NEU 2026</span>
+  <span class="mini-badge">Dense + BM25 + RRF</span>
+  <span class="mini-badge">Có trích dẫn</span>
+  <span class="mini-badge">Phạm vi NEU 2026</span>
 </div>
 """, unsafe_allow_html=True)
 
