@@ -13,8 +13,15 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 
 from pathlib import Path
 
+import requests
+
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+# TODO(data): Điền tối thiểu 3 nguồn PDF/DOC/DOCX công khai của topic nhóm.
+# Để rỗng để nhóm chủ động bổ sung nguồn dữ liệu sau.
+SOURCES: dict[str, str] = {}
+ALLOWED_EXTENSIONS = {".pdf", ".doc", ".docx"}
 
 
 def setup_directory() -> None:
@@ -25,19 +32,26 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    setup_directory()
+
+    if not SOURCES:
+        print("No legal document sources configured; add URLs to SOURCES first.")
+        return
+
+    for filename, url in SOURCES.items():
+        target = DATA_DIR / filename
+        if target.suffix.lower() not in ALLOWED_EXTENSIONS:
+            raise ValueError(f"Unsupported document type: {filename}")
+        if target.name != filename or not target.name.strip():
+            raise ValueError(f"Invalid document filename: {filename}")
+
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        if not response.content:
+            raise ValueError(f"Downloaded document is empty: {filename}")
+
+        target.write_bytes(response.content)
+        print(f"Downloaded: {target}")
 
 
 if __name__ == "__main__":
