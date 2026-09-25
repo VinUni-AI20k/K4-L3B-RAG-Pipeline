@@ -1,16 +1,16 @@
 # IELTS Writing — Bộ 8 nguồn tham khảo
 
-> Bộ nguồn dưới đây được chia thành **3 nguồn lõi/chính thức** và **5 nguồn public/bổ trợ**, theo danh sách và phân loại đã thống nhất cho bốn scope của dự án. Scope được giải thích trong [README chính](../README.md#phạm-vi-dự-án-ielts-writing).
+> Dự án có một scope: **Ask IELTS Writing** — trả lời câu hỏi IELTS Writing dựa trên dữ liệu có citation. Bộ nguồn dưới đây gồm **3 nguồn lõi/chính thức** và **5 nguồn public/bổ trợ**; phạm vi dự án được mô tả trong [README chính](../README.md#phạm-vi-dự-án-ielts-writing).
 
 ## 3 nguồn lõi / chính thức
 
 Đây là các nguồn chuẩn để grounding nội dung sản phẩm.
 
-| # | Nguồn | Phục vụ scope |
+| # | Nguồn | Nội dung hỗ trợ hỏi đáp |
 |---|---|---|
-| **1** | [IELTS Writing Band Descriptors](https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf) | **Band Descriptor Explorer**, **Compare Bands**, **Essay Feedback**, **Ask IELTS Writing** |
-| **2** | [IELTS Writing Key Assessment Criteria](https://ielts.org/cdn/ielts-guides/ielts-writing-key-assessment-criteria.pdf) | **Ask IELTS Writing**, **Band Descriptor Explorer**, **Essay Feedback** |
-| **3** | [IELTS Academic Test Format — Writing](https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing) | **Ask IELTS Writing**, **Essay Feedback** |
+| **1** | [IELTS Writing Band Descriptors](https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf) | Mô tả tiêu chí chấm theo từng band |
+| **2** | [IELTS Writing Key Assessment Criteria](https://ielts.org/cdn/ielts-guides/ielts-writing-key-assessment-criteria.pdf) | Giải thích bốn tiêu chí đánh giá |
+| **3** | [IELTS Academic Test Format — Writing](https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing) | Cấu trúc Task 1/Task 2, thời gian, số từ và cách chấm |
 
 ### Vai trò của nguồn lõi
 
@@ -22,19 +22,14 @@
 
 Các nguồn này bổ sung giải thích dễ tiếp cận, hướng dẫn thực hành và ví dụ.
 
-| # | Nguồn | Phục vụ scope |
+| # | Nguồn | Nội dung hỗ trợ hỏi đáp |
 |---|---|---|
-| **4** | [IELTS Writing Band Descriptors and Key Assessment Criteria](https://ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria) | **Ask IELTS Writing**, **Band Descriptor Explorer** |
-| **5** | [IELTS Writing Test Resources](https://ielts.org/take-a-test/preparation-resources/writing-test-resources) | **Ask IELTS Writing**, **Essay Feedback** |
-| **6** | [IELTS Academic Sample Test Questions](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test) | **Ask IELTS Writing**, **Essay Feedback** |
-| **7** | [British Council — IELTS Writing Test Format](https://takeielts.britishcouncil.org/what-is-ielts/how-it-works/test-format/writing) | **Ask IELTS Writing**, **Essay Feedback** |
-| **8** | [British Council — IELTS Academic Writing Preparation](https://takeielts.britishcouncil.org/prepare/ielts-academic/writing) | **Ask IELTS Writing**, **Essay Feedback** |
+| **4** | [IELTS Writing Band Descriptors and Key Assessment Criteria](https://ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria) | Thông tin về thang chấm và lần rà soát tiêu chí |
+| **5** | [IELTS Writing Test Resources](https://ielts.org/take-a-test/preparation-resources/writing-test-resources) | Hướng dẫn và video về chấm điểm, tiêu chí, chuẩn bị bài |
+| **6** | [IELTS Academic Sample Test Questions](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test) | Câu hỏi mẫu và hình thức bài thi |
+| **7** | [British Council — IELTS Writing Test Format](https://takeielts.britishcouncil.org/what-is-ielts/how-it-works/test-format/writing) | Thông tin định dạng IELTS Writing |
+| **8** | [British Council — IELTS Academic Writing Preparation](https://takeielts.britishcouncil.org/prepare/ielts-academic/writing) | Tài liệu chuẩn bị IELTS Academic Writing |
 
-## Bản đồ nguồn theo scope
+## Cách dùng nguồn trong scope
 
-| Scope | Nguồn sử dụng |
-|---|---|
-| **Ask IELTS Writing** | 1–8 |
-| **Band Descriptor Explorer** | 1, 2, 4 |
-| **Compare Bands** | 1 |
-| **Essay Feedback** | 1, 2, 3, 5, 6, 7, 8 |
+Các nguồn trên tạo căn cứ cho câu trả lời về IELTS Writing. Hệ thống trích dẫn các đoạn đã truy xuất; nếu dữ liệu không xác minh được câu hỏi, hệ thống cần nói rõ là chưa thể xác minh thay vì tự suy đoán.

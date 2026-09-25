@@ -36,8 +36,8 @@ AGENT_STAGES = (
         "input": "Markdown đã chuẩn hóa",
         "action": "Chia tài liệu thành các đoạn có ngữ nghĩa đủ nhỏ và giữ stable ID.",
         "output": "Chunk[] có chunk_index và metadata nguồn",
-        "method": "RecursiveCharacterTextSplitter",
-        "config": "chunk_size=500 · overlap=50 · separators theo paragraph → sentence → word",
+        "method": "Markdown heading-aware recursive splitting",
+        "config": "tối đa 1200 ký tự, kèm section breadcrumb · overlap=0",
     },
     {
         "id": "index", "number": "04", "title": "Embedding & vector index",
@@ -45,8 +45,8 @@ AGENT_STAGES = (
         "input": "Danh sách chunks",
         "action": "Mã hóa chunk thành vector và upsert theo ID ổn định.",
         "output": "ChromaDB persistent collection",
-        "method": "BAAI/bge-m3 · cosine similarity",
-        "config": "dimension=1024 · collection=rag_documents · provider chờ teammate xác nhận",
+        "method": "Embedding cấu hình qua .env · cosine similarity",
+        "config": "collection=rag_documents · model lấy từ EMBEDDING_MODEL",
     },
     {
         "id": "retrieve", "number": "05", "title": "Hybrid retrieval",
@@ -70,8 +70,8 @@ AGENT_STAGES = (
         "id": "generate", "number": "07", "title": "Grounded generation",
         "module": "task10_generation.py",
         "input": "Top chunks đã truy xuất",
-        "action": "Reorder context, gọi LLM và buộc câu trả lời dựa trên evidence.",
-        "output": "GenerationResult gồm answer, sources và retrieval_source",
+        "action": "Reorder context, tạo câu trả lời có citation và dịch chunk nguồn sang tiếng Việt.",
+        "output": "GenerationResult gồm answer, sources tiếng Việt và retrieval_source",
         "method": "Context-grounded generation với citation",
         "config": "temperature=0.3 · top_p=0.9 · model/provider đọc từ .env",
     },
@@ -153,6 +153,24 @@ def get_project_snapshot() -> dict[str, Any]:
         "legal_count": legal_count, "news_count": news_count,
         "golden_count": golden_count, "step_status": step_status,
     }
+
+
+def get_golden_questions_vi() -> list[dict[str, str]]:
+    """Load the Vietnamese demo questions used by the evaluation set."""
+    path = ROOT / "group_project" / "evaluation" / "golden_dataset_vi.json"
+    try:
+        questions = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    if not isinstance(questions, list):
+        return []
+    return [
+        {"id": item["id"], "question": item["question"]}
+        for item in questions
+        if isinstance(item, dict)
+        and isinstance(item.get("id"), str)
+        and isinstance(item.get("question"), str)
+    ]
 
 
 def run_rag_query(query: str, top_k: int) -> dict[str, Any]:

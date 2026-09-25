@@ -6,23 +6,21 @@ Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài 
 
 Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
 
-## Phạm Vi Dự Án IELTS Writing
+## Phạm vi dự án IELTS Writing
 
-Phần này mô tả bốn scope chức năng của dự án IELTS Writing và bộ nguồn nội dung được dùng để xây dựng chúng. Danh sách nguồn cùng URL đầy đủ nằm trong [IELTS Writing Sources](docs/IELTS_WRITING_SOURCES.md).
+Dự án có một scope chức năng: **Ask IELTS Writing**. Người dùng đặt câu hỏi về IELTS Writing; hệ thống chỉ trả lời dựa trên các đoạn dữ liệu truy xuất được, kèm citation. Nếu dữ liệu không đủ căn cứ hoặc câu hỏi nằm ngoài IELTS Writing, hệ thống từ chối trả lời. Danh sách nguồn cùng URL đầy đủ nằm trong [IELTS Writing Sources](docs/IELTS_WRITING_SOURCES.md).
 
-| Scope                        | Mục đích                                                                                                                                  |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ask IELTS Writing**        | Trả lời câu hỏi về tiêu chí chấm, các band, cấu trúc bài thi Academic Writing và cách chuẩn bị; câu trả lời cần dựa trên nguồn tham khảo. |
-| **Band Descriptor Explorer** | Tra cứu mô tả từng tiêu chí chấm theo band để người học hiểu yêu cầu ở mỗi mức.                                                           |
-| **Compare Bands**            | Đặt các band cạnh nhau (đặc biệt Band 6 và Band 7) để làm rõ khác biệt trong mô tả tiêu chí.                                              |
-| **Essay Feedback**           | Đưa phản hồi cho bài viết theo các tiêu chí IELTS Writing, có căn cứ từ mô tả band và hướng dẫn/đề mẫu liên quan.                         |
+Backend Task 10 dùng `generate_with_citation(query)`:
 
-### Nguồn dữ liệu theo scope
+```python
+from src.task10_generation import generate_with_citation
 
-- **Ask IELTS Writing:** dùng cả 8 nguồn.
-- **Band Descriptor Explorer:** ưu tiên nguồn 1, 2 và 4.
-- **Compare Bands:** tập trung vào nguồn 1.
-- **Essay Feedback:** dùng nguồn 1, 2, 3, 5, 6, 7 và 8.
+result = generate_with_citation("IELTS Academic Writing Task 2 được chấm theo tiêu chí nào?")
+```
+
+Cấu hình `LLM_PROVIDER=deepseek`, `LLM_MODEL=deepseek-flash` và `DEEPSEEK_API_KEY` trong `.env` để dùng DeepSeek.
+
+Embedding mặc định chạy local bằng `BAAI/bge-m3`; DeepSeek được dùng cho generation. PageIndex là fallback tùy chọn, cần `PAGEINDEX_API_KEY` riêng; để trống thì pipeline tiếp tục với hybrid retrieval.
 
 ## Sản phẩm phải nộp
 

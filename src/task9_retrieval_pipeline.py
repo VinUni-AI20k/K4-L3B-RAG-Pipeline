@@ -1,15 +1,8 @@
-"""
-Task 9 — Retrieval pipeline hoàn chỉnh.
+"""Task 9 — Hybrid retrieval, one RRF pass, and optional PageIndex fallback."""
 
-Luồng xử lý:
-    1. Chạy semantic_search và lexical_search.
-    2. Fuse hai danh sách bằng RRF đúng một lần.
-    3. Lấy best cosine score gốc từ dense results.
-    4. Nếu score dưới threshold, thử PageIndex fallback.
-    5. Nếu fallback lỗi, trả hybrid results thay vì crash.
+from __future__ import annotations
 
-Không so sánh threshold với RRF score vì hai thang đo khác nhau.
-"""
+import os
 
 from .task5_semantic_search import semantic_search
 from .task6_lexical_search import lexical_search
@@ -17,7 +10,8 @@ from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
-SCORE_THRESHOLD = 0.3
+_threshold_value = os.getenv("SCORE_THRESHOLD", "").strip()
+SCORE_THRESHOLD = float(_threshold_value) if _threshold_value else 0.3
 DEFAULT_TOP_K = 5
 
 
@@ -27,28 +21,48 @@ def retrieve(
     score_threshold: float = SCORE_THRESHOLD,
     use_reranking: bool = True,
 ) -> list[dict]:
-    """Trả về hybrid hoặc pageindex SearchResult."""
-    # TODO: Implement full retrieval pipeline.
-    #
-    # dense = semantic_search(query, top_k=top_k * 2)
-    # sparse = lexical_search(query, top_k=top_k * 2)
-    # hybrid = (
-    #     rerank_rrf([dense, sparse], top_k=top_k)
-    #     if use_reranking else dense[:top_k]
-    # )
-    #
-    # best_dense_score = dense[0]["score"] if dense else 0.0
-    # if best_dense_score < score_threshold:
-    #     try:
-    #         fallback = pageindex_search(query, top_k=top_k)
-    #         if fallback:
-    #             return fallback
-    #     except Exception:
-    #         pass
-    # return hybrid[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    """Return hybrid results, or PageIndex nodes when dense confidence is low."""
+    if not isinstance(query, str) or not query.strip():
+        raise ValueError("query must be a non-empty string")
+    if top_k <= 0:
+        return []
+
+    dense: list[dict] = []
+    sparse: list[dict] = []
+    try:
+        dense = semantic_search(query, top_k=top_k * 2)
+    except Exception as error:
+        # Sparse retrieval may still provide useful evidence if embeddings or
+        # the vector store are temporarily unavailable.
+        print(f"Dense retrieval unavailable: {error}")
+    try:
+        sparse = lexical_search(query, top_k=top_k * 2)
+    except Exception as error:
+        print(f"BM25 retrieval unavailable: {error}")
+
+    if use_reranking:
+        try:
+            hybrid = rerank_rrf([dense, sparse], top_k=top_k)
+        except Exception as error:
+            print(f"RRF unavailable; using available ranked results: {error}")
+            hybrid = (dense or sparse)[:top_k]
+    else:
+        hybrid = dense[:top_k] if dense else sparse[:top_k]
+
+    # Dense results are sorted by the original cosine similarity. Never compare
+    # the unrelated RRF or BM25 scale to this threshold.
+    best_dense_score = float(dense[0]["score"]) if dense else 0.0
+    if best_dense_score < score_threshold:
+        try:
+            fallback = pageindex_search(query, top_k=top_k)
+            if fallback:
+                return fallback[:top_k]
+        except Exception as error:
+            print(f"PageIndex fallback unavailable; returning hybrid results: {error}")
+
+    return hybrid[:top_k]
 
 
 if __name__ == "__main__":
-    for result in retrieve("test query", top_k=3):
+    for result in retrieve("IELTS Writing band descriptors", top_k=3):
         print(result)
