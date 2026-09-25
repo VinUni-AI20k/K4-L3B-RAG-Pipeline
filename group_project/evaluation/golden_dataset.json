@@ -1,0 +1,107 @@
+[
+  {
+    "id": "G01",
+    "question": "Shopee có hỗ trợ đổi hàng trực tiếp không?",
+    "expected_answer": "Shopee hiện chưa hỗ trợ yêu cầu đổi hàng. Nếu hàng có vấn đề, người mua có thể từ chối nhận khi đồng kiểm hoặc gửi yêu cầu trả hàng/hoàn tiền sau khi nhận.",
+    "expected_context": "Shopee hiện chưa hỗ trợ yêu cầu đổi hàng.",
+    "source": "legal/general-return-refund-rules.md"
+  },
+  {
+    "id": "G02",
+    "question": "Đơn thực phẩm tươi sống hoặc đông lạnh được gửi yêu cầu trả hàng/hoàn tiền trong bao lâu sau khi giao thành công?",
+    "expected_answer": "Trong vòng 24 giờ từ lúc đơn hàng được cập nhật giao hàng thành công, trừ yêu cầu với lý do chưa nhận được hàng.",
+    "expected_context": "Đối với đơn hàng giao thực phẩm tươi sống & đông lạnh (trừ lý do Chưa nhận được hàng): Trong vòng 24 giờ kể từ lúc đơn hàng được cập nhật trạng thái ‘Giao hàng thành công’.",
+    "source": "legal/general-return-refund-rules.md"
+  },
+  {
+    "id": "G03",
+    "question": "Thời hạn gửi yêu cầu trả hàng/hoàn tiền cho các đơn hàng thông thường là bao lâu?",
+    "expected_answer": "15 ngày kể từ khi đơn hàng được cập nhật trạng thái giao hàng thành công.",
+    "expected_context": "Đối với các đơn hàng khác: 15 ngày kể từ lúc đơn hàng được cập nhật trạng thái ‘Giao hàng thành công’.",
+    "source": "legal/general-return-refund-rules.md"
+  },
+  {
+    "id": "G04",
+    "question": "Sản phẩm thuộc danh sách hạn chế trả hàng có được trả vì đổi ý không?",
+    "expected_answer": "Không. Shopee không áp dụng lý do đổi ý cho nhóm sản phẩm hạn chế trả hàng.",
+    "expected_context": "Đối với nhóm sản phẩm này, Shopee không áp dụng lý do trả hàng “Đổi ý (Sản phẩm còn nguyên tem, nhãn mác, bao bì)”.",
+    "source": "legal/restricted-return-products.md"
+  },
+  {
+    "id": "G05",
+    "question": "Những nhóm người mua nào được nêu là đủ điều kiện về hạng thành viên để trả hàng do đổi ý?",
+    "expected_answer": "Người mua hạng Vàng hoặc Kim Cương trong chương trình khách hàng thân thiết Shopee, và/hoặc người đang dùng gói ShopeeVIP; các điều kiện khác của yêu cầu và sản phẩm vẫn phải được đáp ứng.",
+    "expected_context": "Người mua là thành viên của Chương trình Khách hàng thân thiết Shopee đạt hạng Vàng/Kim Cương và/hoặc đang sử dụng Gói ShopeeVIP.",
+    "source": "legal/return-by-change-of-mind.md"
+  },
+  {
+    "id": "G06",
+    "question": "Đã mở túi hoặc hộp niêm phong để kiểm tra thì còn trả hàng vì đổi ý được không?",
+    "expected_answer": "Không, nếu việc mở làm mất tình trạng nguyên vẹn của bao bì niêm phong, Shopee không hỗ trợ trả hàng với lý do đổi ý.",
+    "expected_context": "Nếu sản phẩm có hộp / gói / túi niêm phong, việc mở bao bì / hộp / túi / gói niêm phong đã làm ảnh hưởng đến tính nguyên vẹn của sản phẩm gốc nên sẽ không thể hỗ trợ trả hàng với lý do Đổi ý / không còn nhu cầu nữa.",
+    "source": "legal/return-by-change-of-mind.md"
+  },
+  {
+    "id": "G07",
+    "question": "Ở trang đơn hàng Shopee, người mua bấm mục nào để bắt đầu gửi yêu cầu?",
+    "expected_answer": "Mở đơn hàng cần xử lý rồi bấm Trả hàng/Hoàn tiền.",
+    "expected_context": "Bước 2: Tại đơn hàng bạn cần xử lý, bấm Trả hàng/Hoàn tiền.",
+    "source": "news/submit-return-refund-request.md"
+  },
+  {
+    "id": "G08",
+    "question": "Nếu khiếu nại chưa nhận được hàng, người mua có phải cung cấp bằng chứng không?",
+    "expected_answer": "Không. Shopee xử lý dựa trên hệ thống theo dõi đơn hàng.",
+    "expected_context": "Nếu bạn chưa nhận được hàng, bạn không cần cung cấp bất kỳ bằng chứng nào. Shopee sẽ tự động xử lý yêu cầu dựa trên hệ thống theo dõi đơn hàng.",
+    "source": "news/return-refund-evidence.md"
+  },
+  {
+    "id": "G09",
+    "question": "Video mở kiện hàng làm bằng chứng cần quay liên tục hay có thể cắt ghép?",
+    "expected_answer": "Video cần quay xuyên suốt, liên tục và không bị cắt ghép.",
+    "expected_context": "Quay xuyên suốt, liên tục, không bị cắt ghép.",
+    "source": "news/return-refund-evidence.md"
+  },
+  {
+    "id": "G10",
+    "question": "Yêu cầu ở trạng thái Shopee đang xem xét thường được phản hồi trong bao lâu?",
+    "expected_answer": "Trong vòng 3–5 ngày làm việc, không tính Chủ nhật và ngày lễ, Tết; kết quả được thông báo qua mục Thông báo > Cập nhật đơn hàng hoặc email đã cung cấp.",
+    "expected_context": "Đối với các yêu cầu Trả hàng/Hoàn tiền hiển thị trạng thái Shopee đang xem xét: Đây là quá trình Shopee đang tiến hành rà soát yêu cầu của bạn và sẽ gửi kết quả xử lý tới bạn trong vòng 3-5 ngày làm việc (không tính chủ nhật và các ngày lễ, Tết) qua mục Thông báo > Cập nhật đơn hàng, hoặc qua email bạn đã cung cấp.",
+    "source": "news/review-return-request.md"
+  },
+  {
+    "id": "G11",
+    "question": "Sau khi Shopee chấp nhận trả hàng và hoàn tiền, người mua có bao lâu để gửi hàng về?",
+    "expected_answer": "Người mua cần hoàn tất gửi hàng về kho Shopee hoặc người bán trong vòng 6 ngày từ lúc nhận thông báo gửi trả hàng.",
+    "expected_context": "Nếu Shopee đồng ý cho bạn Trả hàng & Hoàn tiền: Bạn cần chọn hình thức trả hàng và hoàn tất việc gửi trả hàng về kho Shopee/Người bán trong vòng 6 ngày kể từ thời điểm nhận được thông báo gửi trả hàng từ Shopee.",
+    "source": "news/review-return-request.md"
+  },
+  {
+    "id": "G12",
+    "question": "Trong ứng dụng Shopee, người mua bắt đầu từ đâu để theo dõi yêu cầu trả hàng?",
+    "expected_answer": "Vào mục Tôi > Đơn Mua, sau đó mở mục Trả hàng/Hoàn tiền và chọn đơn hàng để xem chi tiết.",
+    "expected_context": "Bước 1: Vào mục Tôi > Đơn Mua",
+    "source": "news/track-return-request.md"
+  },
+  {
+    "id": "G13",
+    "question": "Nếu đồng ý với đề xuất Hoàn tiền ngay của người bán, người mua có phải trả hàng không?",
+    "expected_answer": "Không. Người mua nhận tiền hoàn ngay mà không cần trả hàng.",
+    "expected_context": "Bạn sẽ nhận được tiền hoàn ngay mà không cần trả hàng",
+    "source": "news/seller-refund-dispute.md"
+  },
+  {
+    "id": "G14",
+    "question": "Vì sao người mua nên ghi hình lúc đóng gói hàng hoàn trả?",
+    "expected_answer": "Để lưu bằng chứng về tình trạng và cách đóng gói hàng, bảo vệ quyền lợi nếu người bán khiếu nại hàng hoàn trả.",
+    "expected_context": "Luôn ghi hình lại quá trình đóng gói hàng hoàn, nhằm đảm bảo quyền lợi khi Người bán có phát sinh khiếu nại hàng hoàn trả.",
+    "source": "news/return-shipping-packaging-fees.md"
+  },
+  {
+    "id": "G15",
+    "question": "Hoàn tiền về thẻ tín dụng hoặc thẻ ghi nợ thường mất bao lâu sau khi Shopee chấp nhận hoàn tiền?",
+    "expected_answer": "Khoảng 7–14 ngày làm việc, tùy ngân hàng; tiền được hoàn về thẻ tín dụng hoặc thẻ ghi nợ.",
+    "expected_context": "| Thẻ tín dụng/ghi nợ | Thẻ tín dụng/ghi nợ | 7 - 14 ngày làm việc (tùy theo ngân hàng) |",
+    "source": "news/refund-timing-and-methods.md"
+  }
+]
