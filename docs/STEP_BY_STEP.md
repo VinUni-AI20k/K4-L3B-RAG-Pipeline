@@ -104,3 +104,52 @@ pytest -q
 - Mỗi thành viên hoàn thiện individual report.
 - Kiểm tra repository không chứa `.env`, API key hoặc file cache.
 - Demo một query đúng, một query ngoài domain và kết quả A/B.
+
+### Task 3: dữ liệu chuẩn hóa cho corpus Liên Quân
+
+Triển khai hiện tại đọc 3 HTML chính sách của Task 1 và 8 JSON từ crawler
+Task 2 đã cải tiến. Không cần crawl lại hoặc gọi API/LLM để chuẩn hóa:
+
+```bash
+python -m pip install -e '.[dev]'
+python -m src.task3_convert_markdown
+python -m pytest tests/test_task3_convert_markdown.py -q
+```
+
+Kết quả nằm trong `data/standardized/legal/` và `data/standardized/news/`,
+mỗi nguồn tương ứng một file `.md` cùng tên gốc. Mỗi file gồm:
+
+- YAML front matter: `id`, `source`, `title`, `doc_type`, `url`, `date_crawled`,
+  thêm `date_published` nếu HTML cung cấp ngày đăng.
+- Một H1 là tiêu đề tài liệu, tiếp theo là nội dung với heading, bảng, danh sách
+  và liên kết. Các heading rỗng được loại bỏ, heading cha có nội dung con vẫn giữ.
+- `source` tương đối với `data/landing/`; `id` tương đối với `data/standardized/`.
+  Metadata được quote bằng JSON scalar hợp lệ trong YAML, giữ an toàn các dấu
+  hai chấm, ngoặc kép trong tiêu đề. Ngày nguồn được giữ đúng dạng thu thập.
+
+Làm sạch HTML tập trung vào phần bài viết, bỏ menu/footer/script/style; điều
+khoản Garena được khôi phục các heading mục có số. Markdown wiki được chuẩn hóa
+Unicode, dòng trống, link bắt đầu bằng `/`; bỏ thông báo stub, bảng điều hướng
+chỉ chứa liên kết thể loại Tướng và các mục rỗng. Giữ bảng nội dung, citation,
+danh sách lồng nhau, hard break và fenced code. Đặc biệt giữ nguyên các phần
+**Phù hiệu**, **Bảng ngọc**, **Phép bổ trợ** được Task 2 khôi phục từ wikitext,
+kể cả nhiều bộ ngọc và số lượng từng loại. Không tự bổ sung dữ kiện bị thiếu,
+không suy diễn lại build hoặc cập nhật chỉ số gameplay.
+
+Chạy lại không tạo file trùng và không ghi lại file nếu kết quả không đổi. Khi
+nguồn được cập nhật, file cùng tên được thay thế qua file tạm. Dữ liệu lỗi/rỗng
+làm lệnh dừng với lỗi rõ ràng; file đầu ra cũ không bị thay bằng nội dung rỗng.
+Các file hoàn tất trước lỗi vẫn được giữ. Không tự xóa đầu ra khi nguồn bị xóa;
+đổi tên/xóa nguồn cần dọn file đầu ra tương ứng. Hai legal input trùng stem bị
+từ chối trước khi ghi để tránh ghi đè nhau.
+
+HTML/HTM được xử lý bằng BeautifulSoup và markdownify. PDF/DOCX dùng MarkItDown
+khi gặp các định dạng này; PDF scan cần OCR riêng và `.doc` cần đổi sang DOCX.
+Corpus hiện tại và kiểm thử nội dung thực tế là HTML/JSON; nhánh PDF/DOCX có
+kiểm thử dispatch bằng converter giả, chưa xác minh chuyển đổi file nhị phân thật.
+
+Khi implement Task 4, tách YAML front matter khỏi nội dung trước khi chunk,
+đưa `id` vào Document và giữ `source`, `title`, `doc_type`, `url` trong metadata
+theo `MODULE_CONTRACTS.md`. Task 4 hiện vẫn là skeleton, chưa tự đọc metadata này.
+Test nghiệm thu Task 1 gốc chỉ chấp nhận PDF/DOCX nên chưa khớp corpus HTML;
+các test Task 4–10 và evaluation cần hoàn thiện trong các task tương ứng.
