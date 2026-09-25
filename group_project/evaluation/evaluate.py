@@ -12,25 +12,25 @@ from ragas.metrics import (
 from dotenv import load_dotenv
 
 # Tạm thời comment dòng import này vì file generation chưa hoàn thiện
-# from src.task10_generation import generate_with_citation
+from src.task10_generation import generate_with_citation
 
-def mock_generate_with_citation(query: str, retrieval_method: str):
-    """
-    Hàm giả lập để code chạy không bị lỗi trong lúc chờ các bạn khác code xong.
-    Sau này sẽ xóa hàm này và dùng hàm thật từ src.task10_generation.
-    """
-    return {
-        "answer": f"Đây là câu trả lời giả lập cho câu hỏi: {query}",
-        "sources": [
-            {
-                "content": "Đây là nội dung tài liệu giả lập. ĐHQGHN tuyển sinh bằng 4 phương thức.",
-                "score": 0.9,
-                "id": "chunk_1",
-                "metadata": {}
-            }
-        ],
-        "retrieval_source": retrieval_method
-    }
+# def mock_generate_with_citation(query: str, retrieval_method: str):
+#     """
+#     Hàm giả lập để code chạy không bị lỗi trong lúc chờ các bạn khác code xong.
+#     Sau này sẽ xóa hàm này và dùng hàm thật từ src.task10_generation.
+#     """
+#     return {
+#         "answer": f"Đây là câu trả lời giả lập cho câu hỏi: {query}",
+#         "sources": [
+#             {
+#                 "content": "Đây là nội dung tài liệu giả lập. ĐHQGHN tuyển sinh bằng 4 phương thức.",
+#                 "score": 0.9,
+#                 "id": "chunk_1",
+#                 "metadata": {}
+#             }
+#         ],
+#         "retrieval_source": retrieval_method
+#     }
 
 def load_golden_dataset(filepath: str):
     with open(filepath, "r", encoding="utf-8") as f:
@@ -41,6 +41,7 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
     Chạy đánh giá cho một phương thức tìm kiếm (dense hoặc hybrid).
     """
     print(f"🔄 Đang thu thập câu trả lời cho phương thức: {retrieval_method.upper()}...")
+    os.environ["USE_RERANKING"] = "true" if retrieval_method.lower() == "hybrid" else "false"
     data = load_golden_dataset(dataset_path)
     
     questions = []
@@ -50,11 +51,10 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
     
     for item in data:
         q = item["question"]
-        gt = item["answer"]
+        gt = item.get("expected_answer") or item.get("answer")
         
-        # 1. Gọi hàm sinh câu trả lời
-        # TODO: Thay hàm mock_generate_with_citation bằng hàm thật từ task 10
-        result = mock_generate_with_citation(q, retrieval_method=retrieval_method)
+        # 1. Gọi hàm sinh câu trả lời thật từ task 10
+        result = generate_with_citation(q)
         
         generated_answer = result["answer"]
         # Rút trích list các đoạn văn bản thô từ sources
@@ -82,8 +82,16 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
         context_recall,
     ]
     
-    # Có thể cần chỉ định rõ LLM và Embeddings dùng để chấm thi nếu không dùng default của OpenAI
-    eval_results = evaluate(eval_dataset, metrics=metrics)
+    gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
+    openai_key = os.getenv("OPENAI_API_KEY", "").strip()
+
+    if gemini_key and not openai_key:
+        from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+        judge_llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash-lite", google_api_key=gemini_key)
+        judge_embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001", google_api_key=gemini_key)
+        eval_results = evaluate(eval_dataset, metrics=metrics, llm=judge_llm, embeddings=judge_embeddings)
+    else:
+        eval_results = evaluate(eval_dataset, metrics=metrics)
     
     return eval_results
 

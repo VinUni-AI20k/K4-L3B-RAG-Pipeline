@@ -51,7 +51,15 @@ def retrieve(
         except Exception:
             pass
 
-    if use_reranking:
+    env_rerank = os.getenv("USE_RERANKING", "").strip().lower()
+    if env_rerank in ("false", "0", "no"):
+        effective_reranking = False
+    elif env_rerank in ("true", "1", "yes"):
+        effective_reranking = True
+    else:
+        effective_reranking = use_reranking
+
+    if effective_reranking:
         hybrid = rerank_rrf([dense, sparse], top_k=top_k)
     else:
         hybrid = dense[:top_k]
