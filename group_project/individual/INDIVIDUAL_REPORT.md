@@ -14,7 +14,7 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 - Họ và tên:
 - Mã học viên:
-- Nhóm:
+- Nhóm: K4-L3B
 - Repository/branch:
 
 ## Phần việc đã thực hiện

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Điều kiện để sinh viên được công nhận tốt nghiệp đại học tại ĐHQGHN là gì?",
+    "expected_answer": "Sinh viên được công nhận tốt nghiệp khi tích lũy đủ số tín chỉ theo chương trình đào tạo, đạt điểm trung bình chung tích lũy từ 2.0 trở lên, hoàn thành các học phần điều kiện (giáo dục thể chất, giáo dục quốc phòng - an ninh, kỹ năng bổ trợ), đáp ứng chuẩn đầu ra ngoại ngữ và không bị kỷ luật ở mức đình chỉ học tập.",
+    "expected_context": "Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Sinh viên tốt nghiệp đợt tháng 01/2026 nộp ảnh làm bằng tốt nghiệp ở đâu và hạn chót là khi nào?",
+    "expected_answer": "Sinh viên nộp 02 ảnh chân dung màu cỡ 3x4cm cho Lớp trưởng lớp khóa học. Lớp trưởng tổng hợp và nộp về phòng Công tác Sinh viên (P.107-G2) trước thứ Tư ngày 21/01/2026.",
+    "expected_context": "Kế hoạch kết thúc khóa học của các lớp QH-2021 (K66) đợt xét tháng 01/2026"
+  },
+  {
+    "question": "Điểm trung bình tích lũy tối thiểu để sinh viên năm thứ nhất không bị cảnh báo học vụ là bao nhiêu?",
+    "expected_answer": "Theo quy trình xét cảnh báo học vụ tại ĐHQGHN, sinh viên bị cảnh báo khi điểm trung bình chung tích lũy đạt dưới ngưỡng quy định theo từng năm đào tạo. Sinh viên cần duy trì điểm trung bình chung tích lũy từ 1.2 trở lên (năm thứ nhất) để không bị cảnh báo.",
+    "expected_context": "Quy trình xét cảnh báo học vụ cho sinh viên chính quy tại ĐHQGHN (QĐ 2244)"
+  },
+  {
+    "question": "Học bổng khuyến khích học tập tại ĐHQGHN được xét dựa trên những tiêu chí nào?",
+    "expected_answer": "Học bổng khuyến khích học tập được xét dựa trên kết quả học tập (điểm trung bình chung học kỳ hoặc điểm trung bình chung tích lũy), kết quả rèn luyện và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét học bổng.",
+    "expected_context": "Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội (QĐ 4618/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Lễ bế giảng và trao bằng tốt nghiệp đợt tháng 01/2026 tổ chức ở đâu và vào ngày nào?",
+    "expected_answer": "Lễ bế giảng và trao bằng tốt nghiệp đợt tháng 01/2026 được tổ chức vào thứ Bảy ngày 07/02/2026 tại Hội trường Nguyễn Văn Đạo, với 6 ca từ 8h00 đến 17h00.",
+    "expected_context": "Kế hoạch kết thúc khóa học của các lớp QH-2021 (K66) đợt xét tháng 01/2026"
+  },
+  {
+    "question": "Thời gian tối đa để sinh viên hoàn thành khóa học đại học tại ĐHQGHN là bao lâu?",
+    "expected_answer": "Thời gian tối đa để sinh viên hoàn thành khóa học không vượt quá 2 lần thời gian theo kế hoạch học tập chuẩn toàn khóa đối với mỗi hình thức đào tạo.",
+    "expected_context": "Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Sinh viên UET tham gia BHYT năm 2026 theo thông báo nào và thực hiện như thế nào?",
+    "expected_answer": "Theo Thông báo số 5 về triển khai BHYT năm 2026 của UET, sinh viên cần thực hiện các thủ tục đăng ký BHYT theo hướng dẫn của nhà trường trong thời hạn quy định.",
+    "expected_context": "Thông báo số 5 về triển khai cho sinh viên tham gia BHYT năm 2026"
+  },
+  {
+    "question": "Chương trình đào tạo chuẩn bậc đại học (cử nhân) tại ĐHQGHN tối thiểu cần bao nhiêu tín chỉ?",
+    "expected_answer": "Chương trình đào tạo chuẩn bậc cử nhân tại ĐHQGHN được thiết kế tối thiểu 120 tín chỉ.",
+    "expected_context": "Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Sinh viên K66 cần hoàn thành thủ tục khám sức khỏe cuối khóa vào thời gian nào và ở đâu?",
+    "expected_answer": "Khám sức khỏe cuối khóa diễn ra vào thứ Bảy ngày 17/01/2026, từ 7h30 đến 11h30 và 13h00 đến 16h30 tại Bệnh viện ĐHQGHN, 182 Lương Thế Vinh, Thanh Xuân, Hà Nội. Sinh viên mang theo thẻ sinh viên và lệ phí 100.000đ.",
+    "expected_context": "Kế hoạch kết thúc khóa học của các lớp QH-2021 (K66) đợt xét tháng 01/2026"
+  },
+  {
+    "question": "Điều kiện về ngoại ngữ để sinh viên tốt nghiệp chương trình đào tạo chuẩn tại ĐHQGHN là gì?",
+    "expected_answer": "Sinh viên chương trình đào tạo chuẩn cần đạt trình độ ngoại ngữ tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (tương đương B1 theo CEFR).",
+    "expected_context": "Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Sinh viên đang đào tạo kéo dài cần nộp phiếu đánh giá điểm rèn luyện ở đâu và trước ngày nào?",
+    "expected_answer": "Sinh viên đang trong thời gian đào tạo kéo dài cần tự làm phiếu đánh giá điểm rèn luyện và nộp trực tiếp tại phòng Công tác sinh viên (phòng 210-G2) hoặc qua đường link google form trước ngày 12/01/2026.",
+    "expected_context": "Kế hoạch kết thúc khóa học của các lớp QH-2021 (K66) đợt xét tháng 01/2026"
+  },
+  {
+    "question": "Học phần điều kiện (giáo dục thể chất, quốc phòng) có được tính vào điểm trung bình chung không?",
+    "expected_answer": "Không. Kết quả đánh giá các học phần điều kiện (giáo dục thể chất, giáo dục quốc phòng - an ninh và kỹ năng bổ trợ) không được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy. Tuy nhiên đây là điều kiện bắt buộc để xét tốt nghiệp.",
+    "expected_context": "Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)"
+  },
+  {
+    "question": "Học bổng Vingroup dành cho sinh viên UET có những chương trình nào?",
+    "expected_answer": "Tập đoàn Vingroup có chương trình học bổng đào tạo Thạc sĩ, Tiến sĩ du học nước ngoài trong lĩnh vực Khoa học Công nghệ, hỗ trợ toàn bộ chi phí học tập và sinh hoạt tại các trường đại học danh tiếng trên thế giới.",
+    "expected_context": "Thông tin về chương trình học bổng Khoa học Công nghệ đào tạo Thạc sĩ Tiến sĩ du học nước ngoài của Tập đoàn Vingroup"
+  },
+  {
+    "question": "Cuộc thi Học sinh sinh viên với ý tưởng khởi nghiệp tại UET nhằm mục đích gì?",
+    "expected_answer": "Cuộc thi nhằm khuyến khích tinh thần khởi nghiệp trong sinh viên, tạo cơ hội cho sinh viên UET phát triển và hiện thực hóa các ý tưởng sáng tạo, kết nối với hệ sinh thái khởi nghiệp và nhận được hỗ trợ từ các chuyên gia, nhà đầu tư.",
+    "expected_context": "Tham gia cuộc thi Học sinh sinh viên với ý tưởng khởi nghiệp"
+  },
+  {
+    "question": "Thời tiết ở Hà Nội hôm nay như thế nào?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+    "expected_context": "Câu hỏi ngoài phạm vi corpus — không có tài liệu nào trong hệ thống đề cập đến thông tin thời tiết. Pipeline phải trả safe refusal."
+  }
+]
