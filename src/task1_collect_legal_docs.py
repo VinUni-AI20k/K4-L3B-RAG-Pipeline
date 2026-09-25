@@ -24,20 +24,17 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    """Validate the manually collected public policy files already in landing."""
+    extensions = {".pdf", ".doc", ".docx"}
+    documents = sorted(
+        path for path in DATA_DIR.iterdir()
+        if path.is_file() and path.suffix.lower() in extensions and path.stat().st_size > 1024
+    )
+    if len(documents) < 3:
+        raise RuntimeError(
+            f"Found {len(documents)} valid policy documents in {DATA_DIR}; add at least 3 public source files"
+        )
+    print(f"Validated {len(documents)} policy documents in {DATA_DIR}")
 
 
 if __name__ == "__main__":
