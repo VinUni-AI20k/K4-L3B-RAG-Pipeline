@@ -1,0 +1,272 @@
+{
+  "run_info": {
+    "date": "2026-09-25",
+    "embedding_model": "gemini-embedding-001",
+    "llm_model": "gemini-3.5-flash-lite",
+    "llm_judge": "gemini-3.5-flash-lite",
+    "retrieval_mode": "hybrid+rrf",
+    "top_k": 5,
+    "n_cases_evaluated": 14
+  },
+  "average_scores": {
+    "faithfulness": 1.0,
+    "answer_relevance": 0.7857,
+    "context_recall": 0.7964,
+    "context_precision": 0.2929,
+    "average": 0.7188
+  },
+  "per_case_results": [
+    {
+      "question": "Điều kiện để sinh viên được công nhận tốt nghiệp đại học tại ĐHQGHN là gì?",
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+      "expected_answer": "Sinh viên được công nhận tốt nghiệp khi tích lũy đủ số tín chỉ theo chương trình đào tạo, đạt điểm trung bình chung tích lũy từ 2.0 trở lên, hoàn thành các học phần điều kiện (giáo dục thể chất, giáo dục quốc phòng - an ninh, kỹ năng bổ trợ), đáp ứng chuẩn đầu ra ngoại ngữ và không bị kỷ luật ở mức đình chỉ học tập.",
+      "contexts": [
+        "kiện tốt nghiệp và hoàn thành nghĩa vụ với đơn vị đào tạo, trên cơ sở đề nghị của \nHội đồng xét tốt nghiệp, Hiệu trưởng trường đại học thành viên ra quyết định công \nnhận tốt nghiệp và cấp bằng đại học cho sinh viên đào tạo tại trường mình, Giám \nđốc Đại học Quốc gia Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng đại \nhọc cho sinh viên đào tạo tại Trường/Khoa trực thuộc theo đề nghị của Hiệu \ntrưởng/Chủ nhiệm khoa.",
+        "g) Được đánh giá đạt các học phần giáo dục quốc phòng - an ninh, giáo dục \nthể chất và kỹ năng bổ trợ; \nh) Có đơn gửi Phòng Đào tạo đề nghị được xét tốt nghiệp trong trường hợp \nđủ điều kiện tốt nghiệp sớm hoặc muộn so với thời gian thiết kế của khóa học. \n2. Sinh viên không đủ điều kiện tốt nghiệp chương trình đào tạo tài năng, \nchất lượng cao được quy đổi điểm như quy định ở Điều 22 để xem xét công nhận \ntốt nghiệp và cấp bằng đại học chính quy hệ chuẩn ngành đào tạo tương ứng.",
+        "3. Sinh viên không đủ điều kiện tốt nghiệp được cấp giấy chứng nhận điểm \ncác học phần trong chương trình đào tạo đã tích lũy. \nĐiều 47. Công nhận tốt nghiệp và cấp bằng đại học \n1. Định kỳ mỗi năm 4 lần (tháng 3, tháng 6 và tháng 7, tháng 9, tháng 12), \nthủ trưởng đơn vị đào tạo ra quyết định thành lập Hội đồng xét tốt nghiệp cho sinh \nviên đã hoàn thành chương trình đào tạo của đơn vị. Hội đồng xét tốt nghiệp do"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Sinh viên tốt nghiệp đợt tháng 01/2026 nộp ảnh làm bằng tốt nghiệp ở đâu và hạn chót là khi nào?",
+      "answer": "Theo quy định đối với sinh viên tốt nghiệp đợt tháng 01/2026:\n\n* **Nơi nộp:** Mỗi sinh viên nộp ảnh cho **Lớp trưởng Lớp khóa học**, sau đó Lớp trưởng sẽ nộp đầy đủ ảnh và danh sách tại **phòng Công tác sinh viên (P.107-G2)** [Source: Document 2, Document 4].\n* **Hạn chót:** Lớp trưởng phải nộp đầy đủ tại phòng Công tác sinh viên trước **thứ Tư ngày 21/01/2026** [Source: Document 4].",
+      "expected_answer": "Sinh viên nộp 02 ảnh chân dung màu cỡ 3x4cm cho Lớp trưởng lớp khóa học. Lớp trưởng tổng hợp và nộp về phòng Công tác Sinh viên (P.107-G2) trước thứ Tư ngày 21/01/2026.",
+      "contexts": [
+        "3. Nộp ảnh để trình chiếu trong Lễ trao bằng\n\n\nVới các sinh viên dự kiến tốt nghiệp đợt tháng 01/2026 nộp bản mềm ảnh cá nhân để trình chiếu khi lên nhận bằng tốt nghiệp tại đường link, trướcngày18/01/2026:http://ctsv.uet.vnu.edu.vn:4000/login(Tài khoản và mật khẩu là mã sinh viên,yêu cầu ảnh theo chiều dọc, chụp đẹp, trang phục tự chọn nhưng phải lịch sự, nếu không đạt yêu cầu sẽ không được trình chiếu khi lên nhận bằng, sinh viên up ảnhlên google drivervà gửi ở dạng đường link công khai).",
+        "– Sauthứ Tư 21/01/2026: nếu sinh viên không thực hiện thanh toán các khoản nợ tại các đơn vị nêu trên sẽ không hoàn thành thủ tục tốt nghiệp ra trường và không được xét công nhận tốt nghiệp.\n\n\n5. Nhận hồ sơ tốt nghiệp\n\n\nNgày28/01/2026và sáng29/01/2026: Các sinh viên đủ điều kiện tốt nghiệp đợt tháng 01/2026 đến Phòng Công tác Sinh viên 107-G2(theo lịch trả hồ sơ trong Phụ lụcđính kèm).",
+        "2. Nộp ảnh để làm bằng tốt nghiệp\n\n\n– Mỗi sinh viên nộp cho Lớp trưởng Lớp khóa học 02 ảnh chân dung màu cỡ 3x4cm, được chụp trong thời gian 2 tháng gần nhất. Mặt sau của mỗi ảnh ghi rõ họ tên/ngày sinh/mã sinh viên. Ảnh được bỏ trong phong bì dán kín,ngoài phong bì ghi rõ họ tên/ngày sinh/lớp/mã số sinh viên/nơi sinh theo giấy khai sinh. (Chú ý: ảnh chụp theo quy định ảnh thẻ)."
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.4
+      }
+    },
+    {
+      "question": "Điểm trung bình tích lũy tối thiểu để sinh viên năm thứ nhất không bị cảnh báo học vụ là bao nhiêu?",
+      "answer": "Đối với sinh viên năm thứ nhất, để không bị cảnh báo học vụ, điểm trung bình chung tích lũy phải đạt từ 1,20 trở lên (vì sinh viên sẽ bị cảnh báo học vụ nếu điểm trung bình chung tích lũy đạt dưới 1,20) [Source: Document 1, Document 5].\n\n*Nguồn trích dẫn:*\n- [Source: Quy trình xét cảnh báo học vụ cho sinh viên chính quy tại ĐHQGHN (QĐ 2244)]\n- [Source: Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)]",
+      "expected_answer": "Theo quy trình xét cảnh báo học vụ tại ĐHQGHN, sinh viên bị cảnh báo khi điểm trung bình chung tích lũy đạt dưới ngưỡng quy định theo từng năm đào tạo. Sinh viên cần duy trì điểm trung bình chung tích lũy từ 1.2 trở lên (năm thứ nhất) để không bị cảnh báo.",
+      "contexts": [
+        "III/ QUY TRÌNH CHI TIẾT (Thông tin chi tiết về Quy trình cảnh báo, xét học \nvụ theo Quy chế đào tạo 5115 và 3626) \n1. Cảnh báo học vụ:  \nKết thúc mỗi học kỳ sinh viên thuộc đối tượng sau bị cảnh báo học vụ: \na/ Điểm trung bình chung tích lũy đạt dưới 1.20 đối với sinh viên năm thứ nhất, dưới 1.40 \nvới sinh viên năm thứ hai, dưới 1.60 với sinh viên năm thứ ba, dưới 1.80 với sinh viên \ncác năm tiếp theo hoặc cuối khoá;",
+        "kỳ phụ.  \n1. Cảnh báo học vụ \n  \nĐơn vị đào tạo thực hiện cảnh báo học vụ theo từng học kỳ cho sinh viên có \nkết quả học tập như sau: \na) Điểm trung bình chung tích luỹ đạt dưới 1,20 đối với sinh viên năm thứ \nnhất, dưới 1,40 đối với sinh viên năm thứ hai, dưới 1,60 đối với sinh viên năm thứ \nba hoặc dưới 1,80 đối với sinh viên các năm tiếp theo và cuối khoá; \nb) Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa \nhọc, dưới 1,00 đối với các học kỳ tiếp theo;",
+        "chỉ của các học phần mà sinh viên đăng ký học từ đầu khóa học cho tới thời         \nđiểm xem xét (bao gồm cả các học phần được đánh giá loại đạt và không đạt). \n5. Điểm trung bình chung tích lũy là điểm trung bình theo trọng số tín chỉ \ncủa các học phần đã được đánh giá loại đạt mà sinh viên đã tích lũy được, tính từ \nđầu khóa học cho tới thời điểm xem xét. \nĐiều 43. Cách tính điểm trung bình chung \n1. Để tính điểm trung bình chung học kỳ, điểm trung bình chung các học"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.5
+      }
+    },
+    {
+      "question": "Học bổng khuyến khích học tập tại ĐHQGHN được xét dựa trên những tiêu chí nào?",
+      "answer": "Dựa trên các tài liệu được cung cấp, đối với học sinh trường trung học phổ thông (THPT) chuyên thuộc các đơn vị đào tạo trong ĐHQGHN, tiêu chí xét học bổng khuyến khích học tập bao gồm:\n\n* Có học lực đạt từ loại giỏi trở lên và hạnh kiểm đạt từ loại tốt trở lên trong học kỳ xét cấp học bổng [Source: Document 1 | Title: Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội (QĐ 4618/QĐ-ĐHQGHN) | Source: quy_dinh_hoc_bong_dhqghn_4618.md, Document 3 | Title: Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội (QĐ 4618/QĐ-ĐHQGHN) | Source: quy_dinh_hoc_bong_dhqghn_4618.md].\n* Đạt được một trong các tiêu chuẩn sau:\n  * Điểm môn chuyên của học kỳ xét cấp học bổng phải đạt từ 8,5 trở lên [Source: Document 1 | Title: Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội (QĐ 4618/QĐ-ĐHQGHN) | Source: quy_dinh_hoc_bong_dhqghn_4618.md].\n  * Hoặc đạt một trong các giải từ khuyến khích trở lên trong các kỳ thi học sinh giỏi cấp ĐHQGHN, quốc gia, khu vực, quốc tế của năm đó [Source: Document 1 | Title: Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội (QĐ 4618/QĐ-ĐHQGHN) | Source: quy_dinh_hoc_bong_dhqghn_4618.md].",
+      "expected_answer": "Học bổng khuyến khích học tập được xét dựa trên kết quả học tập (điểm trung bình chung học kỳ hoặc điểm trung bình chung tích lũy), kết quả rèn luyện và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét học bổng.",
+      "contexts": [
+        "trong ĐHQGHN \nb) Tiêu chí: Có học lực đạt từ loại giỏi trở lên, hạnh kiểm đạt từ loại tốt \ntrở lên trong học kỳ xét cấp học bổng và đạt được một trong các tiêu chuẩn sau: \nĐiểm môn chuyên của học kỳ xét cấp học bổng phải đạt từ 8,5 trở lên hoặc đạt \nmột trong các giải từ khuyến khích trở lên trong các kỳ thi học sinh giỏi cấp \nĐHQGHN, quốc gia, khu vực, quốc tế của năm đó. \n1.2. Mức học bổng: Mức học bổng cấp cho một học sinh do Hiệu trưởng",
+        "1. Đối tượng, tiêu chí và mức học bổng được xác định căn cứ theo từng \nchương trình học bổng của đơn vị cấp học bổng. \n2. Quy trình xét, cấp học bổng \na) ĐHQGHN thông báo đến đơn vị thông tin liên quan đến các loại học \nbổng Chính phủ hoặc học bổng theo Hiệp định (đối tượng, chỉ tiêu, tiêu chí xét \nchọn...) do ĐHQGHN quản lý. \nb) Đơn vị thông báo công khai tới học sinh, sinh viên thông tin liên quan \nđến việc xét, cấp học bổng Chính phủ, học bổng theo Hiệp định do ĐHQGHN",
+        "hoặc các nguồn thu hợp pháp khác) để cấp học bổng cho sinh viên, bảo đảm ít \nnhất 10% sinh viên được cấp học bổng khuyến khích học tập. \n3. Tích cực tìm kiếm, khai thác và phát triển các nguồn học bổng từ các tổ \nchức, cá nhân đối tác trong và ngoài nước để khuyến khích học sinh, sinh viên \ncó thành tích học tập, rèn luyện giỏi, xuất sắc hoặc học sinh, sinh viên có hoàn \ncảnh khó khăn nhưng nỗ lực vươn lên học tốt.  \n4. Căn cứ chỉ tiêu học bổng được ĐHQGHN phân bổ và số lượng các học"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5,
+        "context_recall": 0.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Lễ bế giảng và trao bằng tốt nghiệp đợt tháng 01/2026 tổ chức ở đâu và vào ngày nào?",
+      "answer": "Lễ bế giảng và trao bằng tốt nghiệp đợt tháng 1/2026 sẽ được tổ chức vào thứ Bảy, ngày 07/02/2026 tại Hội trường Nguyễn Văn Đạo [Source: Document 1].",
+      "expected_answer": "Lễ bế giảng và trao bằng tốt nghiệp đợt tháng 01/2026 được tổ chức vào thứ Bảy ngày 07/02/2026 tại Hội trường Nguyễn Văn Đạo, với 6 ca từ 8h00 đến 17h00.",
+      "contexts": [
+        "– Khi đến nhận Hồ sơ sinh viên(không nhờ người khác nhận hộ).Đề nghị sinh viên đem theo Căn cước công dân hoặc hộ chiếu, Thẻ sinh viên và “Giấy thu nhận sinh viên” lúc nhập học(nếu còn);\n\n\nIII. Lễ bế giảng và trao bằng tốt nghiệp\n\n\nLễ bế giảng và trao bằng tốt nghiệp cho sinh viên tốt nghiệp đợt tháng 1/2026 sẽ được tổ chức vàothứ Bảy, ngày 07/02/2026 tại Hội trường Nguyễn Văn Đạotheo các khung giờ dự kiến như sau:",
+        "Thực hiện kế hoạch học tập năm học 2025-2026, Nhà trường thông báo kế hoạch tổ chức các hoạt động kết thúc khóa học và chuẩn bị trao bằng cho sinh viên tốt nghiệp đợt tháng 01/2026 như sau:\n\n\nI. Triển khai đánh giá kết quả rèn luyện và xét khen thưởng\n\n\n1. Đối với sinh viên cáclớpK66chương trình kỹ sưvà sinh viên tốt nghiệp trước hạnthực hiện các công việc sau:\n\n\n1.1. Cá nhân sinh viên:\n\n\nTừ 14h00 ngày 09/01 đến 09h00 ngày 12/01/2026:",
+        "Lưu ý: Lịch kí nhận bằng, Kịch bản chi tiết Lễ bế giảng và trao bằng tốt nghiệp, sơ đồ chỗ ngồi sẽ được thông báo tới người học sau ngày 25/01/2026.\n\n\nĐề nghị các Ban chủ nhiệm Khoa/Viện, Giáo viên chủ nhiệm, Ban cán sự Lớp khóa học và Ban chấp hành Chi đoàn chỉ đạo, kiểm tra đôn đốc sinh viên thực hiện tốt, đầy đủ và đúng hạn các công việc trên./."
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 0.85,
+        "context_precision": 0.3
+      }
+    },
+    {
+      "question": "Thời gian tối đa để sinh viên hoàn thành khóa học đại học tại ĐHQGHN là bao lâu?",
+      "answer": "Thời gian tối đa để sinh viên hoàn thành khoá học không vượt quá 2 lần thời gian theo kế hoạch học tập chuẩn toàn khoá đối với mỗi hình thức đào tạo. Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian tối đa để sinh viên hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch [Source: Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN) - quy_che_dao_tao_dhqghn_3626.md].",
+      "expected_answer": "Thời gian tối đa để sinh viên hoàn thành khóa học không vượt quá 2 lần thời gian theo kế hoạch học tập chuẩn toàn khóa đối với mỗi hình thức đào tạo.",
+      "contexts": [
+        "tích lũy và kết quả học tập được bảo lưu, nhưng không vượt quá thời gian thiết kế \ncủa chương trình đào tạo chính quy tương ứng; \nd) Thời gian tối đa để sinh viên hoàn thành khoá học không vượt quá 2 lần \nthời gian theo kế hoạch học tập chuẩn toàn khoá đối với mỗi hình thức đào tạo. Đối \nvới sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian \ntối đa để sinh viên hoàn thành khóa học được xác định trên cơ sở thời gian theo kế",
+        "trình học bổng của ĐHQGHN.",
+        "nghiệp nếu có đủ các điều kiện sau: \na) Trong thời gian học tập tối đa của khóa học; \nb) Cho đến thời điểm xét tốt nghiệp, sinh viên không đang trong thời gian bị \ntruy cứu trách nhiệm hình sự;"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Sinh viên UET tham gia BHYT năm 2026 theo thông báo nào và thực hiện như thế nào?",
+      "answer": "Theo các tài liệu của trường, việc triển khai cho sinh viên tham gia BHYT năm 2026 được quy định cụ thể tại **Thông báo số 5 về triển khai cho sinh viên tham gia BHYT năm 2026** [Source: article_02.md]. \n\nDựa trên thông báo này, các nhóm sinh viên có tình trạng và cách thức thực hiện khác nhau như sau:\n\n* **Đối với sinh viên đã nộp tiền tham gia BHYT tại trường:** Nhà trường đã thực hiện xong việc gia hạn BHYT năm 2026 [Source: article_02.md]. Sinh viên cần kiểm tra thời hạn thẻ trên ứng dụng VssID; nếu thấy chưa được gia hạn, sinh viên phải báo lại cho Nhà trường qua phòng Công tác sinh viên (Phòng 210-G2) trước ngày 15/01/2026 để Nhà trường báo cơ quan BHXH Cầu Giấy xử lý [Source: article_02.md].\n* **Đối với sinh viên thuộc Danh sách 2 (nộp đơn xin không tham gia BHYT tại trường quá thời hạn quy định, hoặc không nộp đơn đồng thời không nộp tiền tham gia BHYT):** Các sinh viên này có trách nhiệm tham gia BHYT tại địa phương và tự chịu trách nhiệm về chế độ BHYT của mình [Source: article_02.md]. Đồng thời, những sinh viên này sẽ bị trừ điểm rèn luyện trong học kỳ I, năm học 2025-2026 với số điểm tương ứng tại cột “Trừ điểm rèn luyện” trong danh sách đính kèm [Source: article_02.md].",
+      "expected_answer": "Theo Thông báo số 5 về triển khai BHYT năm 2026 của UET, sinh viên cần thực hiện các thủ tục đăng ký BHYT theo hướng dẫn của nhà trường trong thời hạn quy định.",
+      "contexts": [
+        "# Thông báo số 5 về triển khai cho sinh viên tham gia BHYT năm 2026\n\n**Source:** https://uet.vnu.edu.vn/thong-bao-so-5-ve-trien-khai-cho-sinh-vien-tham-gia-bhyt-nam-2026/\n\n**Crawled:** 2026-09-20T10:24:24.685067\n\n---\n\n# Thông báo số 5 về triển khai cho sinh viên tham gia BHYT năm 2026\n\n\nNhà trường đã thực hiện xong việc gia hạn BHYT năm 2026 cho sinh viên nộp tiền tham gia BHYT tại trường. Gửi kèm thông báo này là danh sách sinh viên toàn trường (đính kèm), trong đó:",
+        "– Danh sách 3 bao gồm các sinh viên đã nộp tiền tham gia BHYT tại trường và được cơ quan BHXH Cầu Giấy thông báo đã thực hiện việc gia hạn thành công. Sinh viên kiểm tra thời hạn thẻ trên ứng dụng VssID, nếu thấy chưa được gia hạn thì báo lại Nhà trường qua phòng Công tác sinh viên (Phòng 210-G2) trước ngày 15/01/2026 để Nhà trường báo cơ quan BHXH Cầu Giấy xử lý.",
+        "– Danh sách 2 bao gồm các sinh viên nộp đơn xin không tham gia BHYT tại trường quá thời hạn quy định và các sinh viên không nộp đơn, đồng thời không nộp tiền tham gia BHYT. Các sinh viên này phải có trách nhiệm tham gia BHYT tại địa phương, tự chịu trách nhiệm về chế độ BHYT của mình đồng thời sẽ bị trừ điểm rèn luyện trong học kỳ I, năm học 2025-2026 với số điểm tương ứng tại cột “Trừ điểm rèn luyện”."
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5,
+        "context_recall": 0.0,
+        "context_precision": 0.5
+      }
+    },
+    {
+      "question": "Chương trình đào tạo chuẩn bậc đại học (cử nhân) tại ĐHQGHN tối thiểu cần bao nhiêu tín chỉ?",
+      "answer": "Chương trình đào tạo chuẩn bậc đại học đối với đào tạo cử nhân tại ĐHQGHN được thiết kế tối thiểu 120 tín chỉ [Source: Document 5].",
+      "expected_answer": "Chương trình đào tạo chuẩn bậc cử nhân tại ĐHQGHN được thiết kế tối thiểu 120 tín chỉ.",
+      "contexts": [
+        "và tối thiểu 205 tín chỉ đối với đào tạo bác sĩ; \nb) Chương trình đào tạo chất lượng cao được thiết kế nhiều hơn chương trình \nđào tạo chuẩn tương ứng ít nhất là 15 tín chỉ, trên cơ sở nâng cao, bổ sung một số \nhọc phần, có tham khảo chương trình đào tạo nước ngoài hoặc trên cơ sở chương \ntrình đào tạo của một trường đại học tiên tiến có uy tín trên thế giới đã được điều \nchỉnh phù hợp với các quy định của Đại học Quốc gia Hà Nội;",
+        "12 \n \n \n \na) Hình thành mục tiêu, điều tra nhu cầu và xây dựng chuẩn đầu ra; \nb) Thiết kế chương trình đào tạo đáp ứng chuẩn đầu ra; \nc) Tổ chức đào tạo thí điểm, điều chỉnh và hoàn thiện chương trình đào tạo; \nd) Triển khai đào tạo chính thức. \n2. Thiết kế chương trình đào tạo  \na) Chương trình đào tạo chuẩn được thiết kế tối thiểu 120 tín chỉ đối với đào \ntạo cử nhân, 150 tín chỉ đối với đào tạo kĩ sư, 155 tín chỉ đối với đào tạo dược sĩ \nvà tối thiểu 205 tín chỉ đối với đào tạo bác sĩ;",
+        "chuyển đổi tín chỉ. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá \n50% khối lượng học tập tối thiểu của chương trình đào tạo; riêng đối với ngành \nđào tạo giáo viên thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo. \n4. Công nhận tín chỉ trong trao đổi sinh viên: Việc đánh giá và công nhận \nlẫn nhau số lượng tín chỉ mà sinh viên tích lũy tại cơ sở đào tạo ngoài Đại học \nQuốc gia Hà Nội không vượt quá 25% tổng khối lượng của chương trình đào tạo."
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Sinh viên K66 cần hoàn thành thủ tục khám sức khỏe cuối khóa vào thời gian nào và ở đâu?",
+      "answer": "Thời gian và địa điểm khám sức khỏe cuối khóa cho sinh viên như sau:\n\n* **Thời gian:** 7h30 – 11h30 và 13h00 – 16h30, thứ Bảy, ngày 17/01/2026 [Source: article_01.md].\n* **Địa điểm:** Bệnh viện ĐHQGHN, 182 Lương Thế Vinh, Thanh Xuân, Hà Nội [Source: article_01.md].",
+      "expected_answer": "Khám sức khỏe cuối khóa diễn ra vào thứ Bảy ngày 17/01/2026, từ 7h30 đến 11h30 và 13h00 đến 16h30 tại Bệnh viện ĐHQGHN, 182 Lương Thế Vinh, Thanh Xuân, Hà Nội. Sinh viên mang theo thẻ sinh viên và lệ phí 100.000đ.",
+      "contexts": [
+        "+ Nếu thuộc diện được tốt nghiệp đợt tháng 01/2026 thì ngoài tự đánh giá điểm rèn luyện thì hoàn thành Link khảo sát:https://vieclam.uet.vnu.edu.vn/khao-sat-sinh-vien-nsi4805;\n\n\nII. Hoàn thiện các thủ tục trước khi nhận bằng\n\n\n1. Khám sức khỏe cuối khóa\n\n\nThời gian: 7h30 – 11h30 và 13h00 – 16h30, thứ Bảy, ngày 17/01/2026.\n\n\nĐịa điểm: Bệnh viện ĐHQGHN, 182 Lương Thế Vinh, Thanh Xuân, Hà Nội.\n\n\nLưu ý:Khi đến khám sức khỏe, mỗi sinh viên phải đem theo:\n\n\n– Thẻ sinh viên;",
+        "– Thẻ sinh viên;\n\n\n– Lệ phí khám sức khỏe (theo quy định của Đại học Quốc gia Hà Nội): 100.000đ/bản đầu tiên và 10.000đ/bản tiếp theo (nếu có nhu cầu). Lệ phí này nộp tại phòng khám;\n\n\n– Ảnh chân dung màu cỡ 4x6cm mới chụp trong khoảng thời gian 6 tháng trở lại đây (mỗi Phiếu khám sức khỏe cần 1 ảnh, tùy theo số lượng bản sinh viên cần thì sinh viên sẽ đem theo ảnh và kinh phí tương ứng);",
+        "– Các sinh viên có tên trong danh sách  (Phụ lục 2) được miễn tiền khám sức khỏe đính kèm sẽ không phải nộp lệ phí 100.000đ.\n\n\n2. Nộp ảnh để làm bằng tốt nghiệp"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Điều kiện về ngoại ngữ để sinh viên tốt nghiệp chương trình đào tạo chuẩn tại ĐHQGHN là gì?",
+      "answer": "Theo Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội, chuẩn đầu ra về trình độ ngoại ngữ đối với sinh viên chương trình đào tạo chuẩn (ngành chính - ngành phụ, song ngành) là tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam) theo quy định của Bộ Giáo dục và Đào tạo và của Đại học Quốc gia Hà Nội [Source: Document 5].",
+      "expected_answer": "Sinh viên chương trình đào tạo chuẩn cần đạt trình độ ngoại ngữ tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (tương đương B1 theo CEFR).",
+      "contexts": [
+        "Các điều kiện về trình độ tiếng Việt hoặc ngoại ngữ (là ngôn ngữ học tập \ntrong chương trình đào tạo): \na) Có trình độ tiếng Việt hoặc ngoại ngữ cần dùng đạt chuẩn bậc 4 trở lên \ntrước khi được tiếp nhận vào học. Việc kiểm tra do Trường Đại học Khoa học Xã \nhội và Nhân văn (đối với tiếng Việt) và Trường Đại học Ngoại ngữ (đối với ngoại \nngữ) tổ chức thực hiện. \nb) Được miễn kiểm tra tiếng Việt hoặc ngoại ngữ nếu thuộc một trong các \ntrường hợp:",
+        "2. Chuẩn đầu ra bao gồm: \na) Chuẩn về kiến thức;  \nb) Chuẩn về kỹ năng; \nc) Mức tự chủ và trách nhiệm; \nd) Phẩm chất đạo đức. \n3. Chuẩn đầu ra về trình độ ngoại ngữ quy định như sau: \na) Tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng  \ncho Việt Nam) theo quy định của Bộ Giáo dục và Đào tạo và của Đại học Quốc gia \nHà Nội đối với các chương trình đào tạo chuẩn, ngành chính - ngành phụ, song \nngành);",
+        "h) Học phần ngoại ngữ trong chương trình đào tạo là học phần sinh viên bắt \nbuộc phải tích lũy trong chương trình đào tạo. \n3. Đề cương học phần \nĐề cương học phần do giảng viên biên soạn dựa trên chuẩn đầu ra của học \nphần và được thủ trưởng đơn vị quản lý học phần phê duyệt để cung cấp cho người \nhọc trước khi giảng dạy. Đề cương học phần gồm các nội dung chủ yếu sau:  \na) Thông tin về đơn vị đào tạo (tên trường, khoa, bộ môn);  \nb) Thông tin về giảng viên;"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Sinh viên đang đào tạo kéo dài cần nộp phiếu đánh giá điểm rèn luyện ở đâu và trước ngày nào?",
+      "answer": "Đối với sinh viên đang trong thời gian đào tạo kéo dài, cần nộp phiếu đánh giá điểm rèn luyện trực tiếp tại phòng Công tác sinh viên (phòng 210-G2) hoặc qua đường link: https://forms.gle/4LG3RPD8eJTb2uFa6 trước ngày 12/01/2026 [Source: article_01.md].",
+      "expected_answer": "Sinh viên đang trong thời gian đào tạo kéo dài cần tự làm phiếu đánh giá điểm rèn luyện và nộp trực tiếp tại phòng Công tác sinh viên (phòng 210-G2) hoặc qua đường link google form trước ngày 12/01/2026.",
+      "contexts": [
+        "2. Đối với các sinh viên đang trong thời gian đào tạo kéo dàithực hiện các công việc sautrướcngày12/01/2026:\n\n\n+ Tự làm phiếu đánh giá điểm rèn luyện HKI năm học 2025-2026 và những học kỳ còn thiếu (không phải lấy xác nhận của giáo viên chủ nhiệm và Lớp trưởng) (1.Mẫu Phiếu đánh giá ĐRL;2.Hướng dẫn đánh giá ĐRL)\n\n\nnộp phiếu trực tiếp tại phòng Công tác sinh viên (phòng 210-G2) hoặc qua đường link:https://forms.gle/4LG3RPD8eJTb2uFa6;",
+        "+ Sau khi kết thúcđợt đánh giá sinh viên xem điểm cuối cùng của mìnhtại cột “Trường XN”, kiểm tra lại điểm rèn luyện khi có thông báo trên websiteTrường.\n\n\n1.2. Đại diện Ban cán sự lớp Khóa học\n\n\nTừ ngày 09/01 đến ngày 12/01/2026:\n\n\n+ Triển khai duyệt Kết quả rèn luyện của từng thành viên trong lớp trên tranghttps://student.uet.vnu.edu.vn/#1(chỉ duyệt cho các sinh viên đã tham gia đánh giá);\n\n\n+ Xuất file Kết quả rèn luyện của toàn thể sinh viên trong lớp;",
+        "+Các mục đánh giá cộng điểm như: mục 3.2,mục 5.4, 5.5, 5.6, 5.7, 5.8trong phiếu đánh giá kết quả rèn luyện trên hệ thống sinh viên bắt buộc phảitảiminh chứng vào cột “SV_MC”.\n\n\n+ Sinh viên xem thông tin ở cột “CTSV” để biết sơ bộ các mục cộng, trừ điểm từ dữ liệu của Nhà trường;"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    },
+    {
+      "question": "Học phần điều kiện (giáo dục thể chất, quốc phòng) có được tính vào điểm trung bình chung không?",
+      "answer": "Kết quả đánh giá các học phần điều kiện (như giáo dục thể chất, giáo dục quốc phòng - an ninh và kỹ năng bổ trợ) **không** được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy [Source: Document 1, Document 3, Document 5 | Title: Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)]. Tuy nhiên, đây là điều kiện bắt buộc để xét tốt nghiệp [Source: Document 1 | Title: Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (QĐ 3626/QĐ-ĐHQGHN)].",
+      "expected_answer": "Không. Kết quả đánh giá các học phần điều kiện (giáo dục thể chất, giáo dục quốc phòng - an ninh và kỹ năng bổ trợ) không được tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy. Tuy nhiên đây là điều kiện bắt buộc để xét tốt nghiệp.",
+      "contexts": [
+        "thời lượng từ 5 đến 10 tín chỉ được quy định cụ thể trong chương trình đào tạo;  \ne) Thực tập, thực tế (nếu có) là một học phần bắt buộc; \ng) Học phần điều kiện là các học phần giáo dục thể chất, giáo dục quốc \nphòng - an ninh và kỹ năng bổ trợ. Kết quả đánh giá các học phần điều kiện không \ntính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và \nđiểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp;",
+        "2 chữ số thập phân: \n \n \n \n \ntrong đó:  \nA: là điểm trung bình chung học kỳ hoặc điểm trung bình chung các học \nphần hoặc điểm trung bình chung tích lũy \ni: là số thứ tự học phần \n \nai: là điểm của học phần thứ i  \n \nni: là số tín chỉ của học phần thứ i \n \nn: là tổng số học phần trong học kỳ hoặc tổng số học phần tính từ đầu \nkhóa học tới thời điểm xem xét hoặc tổng số học phần đã tích lũy. \nKết quả đánh giá học phần giáo dục quốc phòng - an ninh, giáo dục thể chất",
+        "chỉ của các học phần mà sinh viên đăng ký học từ đầu khóa học cho tới thời         \nđiểm xem xét (bao gồm cả các học phần được đánh giá loại đạt và không đạt). \n5. Điểm trung bình chung tích lũy là điểm trung bình theo trọng số tín chỉ \ncủa các học phần đã được đánh giá loại đạt mà sinh viên đã tích lũy được, tính từ \nđầu khóa học cho tới thời điểm xem xét. \nĐiều 43. Cách tính điểm trung bình chung \n1. Để tính điểm trung bình chung học kỳ, điểm trung bình chung các học"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.6
+      }
+    },
+    {
+      "question": "Học bổng Vingroup dành cho sinh viên UET có những chương trình nào?",
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+      "expected_answer": "Tập đoàn Vingroup có chương trình học bổng đào tạo Thạc sĩ, Tiến sĩ du học nước ngoài trong lĩnh vực Khoa học Công nghệ, hỗ trợ toàn bộ chi phí học tập và sinh hoạt tại các trường đại học danh tiếng trên thế giới.",
+      "contexts": [
+        "# Học bổng hỗ trợ học tập của Tập đoàn Vingroup\n\n**Source:** https://uet.vnu.edu.vn/thong-tin-hoc-bong-vingroup/\n\n**Crawled:** 2026-09-20T10:24:33.254210\n\n---\n\n# Học bổng hỗ trợ học tập của Tập đoàn Vingroup\n\n\n1. Đối tượng\n\n- Sinh viên năm cuối hoặc người đã có bằng đại học muốn học tiếp lên bậc thạc sĩ, tiến sĩ\n- Học viên chuẩn bị bảo vệ hoặc người đã có bằng thạc sĩ có dự định học tiếp lên bậc tiến sĩ\n- Người đang là học viên cao học, nghiên cứu sinh của Trường ĐHCN\n\n2.Mức hỗ trợ",
+        "THÔNG BÁO NHẬN HỒ SƠ\n\n\nChương trình Học bổng Khoa học Công nghệ\n\n\nĐào tạo Thạc sĩ, Tiến sĩ Du học Nước ngoài của Tập đoàn Vingroup\n\n\nDành cho ứng viên nộp hồ sơ năm học 2023/24 và 2024/25",
+        "# Tổng hợp về học bổng bậc sau đại học tại UET năm 2021\n\n**Source:** https://uet.vnu.edu.vn/tong-hop-ve-hoc-bong-bac-sau-dai-hoc-tai-uet-nam-2021/\n\n**Crawled:** 2026-09-20T10:24:31.286348\n\n---\n\n# Tổng hợp về học bổng bậc sau đại học tại UET năm 2021"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 0.3,
+        "context_precision": 0.4
+      }
+    },
+    {
+      "question": "Cuộc thi Học sinh sinh viên với ý tưởng khởi nghiệp tại UET nhằm mục đích gì?",
+      "answer": "Cuộc thi \"Học sinh, sinh viên với ý tưởng khởi nghiệp\" được tổ chức nhằm các mục đích sau:\n- Thúc đẩy tinh thần khởi nghiệp, trang bị kiến thức, kỹ năng về khởi nghiệp cho học sinh, sinh viên [Source: article_03.md].\n- Tạo môi trường để học sinh, sinh viên hình thành và hiện thực hóa ý tưởng, giải pháp, dự án khởi nghiệp [Source: article_03.md].\n- Góp phần tạo giá trị cho bản thân, gia đình, cộng đồng và xã hội [Source: article_03.md].\n- Lựa chọn và hỗ trợ ươm tạo các dự án khởi nghiệp khả thi của học sinh, sinh viên [Source: article_03.md].",
+      "expected_answer": "Cuộc thi nhằm khuyến khích tinh thần khởi nghiệp trong sinh viên, tạo cơ hội cho sinh viên UET phát triển và hiện thực hóa các ý tưởng sáng tạo, kết nối với hệ sinh thái khởi nghiệp và nhận được hỗ trợ từ các chuyên gia, nhà đầu tư.",
+      "contexts": [
+        "Cuộc thi được tổ chức với mục đích thúc đẩy tinh thần khởi nghiệp, trang bị kiến thức, kỹ năng về khởi nghiệp cho học sinh, sinh viên, qua đó tạo môi trường để học sinh sinh viên hình thành và hiện thực hóa ý tưởng, giải pháp, dự án khởi nghiệp, góp phần tạo giá trị cho bản thân, gia đình, cộng đồng và xã hội. Thông qua cuộc thi Ban Tổ chức cũng sẽ lựa chọn và hỗ trợ ươm tạo các dự án khởi nghiệp khả thi của học sinh sinh viên.\n\n\nThể lệ về cuộc thi gửikèm theothông báo này.",
+        "# Tham gia cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp”\n\n**Source:** https://uet.vnu.edu.vn/tham-gia-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep/\n\n**Crawled:** 2026-09-20T10:24:26.609294\n\n---\n\n# Tham gia cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp”\n\n\nNhà trường nhận được công văn số 3344/QĐ-BGDĐT, ngày 05 tháng 12 năm 2025 của Bộ giáo dục và Đào tạo về việc tổ chức cuộc thi “Học sinh, sinh viên với ý tưởng khởi nghiệp”.",
+        "# Tổng hợp về học bổng bậc sau đại học tại UET năm 2021\n\n**Source:** https://uet.vnu.edu.vn/tong-hop-ve-hoc-bong-bac-sau-dai-hoc-tai-uet-nam-2021/\n\n**Crawled:** 2026-09-20T10:24:31.286348\n\n---\n\n# Tổng hợp về học bổng bậc sau đại học tại UET năm 2021"
+      ],
+      "retrieval_method": "hybrid",
+      "retrieval_source": "hybrid",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.2
+      }
+    }
+  ]
+}

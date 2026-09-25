@@ -6,7 +6,7 @@
 
 - Họ và tên: Phan Hoàng Vũ
 - Mã học viên: 2A202602450
-- Nhóm: K4-L3B (Nhóm Day 8 RAG Pipeline)
+- Nhóm: Soul
 - Repository/branch: `main` (Vai trò: Machine Learning Engineer)
 
 ## Phần việc đã thực hiện
