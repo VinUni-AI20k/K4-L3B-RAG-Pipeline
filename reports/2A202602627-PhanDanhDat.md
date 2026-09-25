@@ -12,10 +12,10 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Repository/branch:
+- Họ và tên: Phan Danh Đạt
+- Mã học viên: 2A202602627
+- Nhóm: Trung thu
+- Repository/branch: https://github.com/pddczpl/K4-L3B-RAG-Pipeline
 
 ## Phần việc đã thực hiện
 
