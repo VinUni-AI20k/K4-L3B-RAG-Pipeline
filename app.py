@@ -1,10 +1,14 @@
+import json
 import os
 import re
+import time
+from pathlib import Path
 
 import streamlit as st
 from dotenv import load_dotenv
 
 import src.task10_generation as generation
+from src.embedding_comparison import compare_embeddings
 
 
 load_dotenv()
@@ -128,12 +132,88 @@ def render_sources(sources: list[dict]) -> None:
             st.write(source["content"])
 
 
+def render_embedding_comparison(query: str, top_k: int) -> None:
+    """Show two vectorization methods on the same real corpus query."""
+    with st.status("Đang so sánh hai embedding methods", type="step") as status:
+        comparison = compare_embeddings(query, top_k=top_k)
+        status.update(label="Đã so sánh embedding", state="complete")
+
+    left, right = st.columns(2)
+    panels = ((left, "MiniLM dense", comparison["MiniLM"]), (right, "BGE-M3 / TF-IDF fallback", comparison["BGE-M3"]))
+    for panel, title, results in panels:
+        with panel:
+            st.markdown(f"**{title}**")
+            for rank, result in enumerate(results, 1):
+                metadata = result["metadata"]
+                st.caption(
+                    f"{rank}. {metadata['source']} · score {result['score']:.3f}"
+                )
+                st.write(result["content"][:280] + ("..." if len(result["content"]) > 280 else ""))
+    if comparison["BGE-M3_status"] != "ready":
+        st.warning(
+            "BGE-M3 chưa sẵn sàng trong cache; đang hiển thị TF-IDF sparse embedding "
+            f"làm baseline thứ hai. ({comparison['BGE-M3_status']})"
+        )
+
+
+def generate_from_retrieved(query: str, sources: list[dict]) -> dict:
+    """Generate from already retrieved chunks so the live pipeline runs once."""
+    if not sources:
+        return {"answer": REFUSAL, "sources": [], "retrieval_source": "none"}
+    context = generation.format_context(generation.reorder_for_llm(sources))
+    try:
+        answer = generation.call_llm(
+            generation.SYSTEM_PROMPT,
+            f"Context:\n{context}\n\nQuestion: {query}",
+        ).strip()
+    except Exception:
+        answer = ""
+    method = sources[0]["retrieval_method"]
+    return {
+        "answer": answer or REFUSAL,
+        "sources": sources,
+        "retrieval_source": method if method in {"hybrid", "pageindex"} else "hybrid",
+    }
+
+
+def analyze_golden_dataset(top_k: int) -> None:
+    path = Path(__file__).parent / "group_project" / "evaluation" / "golden_dataset.json"
+    dataset = json.loads(path.read_text(encoding="utf-8"))
+    rows = []
+    hits = 0
+    scores = []
+    with st.status(f"Đang chạy {len(dataset)} golden queries", type="step") as status:
+        for index, item in enumerate(dataset, 1):
+            results = REAL_RETRIEVE(item["question"], top_k=top_k)
+            expected_source = Path(item["expected_context"]).name
+            hit = any(result["metadata"].get("source") == expected_source for result in results)
+            best_score = max((float(result["score"]) for result in results), default=0.0)
+            hits += int(hit)
+            scores.append(best_score)
+            rows.append({
+                "#": index,
+                "question": item["question"],
+                "expected_source": expected_source,
+                "top_source": results[0]["metadata"].get("source", "") if results else "",
+                "hit": hit,
+                "best_score": round(best_score, 4),
+                "method": results[0]["retrieval_method"] if results else "none",
+            })
+        status.update(label="Đã phân tích golden dataset", state="complete")
+    metric_left, metric_mid, metric_right = st.columns(3)
+    metric_left.metric("Context hit rate", f"{hits / len(dataset):.1%}")
+    metric_mid.metric("Queries", len(dataset))
+    metric_right.metric("Average top score", f"{sum(scores) / len(scores):.3f}")
+    st.dataframe(rows, hide_index=True, width="stretch")
+
+
 def reset_chat() -> None:
     st.session_state.messages = []
 
 
 st.session_state.setdefault("messages", [])
-st.session_state.setdefault("use_mock_data", True)
+st.session_state.setdefault("use_mock_data", False)
+st.session_state.setdefault("show_embedding_comparison", True)
 
 with st.sidebar:
     st.header("Cấu hình")
@@ -143,8 +223,13 @@ with st.sidebar:
         help="Tắt tùy chọn này khi Task 1–6 đã có data thật và vector index.",
     )
     st.session_state.use_mock_data = use_mock_data
+    st.session_state.show_embedding_comparison = st.checkbox(
+        "So sánh hai embedding methods",
+        value=st.session_state.show_embedding_comparison,
+    )
     top_k = st.slider("Số tài liệu tham khảo", min_value=2, max_value=5, value=3)
     st.button("Xóa cuộc trò chuyện", icon=":material/delete:", on_click=reset_chat)
+    analyze_golden = st.button("Phân tích golden dataset", icon=":material/analytics:")
 
     st.divider()
     st.caption(f"LLM provider: `{generation.LLM_PROVIDER or 'chưa cấu hình'}`")
@@ -156,13 +241,19 @@ with st.sidebar:
     )
     if use_mock_data:
         st.info("Mock tài liệu đang bật. Phần trả lời vẫn gọi LLM thật.")
+    else:
+        st.success("Real retrieval đang bật: ChromaDB + BM25 + RRF")
 
 generation.retrieve = mock_retrieve if use_mock_data else REAL_RETRIEVE
 
 st.title("Tư vấn tuyển sinh HUTECH 2026")
 st.caption(
-    "Hỏi đáp dựa trên tài liệu tuyển sinh. Khi chuyển sang data thật, hãy kiểm tra lại nguồn chính thức của trường."
+    "Hỏi đáp dựa trên corpus tuyển sinh HUTECH 2026 với real retrieval và citation từ nguồn."
 )
+
+if analyze_golden:
+    st.subheader("Phân tích golden dataset")
+    analyze_golden_dataset(top_k)
 
 if not st.session_state.messages:
     with st.container(border=True):
@@ -199,9 +290,15 @@ if prompt:
         st.markdown(prompt)
 
     with st.chat_message("assistant"):
-        with st.status("Đang tìm tài liệu và tạo câu trả lời", expanded=False) as status:
-            result = generation.generate_with_citation(prompt, top_k=top_k)
-            status.update(label="Đã hoàn tất", state="complete")
+        with st.status("Luồng xử lý real retrieval", type="compact") as flow:
+            with st.status("1. Dense + BM25 + RRF", type="step"):
+                sources = generation.retrieve(prompt, top_k=top_k)
+                st.caption(f"Đã lấy {len(sources)} source từ {sources[0]['retrieval_method'] if sources else 'none'}")
+            if st.session_state.show_embedding_comparison:
+                render_embedding_comparison(prompt, top_k)
+            with st.status("2. Generate answer với citation", type="step"):
+                result = generate_from_retrieved(prompt, sources)
+            flow.update(label="Đã hoàn tất real retrieval pipeline", state="complete")
         answer = result["answer"] or REFUSAL
         st.markdown(answer)
         render_sources(result["sources"])

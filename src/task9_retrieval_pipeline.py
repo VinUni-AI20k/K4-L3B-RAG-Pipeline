@@ -14,10 +14,23 @@ Không so sánh threshold với RRF score vì hai thang đo khác nhau.
 from .task5_semantic_search import semantic_search
 from .task6_lexical_search import lexical_search
 from .task7_reranking import rerank_rrf
+import os
+
 from .task8_pageindex_vectorless import pageindex_search
 
 
-SCORE_THRESHOLD = 0.3
+def _configured_threshold() -> float:
+    """Read the calibrated dense-score threshold without failing on a blank env value."""
+    raw_value = os.getenv("SCORE_THRESHOLD", "").strip()
+    if not raw_value:
+        return 0.6
+    try:
+        return float(raw_value)
+    except ValueError:
+        return 0.6
+
+
+SCORE_THRESHOLD = _configured_threshold()
 DEFAULT_TOP_K = 5
 
 

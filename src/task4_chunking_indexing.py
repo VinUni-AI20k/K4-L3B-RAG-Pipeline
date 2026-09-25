@@ -14,6 +14,8 @@ chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung
 from pathlib import Path
 
 import os
+import re
+from functools import lru_cache
 
 from dotenv import load_dotenv
 
@@ -36,6 +38,13 @@ COLLECTION_NAME = "rag_documents"
 load_dotenv()
 
 
+@lru_cache(maxsize=4)
+def _get_sentence_transformer(model_name: str):
+    from sentence_transformers import SentenceTransformer
+
+    return SentenceTransformer(model_name)
+
+
 def embed_texts(texts: list[str]) -> list[list[float]]:
     """Embed texts bằng provider được cấu hình trong môi trường."""
     if not texts:
@@ -46,13 +55,12 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
 
     if provider == "sentence_transformers":
         try:
-            from sentence_transformers import SentenceTransformer
+            model = _get_sentence_transformer(model_name)
         except ImportError as exc:
             raise RuntimeError(
                 "EMBEDDING_PROVIDER=sentence_transformers requires "
                 "sentence-transformers to be installed"
             ) from exc
-        model = SentenceTransformer(model_name)
         return model.encode(texts, normalize_embeddings=True).tolist()
 
     if provider == "openai":
@@ -99,14 +107,16 @@ def load_documents() -> list[dict]:
             continue
         relative = path.relative_to(STANDARDIZED_DIR)
         doc_type = "legal" if "legal" in relative.parts else "news"
+        title_match = re.search(r"^#\s+(.+?)\s*$", content, flags=re.MULTILINE)
+        url_match = re.search(r"^\*\*Source:\*\*\s*(\S+)\s*$", content, flags=re.MULTILINE)
         document = {
             "id": relative.as_posix(),
             "content": content,
             "metadata": {
                 "source": path.name,
-                "title": path.stem,
+                "title": title_match.group(1).strip() if title_match else path.stem,
                 "doc_type": doc_type,
-                "url": None,
+                "url": url_match.group(1).strip() if url_match else None,
             },
         }
         validate_document(document)
