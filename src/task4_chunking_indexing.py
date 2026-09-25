@@ -17,7 +17,6 @@ from pathlib import Path
 
 import chromadb
 from dotenv import load_dotenv
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from .contracts import validate_document
 
@@ -188,14 +187,28 @@ def load_documents() -> list[dict]:
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
     """Chia Document thành chunks có id và chunk_index."""
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=CHUNK_SIZE,
-        chunk_overlap=CHUNK_OVERLAP,
-        separators=["\n\n", "\n", ". ", " ", ""],
-    )
+    try:
+        from langchain_text_splitters import RecursiveCharacterTextSplitter
+        splitter = RecursiveCharacterTextSplitter(
+            chunk_size=CHUNK_SIZE,
+            chunk_overlap=CHUNK_OVERLAP,
+            separators=["\n\n", "\n", ". ", " ", ""],
+        )
+        use_splitter = True
+    except Exception:
+        use_splitter = False
+
     chunks: list[dict] = []
     for document in documents:
-        split_texts = splitter.split_text(document["content"])
+        if use_splitter:
+            split_texts = splitter.split_text(document["content"])
+        else:
+            # Fallback thuần Python
+            step = max(1, CHUNK_SIZE - CHUNK_OVERLAP)
+            split_texts = [
+                document["content"][i:i + CHUNK_SIZE]
+                for i in range(0, len(document["content"]), step)
+            ]
         if not split_texts and document["content"].strip():
             split_texts = [document["content"].strip()]
 
