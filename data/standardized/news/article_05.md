@@ -1,0 +1,629 @@
+# Kỳ thi tuyển sinh đại học và cao đẳng (Việt Nam) – Wikipedia tiếng Việt
+
+**Source:** https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_(Vi%E1%BB%87t_Nam)
+
+**Crawled:** 2026-09-25T10:35:53.666377
+
+---
+
+[Bước tới nội dung](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#bodyContent)
+Bảng chọn chính
+Bảng chọn chính
+chuyển sang thanh bên ẩn
+Điều hướng 
+  * [Trang Chính](https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh "Xem trang chính \[alt-z\]")
+  * [Nội dung chọn lọc](https://vi.wikipedia.org/wiki/C%E1%BB%95ng_th%C3%B4ng_tin:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc)
+  * [Bài viết ngẫu nhiên](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Ng%E1%BA%ABu_nhi%C3%AAn "Xem trang ngẫu nhiên \[alt-x\]")
+  * [Thay đổi gần đây](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_g%E1%BA%A7n_%C4%91%C3%A2y "Danh sách thay đổi gần đây trong wiki \[alt-r\]")
+  * [Báo lỗi nội dung](https://vi.wikipedia.org/wiki/Wikipedia:B%C3%A1o_l%E1%BB%97i_b%C3%A0i_vi%E1%BA%BFt)
+
+
+Tương tác 
+  * [Hướng dẫn](https://vi.wikipedia.org/wiki/Wikipedia:S%C3%A1ch_h%C6%B0%E1%BB%9Bng_d%E1%BA%ABn)
+  * [Giới thiệu Wikipedia](https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u)
+  * [Cộng đồng](https://vi.wikipedia.org/wiki/Wikipedia:C%E1%BB%99ng_%C4%91%E1%BB%93ng "Giới thiệu dự án, cách sử dụng và tìm kiếm thông tin ở đây")
+  * [Thảo luận chung](https://vi.wikipedia.org/wiki/Wikipedia:Th%E1%BA%A3o_lu%E1%BA%ADn)
+  * [Giúp sử dụng](https://vi.wikipedia.org/wiki/Wikipedia:Gi%C3%BAp_s%E1%BB%AD_d%E1%BB%A5ng_Wikipedia)
+  * [Liên lạc](https://vi.wikipedia.org/wiki/Wikipedia:Li%C3%AAn_l%E1%BA%A1c)
+  * [Tải lên tập tin](https://vi.wikipedia.org/wiki/Wikipedia:Tr%C3%ACnh_t%E1%BA%A3i_l%C3%AAn_t%E1%BA%ADp_tin)
+
+
+[ ![](https://vi.wikipedia.org/static/images/icons/wikipedia.png) ![Wikipedia](https://vi.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg) ![Bách khoa toàn thư mở](https://vi.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-vi.svg) ](https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh)
+[ Tìm kiếm ](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:T%C3%ACm_ki%E1%BA%BFm "Tìm kiếm Wikipedia \[alt-f\]")
+Tìm kiếm
+Giao diện
+  * [Quyên góp](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=vi.wikipedia.org&uselang=vi)
+  * [Tạo tài khoản](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%9F_t%C3%A0i_kho%E1%BA%A3n&returnto=K%E1%BB%B3+thi+tuy%E1%BB%83n+sinh+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+v%C3%A0+cao+%C4%91%E1%BA%B3ng+%28Vi%E1%BB%87t+Nam%29 "Bạn được khuyến khích mở tài khoản và đăng nhập; tuy nhiên, không bắt buộc phải có tài khoản")
+  * [Đăng nhập](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp&returnto=K%E1%BB%B3+thi+tuy%E1%BB%83n+sinh+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+v%C3%A0+cao+%C4%91%E1%BA%B3ng+%28Vi%E1%BB%87t+Nam%29 "Đăng nhập sẽ có lợi hơn, tuy nhiên không bắt buộc. \[alt-o\]")
+
+
+Công cụ cá nhân
+  * [ Quyên góp](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=vi.wikipedia.org&uselang=vi)
+  * [ Tạo tài khoản](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%9F_t%C3%A0i_kho%E1%BA%A3n&returnto=K%E1%BB%B3+thi+tuy%E1%BB%83n+sinh+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+v%C3%A0+cao+%C4%91%E1%BA%B3ng+%28Vi%E1%BB%87t+Nam%29 "Bạn được khuyến khích mở tài khoản và đăng nhập; tuy nhiên, không bắt buộc phải có tài khoản")
+  * [ Đăng nhập](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp&returnto=K%E1%BB%B3+thi+tuy%E1%BB%83n+sinh+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+v%C3%A0+cao+%C4%91%E1%BA%B3ng+%28Vi%E1%BB%87t+Nam%29 "Đăng nhập sẽ có lợi hơn, tuy nhiên không bắt buộc. \[alt-o\]")
+
+
+## Nội dung
+chuyển sang thanh bên ẩn
+  * [ Đầu ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+  * [ 1 Điều kiện ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#%C4%90i%E1%BB%81u_ki%E1%BB%87n)
+  * [ 2 Các khối thi và môn thi ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#C%C3%A1c_kh%E1%BB%91i_thi_v%C3%A0_m%C3%B4n_thi) Hiện/ẩn mục Các khối thi và môn thi
+    * [ 2.1 Khối năng khiếu ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#Kh%E1%BB%91i_n%C4%83ng_khi%E1%BA%BFu)
+  * [ 3 Hình thức thi ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#H%C3%ACnh_th%E1%BB%A9c_thi)
+  * [ 4 Các khái niệm ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#C%C3%A1c_kh%C3%A1i_ni%E1%BB%87m) Hiện/ẩn mục Các khái niệm
+    * [ 4.1 Hồ sơ đăng ký dự thi ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#H%E1%BB%93_s%C6%A1_%C4%91%C4%83ng_k%C3%BD_d%E1%BB%B1_thi)
+    * [ 4.2 Điểm sàn ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#%C4%90i%E1%BB%83m_s%C3%A0n)
+  * [ 5 Xem thêm ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#Xem_th%C3%AAm)
+  * [ 6 Chú thích ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#Ch%C3%BA_th%C3%ADch)
+
+
+Đóng mở mục lục
+# Kỳ thi tuyển sinh đại học và cao đẳng (Việt Nam)
+1 ngôn ngữ
+  * [English](https://en.wikipedia.org/wiki/Universities_and_Colleges_Selection_Examination "Universities and Colleges Selection Examination – Tiếng Anh")
+
+
+[Sửa liên kết](https://www.wikidata.org/wiki/Special:EntityPage/Q7857257#sitelinks-wikipedia "Sửa liên kết giữa ngôn ngữ")
+  * [Bài viết](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\) "Xem bài viết \[alt-c\]")
+  * [Thảo luận](https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn:K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\) "Thảo luận về trang này \[alt-t\]")
+
+
+Tiếng Việt
+  * [Đọc](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+  * [Sửa đổi](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit "Sửa đổi trang này \[alt-v\]")
+  * [Sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit "Sửa đổi mã nguồn của trang này \[alt-e\]")
+  * [Xem lịch sử](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=history "Các phiên bản cũ của trang này \[alt-h\]")
+
+
+Công cụ
+Công cụ
+chuyển sang thanh bên ẩn
+Tác vụ 
+  * [ Đọc](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+  * [ Sửa đổi](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit "Sửa đổi trang này \[alt-v\]")
+  * [ Sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit "Sửa đổi mã nguồn của trang này \[alt-e\]")
+  * [ Xem lịch sử](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=history "Các phiên bản cũ của trang này \[alt-h\]")
+
+
+[Gõ tiếng Việt](https://vi.wikipedia.org/wiki/Wikipedia:G%C3%B5%20ti%E1%BA%BFng%20Vi%E1%BB%87t "Wikipedia:Gõ tiếng Việt")
+  * Tự động [F9]
+  * Telex [(?)](https://vi.wikipedia.org/wiki/Telex%20\(ki%E1%BB%83u%20g%C3%B5\)#Quy_.C6.B0.E1.BB.9Bc_telex "Telex \(kiểu gõ\)#Quy ước telex")
+  * VNI [(?)](https://vi.wikipedia.org/wiki/VNI#Quy_.C6.B0.E1.BB.9Bc "VNI#Quy ước")
+  * VIQR [(?)](https://vi.wikipedia.org/wiki/VIQR#Quy_t.E1.BA.AFc "VIQR#Quy tắc")
+  * VIQR*
+  * Tắt [F12]
+  * * * *
+  * Bỏ dấu kiểu cũ [F7]
+  * Đúng chính tả [F8]
+
+
+Chung 
+  * [Các liên kết đến đây](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Li%C3%AAn_k%E1%BA%BFt_%C4%91%E1%BA%BFn_%C4%91%C3%A2y/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\) "Các trang liên kết đến đây \[alt-j\]")
+  * [Thay đổi liên quan](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_li%C3%AAn_quan/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\) "Thay đổi gần đây của các trang liên kết đến đây \[alt-k\]")
+  * [Liên kết thường trực](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&oldid=75381868 "Liên kết thường trực đến phiên bản này của trang")
+  * [Thông tin trang](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=info "Thêm chi tiết về trang này")
+  * [Trích dẫn trang này](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:Tr%C3%ADch_d%E1%BA%ABn&page=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_%28Vi%E1%BB%87t_Nam%29&id=75381868&wpFormIdentifier=titleform "Hướng dẫn cách trích dẫn trang này")
+  * [Tạo URL rút gọn](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:UrlShortener&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FK%25E1%25BB%25B3_thi_tuy%25E1%25BB%2583n_sinh_%25C4%2591%25E1%25BA%25A1i_h%25E1%25BB%258Dc_v%25C3%25A0_cao_%25C4%2591%25E1%25BA%25B3ng_%28Vi%25E1%25BB%2587t_Nam%29)
+  * [Chuyển sang bộ phân tích cũ](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&useparsoid=0)
+  * [Mở rộng tất cả](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\) "Mở rộng tất cả các phần tử có thể thu gọn trên trang hiện tại")
+
+
+In và xuất 
+  * [Tạo một quyển sách](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:S%C3%A1ch&bookcmd=book_creator&referer=K%E1%BB%B3+thi+tuy%E1%BB%83n+sinh+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+v%C3%A0+cao+%C4%91%E1%BA%B3ng+%28Vi%E1%BB%87t+Nam%29)
+  * [Tải dưới dạng PDF](https://vi.wikipedia.org/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:DownloadAsPdf&page=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_%28Vi%E1%BB%87t_Nam%29&action=show-download-screen)
+  * [Bản để in ra](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&printable=yes "Bản để in ra của trang \[alt-p\]")
+
+
+Tại dự án khác 
+  * [Khoản mục Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q7857257 "Liên kết đến khoản mục kết nối trong kho dữ liệu \[alt-g\]")
+
+
+Giao diện
+chuyển sang thanh bên ẩn
+Bách khoa toàn thư mở Wikipedia  
+| [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Question_book-new.svg)  | Bài viết này **cần thêm[chú thích nguồn gốc](https://vi.wikipedia.org/wiki/Wikipedia:Ch%C3%BA_th%C3%ADch_ngu%E1%BB%93n_g%E1%BB%91c "Wikipedia:Chú thích nguồn gốc") để [kiểm chứng thông tin](https://vi.wikipedia.org/wiki/Wikipedia:Th%C3%B4ng_tin_ki%E1%BB%83m_ch%E1%BB%A9ng_%C4%91%C6%B0%E1%BB%A3c "Wikipedia:Thông tin kiểm chứng được")**. Mời bạn giúp [hoàn thiện bài viết này](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit) bằng cách bổ sung chú thích tới [các nguồn đáng tin cậy](https://vi.wikipedia.org/wiki/Wikipedia:Ngu%E1%BB%93n_%C4%91%C3%A1ng_tin_c%E1%BA%ADy "Wikipedia:Nguồn đáng tin cậy"). Các nội dung không có nguồn có thể bị nghi ngờ và xóa bỏ. _( tháng 11/2024)__([Tìm hiểu cách thức và thời điểm xóa thông báo này](https://en.wikipedia.org/wiki/Help:Maintenance%20template%20removal "en:Help:Maintenance template removal"))_  |  
+| --- | --- |  
+[Wikipedia tiếng Việt **hoàn toàn không chịu trách nhiệm về nội dung của những bài viết về luật pháp được đăng tải**](https://vi.wikipedia.org/wiki/Wikipedia:Ph%E1%BB%A7_nh%E1%BA%ADn_chung "Wikipedia:Phủ nhận chung"). Bài viết này chỉ nhằm vào mục đích cung cấp kiến thức phổ thông và không phải là tư vấn pháp luật.
+**Kỳ thi tuyển sinh đại học và cao đẳng** là một kì thi từng được tổ chức tại [Việt Nam](https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam "Việt Nam") nhằm mục đích lấy [sinh viên](https://vi.wikipedia.org/wiki/Sinh_vi%C3%AAn "Sinh viên") đầu vào cho các trường đại học và cao đẳng, thường được biết đến với cách khác là kỳ thi _"3 chung"_ (chung đợt, chung đề và dùng chung kết quả), do [Bộ Giáo dục và Đào tạo](https://vi.wikipedia.org/wiki/B%E1%BB%99_Gi%C3%A1o_d%E1%BB%A5c_v%C3%A0_%C4%90%C3%A0o_t%E1%BA%A1o_\(Vi%E1%BB%87t_Nam\) "Bộ Giáo dục và Đào tạo \(Việt Nam\)") tổ chức hằng năm, ngay sau [kì thi tốt nghiệp trung học phổ thông](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Kỳ thi tốt nghiệp trung học phổ thông tại Việt Nam") khoảng một tháng. Trong những năm tổ chức, kì thi này được diễn ra vào thượng tuần và trung tuần [tháng 7](https://vi.wikipedia.org/wiki/Th%C3%A1ng_b%E1%BA%A3y "Tháng bảy") theo lịch sau:
+  * **Đợt 1** : Ngày [4 tháng 7](https://vi.wikipedia.org/wiki/4_th%C3%A1ng_7 "4 tháng 7") và [5 tháng 7](https://vi.wikipedia.org/wiki/5_th%C3%A1ng_7 "5 tháng 7"): thi các khối A, A1, V của hệ [đại học](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc "Đại học"). Thí sinh thi khối V, sau khi dự thi môn [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học") thì thi tiếp [năng khiếu](https://vi.wikipedia.org/wiki/N%C4%83ng_khi%E1%BA%BFu?action=edit&redlink=1 "Năng khiếu \(trang không tồn tại\)") [vẽ](https://vi.wikipedia.org/wiki/M%E1%BB%B9_thu%E1%BA%ADt "Mỹ thuật") đến ngày [8 tháng 7](https://vi.wikipedia.org/wiki/8_th%C3%A1ng_7 "8 tháng 7") (tùy trường).
+  * **Đợt 2** : Ngày [9 tháng 7](https://vi.wikipedia.org/wiki/9_th%C3%A1ng_7 "9 tháng 7") và [10 tháng 7](https://vi.wikipedia.org/wiki/10_th%C3%A1ng_7 "10 tháng 7") thi các khối B, C, D, N, H, M, T, S, R, K của hệ [đại học](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc "Đại học"). Thí sinh thi các khối [năng khiếu](https://vi.wikipedia.org/wiki/N%C4%83ng_khi%E1%BA%BFu?action=edit&redlink=1 "Năng khiếu \(trang không tồn tại\)"), sau khi dự thi các môn văn hóa (khối H, N thi [Văn](https://vi.wikipedia.org/wiki/V%C4%83n_hi%E1%BA%BFn_h%E1%BB%8Dc "Văn hiến học") theo đề thi khối C; khối M thi [Văn](https://vi.wikipedia.org/wiki/V%C4%83n_hi%E1%BA%BFn_h%E1%BB%8Dc "Văn hiến học"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học") theo đề thi khối D; khối T thi [Sinh](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học") theo đề thi khối B; khối R thi [Văn](https://vi.wikipedia.org/wiki/V%C4%83n_hi%E1%BA%BFn_h%E1%BB%8Dc "Văn hiến học"), [Sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử") theo đề thi khối C; khối K thi [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học") theo đề thi khối A) thì thi tiếp các môn [năng khiếu](https://vi.wikipedia.org/wiki/N%C4%83ng_khi%E1%BA%BFu?action=edit&redlink=1 "Năng khiếu \(trang không tồn tại\)") [vẽ](https://vi.wikipedia.org/wiki/M%E1%BB%B9_thu%E1%BA%ADt "Mỹ thuật"), [thể dục](https://vi.wikipedia.org/wiki/Th%E1%BB%83_d%E1%BB%A5c "Thể dục"), [nhạc](https://vi.wikipedia.org/wiki/%C3%82m_nh%E1%BA%A1c "Âm nhạc") và [kĩ thuật](https://vi.wikipedia.org/wiki/C%C3%B4ng_ngh%E1%BB%87 "Công nghệ") đến ngày [14 tháng 7](https://vi.wikipedia.org/wiki/14_th%C3%A1ng_7 "14 tháng 7") (tùy trường).
+  * **Đợt 3** : Ngày [15 tháng 7](https://vi.wikipedia.org/wiki/15_th%C3%A1ng_7 "15 tháng 7") và [16 tháng 7](https://vi.wikipedia.org/wiki/16_th%C3%A1ng_7 "16 tháng 7") thi tất cả các khối của hệ [cao đẳng](https://vi.wikipedia.org/wiki/Cao_%C4%91%E1%BA%B3ng "Cao đẳng").
+
+
+Từ năm [2015](https://vi.wikipedia.org/wiki/2015 "2015"), cùng với [kỳ thi tốt nghiệp trung học phổ thông](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Kỳ thi tốt nghiệp trung học phổ thông tại Việt Nam"), kỳ thi tuyển sinh đại học và cao đẳng được giải thể. Thay vào đó là một kỳ thi hợp nhất là [kỳ thi trung học phổ thông quốc gia](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_qu%E1%BB%91c_gia_\(Vi%E1%BB%87t_Nam\) "Kỳ thi trung học phổ thông quốc gia \(Việt Nam\)"). Kỳ thi trung học phổ thông quốc gia dừng tổ chức sau năm 2019, sau đó Kỳ thi tốt nghiệp trung học phổ thông được tổ chức trở lại, các trường đại học có thể sử dụng kết quả thi tốt nghiệp để xét tuyển đại học, hoặc xét tuyển theo kết quả những kì thi tuyển sinh mới tự tổ chức, như [Đánh giá năng lực](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_n%C4%83ng_l%E1%BB%B1c "Đánh giá năng lực") ([Đại học Quốc gia Hà Nội](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_H%C3%A0_N%E1%BB%99i "Đại học Quốc gia Hà Nội"), [Đại học Quốc gia Thành phố Hồ Chí Minh](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh "Đại học Quốc gia Thành phố Hồ Chí Minh"), [Bộ Công an](https://vi.wikipedia.org/wiki/B%E1%BB%99_C%C3%B4ng_an_\(Vi%E1%BB%87t_Nam\) "Bộ Công an \(Việt Nam\)")), hay [Đánh giá tư duy](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_t%C6%B0_duy "Đánh giá tư duy") ([Đại học Bách khoa Hà Nội](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_H%C3%A0_N%E1%BB%99i "Đại học Bách khoa Hà Nội")).
+## Điều kiện
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=1 "Sửa đổi phần “Điều kiện”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=1 "Sửa mã nguồn tại đề mục: Điều kiện")]
+Thí sinh tham dự kỳ thi cần phải có [bằng tốt nghiệp](https://vi.wikipedia.org/wiki/B%E1%BA%B1ng_t%E1%BB%91t_nghi%E1%BB%87p "Bằng tốt nghiệp") [trung học phổ thông](https://vi.wikipedia.org/wiki/Trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng "Trung học phổ thông"), giấy chứng nhận tốt nghiệp trung học phổ thông tạm thời hoặc bậc học tương đương.
+## Các khối thi và môn thi
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=2 "Sửa đổi phần “Các khối thi và môn thi”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=2 "Sửa mã nguồn tại đề mục: Các khối thi và môn thi")]
+  * Khối A: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học") [[1]](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_note-1)
+    * Khối A01: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n "Toán"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD "Vật lý"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh") (bắt đầu từ năm 2012)
+    * Khối A02: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học")
+    * Khối A03: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối A04: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối A05: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối A06: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối A07: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối A08: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân")
+    * Khối A09: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân")
+    * Khối A10: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân")
+    * Khối A11: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân")
+    * Khối A12: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Khoa học xã hội](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_x%C3%A3_h%E1%BB%99i "Khoa học xã hội"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+    * Khối A13: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+    * Khối A14: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+    * Khối A15: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+    * Khối A16: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+    * Khối A17: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Khoa học xã hội](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_x%C3%A3_h%E1%BB%99i "Khoa học xã hội")
+    * Khối A18: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Khoa học tự nhiên](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_t%E1%BB%B1_nhi%C3%AAn "Khoa học tự nhiên")
+  * Khối B: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học")
+    * Khối B01: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối B02: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Địa Lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_L%C3%BD?action=edit&redlink=1 "Địa Lý \(trang không tồn tại\)")
+    * Khối B03: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn")
+    * Khối B04: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Giáo dục công dân](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_c%C3%B4ng_d%C3%A2n "Giáo dục công dân")
+    * Khối B05: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Khoa học xã hội](https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_x%C3%A3_h%E1%BB%99i "Khoa học xã hội")
+    * Khối B06: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh")
+  * Khối C: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối C01: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Vật lí](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%AD "Vật lí")
+    * Khối C02: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học")
+    * Khối C03: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối C04: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối C05: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Vật lí](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%AD "Vật lí"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học")
+    * Khối C06: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Vật lí](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%AD "Vật lí"), [Sinh](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học")
+    * Khối C07: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Vật lí](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%AD "Vật lí"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối C08: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học")
+    * Khối C09: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Vật lí](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%AD "Vật lí"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+    * Khối C10: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+  * Khối D: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Ngoại ngữ](https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_ng%E1%BB%AF "Ngoại ngữ")
+    * Khối D1: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh")
+    * Khối D2: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Nga](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Nga "Tiếng Nga")
+    * Khối D3: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Pháp](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Ph%C3%A1p "Tiếng Pháp")
+    * Khối D4: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Trung Quốc](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Trung_Qu%E1%BB%91c "Tiếng Trung Quốc")
+    * Khối D5: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Đức](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_%C4%90%E1%BB%A9c "Tiếng Đức") (bắt đầu từ năm 2008)
+    * Khối D6: [Ngữ văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Nhật](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Nh%E1%BA%ADt "Tiếng Nhật") (bắt đầu từ năm 2008)
+    * Khối D7: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh")
+    * Khối D08: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học")
+    * Khối D09: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử")
+    * Khối D10: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh"), [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý")
+
+
+### Khối năng khiếu
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=3 "Sửa đổi phần “Khối năng khiếu”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=3 "Sửa mã nguồn tại đề mục: Khối năng khiếu")]
+  * Khối H: [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), [Mỹ thuật](https://vi.wikipedia.org/wiki/M%E1%BB%B9_thu%E1%BA%ADt "Mỹ thuật") (vẽ [chì](https://vi.wikipedia.org/wiki/B%C3%BAt_ch%C3%AC "Bút chì") và trang trí màu)
+  * Khối K: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n "Toán"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD "Vật lý"), [Kỹ thuật](https://vi.wikipedia.org/wiki/K%E1%BB%B9_thu%E1%BA%ADt "Kỹ thuật")
+  * Khối M: [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n "Toán"), Năng khiếu [mẫu giáo](https://vi.wikipedia.org/wiki/M%E1%BA%ABu_gi%C3%A1o "Mẫu giáo") ([Hát](https://vi.wikipedia.org/wiki/H%C3%A1t "Hát"), [Kể chuyện](https://vi.wikipedia.org/wiki/K%E1%BB%83_chuy%E1%BB%87n "Kể chuyện"), [Đọc diễn cảm](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Dc_di%E1%BB%85n_c%E1%BA%A3m?action=edit&redlink=1 "Đọc diễn cảm \(trang không tồn tại\)"))
+  * Khối N: [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), hai môn Năng khiếu [Âm nhạc](https://vi.wikipedia.org/wiki/%C3%82m_nh%E1%BA%A1c "Âm nhạc") ([Thanh nhạc](https://vi.wikipedia.org/wiki/Thanh_nh%E1%BA%A1c "Thanh nhạc"), Biểu diễn nhạc cụ, Kiến thức âm nhạc cơ bản)
+  * Khối R: [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử"), Năng khiếu [báo chí](https://vi.wikipedia.org/wiki/B%C3%A1o_ch%C3%AD "Báo chí")
+  * Khối S: [Ngữ văn](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_v%C4%83n "Ngữ văn"), hai môn năng khiếu [sân khấu](https://vi.wikipedia.org/wiki/S%C3%A2n_kh%E1%BA%A5u "Sân khấu").
+  * Khối T: [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"), [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n "Toán"), Năng khiếu thể dục thể thao ([chạy cự li ngắn](https://vi.wikipedia.org/wiki/Ch%E1%BA%A1y_c%E1%BB%B1_li_ng%E1%BA%AFn?action=edit&redlink=1 "Chạy cự li ngắn \(trang không tồn tại\)"), [bật tại chỗ](https://vi.wikipedia.org/wiki/B%E1%BA%ADt_t%E1%BA%A1i_ch%E1%BB%97?action=edit&redlink=1 "Bật tại chỗ \(trang không tồn tại\)"), [gập thân](https://vi.wikipedia.org/wiki/G%E1%BA%ADp_th%C3%A2n?action=edit&redlink=1 "Gập thân \(trang không tồn tại\)"))
+  * Khối V: [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n "Toán"), [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD "Vật lý"), [Mỹ thuật](https://vi.wikipedia.org/wiki/M%E1%BB%B9_thu%E1%BA%ADt "Mỹ thuật")
+
+[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ki%E1%BA%BFn_tr%C3%BAc.JPG/250px-%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ki%E1%BA%BFn_tr%C3%BAc.JPG?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ki%E1%BA%BFn_tr%C3%BAc.JPG)[Phụ huynh](https://vi.wikipedia.org/wiki/Ph%E1%BB%A5_huynh "Phụ huynh") và [học sinh](https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_sinh "Học sinh") tại [kì thi](https://vi.wikipedia.org/wiki/K%C3%AC_thi?action=edit&redlink=1 "Kì thi \(trang không tồn tại\)") [tuyển sinh](https://vi.wikipedia.org/wiki/Tuy%E1%BB%83n_sinh?action=edit&redlink=1 "Tuyển sinh \(trang không tồn tại\)") [Đại học Kiến trúc Thành phố Hồ Chí Minh](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ki%E1%BA%BFn_tr%C3%BAc_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh "Đại học Kiến trúc Thành phố Hồ Chí Minh") năm [2012](https://vi.wikipedia.org/wiki/2012 "2012").
+## Hình thức thi
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=4 "Sửa đổi phần “Hình thức thi”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=4 "Sửa mã nguồn tại đề mục: Hình thức thi")]
+Từ năm [2001](https://vi.wikipedia.org/wiki/2001 "2001") trở về trước, mỗi trường tự tổ chức kì thi, dưới sự giám sát của [Bộ Giáo dục và Đào tạo](https://vi.wikipedia.org/wiki/B%E1%BB%99_Gi%C3%A1o_d%E1%BB%A5c_v%C3%A0_%C4%90%C3%A0o_t%E1%BA%A1o "Bộ Giáo dục và Đào tạo"). Theo đó, thí sinh đăng kí dự thi bao nhiêu trường, thì phải trải qua bấy nhiêu kì thi. Điều nay gây nên sự tốn kém rất lớn, và mất công mất việc của rất nhiều các bậc phụ huynh, cũng như không thực sự cần thiết. Từ năm [2002](https://vi.wikipedia.org/wiki/2002 "2002") trở đi, Bộ Giáo dục và Đào tạo tổ chức một kì thi duy nhất, sau đó kết quả được áp dụng sang các trường mà thí sinh đã đăng ký nguyện vọng.[[2]](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_note-2)
+Năm [2006](https://vi.wikipedia.org/wiki/2006 "2006"), hình thức thi [trắc nghiệm khách quan](https://vi.wikipedia.org/wiki/Tr%E1%BA%AFc_nghi%E1%BB%87m_kh%C3%A1ch_quan "Trắc nghiệm khách quan") được áp dụng đầu tiên cho bốn môn [Ngoại ngữ](https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_ng%E1%BB%AF "Ngoại ngữ") của khối D là [Tiếng Anh](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh "Tiếng Anh"), [Tiếng Nga](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Nga "Tiếng Nga"), [Tiếng Pháp](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Ph%C3%A1p "Tiếng Pháp") và [Tiếng Trung](https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Trung "Tiếng Trung"); đề thi gồm 70 câu [trắc nghiệm](https://vi.wikipedia.org/wiki/Tr%E1%BA%AFc_nghi%E1%BB%87m "Trắc nghiệm"). Từ năm [2007](https://vi.wikipedia.org/wiki/2007 "2007") đến [2014](https://vi.wikipedia.org/wiki/2014 "2014"), hình thức thi này được Bộ Giáo dục và Đào tạo nhân rộng và áp dụng cho các môn [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học"), [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học") và [Ngoại ngữ](https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_ng%E1%BB%AF "Ngoại ngữ") với [thời gian](https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_gian "Thời gian") làm bài là 90 [phút](https://vi.wikipedia.org/wiki/Ph%C3%BAt "Phút"), đề thi có 80 câu dành cho các môn [Ngoại ngữ](https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_ng%E1%BB%AF "Ngoại ngữ") và 50 câu dành cho môn [Vật lý](https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_h%E1%BB%8Dc "Vật lý học"), [Hóa học](https://vi.wikipedia.org/wiki/H%C3%B3a_h%E1%BB%8Dc "Hóa học") và [Sinh học](https://vi.wikipedia.org/wiki/Sinh_h%E1%BB%8Dc "Sinh học"); bốn môn [văn hóa](https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a "Văn hóa") còn lại là [Toán](https://vi.wikipedia.org/wiki/To%C3%A1n_h%E1%BB%8Dc "Toán học"), [Văn](https://vi.wikipedia.org/wiki/V%C4%83n_ch%C6%B0%C6%A1ng "Văn chương"), [Lịch sử](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD "Lịch sử") và [Địa lý](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD "Địa lý") thi [tự luận](https://vi.wikipedia.org/wiki/T%E1%BB%B1_lu%E1%BA%ADn?action=edit&redlink=1 "Tự luận \(trang không tồn tại\)") với thời gian làm bài là 180 phút.
+## Các khái niệm
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=5 "Sửa đổi phần “Các khái niệm”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=5 "Sửa mã nguồn tại đề mục: Các khái niệm")]
+### Hồ sơ đăng ký dự thi
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=6 "Sửa đổi phần “Hồ sơ đăng ký dự thi”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=6 "Sửa mã nguồn tại đề mục: Hồ sơ đăng ký dự thi")]
+Để được dự thi đại học hay cao đẳng, thí sinh cần có một bộ hồ sơ đăng ký và phải nộp trước khi thi để nhập [dữ liệu](https://vi.wikipedia.org/wiki/D%E1%BB%AF_li%E1%BB%87u "Dữ liệu"). Bộ hồ sơ này gồm hai lá phiếu có nội dung khai báo như nhau: phiếu số 1 nộp cho trường đăng ký thi, phiếu số 2 thí sinh giữ để làm gốc. Sau khi tiếp nhận hồ sơ và nhập dữ liệu, trường sẽ gửi giấy báo dự thi về cho thí sinh. Giấy này rất quan trọng bởi vì có nó, thí sinh mới được phép vào phòng thi.
+### Điểm sàn
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=7 "Sửa đổi phần “Điểm sàn”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=7 "Sửa mã nguồn tại đề mục: Điểm sàn")]
+_Điểm sàn_ là mức điểm tối thiểu để các trường nhận đơn xét tuyển của thí sinh thi theo đề thi chung của Bộ Giáo dục và Đào tạo, điểm sàn chính thức được áp dụng từ năm [2004](https://vi.wikipedia.org/wiki/2004 "2004"). Hiểu đơn giản, đây là mức điểm tối thiểu thí sinh cần phải đạt được để có quyền xét được xét tuyển vào các trường đại học, cao đẳng, nếu không đạt đến điểm sàn, thí sinh gần như đã không trúng tuyển. Một số trường hợp, điểm sàn có thể điều chỉnh theo từng trường nếu được phép của Bộ giáo dục.  
+| Năm  | Đại học  | Cao đẳng  |  
+| --- | --- | --- |  
+| Khối A  | Khối A1  | Khối B  | Khối C  | Khối D  | Khối A  | Khối A1  | Khối B  | Khối C  | Khối D  |  
+| 2004  | 14  |   | 15  | 15  | 14  | 11  |   | 12  | 12  | 11  |  
+| 2005  | 15  |   | 15  | 14  | 14  | 12  |   | 12  | 11  | 11  |  
+| 2006  | 13  |   | 14  | 14  | 13  | 10  |   | 11  | 11  | 10  |  
+| 2007  | 15  |   | 15  | 14  | 13  | 12  |   | 12  | 11  | 10  |  
+| 2008  | 13  |   | 15  | 14  | 13  | 10  |   | 12  | 11  | 10  |  
+| 2009  | 13  |   | 14  | 14  | 13  | 10  |   | 11  | 11  | 10  |  
+| 2010  | 13  |   | 14  | 14  | 13  | 10  |   | 11  | 11  | 10  |  
+| 2011  | 13  |   | 14  | 14  | 13  | 10  |   | 11  | 11  | 10  |  
+| 2012  | 13  | 13  | 14  | 14,5  | 13,5  | 10  | 10  | 11  | 11,5  | 10,5  |  
+| 2013[[3]](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_note-3)  | 13  | 13  | 14  | 14  | 13,5  | 10  | 10  | 11  | 11  | 10  |  
+| Năm  | Đợt  | Lượt thí sinh  | Điểm 30 (làm tròn)  | Điểm 30 (trần)  |  
+| --- | --- | --- | --- | --- |  
+| Đăng ký  | Dự thi  | Tỉ lệ dự thi  | Đăng ký (tổng)  | Dự thi (tổng)  | Tỉ lệ dự thi  | Dự thi ĐH  | Dự thi CĐ  |  
+| 1998  | Đợt 1  | -  | -  | -  | 1,511,813  | 1,107,221  | 73.24%  | 875,626  | 231,595  | -  | -  |  
+| Đợt 2  | -  | -  | -  |  
+| Đơt 3  | -  | -  | -  |  
+| 1999  | Đợt 1  | -  | -  | -  | 1,665,053  | 1,235,775  | 74.22%  | 897,314  | 338,461  | -  | -  |  
+| Đợt 2  | -  | -  | -  |  
+| Đơt 3  | -  | -  | -  |  
+| 2000  | Đợt 1  | -  | -  | -  | 2,000,790  | 1,531,656  | 76.55%  | 1,123,264  | 408,392  | -  | -  |  
+| Đợt 2  | -  | -  | -  |  
+| Đơt 3  | -  | -  | -  |  
+| 2001  | Đợt 1  | 601,578  | -  | -  | 2,288,126  | 1,788,714  | 78.17%  | 1,261,328  | 527,386  | -  | -  |  
+| Đợt 2  | 577,383  | 489,323  | 84.75%  |  
+| Đơt 3  | -  | -  | -  |  
+| 2002  | Đợt 1  | 609,492  | 433,794  | 71.17%  | 1,676,392  | 1,162,455  | 69.34%  | 875,062  | 287,393  | 0  | -  |  
+| Đợt 2  | 587,993  | 441,268  | 75.05%  |  
+| Đơt 3  | 357,000  | 287,393  | 80.50%  |  
+| 2003  | Đợt 1  | 575,083  | 466,404  | 81.10%  | 1,479,000  | 1,286,768  | 87.00%  | 943,407  | 343,361  | 2  | -  |  
+| Đợt 2  | 568,698  | 477,003  | 83.88%  |  
+| Đơt 3  | -  | 343,361  | -  |  
+| 2004  | Đợt 1  | 559,265  | 430,980  | 77.06%  | 1,480,000  | 1,300,961  | 87.90%  | 888,497  | 412,464  | 39  | -  |  
+| Đợt 2  | 580,291  | 457,517  | 78.84%  |  
+| Đơt 3  | -  | 412,464  | -  |  
+| 2005  | Đợt 1  | 633,788  | 471,062  | 74.32%  | 1,736,563  | 1,300,106  | 74.87%  | 935,283  | 364,823  | 101  | -  |  
+| Đợt 2  | 614,275  | 464,221  | 75.57%  |  
+| Đơt 3  | 488,500  | 364,823  | 74.68%  |  
+| 2006  | Đợt 1  | 679,212  | 490,599  | 72.23%  | 1,904,866  | 1,397,241  | 73.35%  | 980,192  | 417,049  | 37  | 13  |  
+| Đợt 2  | 647,031  | 489,593  | 75.67%  |  
+| Đơt 3  | 578,623  | 417,049  | 72.08%  |  
+| 2007  | Đợt 1  | 840,869  | 543,622  | 64.65%  | 1,850,076  | 1,368,207  | 73.95%  | 1,019,126  | 349,081  | 17  | 3  |  
+| Đợt 2  | 726,809  | 475,504  | 65.42%  |  
+| Đơt 3  | -  | 349,081  | -  |  
+| 2008  | Đợt 1  | 916,400  | 618,994  | 67.55%  | 2,410,218  | 1,663,940  | 69.04%  | 1,247,576  | 416,364  | 43  | 12  |  
+| Đợt 2  | 876,983  | 585,737  | 66.79%  |  
+| Đơt 3  | 616,836  | 416,364  | 67.50%  |  
+| 2009  | Đợt 1  | 930,255  | 638,192  | 68.60%  | 2,332,510  | 1,614,783  | 69.23%  | 1,261,941  | 352,842  | 11  | 6  |  
+| Đợt 2  | 870,756  | 584,000  | 67.07%  |  
+| Đơt 3  | 531,499  | 352,842  | 66.39%  |  
+| 2010  | Đợt 1  | 861,796  | 653,500  | 75.83%  | 2,061,864  | 1,589,305  | 77.08%  | 1,237,870  | 351,435  | 2  | 2  |  
+| Đợt 2  | 745,857  | 584,370  | 78.35%  |  
+| Đơt 3  | 454,211  | 351,435  | 77.37%  |  
+| 2011  | Đợt 1  | 1,084,583  | 680,597  | 62.75%  | 2,480,785  | 1,645,572  | 66.33%  | 1,333,428  | 312,144  | 1  | 1  |  
+| Đợt 2  | 909,532  | 652,831  | 71.78%  |  
+| Đơt 3  | 486,670  | 312,144  | 64.14%  |  
+| 2012  | Đợt 1  | 869,233  | 637,980  | 73.40%  | 2,089,074  | 1,509,514  | 72.26%  | 1,214,514  | 295,000  | 2  | 1  |  
+| Đợt 2  | 765,630  | 576,534  | 75.30%  |  
+| Đơt 3  | 454,211  | 295,000  | 64.95%  |  
+| 2013  | Đợt 1  | 843,687  | 629,833  | 74.65%  | 2,049,014  | 1,478,033  | 72.13%  | 1,242,033  | 236,000  | 17  | 6  |  
+| Đợt 2  | 838,000  | 612,200  | 73.05%  |  
+| Đơt 3  | 367,327  | 236,000  | 64.25%  |  
+| 2014  | Đợt 1  | 749,730  | 615,358  | 82.08%  | 1,770,114  | 1,369,951  | 77.39%  | 1,190,546  | 179,405  | 14  | 5  |  
+| Đợt 2  | 761,753  | 575,188  | 75.51%  |  
+| Đơt 3  | 258,631  | 179,405  | 69.37%  |  
+## Xem thêm
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=8 "Sửa đổi phần “Xem thêm”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=8 "Sửa mã nguồn tại đề mục: Xem thêm")]
+  * [Danh sách trường đại học, học viện và cao đẳng tại Việt Nam](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_%C4%91%E1%BA%A1i_h%E1%BB%8Dc,_h%E1%BB%8Dc_vi%E1%BB%87n_v%C3%A0_cao_%C4%91%E1%BA%B3ng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Danh sách trường đại học, học viện và cao đẳng tại Việt Nam")
+
+
+## Chú thích
+[[sửa](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&veaction=edit&section=9 "Sửa đổi phần “Chú thích”") | [sửa mã nguồn](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&action=edit&section=9 "Sửa mã nguồn tại đề mục: Chú thích")]
+  1. [↑](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_ref-1 "Bước lên") FQA. ["Khối A gồm môn nào? Tham khảo ngay các ngành khối A cực hot"](https://fqa.vn/cam-nang/khoi-a-gom-mon-nao-tham-khao-ngay-cac-nganh-khoi-a-cuc-hot-i804.html).
+  2. [↑](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_ref-2 "Bước lên") ["Thông báo của Bộ GD - ĐT về công tác tuyển sinh vào các trường đại học và cao đẳng năm 2002"](https://web.archive.org/web/20210406053622/http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=13521&type=html). [Bản gốc](http://www.vietlaw.gov.vn/LAWNET/docView.do?docid=13521&type=html) lưu trữ ngày 6 tháng 4 năm 2021. Truy cập ngày 1 tháng 7 năm 2013.
+  3. [↑](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)#cite_ref-3 "Bước lên") [Thông báo kết luận của Hội đồng xác định điểm sàn xét tuyển đại học, cao đẳng hệ chính quy năm 2013, ký hiệu văn bản 999/2013/TB-BGDĐT](http://vanban.moet.gov.vn/?page=1.15&script=viewdoc&view=5202&opt=brpage)[_[liên kết hỏng](https://vi.wikipedia.org/wiki/Wikipedia:Li%C3%AAn_k%E1%BA%BFt_h%E1%BB%8Fng "Wikipedia:Liên kết hỏng")_] _Bộ Giáo dục và Đào Tạo_ , truy cập ngày 8 tháng 8 năm 2013
+
+  
+| 
+  * [x](https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:K%E1%BB%B3_thi_cu%E1%BB%91i_c%E1%BA%A5p_v%C3%A0_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A7u_v%C3%A0o_%C4%91%E1%BA%A1i_h%E1%BB%8Dc,_cao_%C4%91%E1%BA%B3ng "Bản mẫu:Kỳ thi cuối cấp và tuyển sinh đầu vào đại học, cao đẳng")
+  * [t](https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn_B%E1%BA%A3n_m%E1%BA%ABu:K%E1%BB%B3_thi_cu%E1%BB%91i_c%E1%BA%A5p_v%C3%A0_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A7u_v%C3%A0o_%C4%91%E1%BA%A1i_h%E1%BB%8Dc,_cao_%C4%91%E1%BA%B3ng?action=edit&redlink=1 "Thảo luận Bản mẫu:Kỳ thi cuối cấp và tuyển sinh đầu vào đại học, cao đẳng \(trang không tồn tại\)")
+  * [s](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:EditPage/B%E1%BA%A3n_m%E1%BA%ABu:K%E1%BB%B3_thi_cu%E1%BB%91i_c%E1%BA%A5p_v%C3%A0_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A7u_v%C3%A0o_%C4%91%E1%BA%A1i_h%E1%BB%8Dc,_cao_%C4%91%E1%BA%B3ng "Đặc biệt:EditPage/Bản mẫu:Kỳ thi cuối cấp và tuyển sinh đầu vào đại học, cao đẳng")
+
+[Kỳ thi tuyển sinh đại học và cao đẳng](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_k%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc "Danh sách kỳ thi tuyển sinh đại học")  |  
+| --- |  
+| Châu Á–Thái Bình Dương  | 
+  * Úc: [ATAR](https://vi.wikipedia.org/wiki/Australian_Tertiary_Admission_Rank?action=edit&redlink=1 "Australian Tertiary Admission Rank \(trang không tồn tại\)"), [STAT](https://vi.wikipedia.org/wiki/Special_Tertiary_Admissions_Test?action=edit&redlink=1 "Special Tertiary Admissions Test \(trang không tồn tại\)")
+  * Bangladesh: [HSC](https://vi.wikipedia.org/wiki/Higher_Secondary_Certificate?action=edit&redlink=1 "Higher Secondary Certificate \(trang không tồn tại\)"), [Admission tests](https://vi.wikipedia.org/wiki/Admission_tests_in_Bangladesh?action=edit&redlink=1 "Admission tests in Bangladesh \(trang không tồn tại\)")
+  * Brunei: [GCE A-Level](https://vi.wikipedia.org/wiki/Brunei-Cambridge_GCE_A-Level?action=edit&redlink=1 "Brunei-Cambridge GCE A-Level \(trang không tồn tại\)")
+  * Campuchia: [Baccalauréat](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_Campuchia?action=edit&redlink=1 "Baccalauréat Campuchia \(trang không tồn tại\)")
+  * Trung Quốc: [Cao khảo](https://vi.wikipedia.org/wiki/Cao_kh%E1%BA%A3o "Cao khảo")
+  * Đài Loan: [GSAT](https://vi.wikipedia.org/wiki/GSAT "GSAT"), [DRT](https://vi.wikipedia.org/wiki/DRT "DRT")
+  * Hồng Kông: [HKDSE](https://vi.wikipedia.org/wiki/HKDSE?action=edit&redlink=1 "HKDSE \(trang không tồn tại\)"), [JUPAS](https://vi.wikipedia.org/wiki/JUPAS?action=edit&redlink=1 "JUPAS \(trang không tồn tại\)")
+  * Ấn Độ: [JEE-Advanced](https://vi.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced?action=edit&redlink=1 "Joint Entrance Examination – Advanced \(trang không tồn tại\)"), [JEE-Main](https://vi.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Main?action=edit&redlink=1 "Joint Entrance Examination – Main \(trang không tồn tại\)"), [NEET](https://vi.wikipedia.org/wiki/National_Eligibility_cum_Entrance_Test_\(Undergraduate\)?action=edit&redlink=1 "National Eligibility cum Entrance Test \(Undergraduate\) \(trang không tồn tại\)"), [CUET](https://vi.wikipedia.org/wiki/Common_University_Entrance_Test?action=edit&redlink=1 "Common University Entrance Test \(trang không tồn tại\)")
+  * Indonesia: [UN](https://vi.wikipedia.org/wiki/National_Exam_\(Indonesia\)?action=edit&redlink=1 "National Exam \(Indonesia\) \(trang không tồn tại\)"), [SBMPTN](https://vi.wikipedia.org/wiki/Seleksi_Bersama_Masuk_Perguruan_Tinggi_Negeri?action=edit&redlink=1 "Seleksi Bersama Masuk Perguruan Tinggi Negeri \(trang không tồn tại\)")
+  * Iran: [Concours](https://vi.wikipedia.org/wiki/Iranian_University_Entrance_Exam?action=edit&redlink=1 "Iranian University Entrance Exam \(trang không tồn tại\)")
+  * Israel: [The Psychometry](https://vi.wikipedia.org/wiki/Psychometric_Entrance_Test?action=edit&redlink=1 "Psychometric Entrance Test \(trang không tồn tại\)")
+  * Nhật Bản: [NCTUA](https://vi.wikipedia.org/wiki/National_Center_Test_for_University_Admissions?action=edit&redlink=1 "National Center Test for University Admissions \(trang không tồn tại\)"), [EJU](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_Nh%E1%BA%ADt_B%E1%BA%A3n_d%C3%A0nh_cho_sinh_vi%C3%AAn_qu%E1%BB%91c_t%E1%BA%BF?action=edit&redlink=1 "Kỳ thi tuyển sinh đại học Nhật Bản dành cho sinh viên quốc tế \(trang không tồn tại\)")
+  * Jordan: [Tawjihi](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+  * Kazakhstan: [ENT](https://vi.wikipedia.org/wiki/Ultt%C4%B1q_Bir%C4%B1n%C4%9Fay_Testilew?action=edit&redlink=1 "Ulttıq Birınğay Testilew \(trang không tồn tại\)")
+  * Kuwait: [Shahadat Al-thanawiya Al-'ama](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+  * Kyrgyzstan: [ORT](https://vi.wikipedia.org/wiki/General_Certificate_of_Secondary_Education?action=edit&redlink=1 "General Certificate of Secondary Education \(trang không tồn tại\)")
+  * Lào: [Baccalauréat](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_L%C3%A0o?action=edit&redlink=1 "Baccalauréat Lào \(trang không tồn tại\)")
+  * Ma Cao: [JAE](https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E5%9B%9B%E9%AB%98%E6%A0%A1%E8%81%AF%E5%90%88%E5%85%A5%E5%AD%B8%E8%80%83%E8%A9%A6 "zh:澳門四高校聯合入學考試")
+  * Malaysia: [STPM](https://vi.wikipedia.org/wiki/Sijil_Tinggi_Persekolahan_Malaysia?action=edit&redlink=1 "Sijil Tinggi Persekolahan Malaysia \(trang không tồn tại\)"), [MUET](https://vi.wikipedia.org/wiki/Malaysian_University_English_Test?action=edit&redlink=1 "Malaysian University English Test \(trang không tồn tại\)")
+  * Maldives: [GCE A-Level](https://vi.wikipedia.org/wiki/GCE_Advanced_Level_in_the_Maldives?action=edit&redlink=1 "GCE Advanced Level in the Maldives \(trang không tồn tại\)")
+  * Mông Cổ: [EIT](https://vi.wikipedia.org/wiki/General_Entrance_Examination_of_Mongolia?action=edit&redlink=1 "General Entrance Examination of Mongolia \(trang không tồn tại\)")
+  * Myanmar: [University Entrance Examination](https://vi.wikipedia.org/wiki/University_Entrance_Examination?action=edit&redlink=1 "University Entrance Examination \(trang không tồn tại\)")
+  * Nepal: [SLC](https://vi.wikipedia.org/wiki/School_Leaving_Certificate_\(Nepal\)?action=edit&redlink=1 "School Leaving Certificate \(Nepal\) \(trang không tồn tại\)")
+  * New Zealand: [NCEA](https://vi.wikipedia.org/wiki/National_Certificate_of_Educational_Achievement?action=edit&redlink=1 "National Certificate of Educational Achievement \(trang không tồn tại\)")
+  * Oman: [General Education Diploma](https://vi.wikipedia.org/wiki/General_Education_Diploma?action=edit&redlink=1 "General Education Diploma \(trang không tồn tại\)")
+  * Pakistan: [HSSC](https://vi.wikipedia.org/wiki/Higher_Secondary_School_Certificate?action=edit&redlink=1 "Higher Secondary School Certificate \(trang không tồn tại\)")
+  * Palestine: [Tawjihi](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+  * Philippines: [UPCAT](https://vi.wikipedia.org/wiki/University_of_the_Philippines_College_Admission_Test?action=edit&redlink=1 "University of the Philippines College Admission Test \(trang không tồn tại\)"), [PUPCET](https://vi.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines_College_Entrance_Test?action=edit&redlink=1 "Polytechnic University of the Philippines College Entrance Test \(trang không tồn tại\)")
+  * Qatar: [Secondary School Leaving Certificate](https://vi.wikipedia.org/wiki/Secondary_School_Leaving_Certificate?action=edit&redlink=1 "Secondary School Leaving Certificate \(trang không tồn tại\)")
+  * Singapore: [GCE-O](https://vi.wikipedia.org/wiki/GCE-O?action=edit&redlink=1 "GCE-O \(trang không tồn tại\)"), [GCE-A](https://vi.wikipedia.org/wiki/GCE-A?action=edit&redlink=1 "GCE-A \(trang không tồn tại\)")
+  * Hàn Quốc: [Suneung](https://vi.wikipedia.org/wiki/Suneung "Suneung")
+  * Sri Lanka: [GCE A-Level](https://vi.wikipedia.org/wiki/GCE_Advanced_Level_in_Sri_Lanka?action=edit&redlink=1 "GCE Advanced Level in Sri Lanka \(trang không tồn tại\)")
+  * Syria: [Al-Shahada Al-Thanawiya](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+  * Thái Lan: [GAT](https://vi.wikipedia.org/wiki/General_Aptitude_Test?action=edit&redlink=1 "General Aptitude Test \(trang không tồn tại\)"), [PAT](https://vi.wikipedia.org/wiki/Professional_Aptitude_Test?action=edit&redlink=1 "Professional Aptitude Test \(trang không tồn tại\)")
+  * UAE: [Thanawiya 'Amma](https://vi.wikipedia.org/wiki/Secondary_School_Certificate?action=edit&redlink=1 "Secondary School Certificate \(trang không tồn tại\)")
+  * Uzbekistan: [DTM](https://vi.wikipedia.org/wiki/National_Testing_System?action=edit&redlink=1 "National Testing System \(trang không tồn tại\)")
+  * Việt Nam: [TSĐHCĐ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)), [THPTQG](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_qu%E1%BB%91c_gia "Kỳ thi trung học phổ thông quốc gia"), [TNTHPT](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_\(Vi%E1%BB%87t_Nam\) "Kỳ thi tốt nghiệp trung học phổ thông \(Việt Nam\)"), [ĐGNL](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_n%C4%83ng_l%E1%BB%B1c "Đánh giá năng lực"), [ĐGTD](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_t%C6%B0_duy "Đánh giá tư duy")
+  * Yemen: [Thanawiya](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+
+ |  
+| Châu Âu  | 
+  * Albania: [Matura Shtetërore](https://vi.wikipedia.org/wiki/Matura_Shtet%C3%ABrore?action=edit&redlink=1 "Matura Shtetërore \(trang không tồn tại\)")
+  * Áo: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Belarus: [CTRB](https://vi.wikipedia.org/wiki/Central_Test_of_the_Republic_of_Belarus?action=edit&redlink=1 "Central Test of the Republic of Belarus \(trang không tồn tại\)")
+  * Bỉ: [CESS](https://vi.wikipedia.org/wiki/Examen_d'Enseignement_Secondaire_Sup%C3%A9rieur?action=edit&redlink=1 "Examen d'Enseignement Secondaire Supérieur \(trang không tồn tại\)")
+  * Bosna và Hercegovina: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Bulgaria: [Държавен зрелостен изпит](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Croatia: [Državna matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Síp: [Απολυτήριο](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Cộng hòa Séc: [Maturita](https://vi.wikipedia.org/wiki/Maturita?action=edit&redlink=1 "Maturita \(trang không tồn tại\)")
+  * Đan Mạch: [Studentereksamen](https://vi.wikipedia.org/wiki/Gymnasium_\(Denmark\)?action=edit&redlink=1 "Gymnasium \(Denmark\) \(trang không tồn tại\)")
+  * Estonia: [Riigieksamid](https://vi.wikipedia.org/wiki/Riigieksamid?action=edit&redlink=1 "Riigieksamid \(trang không tồn tại\)")
+  * Phần Lan: [Ylioppilastutkinto](https://vi.wikipedia.org/wiki/Matriculation_exam_\(Finland\)?action=edit&redlink=1 "Matriculation exam \(Finland\) \(trang không tồn tại\)")
+  * Pháp: [Baccalauréat](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at?action=edit&redlink=1 "Baccalauréat \(trang không tồn tại\)")
+  * Đức: [Abitur](https://vi.wikipedia.org/wiki/Abitur?action=edit&redlink=1 "Abitur \(trang không tồn tại\)")
+  * Hy Lạp: [Panhellenic Examinations](https://vi.wikipedia.org/wiki/Panhellenic_Examinations?action=edit&redlink=1 "Panhellenic Examinations \(trang không tồn tại\)")
+  * Hungary: [Érettségi](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Iceland: [Stúdentspróf](https://vi.wikipedia.org/wiki/St%C3%BAdentspr%C3%B3f?action=edit&redlink=1 "Stúdentspróf \(trang không tồn tại\)")
+  * Ireland: [Leaving Certificate](https://vi.wikipedia.org/wiki/Leaving_Certificate_\(Ireland\)?action=edit&redlink=1 "Leaving Certificate \(Ireland\) \(trang không tồn tại\)")
+  * Ý: [Esame di Stato](https://vi.wikipedia.org/wiki/Esame_di_Stato?action=edit&redlink=1 "Esame di Stato \(trang không tồn tại\)")
+  * Kosovo: [Provimi i Maturës](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Latvia: [Centralizētie eksāmeni](https://vi.wikipedia.org/wiki/Centralised_examination?action=edit&redlink=1 "Centralised examination \(trang không tồn tại\)")
+  * Litva: [Brandos egzaminai](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Luxembourg: [Diplôme de fin d'études secondaires](https://vi.wikipedia.org/wiki/Dipl%C3%B4me_de_fin_d'%C3%A9tudes_secondaires?action=edit&redlink=1 "Diplôme de fin d'études secondaires \(trang không tồn tại\)")
+  * Malta: [MATSEC](https://vi.wikipedia.org/wiki/Matriculation_Certificate_\(Malta\)?action=edit&redlink=1 "Matriculation Certificate \(Malta\) \(trang không tồn tại\)")
+  * Moldova: [Bacalaureat](https://vi.wikipedia.org/wiki/Baccalaureate_in_Moldova?action=edit&redlink=1 "Baccalaureate in Moldova \(trang không tồn tại\)")
+  * Montenegro: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Hà Lan: [Eindexamen](https://vi.wikipedia.org/wiki/Eindexamen?action=edit&redlink=1 "Eindexamen \(trang không tồn tại\)")
+  * Bắc Macedonia: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Na Uy: [Vitnemål](https://vi.wikipedia.org/wiki/Norwegian_Higher_Education_Entrance_Qualification?action=edit&redlink=1 "Norwegian Higher Education Entrance Qualification \(trang không tồn tại\)")
+  * Ba Lan: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Bồ Đào Nha: [ENES](https://vi.wikipedia.org/wiki/Exames_Nacionais_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exames Nacionais do Ensino Secundário \(trang không tồn tại\)")
+  * Romania: [Bacalaureat](https://vi.wikipedia.org/wiki/Romanian_Baccalaureate?action=edit&redlink=1 "Romanian Baccalaureate \(trang không tồn tại\)")
+  * Nga: [EGE](https://vi.wikipedia.org/wiki/Unified_State_Exam?action=edit&redlink=1 "Unified State Exam \(trang không tồn tại\)")
+  * Serbia: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Slovakia: [Maturita](https://vi.wikipedia.org/wiki/Maturita?action=edit&redlink=1 "Maturita \(trang không tồn tại\)")
+  * Slovenia: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Tây Ban Nha: [Selectividad](https://vi.wikipedia.org/wiki/Selectividad?action=edit&redlink=1 "Selectividad \(trang không tồn tại\)")
+  * Thụy Điển: [Högskoleprovet](https://vi.wikipedia.org/wiki/Swedish_Scholastic_Aptitude_Test?action=edit&redlink=1 "Swedish Scholastic Aptitude Test \(trang không tồn tại\)")
+  * Thụy Sĩ: [Matura](https://vi.wikipedia.org/wiki/Matura?action=edit&redlink=1 "Matura \(trang không tồn tại\)")
+  * Thổ Nhĩ Kỳ: [TYT-AYT](https://vi.wikipedia.org/wiki/Student_Selection_and_Placement_System?action=edit&redlink=1 "Student Selection and Placement System \(trang không tồn tại\)")
+  * Ukraina: [ZNO](https://vi.wikipedia.org/wiki/External_independent_evaluation?action=edit&redlink=1 "External independent evaluation \(trang không tồn tại\)")
+  * Vương quốc Anh: [A-Level](https://vi.wikipedia.org/wiki/GCE_Advanced_Level_\(United_Kingdom\)?action=edit&redlink=1 "GCE Advanced Level \(United Kingdom\) \(trang không tồn tại\)"), [Higher](https://vi.wikipedia.org/wiki/Higher_\(Scottish\)?action=edit&redlink=1 "Higher \(Scottish\) \(trang không tồn tại\)")
+
+ |  
+| Châu Mỹ  | 
+  * Antigua và Barbuda: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Argentina: [CBC](https://vi.wikipedia.org/wiki/Secondary_education_in_Argentina?action=edit&redlink=1 "Secondary education in Argentina \(trang không tồn tại\)")
+  * Bahamas: [BGCSE](https://vi.wikipedia.org/wiki/Bahamas_General_Certificate_of_Secondary_Education?action=edit&redlink=1 "Bahamas General Certificate of Secondary Education \(trang không tồn tại\)")
+  * Barbados: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Belize: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Bolivia: [Bachillerato](https://vi.wikipedia.org/wiki/Secondary_education_in_Bolivia?action=edit&redlink=1 "Secondary education in Bolivia \(trang không tồn tại\)")
+  * Brasil: [Vestibular](https://vi.wikipedia.org/wiki/Vestibular?action=edit&redlink=1 "Vestibular \(trang không tồn tại\)"), [ENEM](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_M%C3%A9dio?action=edit&redlink=1 "Exame Nacional do Ensino Médio \(trang không tồn tại\)")
+  * Canada: [Alberta Diploma Exam](https://vi.wikipedia.org/wiki/Alberta_Diploma_Exam?action=edit&redlink=1 "Alberta Diploma Exam \(trang không tồn tại\)"), [OSSD](https://vi.wikipedia.org/wiki/Ontario_Secondary_School_Diploma?action=edit&redlink=1 "Ontario Secondary School Diploma \(trang không tồn tại\)")
+  * Chile: [PSU](https://vi.wikipedia.org/wiki/Prueba_de_Selecci%C3%B3n_Universitaria?action=edit&redlink=1 "Prueba de Selección Universitaria \(trang không tồn tại\)")
+  * Colombia: [ICFES](https://vi.wikipedia.org/wiki/ICFES_Examination?action=edit&redlink=1 "ICFES Examination \(trang không tồn tại\)")
+  * Costa Rica: [Bachillerato de Educación Media](https://vi.wikipedia.org/wiki/Bachillerato_de_Educaci%C3%B3n_Media?action=edit&redlink=1 "Bachillerato de Educación Media \(trang không tồn tại\)")
+  * Cuba: [Bachillerato](https://vi.wikipedia.org/wiki/Bachillerato?action=edit&redlink=1 "Bachillerato \(trang không tồn tại\)")
+  * Dominica: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Cộng hòa Dominican: [Pruebas Nacionales](https://vi.wikipedia.org/wiki/Pruebas_Nacionales?action=edit&redlink=1 "Pruebas Nacionales \(trang không tồn tại\)")
+  * Ecuador: [Bachillerato General Unificado](https://vi.wikipedia.org/wiki/Bachillerato_General_Unificado?action=edit&redlink=1 "Bachillerato General Unificado \(trang không tồn tại\)")
+  * El Salvador: [PAES](https://vi.wikipedia.org/wiki/Prueba_de_Aprendizajes_y_Aptitudes_para_Egresados_de_Educaci%C3%B3n_Media?action=edit&redlink=1 "Prueba de Aprendizajes y Aptitudes para Egresados de Educación Media \(trang không tồn tại\)")
+  * Grenada: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Guatemala: [Bachillerato en Ciencias y Letras](https://vi.wikipedia.org/wiki/Bachillerato_en_Ciencias_y_Letras?action=edit&redlink=1 "Bachillerato en Ciencias y Letras \(trang không tồn tại\)")
+  * Guyana: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Haiti: [Baccalauréat Haïti](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_Ha%C3%AFti?action=edit&redlink=1 "Baccalauréat Haïti \(trang không tồn tại\)")
+  * Honduras: [PAA](https://vi.wikipedia.org/wiki/Prueba_de_Aptitud_Acad%C3%A9mica?action=edit&redlink=1 "Prueba de Aptitud Académica \(trang không tồn tại\)")
+  * Jamaica: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Mexico: [UNAM Exam](https://vi.wikipedia.org/wiki/National_Autonomous_University_of_Mexico?action=edit&redlink=1 "National Autonomous University of Mexico \(trang không tồn tại\)")
+  * Nicaragua: [Bachillerato](https://vi.wikipedia.org/wiki/Bachillerato?action=edit&redlink=1 "Bachillerato \(trang không tồn tại\)")
+  * Panama: [Prueba de Aptitudes Académicas](https://vi.wikipedia.org/wiki/Prueba_de_Aptitudes_Acad%C3%A9micas?action=edit&redlink=1 "Prueba de Aptitudes Académicas \(trang không tồn tại\)")
+  * Paraguay: [Bachillerato Científico](https://vi.wikipedia.org/wiki/Bachillerato_Cient%C3%ADfico?action=edit&redlink=1 "Bachillerato Científico \(trang không tồn tại\)")
+  * Peru: [UNMSM Exam](https://vi.wikipedia.org/wiki/National_University_of_San_Marcos?action=edit&redlink=1 "National University of San Marcos \(trang không tồn tại\)")
+  * St. Kitts và Nevis: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * St. Lucia: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * St. Vincent và Grenadines: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Suriname: [VOJ](https://vi.wikipedia.org/wiki/Secondary_education_in_Suriname?action=edit&redlink=1 "Secondary education in Suriname \(trang không tồn tại\)")
+  * Trinidad và Tobago: [CSEC](https://vi.wikipedia.org/wiki/Caribbean_Secondary_Education_Certificate?action=edit&redlink=1 "Caribbean Secondary Education Certificate \(trang không tồn tại\)"), [CAPE](https://vi.wikipedia.org/wiki/Caribbean_Advanced_Proficiency_Examination?action=edit&redlink=1 "Caribbean Advanced Proficiency Examination \(trang không tồn tại\)")
+  * Hoa Kỳ: [SAT](https://vi.wikipedia.org/wiki/SAT "SAT"), [ACT](https://vi.wikipedia.org/wiki/ACT_\(test\)?action=edit&redlink=1 "ACT \(test\) \(trang không tồn tại\)")
+  * Uruguay: [Bachillerato Diversificado](https://vi.wikipedia.org/wiki/Bachillerato_Diversificado?action=edit&redlink=1 "Bachillerato Diversificado \(trang không tồn tại\)")
+  * Venezuela: [PNI](https://vi.wikipedia.org/wiki/Prueba_Nacional_de_Ingreso_a_la_Educaci%C3%B3n_Universitaria?action=edit&redlink=1 "Prueba Nacional de Ingreso a la Educación Universitaria \(trang không tồn tại\)")
+  * Khu vực Mỹ Latinh: [PAA](https://vi.wikipedia.org/wiki/PAA_\(test\)?action=edit&redlink=1 "PAA \(test\) \(trang không tồn tại\)")
+
+ |  
+| Châu Phi  | 
+  * Ai Cập: [Thanaweya Amma](https://vi.wikipedia.org/wiki/Thanaweya_Amma?action=edit&redlink=1 "Thanaweya Amma \(trang không tồn tại\)")
+  * Algérie: [Baccalauréat algérien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_alg%C3%A9rien?action=edit&redlink=1 "Baccalauréat algérien \(trang không tồn tại\)")
+  * Angola: [ENES](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exame Nacional do Ensino Secundário \(trang không tồn tại\)")
+  * Bénin: [Baccalauréat béninois](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_b%C3%A9ninois?action=edit&redlink=1 "Baccalauréat béninois \(trang không tồn tại\)")
+  * Botswana: [BGCSE](https://vi.wikipedia.org/wiki/Botswana_General_Certificate_of_Secondary_Education?action=edit&redlink=1 "Botswana General Certificate of Secondary Education \(trang không tồn tại\)")
+  * Burkina Faso: [Baccalauréat burkinabè](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_burkinab%C3%A8?action=edit&redlink=1 "Baccalauréat burkinabè \(trang không tồn tại\)")
+  * Burundi: [Baccalauréat burundais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_burundais?action=edit&redlink=1 "Baccalauréat burundais \(trang không tồn tại\)")
+  * Cameroon: [Baccalauréat camerounais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_camerounais?action=edit&redlink=1 "Baccalauréat camerounais \(trang không tồn tại\)"), [GCE A-Level](https://vi.wikipedia.org/wiki/GCE_Advanced_Level_\(Cameroon\)?action=edit&redlink=1 "GCE Advanced Level \(Cameroon\) \(trang không tồn tại\)")
+  * Cabo Verde: [Exame Nacional do Ensino Secundário](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exame Nacional do Ensino Secundário \(trang không tồn tại\)")
+  * Cộng hòa Trung Phi: [Baccalauréat centrafricain](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_centrafricain?action=edit&redlink=1 "Baccalauréat centrafricain \(trang không tồn tại\)")
+  * Tchad: [Baccalauréat tchadien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_tchadien?action=edit&redlink=1 "Baccalauréat tchadien \(trang không tồn tại\)")
+  * Comoros: [Baccalauréat comorien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_comorien?action=edit&redlink=1 "Baccalauréat comorien \(trang không tồn tại\)")
+  * Congo: [Baccalauréat congolais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_congolais?action=edit&redlink=1 "Baccalauréat congolais \(trang không tồn tại\)")
+  * CHDC Congo: [Examen d'État](https://vi.wikipedia.org/wiki/Examen_d'%C3%89tat?action=edit&redlink=1 "Examen d'État \(trang không tồn tại\)")
+  * Côte d'Ivoire: [Baccalauréat ivoirien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_ivoirien?action=edit&redlink=1 "Baccalauréat ivoirien \(trang không tồn tại\)")
+  * Djibouti: [Baccalauréat djiboutien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_djiboutien?action=edit&redlink=1 "Baccalauréat djiboutien \(trang không tồn tại\)")
+  * Eritrea: [ESECE](https://vi.wikipedia.org/wiki/Eritrean_Secondary_Education_Certificate_Examination?action=edit&redlink=1 "Eritrean Secondary Education Certificate Examination \(trang không tồn tại\)")
+  * Eswatini: [SGCSE](https://vi.wikipedia.org/wiki/Swaziland_General_Certificate_of_Secondary_Education?action=edit&redlink=1 "Swaziland General Certificate of Secondary Education \(trang không tồn tại\)")
+  * Ethiopia: [EHEEE](https://vi.wikipedia.org/wiki/Ethiopian_Higher_Education_Entrance_Examination?action=edit&redlink=1 "Ethiopian Higher Education Entrance Examination \(trang không tồn tại\)")
+  * Gabon: [Baccalauréat gabonais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_gabonais?action=edit&redlink=1 "Baccalauréat gabonais \(trang không tồn tại\)")
+  * Gambia: [WASSCE](https://vi.wikipedia.org/wiki/West_African_Senior_School_Certificate_Examination?action=edit&redlink=1 "West African Senior School Certificate Examination \(trang không tồn tại\)")
+  * Ghana: [WASSCE](https://vi.wikipedia.org/wiki/West_African_Senior_School_Certificate_Examination?action=edit&redlink=1 "West African Senior School Certificate Examination \(trang không tồn tại\)")
+  * Guinée: [Baccalauréat guinéen](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_guin%C3%A9en?action=edit&redlink=1 "Baccalauréat guinéen \(trang không tồn tại\)")
+  * Guinea-Bissau: [Exame Nacional do Ensino Secundário](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exame Nacional do Ensino Secundário \(trang không tồn tại\)")
+  * Kenya: [KCSE](https://vi.wikipedia.org/wiki/Kenya_Certificate_of_Secondary_Education?action=edit&redlink=1 "Kenya Certificate of Secondary Education \(trang không tồn tại\)")
+  * Lesotho: [LGCSE](https://vi.wikipedia.org/wiki/Lesotho_General_Certificate_of_Secondary_Education?action=edit&redlink=1 "Lesotho General Certificate of Secondary Education \(trang không tồn tại\)")
+  * Liberia: [WASSCE](https://vi.wikipedia.org/wiki/West_African_Senior_School_Certificate_Examination?action=edit&redlink=1 "West African Senior School Certificate Examination \(trang không tồn tại\)")
+  * Libya: [General Secondary Education Certificate](https://vi.wikipedia.org/wiki/General_Secondary_Education_Certificate?action=edit&redlink=1 "General Secondary Education Certificate \(trang không tồn tại\)")
+  * Madagascar: [Baccalauréat malgache](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_malgache?action=edit&redlink=1 "Baccalauréat malgache \(trang không tồn tại\)")
+  * Malawi: [MSCE](https://vi.wikipedia.org/wiki/Malawi_School_Certificate_of_Education?action=edit&redlink=1 "Malawi School Certificate of Education \(trang không tồn tại\)")
+  * Mali: [Baccalauréat malien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_malien?action=edit&redlink=1 "Baccalauréat malien \(trang không tồn tại\)")
+  * Mauritanie: [Baccalauréat mauritanien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_mauritanien?action=edit&redlink=1 "Baccalauréat mauritanien \(trang không tồn tại\)")
+  * Mauritius: [SC](https://vi.wikipedia.org/wiki/Cambridge_School_Certificate?action=edit&redlink=1 "Cambridge School Certificate \(trang không tồn tại\)"), [HSC](https://vi.wikipedia.org/wiki/Cambridge_Higher_School_Certificate?action=edit&redlink=1 "Cambridge Higher School Certificate \(trang không tồn tại\)")
+  * Maroc: [Baccalauréat](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_\(Morocco\)?action=edit&redlink=1 "Baccalauréat \(Morocco\) \(trang không tồn tại\)")
+  * Mozambique: [Exame Nacional do Ensino Secundário](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exame Nacional do Ensino Secundário \(trang không tồn tại\)")
+  * Namibia: [NSSC](https://vi.wikipedia.org/wiki/Namibia_Senior_Secondary_Certificate?action=edit&redlink=1 "Namibia Senior Secondary Certificate \(trang không tồn tại\)")
+  * Niger: [Baccalauréat nigérien](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_nig%C3%A9rien?action=edit&redlink=1 "Baccalauréat nigérien \(trang không tồn tại\)")
+  * Nigeria: [WASSCE](https://vi.wikipedia.org/wiki/West_African_Senior_School_Certificate_Examination?action=edit&redlink=1 "West African Senior School Certificate Examination \(trang không tồn tại\)"), [JAMB](https://vi.wikipedia.org/wiki/Joint_Admissions_and_Matriculation_Board?action=edit&redlink=1 "Joint Admissions and Matriculation Board \(trang không tồn tại\)")
+  * Rwanda: [National Exam](https://vi.wikipedia.org/wiki/National_Examination_\(Rwanda\)?action=edit&redlink=1 "National Examination \(Rwanda\) \(trang không tồn tại\)")
+  * São Tomé và Príncipe: [Exame Nacional do Ensino Secundário](https://vi.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Secund%C3%A1rio?action=edit&redlink=1 "Exame Nacional do Ensino Secundário \(trang không tồn tại\)")
+  * Sénégal: [Baccalauréat sénégalais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_s%C3%A9n%C3%A9galais?action=edit&redlink=1 "Baccalauréat sénégalais \(trang không tồn tại\)")
+  * Seychelles: [CIE](https://vi.wikipedia.org/wiki/Cambridge_International_Examinations?action=edit&redlink=1 "Cambridge International Examinations \(trang không tồn tại\)")
+  * Sierra Leone: [WASSCE](https://vi.wikipedia.org/wiki/West_African_Senior_School_Certificate_Examination?action=edit&redlink=1 "West African Senior School Certificate Examination \(trang không tồn tại\)")
+  * Somalia: [SSCE](https://vi.wikipedia.org/wiki/Secondary_School_Certificate_Examination?action=edit&redlink=1 "Secondary School Certificate Examination \(trang không tồn tại\)")
+  * Nam Phi: [Matric](https://vi.wikipedia.org/wiki/Matriculation_in_South_Africa?action=edit&redlink=1 "Matriculation in South Africa \(trang không tồn tại\)")
+  * Nam Sudan: [SSCSE](https://vi.wikipedia.org/wiki/South_Sudan_Certificate_of_Secondary_Education?action=edit&redlink=1 "South Sudan Certificate of Secondary Education \(trang không tồn tại\)")
+  * Sudan: [Sudan School Certificate](https://vi.wikipedia.org/wiki/Sudan_School_Certificate?action=edit&redlink=1 "Sudan School Certificate \(trang không tồn tại\)")
+  * Tanzania: [CSEE](https://vi.wikipedia.org/wiki/Certificate_of_Secondary_Education_Examination?action=edit&redlink=1 "Certificate of Secondary Education Examination \(trang không tồn tại\)"), [ACSEE](https://vi.wikipedia.org/wiki/Advanced_Certificate_of_Secondary_Education_Examination?action=edit&redlink=1 "Advanced Certificate of Secondary Education Examination \(trang không tồn tại\)")
+  * Togo: [Baccalauréat togolais](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at_togolais?action=edit&redlink=1 "Baccalauréat togolais \(trang không tồn tại\)")
+  * Tunisia: [Tunisian Baccalaureate](https://vi.wikipedia.org/wiki/Tunisian_Baccalaureate?action=edit&redlink=1 "Tunisian Baccalaureate \(trang không tồn tại\)")
+  * Uganda: [UCE](https://vi.wikipedia.org/wiki/Uganda_Certificate_of_Education?action=edit&redlink=1 "Uganda Certificate of Education \(trang không tồn tại\)"), [UACE](https://vi.wikipedia.org/wiki/Uganda_Advanced_Certificate_of_Education?action=edit&redlink=1 "Uganda Advanced Certificate of Education \(trang không tồn tại\)")
+  * Zambia: [Zambia School Certificate](https://vi.wikipedia.org/wiki/Zambia_School_Certificate?action=edit&redlink=1 "Zambia School Certificate \(trang không tồn tại\)")
+  * Zimbabwe: [ZIMSEC](https://vi.wikipedia.org/wiki/Zimbabwe_General_Certificate_of_Education?action=edit&redlink=1 "Zimbabwe General Certificate of Education \(trang không tồn tại\)")
+  * Cộng đồng Pháp ngữ châu Phi: [Baccalauréat](https://vi.wikipedia.org/wiki/Baccalaur%C3%A9at?action=edit&redlink=1 "Baccalauréat \(trang không tồn tại\)")
+  * Cộng đồng Anh ngữ châu Phi: [CIE](https://vi.wikipedia.org/wiki/Cambridge_International_Examinations?action=edit&redlink=1 "Cambridge International Examinations \(trang không tồn tại\)")
+
+ |  
+| 
+  * [x](https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Bản mẫu:Giáo dục Việt Nam")
+  * [t](https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn_B%E1%BA%A3n_m%E1%BA%ABu:Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam?action=edit&redlink=1 "Thảo luận Bản mẫu:Giáo dục Việt Nam \(trang không tồn tại\)")
+  * [s](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:EditPage/B%E1%BA%A3n_m%E1%BA%ABu:Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Đặc biệt:EditPage/Bản mẫu:Giáo dục Việt Nam")
+
+[Giáo dục Việt Nam](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Giáo dục Việt Nam")  |  
+| --- |  
+| Lịch sử  |   
+ | Phong kiến  | 
+  * [Lý](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_L%C3%BD "Giáo dục khoa cử Việt Nam thời Lý")
+  * [Trần](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_v%C3%A0_khoa_c%E1%BB%AD_th%E1%BB%9Di_Tr%E1%BA%A7n "Giáo dục và khoa cử thời Trần")
+  * [Hồ](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_th%E1%BB%9Di_H%E1%BB%93 "Giáo dục khoa cử thời Hồ")
+  * [Lê sơ](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_th%E1%BB%9Di_L%C3%AA_s%C6%A1 "Giáo dục khoa cử thời Lê sơ")
+  * [Mạc](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_th%E1%BB%9Di_M%E1%BA%A1c "Giáo dục khoa cử thời Mạc")
+  * [Đàng Ngoài](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_%C4%90%C3%A0ng_Ngo%C3%A0i_th%E1%BB%9Di_L%C3%AA_trung_h%C6%B0ng "Giáo dục khoa cử Đàng Ngoài thời Lê trung hưng")
+  * [Đàng Trong](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_%C4%90%C3%A0ng_Trong_th%E1%BB%9Di_L%C3%AA_trung_h%C6%B0ng "Giáo dục khoa cử Đàng Trong thời Lê trung hưng")
+  * [Tây Sơn](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n "Giáo dục khoa cử thời Tây Sơn")
+  * [Nguyễn](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_khoa_c%E1%BB%AD_th%E1%BB%9Di_Nguy%E1%BB%85n "Giáo dục khoa cử thời Nguyễn")
+
+ |  
+| --- | --- |  
+| Hiện đại  | 
+  * [Pháp thuộc](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Ph%C3%A1p_thu%E1%BB%99c "Giáo dục Việt Nam thời Pháp thuộc")
+  * [Việt Nam Dân chủ Cộng hòa](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam_D%C3%A2n_ch%E1%BB%A7_C%E1%BB%99ng_h%C3%B2a "Giáo dục Việt Nam Dân chủ Cộng hòa")
+  * [Việt Nam Cộng hòa](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam_C%E1%BB%99ng_h%C3%B2a "Giáo dục Việt Nam Cộng hòa")
+  * [Cộng hòa xã hội chủ nghĩa Việt Nam](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Giáo dục Việt Nam")
+
+ |  
+ |  
+| Cấp học  | 
+  * [Mầm non](https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_m%E1%BA%ABu_gi%C3%A1o "Trường mẫu giáo")
+  * [Tiểu học](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_ti%E1%BB%83u_h%E1%BB%8Dc "Giáo dục tiểu học")
+  * [Trung học](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_trung_h%E1%BB%8Dc "Giáo dục trung học") ([cơ sở](https://vi.wikipedia.org/wiki/Trung_h%E1%BB%8Dc_c%C6%A1_s%E1%BB%9F_\(Vi%E1%BB%87t_Nam\) "Trung học cơ sở \(Việt Nam\)"), [phổ thông](https://vi.wikipedia.org/wiki/Trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_\(Vi%E1%BB%87t_Nam\) "Trung học phổ thông \(Việt Nam\)"), [phổ thông chuyên](https://vi.wikipedia.org/wiki/Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam#Trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn,_n%C4%83ng_khi%E1%BA%BFu "Giáo dục Việt Nam"))
+  * [Đại học và cao đẳng](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng "Đại học và cao đẳng")
+
+ |  
+| Loại hình  | 
+  * [Công lập](https://vi.wikipedia.org/wiki/C%C3%B4ng_l%E1%BA%ADp "Công lập")
+  * [Bán công](https://vi.wikipedia.org/wiki/B%C3%A1n_c%C3%B4ng "Bán công")
+  * [Dân lập](https://vi.wikipedia.org/wiki/D%C3%A2n_l%E1%BA%ADp?action=edit&redlink=1 "Dân lập \(trang không tồn tại\)") ([tư thục](https://vi.wikipedia.org/wiki/T%C6%B0_th%E1%BB%A5c "Tư thục"))
+  * [Học thêm](https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_th%C3%AAm "Học thêm")
+
+ |  
+| Kỳ thi  |   
+ | Phong kiến  | 
+  * [Thi Hương](https://vi.wikipedia.org/wiki/Thi_H%C6%B0%C6%A1ng "Thi Hương")
+  * [Thi Hội](https://vi.wikipedia.org/wiki/Thi_H%E1%BB%99i "Thi Hội")
+  * [Thi Đình](https://vi.wikipedia.org/wiki/Thi_%C4%90%C3%ACnh "Thi Đình")
+
+ |  
+| --- | --- |  
+| Hiện đại  |   
+ | 
+  * [Tuyển sinh lớp 10](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_l%E1%BB%9Bp_10_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng "Kỳ thi tuyển sinh lớp 10 trung học phổ thông")
+  * [Học sinh giỏi quốc gia](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_ch%E1%BB%8Dn_h%E1%BB%8Dc_sinh_gi%E1%BB%8Fi_qu%E1%BB%91c_gia_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng "Kỳ thi chọn học sinh giỏi quốc gia trung học phổ thông")
+  * [Tốt nghiệp THPT](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng "Kỳ thi tốt nghiệp trung học phổ thông")
+  * Các kỳ thi tuyển sinh đại học ([Đánh giá năng lực](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_n%C4%83ng_l%E1%BB%B1c "Đánh giá năng lực"), [Đánh giá tư duy](https://vi.wikipedia.org/wiki/%C4%90%C3%A1nh_gi%C3%A1_t%C6%B0_duy "Đánh giá tư duy"))
+
+ |  
+| --- |  
+| Bãi bỏ  | 
+  * [Tốt nghiệp tiểu học](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_ti%E1%BB%83u_h%E1%BB%8Dc?action=edit&redlink=1 "Kỳ thi tốt nghiệp tiểu học \(trang không tồn tại\)")
+  * [Tốt nghiệp THCS](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_c%C6%A1_s%E1%BB%9F?action=edit&redlink=1 "Kỳ thi tốt nghiệp trung học cơ sở \(trang không tồn tại\)")
+  * [Tuyển sinh đại học và cao đẳng](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+  * [THPT quốc gia](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_qu%E1%BB%91c_gia "Kỳ thi trung học phổ thông quốc gia")
+
+ |  
+ |  
+ |  
+| Bê bối  |   
+ | Phong kiến  | 
+  * [Trạng nguyên Nguyễn Nghiêu Tư thông dâm mẹ vợ](https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nghi%C3%AAu_T%C6%B0 "Nguyễn Nghiêu Tư")
+  * Sinh đồ ba quan
+  * [Cao Bá Quát sửa bài thi](https://vi.wikipedia.org/wiki/Cao_B%C3%A1_Qu%C3%A1t "Cao Bá Quát")
+
+ |  
+| --- | --- |  
+| Hiện đại  | 
+  * [Đỗ Việt Khoa](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%97_Vi%E1%BB%87t_Khoa "Đỗ Việt Khoa")
+  * [Vụ 47.800 đồng](https://vi.wikipedia.org/wiki/V%E1%BB%A5_47.800_%C4%91%E1%BB%93ng "Vụ 47.800 đồng")
+  * [Vụ án Sầm Đức Xương](https://vi.wikipedia.org/wiki/V%E1%BB%A5_%C3%A1n_S%E1%BA%A7m_%C4%90%E1%BB%A9c_X%C6%B0%C6%A1ng "Vụ án Sầm Đức Xương")
+  * [Vụ Nhã Thuyên](https://vi.wikipedia.org/wiki/V%E1%BB%A5_Nh%C3%A3_Thuy%C3%AAn "Vụ Nhã Thuyên")
+  * [Gian lận thi THPT quốc gia năm 2018](https://vi.wikipedia.org/wiki/V%E1%BB%A5_gian_l%E1%BA%ADn_thi_c%E1%BB%AD_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_2018 "Vụ gian lận thi cử tại Việt Nam 2018")
+  * [Lộ đề môn Sinh học trong kỳ thi tốt nghiệp THPT năm 2021](https://vi.wikipedia.org/wiki/V%E1%BB%A5_l%E1%BB%99_%C4%91%E1%BB%81_m%C3%B4n_Sinh_h%E1%BB%8Dc_trong_k%E1%BB%B3_thi_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_2021 "Vụ lộ đề môn Sinh học trong kỳ thi tốt nghiệp trung học phổ thông 2021")
+  * [Vụ nam sinh lớp 10 tự tử tại Hà Nội tháng 4 năm 2022](https://vi.wikipedia.org/wiki/V%E1%BB%A5_nam_sinh_l%E1%BB%9Bp_10_t%E1%BB%B1_t%E1%BB%AD_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i_th%C3%A1ng_4_n%C4%83m_2022 "Vụ nam sinh lớp 10 tự tử tại Hà Nội tháng 4 năm 2022")
+  * [Vụ bạo lực học đường tại Thành phố Hồ Chí Minh tháng 5 năm 2022](https://vi.wikipedia.org/wiki/V%E1%BB%A5_b%E1%BA%A1o_l%E1%BB%B1c_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng_t%E1%BA%A1i_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_th%C3%A1ng_5_n%C4%83m_2022 "Vụ bạo lực học đường tại Thành phố Hồ Chí Minh tháng 5 năm 2022")
+  * [Vụ gian lận thi cử tại Việt Nam 2026](https://vi.wikipedia.org/wiki/V%E1%BB%A5_gian_l%E1%BA%ADn_thi_c%E1%BB%AD_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_2026 "Vụ gian lận thi cử tại Việt Nam 2026")
+
+ |  
+ |  
+| [Cải cách](https://vi.wikipedia.org/wiki/C%E1%BA%A3i_c%C3%A1ch_gi%C3%A1o_d%E1%BB%A5c_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Cải cách giáo dục tại Việt Nam")  | 
+  * [Mô hình trường học mới](https://vi.wikipedia.org/wiki/M%C3%B4_h%C3%ACnh_tr%C6%B0%E1%BB%9Dng_h%E1%BB%8Dc_m%E1%BB%9Bi_Vi%E1%BB%87t_Nam "Mô hình trường học mới Việt Nam")
+  * [Chương trình giáo dục phổ thông mới](https://vi.wikipedia.org/wiki/Ch%C6%B0%C6%A1ng_tr%C3%ACnh_gi%C3%A1o_d%E1%BB%A5c_ph%E1%BB%95_th%C3%B4ng_m%E1%BB%9Bi "Chương trình giáo dục phổ thông mới") (2018)
+
+ |  
+| Danh sách  | 
+  * [Trường đại học, học viện và cao đẳng](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_%C4%91%E1%BA%A1i_h%E1%BB%8Dc,_h%E1%BB%8Dc_vi%E1%BB%87n_v%C3%A0_cao_%C4%91%E1%BA%B3ng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Danh sách trường đại học, học viện và cao đẳng tại Việt Nam")
+  * [Trường THPT](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Danh sách trường trung học phổ thông tại Việt Nam") ([chuyên](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Danh sách trường trung học phổ thông chuyên tại Việt Nam"))
+  * [Thủ khoa Nho học](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_th%E1%BB%A7_khoa_Nho_h%E1%BB%8Dc_Vi%E1%BB%87t_Nam?action=edit&redlink=1 "Danh sách thủ khoa Nho học Việt Nam \(trang không tồn tại\)")
+  * [Bảng nhãn](https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_nh%C3%A3n "Bảng nhãn")
+  * [Thám hoa](https://vi.wikipedia.org/wiki/Th%C3%A1m_hoa "Thám hoa")
+  * [Bê bối](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%AA_b%E1%BB%91i_li%C3%AAn_quan_%C4%91%E1%BA%BFn_gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Danh sách bê bối liên quan đến giáo dục Việt Nam")
+  * [Tai nạn học đường](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tai_n%E1%BA%A1n_h%E1%BB%8Dc_%C4%91%C6%B0%E1%BB%9Dng_Vi%E1%BB%87t_Nam "Danh sách tai nạn học đường Việt Nam")
+
+ |  
+Lấy từ “[https://vi.wikipedia.org/w/index.php?title=Kỳ_thi_tuyển_sinh_đại_học_và_cao_đẳng_(Việt_Nam)&oldid=75381868](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&oldid=75381868)”
+[Thể loại](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Th%E1%BB%83_lo%E1%BA%A1i "Đặc biệt:Thể loại"): 
+  * [Áp lực học tập trong văn hóa Á Đông](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:%C3%81p_l%E1%BB%B1c_h%E1%BB%8Dc_t%E1%BA%ADp_trong_v%C4%83n_h%C3%B3a_%C3%81_%C4%90%C3%B4ng "Thể loại:Áp lực học tập trong văn hóa Á Đông")
+  * [Thi cử tại Việt Nam](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Thi_c%E1%BB%AD_t%E1%BA%A1i_Vi%E1%BB%87t_Nam "Thể loại:Thi cử tại Việt Nam")
+  * [Hệ thống giáo dục Việt Nam](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:H%E1%BB%87_th%E1%BB%91ng_gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Thể loại:Hệ thống giáo dục Việt Nam")
+  * [Thi tuyển](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Thi_tuy%E1%BB%83n "Thể loại:Thi tuyển")
+  * [Giáo dục Việt Nam](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Gi%C3%A1o_d%E1%BB%A5c_Vi%E1%BB%87t_Nam "Thể loại:Giáo dục Việt Nam")
+
+
+Thể loại ẩn: 
+  * [Trang thiếu chú thích trong bài](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Trang_thi%E1%BA%BFu_ch%C3%BA_th%C3%ADch_trong_b%C3%A0i "Thể loại:Trang thiếu chú thích trong bài")
+  * [Bài có liên kết hỏng](https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:B%C3%A0i_c%C3%B3_li%C3%AAn_k%E1%BA%BFt_h%E1%BB%8Fng "Thể loại:Bài có liên kết hỏng")
+
+
+  * Trang này được sửa đổi lần cuối vào ngày 31 tháng 7 năm 2026, 13:08.
+  * Trang được hiển thị bằng [Parsoid](https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid "mw:Special:MyLanguage/Parsoid").
+  * Văn bản được phát hành theo [Giấy phép Creative Commons Ghi công–Chia sẻ tương tự](https://vi.wikipedia.org/wiki/Wikipedia:Nguy%C3%AAn_v%C4%83n_Gi%E1%BA%A5y_ph%C3%A9p_Creative_Commons_Ghi_c%C3%B4ng%E2%80%93Chia_s%E1%BA%BB_t%C6%B0%C6%A1ng_t%E1%BB%B1_phi%C3%AAn_b%E1%BA%A3n_4.0_Qu%E1%BB%91c_t%E1%BA%BF "Wikipedia:Nguyên văn Giấy phép Creative Commons Ghi công–Chia sẻ tương tự phiên bản 4.0 Quốc tế"); có thể áp dụng điều khoản bổ sung. Với việc sử dụng trang web này, bạn chấp nhận [Điều khoản Sử dụng](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/vi) và [Quy định quyền riêng tư](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/vi). Wikipedia® là thương hiệu đã đăng ký của [Wikimedia Foundation, Inc.](https://www.wikimediafoundation.org/), một tổ chức phi lợi nhuận.
+
+
+  * [Chính sách quyền riêng tư](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)
+  * [Giới thiệu Wikipedia](https://vi.wikipedia.org/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u)
+  * [Lời phủ nhận](https://vi.wikipedia.org/wiki/Wikipedia:Ph%E1%BB%A7_nh%E1%BA%ADn_chung)
+  * [Liên hệ pháp lý & an toàn](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information)
+  * [Bộ Quy tắc Ứng xử Chung](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)
+  * [Lập trình viên](https://developer.wikimedia.org)
+  * [Thống kê](https://stats.wikimedia.org/#/vi.wikipedia.org)
+  * [Tuyên bố về cookie](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
+  * [Phiên bản di động](https://vi.wikipedia.org/w/index.php?title=K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)&mobileaction=toggle_view_mobile)
+
+
+  * [![Wikimedia Foundation](https://vi.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
+  * [![Powered by MediaWiki](https://vi.wikipedia.org/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)
+
+
+Tìm kiếm
+Tìm kiếm
+Đóng mở mục lục
+Kỳ thi tuyển sinh đại học và cao đẳng (Việt Nam)
+[ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\)) [ ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+1 ngôn ngữ [ Thêm đề tài ](https://vi.wikipedia.org/wiki/K%E1%BB%B3_thi_tuy%E1%BB%83n_sinh_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_v%C3%A0_cao_%C4%91%E1%BA%B3ng_\(Vi%E1%BB%87t_Nam\))
+  *[x]: Xem bản mẫu này
+  *[t]: Thảo luận bản mẫu này
+  *[s]: Sửa bản mẫu này
