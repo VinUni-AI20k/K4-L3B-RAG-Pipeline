@@ -188,3 +188,25 @@ def test_crawl_article_raises_when_crawl_reports_failure(monkeypatch):
 
     with pytest.raises(ValueError):
         asyncio.run(task2.crawl_article("https://example.com/blocked"))
+
+
+def test_chunk_documents_handles_tiny_content():
+    from src.task4_chunking_indexing import chunk_documents
+
+    document = {
+        "id": "tiny",
+        "content": "Hộ kinh doanh nộp thuế hàng năm.",
+        "metadata": {
+            "source": "tiny.md",
+            "title": "Tiny",
+            "doc_type": "legal",
+            "url": None,
+        },
+    }
+
+    chunks = chunk_documents([document])
+
+    assert len(chunks) == 1
+    assert chunks[0]["id"] == "tiny::chunk-0"
+    assert chunks[0]["metadata"]["chunk_index"] == 0
+    assert chunks[0]["content"].strip()
