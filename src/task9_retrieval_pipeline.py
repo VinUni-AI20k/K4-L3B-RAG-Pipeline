@@ -32,8 +32,15 @@ def retrieve(
     use_reranking: bool = True,
 ) -> list[dict]:
     """Trả về hybrid hoặc pageindex SearchResult."""
-    dense = semantic_search(query, top_k=top_k * 2)
-    sparse = lexical_search(query, top_k=top_k * 2)
+    try:
+        dense = semantic_search(query, top_k=top_k * 2)
+    except Exception:
+        dense = []
+
+    try:
+        sparse = lexical_search(query, top_k=top_k * 2)
+    except Exception:
+        sparse = []
 
     best_dense_score = float(dense[0]["score"]) if dense else 0.0
     if best_dense_score < score_threshold:

@@ -1,40 +1,17 @@
-import time
 import streamlit as st
 from dotenv import load_dotenv
-from src.contracts import GenerationResult, SearchResult, ChunkMetadata
+try:
+    from src.task10_generation import generate_with_citation
+except ImportError:
+    from task10_generation import generate_with_citation
 
 load_dotenv()
 
 st.set_page_config(
-    page_title="RAG Chatbot",
-    page_icon="🤖",
+    page_title="Chatbot Tuyển sinh ĐHQGHN",
+    page_icon="🎓",
     layout="wide",
 )
-
-def mock_generate_with_citation(query: str, top_k: int) -> GenerationResult:
-    """Hàm giả lập trả về kết quả giống hệt GenerationResult thật."""
-    time.sleep(1) # Giả lập độ trễ API
-    mock_metadata: ChunkMetadata = {
-        "source": "thong-tu-06-2026-quy-che-tuyen-sinh-dai-hoc.md",
-        "title": "Thông tư 06/2026 - Quy chế tuyển sinh đại học",
-        "doc_type": "legal",
-        "url": "https://vnu.edu.vn/tuyensinh2026",
-        "chunk_index": 2
-    }
-    
-    mock_source: SearchResult = {
-        "id": "chunk_123",
-        "content": f"Đây là đoạn văn bản giả lập được tìm thấy. Đại học Quốc gia Hà Nội năm 2026 sẽ tuyển sinh dựa trên 4 phương thức chính. (Câu hỏi của bạn: {query})",
-        "score": 0.92,
-        "metadata": mock_metadata,
-        "retrieval_method": "dense"
-    }
-
-    return {
-        "answer": f"Theo quy chế mới nhất, ĐHQGHN có 4 phương thức xét tuyển chính. \n\nTôi đã tìm thấy thông tin này dựa trên câu hỏi '{query}' của bạn.",
-        "sources": [mock_source, mock_source][:top_k], # Giả lập trả về danh sách tài liệu
-        "retrieval_source": "hybrid"
-    }
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -44,8 +21,8 @@ with st.sidebar:
     st.caption("Tìm kiếm văn bản tuyển sinh ĐHQGHN")
     top_k = st.slider("Số lượng tài liệu tham khảo (top_k)", 1, 10, 3)
 
-st.title("🤖 Chatbot Tuyển sinh ĐHQGHN 2026")
-st.caption("Hỏi đáp thông tin tuyển sinh Đại học Quốc gia Hà Nội (Mock UI)")
+st.title("🎓 Chatbot Tuyển sinh ĐHQGHN 2026")
+st.caption("Trợ lý AI trả lời câu hỏi tuyển sinh có trích dẫn nguồn (ĐHQGHN)")
 
 # Hiển thị lịch sử chat
 for message in st.session_state.messages:
@@ -68,7 +45,7 @@ if query:
     # 2. Sinh câu trả lời với mock data
     with st.chat_message("assistant"):
         with st.spinner("Đang tìm kiếm và tổng hợp..."):
-            result = mock_generate_with_citation(query, top_k)
+            result = generate_with_citation(query, top_k=top_k)
             
         answer = result["answer"]
         sources = result["sources"]
