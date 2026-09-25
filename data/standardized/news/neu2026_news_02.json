@@ -1,0 +1,21 @@
+{
+  "id": "neu2026_news_02",
+  "content": "Đại học Kinh tế Quốc dân (NEU) ban hành Thông báo số 1558/TB-ĐHKTQD ngày 26/6/2026 về hồ sơ xét tuyển kết hợp vào đại học chính quy năm 2026 và việc đăng ký nguyện vọng trên hệ thống chung của Bộ Giáo dục và Đào tạo. Thông báo nêu rõ quy trình kiểm tra hồ sơ, ngưỡng đảm bảo chất lượng đầu vào và các mốc thời gian thí sinh cần thực hiện.\n\n## 📝 Hồ sơ đăng ký xét tuyển kết hợp\n\nThí sinh đã nộp hồ sơ đăng ký xét tuyển trực tuyến trên hệ thống của NEU từ ngày 20/5/2026 đến 17h00 ngày 25/6/2026. Đại học tiến hành kiểm tra, xác thực hồ sơ cho thí sinh **trước ngày 01/7/2026**.\n\nThí sinh có thể tra cứu tình trạng hồ sơ trên hệ thống của NEU với các thông tin: mã hồ sơ, số CCCD, họ tên, ngày sinh, đối tượng xét tuyển, tình trạng hồ sơ (đã xác nhận, từ chối, đã nộp lệ phí hoặc chưa nộp lệ phí) và các phương thức xét tuyển đã đăng ký.\n\n## 📊 Ngưỡng đảm bảo chất lượng đầu vào\n\nĐại học công bố ngưỡng đảm bảo chất lượng đầu vào dự kiến vào **ngày 03/7/2026**. Thí sinh tra cứu trên hệ thống của NEU để làm căn cứ đăng ký nguyện vọng chính thức trên hệ thống của Bộ GDĐT.\n\n## 📅 Các mốc thời gian quan trọng\n\n| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |\n\nThí sinh đăng ký xét tuyển theo tất cả phương thức xét tuyển vào NEU, kể cả xét tuyển thẳng, đều phải đăng ký nguyện vọng trên hệ thống chung của Bộ GDĐT. Nguyện vọng đăng ký trên hệ thống của Bộ là căn cứ chính thức để xét tuyển. Thí sinh có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng so với nguyện vọng đã đăng ký trên hệ thống của NEU.\n\n## 📞 Kênh thông tin tuyển sinh\n\n* Cổng thông tin điện tử NEU: [neu.edu.vn](https://neu.edu.vn) — mục Tuyển sinh\n* Website Phòng Quản lý đào tạo: [daotao.neu.edu.vn](https://daotao.neu.edu.vn) — mục Tuyển sinh\n* Hotline (trong giờ hành chính): **0888.128.558**\n* Email: tuvantuyensinh@neu.edu.vn\n* Hệ thống AI hỗ trợ tuyển sinh: [ai.neu.edu.vn/tuyen-sinh](https://ai.neu.edu.vn/tuyen-sinh/)\n\n## 📎 Tài liệu đính kèm\n\nToàn văn Thông báo số 1558/TB-ĐHKTQD ngày 26/6/2026: [⬇ Thông báo 1558/TB-ĐHKTQD (PDF)](https://fit.neu.edu.vn/uploads/Thong_Bao_so_1558_ngay_26_6_2026_ve_ho_so_XTKH_vao_DHCQ_nam_2026_cua_DHKTQD_va_dang_ky_nguyen_vong_tren_he_thong_chung_cua_Bo_GDDT_fd67180ae1.pdf)",
+  "metadata": {
+    "id": "neu2026_news_02",
+    "title": "Thông báo hồ sơ xét tuyển kết hợp và đăng ký nguyện vọng vào NEU năm 2026",
+    "doc_type": "news",
+    "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+    "local_path": "data/landing/news/article_02.json",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "date_crawled": "2026-09-25T03:56:37.814210+00:00",
+    "date_published": "2026-06-26",
+    "raw_html_path": "data/landing/raw_html/neu2026_news_02.html",
+    "raw_sha256": "70fc3314d5782828e02cc9c16a4a9ea52a66375c0632eaa6170f8255a3cc0bf5",
+    "collection_method": "requests+beautifulsoup+markdownify",
+    "content_status": "collected",
+    "extraction_method": "html_to_markdown",
+    "source": "data/landing/news/article_02.json"
+  }
+}

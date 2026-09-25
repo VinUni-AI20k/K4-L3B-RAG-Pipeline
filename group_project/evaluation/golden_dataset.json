@@ -1,0 +1,410 @@
+[
+  {
+    "id": "NEU2026-01",
+    "question": "Cổng đăng ký hồ sơ xét tuyển trực tuyến của NEU năm 2026 ở đâu?",
+    "expected_answer": "Cổng đăng ký là https://xtkh.neu.edu.vn.",
+    "expected_context": "Để chuẩn bị cho công tác tuyển sinh Đại học chính quy năm 2026, Đại học Kinh tế Quốc dân đã chính thức vận hành cổng thông tin đăng ký xét tuyển trực tuyến tại địa chỉ: [**https://xtkh.neu.edu.vn**](https://xtkh.neu.edu.vn/).",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_01",
+        "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+        "source": "data/landing/news/article_01.json",
+        "quote": "Để chuẩn bị cho công tác tuyển sinh Đại học chính quy năm 2026, Đại học Kinh tế Quốc dân đã chính thức vận hành cổng thông tin đăng ký xét tuyển trực tuyến tại địa chỉ: [**https://xtkh.neu.edu.vn**](https://xtkh.neu.edu.vn/).",
+        "locator": "paragraph 1"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-02",
+    "question": "Theo hướng dẫn NEU 2026, thí sinh Nhóm 5 có nộp lệ phí trên cổng NEU không?",
+    "expected_answer": "Nhóm 5 chỉ xét điểm ba môn thi tốt nghiệp THPT bỏ qua bước nộp lệ phí trên cổng NEU. Điều này không đồng nghĩa được miễn lệ phí trên hệ thống Bộ GDĐT.",
+    "expected_context": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.\n\n| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "multi_source",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_01",
+        "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+        "source": "data/landing/news/article_01.json",
+        "quote": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+        "locator": "paragraph 5"
+      },
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+        "locator": "paragraph 8"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-03",
+    "question": "NEU hướng dẫn dùng trình duyệt nào và chế độ nào để đăng ký hồ sơ năm 2026?",
+    "expected_answer": "Chrome ở chế độ ẩn danh; trên máy tính mở bằng Ctrl + Shift + N.",
+    "expected_context": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_01",
+        "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+        "source": "data/landing/news/article_01.json",
+        "quote": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+        "locator": "paragraph 5"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-04",
+    "question": "Khi đăng ký hồ sơ NEU 2026, nên chuẩn bị email thế nào?",
+    "expected_answer": "Khuyến khích Gmail; chuẩn bị một email chính và một dự phòng để nhận thông tin xử lý hồ sơ.",
+    "expected_context": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_01",
+        "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+        "source": "data/landing/news/article_01.json",
+        "quote": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+        "locator": "paragraph 5"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-05",
+    "question": "Theo thông báo ngày 26/6/2026, NEU kiểm tra và xác thực hồ sơ trước ngày nào?",
+    "expected_answer": "Trước ngày 01/7/2026.",
+    "expected_context": "Thí sinh đã nộp hồ sơ đăng ký xét tuyển trực tuyến trên hệ thống của NEU từ ngày 20/5/2026 đến 17h00 ngày 25/6/2026. Đại học tiến hành kiểm tra, xác thực hồ sơ cho thí sinh **trước ngày 01/7/2026**.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "Thí sinh đã nộp hồ sơ đăng ký xét tuyển trực tuyến trên hệ thống của NEU từ ngày 20/5/2026 đến 17h00 ngày 25/6/2026. Đại học tiến hành kiểm tra, xác thực hồ sơ cho thí sinh **trước ngày 01/7/2026**.",
+        "locator": "paragraph 3"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-06",
+    "question": "Theo thông báo 1558, thời gian đăng ký nguyện vọng trên hệ thống Bộ GDĐT năm 2026 là khi nào?",
+    "expected_answer": "Từ 02/7 đến 17h00 ngày 14/7/2026.",
+    "expected_context": "| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "table",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+        "locator": "paragraph 8"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-07",
+    "question": "Thí sinh xét tuyển thẳng vào NEU năm 2026 có cần đăng ký nguyện vọng trên hệ thống Bộ GDĐT không?",
+    "expected_answer": "Có. Tất cả phương thức, kể cả xét tuyển thẳng, đều phải đăng ký; nguyện vọng trên hệ thống Bộ là căn cứ xét tuyển chính thức.",
+    "expected_context": "Thí sinh đăng ký xét tuyển theo tất cả phương thức xét tuyển vào NEU, kể cả xét tuyển thẳng, đều phải đăng ký nguyện vọng trên hệ thống chung của Bộ GDĐT. Nguyện vọng đăng ký trên hệ thống của Bộ là căn cứ chính thức để xét tuyển. Thí sinh có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng so với nguyện vọng đã đăng ký trên hệ thống của NEU.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "Thí sinh đăng ký xét tuyển theo tất cả phương thức xét tuyển vào NEU, kể cả xét tuyển thẳng, đều phải đăng ký nguyện vọng trên hệ thống chung của Bộ GDĐT. Nguyện vọng đăng ký trên hệ thống của Bộ là căn cứ chính thức để xét tuyển. Thí sinh có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng so với nguyện vọng đã đăng ký trên hệ thống của NEU.",
+        "locator": "paragraph 9"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-08",
+    "question": "Có được thay đổi thứ tự nguyện vọng so với hồ sơ đã đăng ký tại NEU năm 2026 không?",
+    "expected_answer": "Có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng trên hệ thống Bộ GDĐT so với hệ thống NEU.",
+    "expected_context": "Thí sinh đăng ký xét tuyển theo tất cả phương thức xét tuyển vào NEU, kể cả xét tuyển thẳng, đều phải đăng ký nguyện vọng trên hệ thống chung của Bộ GDĐT. Nguyện vọng đăng ký trên hệ thống của Bộ là căn cứ chính thức để xét tuyển. Thí sinh có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng so với nguyện vọng đã đăng ký trên hệ thống của NEU.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "Thí sinh đăng ký xét tuyển theo tất cả phương thức xét tuyển vào NEU, kể cả xét tuyển thẳng, đều phải đăng ký nguyện vọng trên hệ thống chung của Bộ GDĐT. Nguyện vọng đăng ký trên hệ thống của Bộ là căn cứ chính thức để xét tuyển. Thí sinh có thể thêm, bớt hoặc thay đổi thứ tự nguyện vọng so với nguyện vọng đã đăng ký trên hệ thống của NEU.",
+        "locator": "paragraph 9"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-09",
+    "question": "Theo thông báo 1558, hạn xác nhận nhập học trên hệ thống Bộ và nhập học tại NEU năm 2026 khác nhau thế nào?",
+    "expected_answer": "Xác nhận trên hệ thống Bộ trước 17h00 ngày 21/8/2026; nhập học trên hệ thống NEU trước 17h00 ngày 23/8/2026.",
+    "expected_context": "| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "table",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "| Hoạt động | Thời hạn |\n| --- | --- |\n| Đăng ký nguyện vọng trên hệ thống Bộ GDĐT | 02/7 – 17h00 ngày 14/7/2026 |\n| Nộp lệ phí xét tuyển trực tuyến | 15/7 – 17h00 ngày 21/7/2026 |\n| Thông báo trúng tuyển đợt 1 (chính thức) | Trước 17h00 ngày 13/8/2026 |\n| Xác nhận nhập học trên hệ thống Bộ GDĐT | Trước 17h00 ngày 21/8/2026 |\n| Nhập học trên hệ thống NEU | Trước 17h00 ngày 23/8/2026 |",
+        "locator": "paragraph 8"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-10",
+    "question": "Hướng dẫn công cụ quy đổi điểm NEU 2026 cho nhập những kỳ thi và chứng chỉ nào?",
+    "expected_answer": "SAT, ACT, HSA, V-ACT, TSA, IELTS, TOEFL iBT hoặc TOEIC; chỉ nhập các mục có điểm.",
+    "expected_context": "Tại mục **Điểm của các kỳ thi** ở địa chỉ <https://ai.neu.edu.vn/tuyen-sinh/tools/quy-doi>, thí sinh nhập các điểm đang có: SAT, ACT, HSA, V-ACT, TSA, IELTS, TOEFL iBT hoặc TOEIC. Chỉ cần nhập những mục có điểm; hệ thống tự quy đổi sang thang điểm xét tuyển.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_03",
+        "url": "https://fit.neu.edu.vn/post/guide-neu-2026-score-conversion-tool",
+        "source": "data/landing/news/article_03.json",
+        "quote": "Tại mục **Điểm của các kỳ thi** ở địa chỉ <https://ai.neu.edu.vn/tuyen-sinh/tools/quy-doi>, thí sinh nhập các điểm đang có: SAT, ACT, HSA, V-ACT, TSA, IELTS, TOEFL iBT hoặc TOEIC. Chỉ cần nhập những mục có điểm; hệ thống tự quy đổi sang thang điểm xét tuyển.",
+        "locator": "paragraph 4"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-11",
+    "question": "Các tổ hợp A00, A01, D01 và D07 trên công cụ NEU 2026 gồm môn nào?",
+    "expected_answer": "A00: Toán, Lý, Hóa; A01: Toán, Lý, Anh; D01: Toán, Văn, Anh; D07: Toán, Hóa, Anh.",
+    "expected_context": "Mở mục **Điểm thi THPT** và nhập điểm các môn Toán, Văn, Lý, Hóa, Tiếng Anh. Hệ thống tự tính điểm bốn tổ hợp xét tuyển A00 (Toán - Lý - Hóa), A01 (Toán - Lý - Anh), D01 (Toán - Văn - Anh) và D07 (Toán - Hóa - Anh).",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_03",
+        "url": "https://fit.neu.edu.vn/post/guide-neu-2026-score-conversion-tool",
+        "source": "data/landing/news/article_03.json",
+        "quote": "Mở mục **Điểm thi THPT** và nhập điểm các môn Toán, Văn, Lý, Hóa, Tiếng Anh. Hệ thống tự tính điểm bốn tổ hợp xét tuyển A00 (Toán - Lý - Hóa), A01 (Toán - Lý - Anh), D01 (Toán - Văn - Anh) và D07 (Toán - Hóa - Anh).",
+        "locator": "paragraph 8"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-12",
+    "question": "Công cụ NEU dự báo ngành có khả năng trúng tuyển năm 2026 có bảo đảm tôi trúng tuyển không?",
+    "expected_answer": "Không. Danh sách chỉ để tham khảo khi sắp xếp nguyện vọng, không phải cam kết trúng tuyển.",
+    "expected_context": "Cột **Chênh lệch** mang dấu dương khi điểm của thí sinh cao hơn điểm chuẩn tham khảo, giúp nhận diện nhanh những ngành nằm trong tầm với. Danh sách này chỉ mang tính tham khảo để cân nhắc chiến lược sắp xếp nguyện vọng, không phải cam kết trúng tuyển.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_03",
+        "url": "https://fit.neu.edu.vn/post/guide-neu-2026-score-conversion-tool",
+        "source": "data/landing/news/article_03.json",
+        "quote": "Cột **Chênh lệch** mang dấu dương khi điểm của thí sinh cao hơn điểm chuẩn tham khảo, giúp nhận diện nhanh những ngành nằm trong tầm với. Danh sách này chỉ mang tính tham khảo để cân nhắc chiến lược sắp xếp nguyện vọng, không phải cam kết trúng tuyển.",
+        "locator": "paragraph 15"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-13",
+    "question": "Cần nhập thông tin gì để tra cứu hồ sơ NEU 2026?",
+    "expected_answer": "Mã hồ sơ và số báo danh hoặc CCCD khớp với dữ liệu đã đăng ký tại https://ai.neu.edu.vn/tuyen-sinh/tools/ho-so.",
+    "expected_context": "Tại địa chỉ <https://ai.neu.edu.vn/tuyen-sinh/tools/ho-so>, thí sinh nhập **Mã hồ sơ** và **Số báo danh hoặc CCCD**, sau đó nhấn **Tra cứu hồ sơ**. Hai thông tin cần khớp với dữ liệu đã đăng ký.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_04",
+        "url": "https://fit.neu.edu.vn/post/guide-neu-2026-application-lookup-tool",
+        "source": "data/landing/news/article_04.json",
+        "quote": "Tại địa chỉ <https://ai.neu.edu.vn/tuyen-sinh/tools/ho-so>, thí sinh nhập **Mã hồ sơ** và **Số báo danh hoặc CCCD**, sau đó nhấn **Tra cứu hồ sơ**. Hai thông tin cần khớp với dữ liệu đã đăng ký.",
+        "locator": "paragraph 4"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-14",
+    "question": "Nếu công cụ NEU 2026 báo không tra cứu được hồ sơ thì làm gì?",
+    "expected_answer": "Kiểm tra lại mã hồ sơ, số báo danh/CCCD hoặc liên hệ hotline tuyển sinh để được hỗ trợ.",
+    "expected_context": "Nếu thông tin không đúng, hệ thống báo *\"Không tra cứu được. Kiểm tra lại số báo danh/CCCD.\"* Khi gặp thông báo này, thí sinh rà soát lại mã hồ sơ và số định danh, hoặc liên hệ hotline tuyển sinh để được hỗ trợ.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_04",
+        "url": "https://fit.neu.edu.vn/post/guide-neu-2026-application-lookup-tool",
+        "source": "data/landing/news/article_04.json",
+        "quote": "Nếu thông tin không đúng, hệ thống báo *\"Không tra cứu được. Kiểm tra lại số báo danh/CCCD.\"* Khi gặp thông báo này, thí sinh rà soát lại mã hồ sơ và số định danh, hoặc liên hệ hotline tuyển sinh để được hỗ trợ.",
+        "locator": "paragraph 11"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-15",
+    "question": "Theo thông báo 1613 ngày 03/7/2026, ngưỡng đầu vào NEU và điều kiện Toán cho lĩnh vực Pháp luật là gì?",
+    "expected_answer": "Ngưỡng 22,0/30 cho A00, A01, D01, D07, đã gồm ưu tiên nếu có, áp dụng với phương thức dùng điểm THPT và kết hợp điểm THPT với chứng chỉ tiếng Anh quốc tế. Ngành/chương trình thuộc lĩnh vực Pháp luật cần Toán tối thiểu 6 điểm.",
+    "expected_context": "| Tổ hợp xét tuyển | Ngưỡng ĐBCL (thang 30) |\n| --- | --- |\n| A00: Toán, Vật lý, Hoá học | 22,0 |\n| A01: Toán, Vật lý, Tiếng Anh | 22,0 |\n| D01: Toán, Ngữ văn, Tiếng Anh | 22,0 |\n| D07: Toán, Hoá học, Tiếng Anh | 22,0 |\n\nMức điểm này áp dụng với tất cả các mã tuyển sinh và đã bao gồm điểm ưu tiên khu vực, đối tượng nếu có. Đối với ngành, chương trình đào tạo thuộc lĩnh vực Pháp luật, môn Toán đạt tối thiểu 6 điểm. Đại học Kinh tế Quốc dân sử dụng 04 tổ hợp A00, A01, D01, D07, không có chênh lệch điểm xét tuyển và điểm trúng tuyển giữa các tổ hợp.\n\nBên cạnh bảng quy đổi, thông báo nêu ngưỡng đảm bảo chất lượng (ĐBCL) đầu vào theo thang điểm 30, áp dụng cho phương thức xét tuyển dựa vào điểm thi tốt nghiệp THPT năm 2026 và phương thức kết hợp điểm thi tốt nghiệp THPT với chứng chỉ tiếng Anh quốc tế.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "table",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_05",
+        "url": "https://fit.neu.edu.vn/post/quy-doi-diem-trung-tuyen-neu-2026",
+        "source": "data/landing/news/article_05.json",
+        "quote": "| Tổ hợp xét tuyển | Ngưỡng ĐBCL (thang 30) |\n| --- | --- |\n| A00: Toán, Vật lý, Hoá học | 22,0 |\n| A01: Toán, Vật lý, Tiếng Anh | 22,0 |\n| D01: Toán, Ngữ văn, Tiếng Anh | 22,0 |\n| D07: Toán, Hoá học, Tiếng Anh | 22,0 |",
+        "locator": "paragraph 11"
+      },
+      {
+        "source_id": "neu2026_news_05",
+        "url": "https://fit.neu.edu.vn/post/quy-doi-diem-trung-tuyen-neu-2026",
+        "source": "data/landing/news/article_05.json",
+        "quote": "Mức điểm này áp dụng với tất cả các mã tuyển sinh và đã bao gồm điểm ưu tiên khu vực, đối tượng nếu có. Đối với ngành, chương trình đào tạo thuộc lĩnh vực Pháp luật, môn Toán đạt tối thiểu 6 điểm. Đại học Kinh tế Quốc dân sử dụng 04 tổ hợp A00, A01, D01, D07, không có chênh lệch điểm xét tuyển và điểm trúng tuyển giữa các tổ hợp.",
+        "locator": "paragraph 12"
+      },
+      {
+        "source_id": "neu2026_news_05",
+        "url": "https://fit.neu.edu.vn/post/quy-doi-diem-trung-tuyen-neu-2026",
+        "source": "data/landing/news/article_05.json",
+        "quote": "Bên cạnh bảng quy đổi, thông báo nêu ngưỡng đảm bảo chất lượng (ĐBCL) đầu vào theo thang điểm 30, áp dụng cho phương thức xét tuyển dựa vào điểm thi tốt nghiệp THPT năm 2026 và phương thức kết hợp điểm thi tốt nghiệp THPT với chứng chỉ tiếng Anh quốc tế.",
+        "locator": "paragraph 10"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-16",
+    "question": "Vì sao hai bài NEU 2026 ghi hạn hồ sơ là 20/6 và 25/6?",
+    "expected_answer": "Bài hướng dẫn ngày 28/5 ghi đến 17h00 ngày 20/6; bài thông báo ngày 26/6 ghi đã nhận hồ sơ đến 17h00 ngày 25/6. Cần nêu rõ hai thời điểm công bố và đối chiếu thông báo mới hơn; các đoạn này không giải thích nguyên nhân thay đổi.",
+    "expected_context": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.\n\nThí sinh đã nộp hồ sơ đăng ký xét tuyển trực tuyến trên hệ thống của NEU từ ngày 20/5/2026 đến 17h00 ngày 25/6/2026. Đại học tiến hành kiểm tra, xác thực hồ sơ cho thí sinh **trước ngày 01/7/2026**.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "temporal_conflict",
+    "evidence": [
+      {
+        "source_id": "neu2026_news_01",
+        "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+        "source": "data/landing/news/article_01.json",
+        "quote": "* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.",
+        "locator": "paragraph 5"
+      },
+      {
+        "source_id": "neu2026_news_02",
+        "url": "https://fit.neu.edu.vn/post/notice-1558-combined-admission-dossier-aspiration-registration-neu-2026",
+        "source": "data/landing/news/article_02.json",
+        "quote": "Thí sinh đã nộp hồ sơ đăng ký xét tuyển trực tuyến trên hệ thống của NEU từ ngày 20/5/2026 đến 17h00 ngày 25/6/2026. Đại học tiến hành kiểm tra, xác thực hồ sơ cho thí sinh **trước ngày 01/7/2026**.",
+        "locator": "paragraph 3"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-17",
+    "question": "Theo tài liệu thông tin tuyển sinh NEU ngày 06/3/2026, mã tuyển sinh là gì?",
+    "expected_answer": "Mã tuyển sinh là NEU.",
+    "expected_context": "1. Tên cơ sở đào tạo: Đại học Kinh tế Quốc dân (ĐHKTQD).\n   Tên tiếng Anh: National Economics University (NEU).\n2. Mã tuyển sinh: NEU.\n3. Địa chỉ trụ sở chính: Số 207 Đường Giải Phóng, Phường Bạch Mai, Thành phố Hà Nội.\n4. Địa chỉ trang thông tin điện tử: https://neu.edu.vn; https://daotao.neu.edu.vn.\n5. Số điện thoại liên hệ tuyển sinh: 0888.128.558 (trong giờ hành chính).\n6. Địa chỉ công khai quy chế tuyển sinh: https://neu.edu.vn, https://daotao.neu.edu.vn.\n7. Địa chỉ công khai các thông tin về hoạt động của Đại học: https://neu.edu.vn.\n8. Tra cứu và tham khảo các ngành, chương trình đào tạo tuyển sinh: [Mã QR trong PDF gốc; chưa giải mã URL].\n9. App tuyển sinh “NEU Tuyển sinh”: [Mã QR trong PDF gốc; chưa giải mã URL].",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_undergraduate",
+        "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+        "source": "data/landing/legal/Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ.pdf",
+        "quote": "1. Tên cơ sở đào tạo: Đại học Kinh tế Quốc dân (ĐHKTQD).\n   Tên tiếng Anh: National Economics University (NEU).\n2. Mã tuyển sinh: NEU.\n3. Địa chỉ trụ sở chính: Số 207 Đường Giải Phóng, Phường Bạch Mai, Thành phố Hà Nội.\n4. Địa chỉ trang thông tin điện tử: https://neu.edu.vn; https://daotao.neu.edu.vn.\n5. Số điện thoại liên hệ tuyển sinh: 0888.128.558 (trong giờ hành chính).\n6. Địa chỉ công khai quy chế tuyển sinh: https://neu.edu.vn, https://daotao.neu.edu.vn.\n7. Địa chỉ công khai các thông tin về hoạt động của Đại học: https://neu.edu.vn.\n8. Tra cứu và tham khảo các ngành, chương trình đào tạo tuyển sinh: [Mã QR trong PDF gốc; chưa giải mã URL].\n9. App tuyển sinh “NEU Tuyển sinh”: [Mã QR trong PDF gốc; chưa giải mã URL].",
+        "locator": "## Trang 1"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-18",
+    "question": "Theo bảng chứng chỉ trong tài liệu NEU ngày 06/3/2026, IELTS 6.5 quy đổi bao nhiêu điểm?",
+    "expected_answer": "IELTS 6.5 quy đổi 9.0 điểm trong bảng quy đổi chứng chỉ tiếng Anh; đây không phải toàn bộ điểm xét tuyển.",
+    "expected_context": "| IELTS | TOEFL iBT | TOEIC (L&R/S/W) | Điểm quy đổi |\n| --- | --- | --- | --- |\n| 7.5 - 9.0 | 102 trở lên | 965/190/190 trở lên | 10 |\n| 7.0 | 94 - 101 | 945/180/180 | 9.5 |\n| 6.5 | 79 - 93 | 890/170/170 | 9.0 |\n| 6.0 | 60 - 78 | 840/160/160 | 8.5 |\n| 5.5 | 46 - 59 | 785/160/150 | 8.0 |",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "table",
+    "evidence": [
+      {
+        "source_id": "neu2026_undergraduate",
+        "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+        "source": "data/landing/legal/Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ.pdf",
+        "quote": "| IELTS | TOEFL iBT | TOEIC (L&R/S/W) | Điểm quy đổi |\n| --- | --- | --- | --- |\n| 7.5 - 9.0 | 102 trở lên | 965/190/190 trở lên | 10 |\n| 7.0 | 94 - 101 | 945/180/180 | 9.5 |\n| 6.5 | 79 - 93 | 890/170/170 | 9.0 |\n| 6.0 | 60 - 78 | 840/160/160 | 8.5 |\n| 5.5 | 46 - 59 | 785/160/150 | 8.0 |",
+        "locator": "## Trang 4"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-19",
+    "question": "Theo tài liệu NEU ngày 06/3/2026, xét tuyển kết hợp có nhận chứng chỉ quốc tế thi Home edition không?",
+    "expected_answer": "Không xét tuyển đối với tất cả chứng chỉ quốc tế có hình thức thi Home edition.",
+    "expected_context": "*Lưu ý:* phương thức xét tuyển kết hợp không xét tuyển đối với tất cả các chứng chỉ quốc tế có hình thức thi “Home edition”.",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_undergraduate",
+        "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+        "source": "data/landing/legal/Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ.pdf",
+        "quote": "*Lưu ý:* phương thức xét tuyển kết hợp không xét tuyển đối với tất cả các chứng chỉ quốc tế có hình thức thi “Home edition”.",
+        "locator": "## Trang 4"
+      }
+    ],
+    "split": "evaluation"
+  },
+  {
+    "id": "NEU2026-20",
+    "question": "Theo tài liệu NEU ngày 06/3/2026, tổng chỉ tiêu và chỉ tiêu chính quy, liên thông là bao nhiêu?",
+    "expected_answer": "Tổng 9.000, gồm đại học chính quy 8.780 và liên thông đại học chính quy 220.",
+    "expected_context": "### 4.2. Chỉ tiêu tuyển sinh: 9000 (bao gồm ĐHCQ: 8780 và Liên thông ĐHCQ: 220).",
+    "admission_year": 2026,
+    "audience": "dai_hoc_chinh_quy",
+    "category": "direct",
+    "evidence": [
+      {
+        "source_id": "neu2026_undergraduate",
+        "url": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+        "source": "data/landing/legal/Thông tin Tuyển sinh năm 2026 hình thức đào tạo ĐHCQ.pdf",
+        "quote": "### 4.2. Chỉ tiêu tuyển sinh: 9000 (bao gồm ĐHCQ: 8780 và Liên thông ĐHCQ: 220).",
+        "locator": "## Trang 4"
+      }
+    ],
+    "split": "evaluation"
+  }
+]
