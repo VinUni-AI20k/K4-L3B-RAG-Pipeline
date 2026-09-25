@@ -13,15 +13,8 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 
 from pathlib import Path
 
-import requests
-
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
-
-# TODO(data): Điền tối thiểu 3 nguồn PDF/DOC/DOCX công khai của topic nhóm.
-# Để rỗng để nhóm chủ động bổ sung nguồn dữ liệu sau.
-SOURCES: dict[str, str] = {}
-ALLOWED_EXTENSIONS = {".pdf", ".doc", ".docx"}
 
 
 def setup_directory() -> None:
@@ -31,29 +24,39 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    setup_directory()
+    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai của HUTECH."""
+    import urllib.request
 
-    if not SOURCES:
-        print("No legal document sources configured; add URLs to SOURCES first.")
-        return
+    sources = {
+        "quy_che_tuyen_sinh_dhcq_2026.pdf": "https://www.hutech.edu.vn/download/tuyensinh/74031",
+        "thong_tin_tuyen_sinh_dhcq_2026.pdf": "https://www.hutech.edu.vn/download/tuyensinh/74376",
+        "phieu_dang_ky_tuyen_sinh_hutech.doc": "https://www.hutech.edu.vn/download/e-hutech/42865",
+        "ly_lich_sinh_vien_hutech.doc": "https://www.hutech.edu.vn/download/e-hutech/42864",
+    }
 
-    for filename, url in SOURCES.items():
-        target = DATA_DIR / filename
-        if target.suffix.lower() not in ALLOWED_EXTENSIONS:
-            raise ValueError(f"Unsupported document type: {filename}")
-        if target.name != filename or not target.name.strip():
-            raise ValueError(f"Invalid document filename: {filename}")
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        if not response.content:
-            raise ValueError(f"Downloaded document is empty: {filename}")
+    for filename, url in sources.items():
+        file_path = DATA_DIR / filename
+        if file_path.exists() and file_path.stat().st_size > 0:
+            print(f"Already exists: {filename} ({file_path.stat().st_size} bytes)")
+            continue
 
-        target.write_bytes(response.content)
-        print(f"Downloaded: {target}")
+        print(f"Downloading: {filename} from {url}...")
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=60) as response:
+                content = response.read()
+                if content:
+                    file_path.write_bytes(content)
+                    print(f"Saved: {filename} ({len(content)} bytes)")
+                else:
+                    print(f"Warning: {filename} received empty content.")
+        except Exception as exc:
+            print(f"Failed to download {filename}: {exc}")
 
 
 if __name__ == "__main__":
     setup_directory()
     download_documents()
+

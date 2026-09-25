@@ -1,0 +1,15 @@
+# Quy chế tuyển sinh trình độ Đại học chính quy 2026
+
+**Source:** https://www.hutech.edu.vn/tuyensinh/tin-tuc/tin-tuyen-sinh/14610630-quy-che-tuyen-sinh-trinh-do-dai-hoc-chinh-quy
+
+**Crawled:** 2026-09-25T10:26:30.954887
+
+---
+
+# Quy chế tuyển sinh trình độ Đại học chính quy 2026
+
+Hội đồng Tuyển sinh trường Đại học Công nghệ TP.HCM (HUTECH) ban hành Quy chế tuyển sinh trình độ Đại học chính quy 2026. Quy chế này có hiệu lực từ ngày ký, được áp dụng đối với các khóa tuyển sinh từ năm 2026.
+
+Những nội dung trong các quy chế, quy định khác của Trường không phù hợp với nội dung trong Quy chế này thì được bãi bỏ kể từ ngày Quy chế này có hiệu lực thi hành.
+
+(Thông tin chi tiết trong file đính kèm)
