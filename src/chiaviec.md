@@ -1,4 +1,4 @@
-Người 1 — Dữ liệu và nội dung: Task 1–3
+**Người 1 — Dữ liệu và nội dung: Task 1–3**
 Mục tiêu: cung cấp dữ liệu sạch, có nguồn rõ ràng và bộ câu hỏi chuẩn để kiểm tra chatbot.
 Công việc cụ thể
 
@@ -30,7 +30,7 @@ Công việc cụ thể
 - Danh sách lỗi dữ liệu hoặc nội dung còn chưa rõ.
   Tiêu chí hoàn thành: đọc được toàn bộ tài liệu, đủ số lượng, không mất nội dung quan trọng, truy ngược được về nguồn.
   Phối hợp: bàn giao sớm một tài liệu sạch cho Người 2; gửi golden dataset cho Người 4; hỗ trợ Người 3 kiểm tra câu trả lời.
-  Người 2 — Lập chỉ mục và tìm kiếm: Task 4–7
+**Người 2 — Lập chỉ mục và tìm kiếm: Task 4–7**
   Mục tiêu: từ dữ liệu sạch, tìm ra những đoạn phù hợp với câu hỏi.
   Công việc cụ thể
 
@@ -67,7 +67,7 @@ Công việc cụ thể
 - Một số câu hỏi mẫu kèm kết quả retrieval để kiểm tra.
   Tiêu chí hoàn thành: kết quả không trùng ID, không vượt top_k, giữ metadata nguồn; index lại không trùng dữ liệu.
   Phối hợp: thống nhất đầu vào với Người 1; bàn giao hàm tìm kiếm cho Người 3; hỗ trợ Người 4 chạy cấu hình Dense-only. (Duyên)
-  Người 3 — Retrieval, fallback và generation: Task 8–10
+**Người 3 — Retrieval, fallback và generation: Task 8–10**
   Mục tiêu: tạo câu trả lời có căn cứ, có citation và xử lý được trường hợp thiếu bằng chứng. Đồng thời chịu trách nhiệm tích hợp kỹ thuật.
   Công việc cụ thể
 
@@ -108,7 +108,7 @@ Công việc cụ thể
 - Kết quả kiểm tra fallback, citation và xử lý lỗi.
   Tiêu chí hoàn thành: citation khớp sources, không dùng điểm RRF làm ngưỡng fallback, lỗi provider không làm UI sập.
   Phối hợp: gửi sớm một GenerationResult giả lập cho Người 4; phối hợp Người 2 kiểm tra score; nhờ Người 1 xác minh nội dung trả lời.
-  Người 4 — Giao diện, đánh giá và báo cáo (Na)
+**4.Người 4 — Giao diện, đánh giá và báo cáo (Na)**
   Mục tiêu: tạo chatbot dùng được và chứng minh chất lượng bằng kết quả đánh giá.
   Công việc cụ thể
 
