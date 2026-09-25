@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Điểm chuẩn đại học Bách Khoa Hà Nội năm 2024 là bao nhiêu?",
+    "expected_answer": "Điểm chuẩn Đại học Bách Khoa Hà Nội năm 2024 dao động từ 24.5 đến 29.04 điểm tùy theo ngành đào tạo. Ngành Khoa học Máy tính có điểm chuẩn cao nhất là 29.04 điểm.",
+    "expected_context": "Điểm chuẩn Bách Khoa Hà Nội 2024, ngành Khoa học Máy tính, Công nghệ thông tin"
+  },
+  {
+    "question": "Có những phương thức xét tuyển đại học nào trong năm 2024?",
+    "expected_answer": "Năm 2024, các trường đại học áp dụng nhiều phương thức xét tuyển bao gồm: xét điểm thi tốt nghiệp THPT, xét học bạ THPT, xét tuyển thẳng, thi đánh giá năng lực, xét tuyển kết hợp, và xét tuyển bằng chứng chỉ quốc tế (IELTS, SAT, ACT).",
+    "expected_context": "phương thức xét tuyển đại học 2024, điểm thi THPT, học bạ, đánh giá năng lực"
+  },
+  {
+    "question": "Quy trình đăng ký xét tuyển đại học trực tuyến như thế nào?",
+    "expected_answer": "Quy trình đăng ký xét tuyển trực tuyến gồm các bước: tạo tài khoản trên hệ thống, đăng nhập, điền thông tin cá nhân, chọn nguyện vọng xét tuyển, tải lên giấy tờ cần thiết, và xác nhận đăng ký. Thí sinh cần hoàn thành trước thời hạn quy định.",
+    "expected_context": "đăng ký xét tuyển trực tuyến, hệ thống xét tuyển, nguyện vọng"
+  },
+  {
+    "question": "Học phí đại học công lập năm 2024 là bao nhiêu?",
+    "expected_answer": "Học phí đại học công lập năm 2024-2025 dao động từ 12-50 triệu đồng/năm tùy theo nhóm ngành và chương trình đào tạo. Các chương trình chất lượng cao, chương trình quốc tế có mức học phí cao hơn.",
+    "expected_context": "học phí đại học 2024, công lập, nhóm ngành, chương trình đào tạo"
+  },
+  {
+    "question": "Chính sách ưu tiên trong tuyển sinh đại học áp dụng cho những đối tượng nào?",
+    "expected_answer": "Chính sách ưu tiên áp dụng cho các đối tượng: con thương binh liệt sĩ, người dân tộc thiểu số, học sinh vùng khó khăn, học sinh đạt giải quốc gia và quốc tế, con em gia đình có công với cách mạng.",
+    "expected_context": "chính sách ưu tiên tuyển sinh, đối tượng ưu tiên, khu vực ưu tiên"
+  },
+  {
+    "question": "Điểm ưu tiên khu vực được tính như thế nào?",
+    "expected_answer": "Điểm ưu tiên khu vực gồm: KV1 được cộng 0.75 điểm, KV2-NT được cộng 0.5 điểm, KV2 được cộng 0.25 điểm, KV3 không được cộng điểm. Điểm ưu tiên khu vực chỉ áp dụng khi xét tuyển bằng điểm thi THPT.",
+    "expected_context": "điểm ưu tiên khu vực, KV1, KV2, KV2-NT, KV3"
+  },
+  {
+    "question": "Thí sinh có thể đăng ký bao nhiêu nguyện vọng xét tuyển?",
+    "expected_answer": "Thí sinh được đăng ký không giới hạn số nguyện vọng xét tuyển. Các nguyện vọng được sắp xếp theo thứ tự ưu tiên từ cao đến thấp, và hệ thống sẽ xét theo thứ tự.",
+    "expected_context": "số nguyện vọng xét tuyển, thứ tự ưu tiên nguyện vọng"
+  },
+  {
+    "question": "Xu hướng chọn ngành đại học năm 2024 như thế nào?",
+    "expected_answer": "Năm 2024, các ngành Công nghệ thông tin, Trí tuệ nhân tạo, Khoa học dữ liệu, Y khoa, Dược học vẫn là những ngành hot nhất. Xu hướng mới nổi gồm Công nghệ bán dẫn, Năng lượng tái tạo, và Logistics.",
+    "expected_context": "xu hướng chọn ngành 2024, ngành hot, CNTT, AI, y khoa"
+  },
+  {
+    "question": "Các trường đại học top có những tiêu chí xét tuyển gì?",
+    "expected_answer": "Các trường top thường xét tuyển dựa trên nhiều tiêu chí: điểm thi THPT, kết quả học bạ, chứng chỉ ngoại ngữ quốc tế, bài luận cá nhân, phỏng vấn, và thành tích hoạt động ngoại khóa.",
+    "expected_context": "tiêu chí xét tuyển trường top, đại học hàng đầu, yêu cầu tuyển sinh"
+  },
+  {
+    "question": "Thời gian đăng ký xét tuyển đại học năm 2024 khi nào?",
+    "expected_answer": "Lịch đăng ký xét tuyển đại học 2024: đăng ký nguyện vọng bắt đầu từ tháng 7, kết thúc cuối tháng 7. Kết quả xét tuyển được công bố vào tháng 8. Thí sinh có thể điều chỉnh nguyện vọng trong thời gian quy định.",
+    "expected_context": "lịch đăng ký xét tuyển 2024, thời hạn, điều chỉnh nguyện vọng"
+  },
+  {
+    "question": "Điều kiện xét tuyển thẳng vào đại học là gì?",
+    "expected_answer": "Điều kiện xét tuyển thẳng bao gồm: thí sinh đạt giải Nhất, Nhì, Ba quốc gia, giải quốc tế trong các kỳ thi Olympic, thí sinh có thành tích đặc biệt xuất sắc trong học tập và nghiên cứu khoa học.",
+    "expected_context": "xét tuyển thẳng, giải quốc gia, Olympic quốc tế, thành tích đặc biệt"
+  },
+  {
+    "question": "Chương trình đào tạo chất lượng cao khác gì so với chương trình đại trà?",
+    "expected_answer": "Chương trình chất lượng cao có giảng viên quốc tế, giáo trình song ngữ, lớp học nhỏ, cơ sở vật chất hiện đại, cơ hội thực tập tại doanh nghiệp hàng đầu. Tuy nhiên học phí cao hơn, thường từ 40-80 triệu đồng/năm.",
+    "expected_context": "chương trình chất lượng cao, so sánh đại trà, học phí CLC"
+  },
+  {
+    "question": "Làm thế nào để tra cứu kết quả xét tuyển đại học?",
+    "expected_answer": "Thí sinh tra cứu kết quả xét tuyển qua hệ thống trực tuyến của Bộ GD&ĐT, website của trường đại học đã đăng ký, hoặc qua tin nhắn SMS. Kết quả được công bố theo đợt xét tuyển.",
+    "expected_context": "tra cứu kết quả xét tuyển, hệ thống trực tuyến, Bộ GD&ĐT"
+  },
+  {
+    "question": "Sinh viên có thể được miễn giảm học phí không?",
+    "expected_answer": "Sinh viên thuộc diện chính sách, hộ nghèo, hộ cận nghèo, dân tộc thiểu số vùng đặc biệt khó khăn được miễn hoặc giảm học phí. Ngoài ra có nhiều chương trình học bổng từ nhà trường và doanh nghiệp.",
+    "expected_context": "miễn giảm học phí, chính sách, hộ nghèo, học bổng"
+  },
+  {
+    "question": "Kỳ thi đánh giá năng lực khác gì so với kỳ thi THPT quốc gia?",
+    "expected_answer": "Kỳ thi đánh giá năng lực do các đại học tự tổ chức, đánh giá tư duy logic, giải quyết vấn đề, kiến thức tổng hợp. Khác với kỳ thi THPT chỉ kiểm tra kiến thức từng môn, đánh giá năng lực kiểm tra năng lực toàn diện.",
+    "expected_context": "đánh giá năng lực, ĐHQG, thi THPT, so sánh phương thức"
+  },
+  {
+    "question": "Quy định về chuyển ngành trong đại học như thế nào?",
+    "expected_answer": "Sinh viên có thể chuyển ngành sau khi hoàn thành ít nhất 1 học kỳ, đạt điểm trung bình tích lũy từ 7.0 trở lên, không bị kỷ luật, và ngành muốn chuyển còn chỉ tiêu. Mỗi sinh viên chỉ được chuyển ngành một lần.",
+    "expected_context": "chuyển ngành, điều kiện chuyển ngành, quy định sinh viên"
+  }
+]
