@@ -47,26 +47,29 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         metadatas,
         distances,
     ):
-        # ChromaDB cosine distance thường nằm trong [0, 2].
-        # Contract của pipeline dùng similarity không âm.
-        similarity = max(0.0, 1.0 - float(distance))
+        # ChromaDB trả cosine distance.
+        # Với cosine metric:
+        # similarity = 1 - distance
+        score = 1.0 - float(distance)
 
         results.append(
             {
                 "id": item_id,
-                "content": content,
-                "score": similarity,
+                "content": content or "",
                 "metadata": metadata or {},
+                "score": score,
                 "retrieval_method": "dense",
             }
         )
 
+    # Đảm bảo thứ tự score giảm dần.
     results.sort(key=lambda item: item["score"], reverse=True)
+
     return results[:top_k]
 
 
 if __name__ == "__main__":
-    results = semantic_search("tuyển sinh đại học", top_k=3)
+    results = semantic_search("thông tin tuyển sinh đại học", top_k=3)
 
     print(f"Found {len(results)} dense results:")
 

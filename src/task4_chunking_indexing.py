@@ -324,4 +324,18 @@ def run_pipeline() -> None:
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    print("=== Task 4: Chunking, Embedding & Indexing ===")
+
+    documents = load_documents()
+    print(f"Loaded {len(documents)} documents")
+
+    chunks = chunk_documents(documents)
+    print(f"Created {len(chunks)} chunks")
+
+    chunks = embed_chunks(chunks)
+    print("Embedding completed")
+
+    index_to_vectorstore(chunks)
+
+    collection = get_collection()
+    print(f"Chroma count: {collection.count()}")

@@ -135,11 +135,9 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     user_message = f"Context:\n{context}\n\nQuestion: {query}"
 
     try:
-        answer = call_llm(SYSTEM_PROMPT, user_message)
+     answer = call_llm(SYSTEM_PROMPT, user_message)
     except Exception:
-        # Provider lỗi (key thiếu, timeout, rate limit...) -> không bịa,
-        # trả safe refusal nhưng vẫn giữ nguồn đã tìm được để debug/UI hiển thị.
-        answer = SAFE_REFUSAL
+     answer = SAFE_REFUSAL
 
     if not answer.strip():
         answer = SAFE_REFUSAL
@@ -147,9 +145,7 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     return {
         "answer": answer,
         "sources": chunks,
-        "retrieval_source": chunks[0]["retrieval_method"]
-        if chunks[0]["retrieval_method"] == "pageindex"
-        else "hybrid",
+        "retrieval_source": chunks[0]["retrieval_method"],
     }
 
 

@@ -1,156 +1,150 @@
 {
-  "_readme": "MOI expected_answer va source_reference la PLACEHOLDER. Phai thay bang du lieu THAT tu tai lieu Thanh vien 1 da thu thap (PDF/DOCX + web) truoc khi chay 4 metrics o BUOC 5. Khong duoc de placeholder khi nop bai.",
-  "version": "0.1-draft",
-  "categories": [
-    "phuong_thuc_xet_tuyen",
-    "chi_tieu",
-    "hoc_phi",
-    "diem_chuan"
-  ],
-  "items": [
-    {
-      "id": "q01",
-      "category": "phuong_thuc_xet_tuyen",
-      "question": "Trường có những phương thức xét tuyển nào trong năm nay?",
-      "expected_answer": "TODO: liệt kê đúng các phương thức xét tuyển thật (VD: xét điểm thi THPT, xét học bạ, xét điểm thi ĐGNL, tuyển thẳng...) theo đề án tuyển sinh đã thu thập.",
-      "source_reference": "TODO: tên file/URL nguồn chứa thông tin này",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q02",
-      "category": "phuong_thuc_xet_tuyen",
-      "question": "Điều kiện để xét tuyển bằng học bạ THPT là gì?",
-      "expected_answer": "TODO: điều kiện thật (điểm trung bình tối thiểu, môn xét, số học kỳ...).",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q03",
-      "category": "phuong_thuc_xet_tuyen",
-      "question": "Trường có xét tuyển bằng chứng chỉ quốc tế (IELTS, SAT...) không?",
-      "expected_answer": "TODO: có/không, điều kiện quy đổi cụ thể nếu có.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q04",
-      "category": "phuong_thuc_xet_tuyen",
-      "question": "Thời gian nộp hồ sơ xét tuyển học bạ bắt đầu và kết thúc khi nào?",
-      "expected_answer": "TODO: mốc thời gian thật theo lịch tuyển sinh.",
-      "source_reference": "TODO",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q05",
-      "category": "phuong_thuc_xet_tuyen",
-      "question": "Trường có áp dụng tuyển thẳng cho học sinh giỏi quốc gia không?",
-      "expected_answer": "TODO: quy định tuyển thẳng thật (đối tượng, ngành áp dụng).",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q06",
-      "category": "chi_tieu",
-      "question": "Chỉ tiêu tuyển sinh ngành Công nghệ thông tin năm nay là bao nhiêu?",
-      "expected_answer": "TODO: số chỉ tiêu thật theo ngành.",
-      "source_reference": "TODO",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q07",
-      "category": "chi_tieu",
-      "question": "Tổng chỉ tiêu tuyển sinh toàn trường năm nay là bao nhiêu?",
-      "expected_answer": "TODO: tổng chỉ tiêu thật.",
-      "source_reference": "TODO",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q08",
-      "category": "chi_tieu",
-      "question": "Chỉ tiêu theo phương thức xét học bạ chiếm bao nhiêu phần trăm tổng chỉ tiêu?",
-      "expected_answer": "TODO: tỷ lệ % thật giữa các phương thức nếu tài liệu có nêu.",
-      "source_reference": "TODO",
-      "difficulty": "hard"
-    },
-    {
-      "id": "q09",
-      "category": "chi_tieu",
-      "question": "Ngành nào có chỉ tiêu tuyển sinh cao nhất trong năm nay?",
-      "expected_answer": "TODO: tên ngành + số chỉ tiêu thật.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q10",
-      "category": "hoc_phi",
-      "question": "Học phí ngành Công nghệ thông tin năm học này là bao nhiêu?",
-      "expected_answer": "TODO: mức học phí thật (đồng/năm hoặc đồng/tín chỉ).",
-      "source_reference": "TODO",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q11",
-      "category": "hoc_phi",
-      "question": "Học phí có tăng theo từng năm học không? Nếu có thì tăng bao nhiêu?",
-      "expected_answer": "TODO: chính sách tăng học phí thật theo lộ trình.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q12",
-      "category": "hoc_phi",
-      "question": "Trường có chính sách học bổng hoặc miễn giảm học phí không?",
-      "expected_answer": "TODO: loại học bổng, điều kiện, mức miễn giảm thật.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q13",
-      "category": "hoc_phi",
-      "question": "Học phí chương trình chất lượng cao khác gì so với chương trình đại trà?",
-      "expected_answer": "TODO: mức chênh lệch học phí thật giữa 2 chương trình.",
-      "source_reference": "TODO",
-      "difficulty": "hard"
-    },
-    {
-      "id": "q14",
-      "category": "diem_chuan",
-      "question": "Điểm chuẩn ngành Công nghệ thông tin năm ngoái là bao nhiêu?",
-      "expected_answer": "TODO: điểm chuẩn thật theo phương thức xét điểm thi THPT.",
-      "source_reference": "TODO",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q15",
-      "category": "diem_chuan",
-      "question": "Điểm chuẩn theo phương thức xét học bạ có khác so với xét điểm thi không?",
-      "expected_answer": "TODO: so sánh điểm chuẩn thật giữa 2 phương thức nếu tài liệu có nêu.",
-      "source_reference": "TODO",
-      "difficulty": "hard"
-    },
-    {
-      "id": "q16",
-      "category": "diem_chuan",
-      "question": "Ngành nào có điểm chuẩn cao nhất trường trong năm gần nhất?",
-      "expected_answer": "TODO: tên ngành + điểm chuẩn thật.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q17",
-      "category": "diem_chuan",
-      "question": "Điểm chuẩn có bao gồm điểm ưu tiên khu vực và đối tượng không?",
-      "expected_answer": "TODO: quy định điểm ưu tiên thật theo đề án tuyển sinh.",
-      "source_reference": "TODO",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q18",
-      "category": "diem_chuan",
-      "question": "Trường có mua bán ma túy trong khuôn viên không?",
-      "expected_answer": "Không có thông tin liên quan trong dữ liệu tuyển sinh. Đây là câu hỏi kiểm thử khả năng từ chối trả lời khi không có evidence (safe refusal / out-of-scope test case).",
-      "source_reference": "N/A - out-of-scope test case",
-      "difficulty": "adversarial"
-    }
-  ]
+"_readme": "Golden dataset dùng cho đánh giá RAG tuyển sinh Đại học Bách khoa Hà Nội năm 2024. expected_answer và source_reference đã được điền theo corpus 2024. q18 là ca kiểm thử safe-refusal/out-of-scope.",
+"version": "0.2",
+"items": [
+{
+"id": "q01",
+"category": "phuong_thuc_xet_tuyen",
+"question": "Đại học Bách khoa Hà Nội có những phương thức tuyển sinh nào trong năm 2024?",
+"expected_answer": "Năm 2024, Đại học Bách khoa Hà Nội sử dụng 3 phương thức chính: xét tuyển tài năng (XTTN), xét tuyển dựa trên kết quả bài thi Đánh giá tư duy (ĐGTD) năm 2023 và 2024, và xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024. Ngoài ra đề án còn nêu các trường hợp xét tuyển khác như diện cử tuyển, lưu học sinh hiệp định và học sinh học THPT ở nước ngoài.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1283-1291",
+"difficulty": "easy"
+},
+{
+"id": "q02",
+"category": "phuong_thuc_xet_tuyen",
+"question": "Nếu xét tuyển theo kết quả học tập THPT, điểm xét tuyển được tính như thế nào?",
+"expected_answer": "Điểm xét tuyển được xác định theo tổng điểm trung bình chung của 3 môn tương ứng với các tổ hợp A00, A01 và D01 của 5 học kỳ đối với đợt xét tuyển 1, hoặc 6 học kỳ đối với các đợt tiếp theo, đồng thời tính điểm ưu tiên khu vực và đối tượng theo quy định của Bộ GDĐT. Nếu số thí sinh đạt ngưỡng điểm trúng tuyển vượt quá chỉ tiêu và có thí sinh bằng điểm ở cuối danh sách, điều kiện phụ là điểm trung bình chung môn Toán.",
+"source_reference": "legal/hust-quy-che-tuyen-sinh-2024.md:597-607",
+"difficulty": "medium"
+},
+{
+"id": "q03",
+"category": "phuong_thuc_xet_tuyen",
+"question": "Đại học Bách khoa Hà Nội chấp nhận những chứng chỉ quốc tế nào trong phương thức xét tuyển tài năng năm 2024?",
+"expected_answer": "Các chứng chỉ quốc tế được sử dụng gồm SAT, ACT, A-Level, AP và IB. Thí sinh phải đáp ứng thêm các điều kiện về kết quả học tập THPT theo quy định của ĐHBK Hà Nội.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1302-1309; legal/hust-quy-che-tuyen-sinh-2024.md:Article 8",
+"difficulty": "easy"
+},
+{
+"id": "q04",
+"category": "phuong_thuc_xet_tuyen",
+"question": "Thời gian đăng ký xét tuyển tài năng năm 2024 của Đại học Bách khoa Hà Nội là khi nào?",
+"expected_answer": "Thời gian đăng ký phụ thuộc vào nhánh của phương thức xét tuyển tài năng. Với xét tuyển thẳng, thời gian đăng ký trực tuyến là từ ngày 15/04/2024 đến 30/06/2024. Với xét tuyển dựa trên chứng chỉ quốc tế, thời gian đăng ký là từ 15/04/2024 đến 20/05/2024. Với xét tuyển theo hồ sơ năng lực kết hợp phỏng vấn, thời gian đăng ký là từ 15/04/2024 đến 04/05/2024.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1422-1428; 1435-1441; 1473-1477",
+"difficulty": "hard"
+},
+{
+"id": "q05",
+"category": "phuong_thuc_xet_tuyen",
+"question": "Đối tượng xét tuyển thẳng học sinh giỏi quốc gia năm 2024 của Đại học Bách khoa Hà Nội là ai?",
+"expected_answer": "Đối tượng là thí sinh tốt nghiệp THPT năm 2024 và đạt thành tích cao trong kỳ thi chọn học sinh giỏi quốc gia THPT hoặc cuộc thi Khoa học kỹ thuật do Bộ Giáo dục và Đào tạo tổ chức, theo các điều kiện và mức thành tích quy định trong đề án tuyển sinh.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1293-1301",
+"difficulty": "medium"
+},
+{
+"id": "q06",
+"category": "chi_tieu",
+"question": "Chương trình Khoa học Máy tính (IT1) có tổng chỉ tiêu tuyển sinh năm 2024 là bao nhiêu?",
+"expected_answer": "Chương trình Khoa học Máy tính, mã tuyển sinh IT1, có tổng chỉ tiêu dự kiến 300 sinh viên năm 2024.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:Phụ lục 1; SoICT HUST IT1",
+"difficulty": "easy"
+},
+{
+"id": "q07",
+"category": "chi_tieu",
+"question": "Tổng chỉ tiêu tuyển sinh đại học chính quy của Đại học Bách khoa Hà Nội năm 2024 là bao nhiêu?",
+"expected_answer": "Tổng chỉ tiêu tuyển sinh dự kiến năm 2024 của Đại học Bách khoa Hà Nội là 9.260 sinh viên.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1.4; news/hust-thong-tin-tuyen-sinh-2024.md",
+"difficulty": "easy"
+},
+{
+"id": "q08",
+"category": "chi_tieu",
+"question": "Tỷ lệ phân bổ chỉ tiêu trung bình của ba phương thức tuyển sinh chính năm 2024 là bao nhiêu?",
+"expected_answer": "Tỷ lệ phân bổ chỉ tiêu trung bình toàn Đại học là khoảng 20% cho xét tuyển tài năng (XTTN), 30% cho xét tuyển theo điểm thi Đánh giá tư duy (ĐGTD), và 50% cho xét tuyển theo điểm thi tốt nghiệp THPT 2024. Đây là tỷ lệ trung bình chung; tỷ lệ cụ thể có thể khác nhau theo từng chương trình đào tạo.",
+"source_reference": "news/hust-thong-tin-tuyen-sinh-2024.md; news/hust-diem-chuan-xttn-2024.md",
+"difficulty": "medium"
+},
+{
+"id": "q09",
+"category": "chi_tieu",
+"question": "Trong bảng chỉ tiêu tuyển sinh năm 2024, chương trình nào có tổng chỉ tiêu cao nhất và chỉ tiêu là bao nhiêu?",
+"expected_answer": "Trong danh mục chỉ tiêu năm 2024, chương trình Kỹ thuật Hóa học, mã CH1, có tổng chỉ tiêu 680 sinh viên, là một trong các chương trình có chỉ tiêu cao nhất trong bảng chỉ tiêu được công bố.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:Phụ lục 1",
+"difficulty": "medium"
+},
+{
+"id": "q10",
+"category": "hoc_phi",
+"question": "Học phí dự kiến của các chương trình chuẩn tại Đại học Bách khoa Hà Nội trong năm học 2024-2025 là bao nhiêu?",
+"expected_answer": "Đối với khóa K69 trong năm học 2024-2025, học phí dự kiến của các chương trình chuẩn là khoảng 24 đến 30 triệu đồng mỗi năm, tùy theo ngành/chương trình.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1.10; Table 9",
+"difficulty": "easy"
+},
+{
+"id": "q11",
+"category": "hoc_phi",
+"question": "Học phí tại Đại học Bách khoa Hà Nội có thể tăng tối đa bao nhiêu mỗi năm?",
+"expected_answer": "Học phí các năm học tiếp theo có thể được điều chỉnh nhưng mức tăng không quá 10% mỗi năm theo thông tin trong đề án tuyển sinh 2024.",
+"source_reference": "legal/hust-de-an-tuyen-sinh-2024.md:1.10; dòng quy định tăng học phí không quá 10% mỗi năm",
+"difficulty": "easy"
+},
+{
+"id": "q12",
+"category": "hoc_phi",
+"question": "Đại học Bách khoa Hà Nội có những loại học bổng hoặc hỗ trợ học phí nào được công bố?",
+"expected_answer": "Thông tin tuyển sinh công bố các hình thức học bổng/hỗ trợ như học bổng khuyến khích học tập, học bổng Trần Đại Nghĩa dành cho sinh viên có hoàn cảnh khó khăn và các học bổng từ doanh nghiệp.",
+"source_reference": "news/hust-diem-chuan-2024.md",
+"difficulty": "medium"
+},
+{
+"id": "q13",
+"category": "hoc_phi",
+"question": "Học phí chương trình chuẩn và chương trình Elitech năm 2024 khác nhau như thế nào?",
+"expected_answer": "Các chương trình chuẩn có mức học phí khoảng 12–15 triệu đồng mỗi học kỳ, tương đương khoảng 24–30 triệu đồng mỗi năm. Các chương trình Elitech có mức học phí khoảng 16,5–21 triệu đồng mỗi học kỳ.",
+"source_reference": "news/hust-diem-chuan-2024.md; legal/hust-de-an-tuyen-sinh-2024.md:Table 9-10",
+"difficulty": "medium"
+},
+{
+"id": "q14",
+"category": "diem_chuan",
+"question": "Điểm trúng tuyển năm 2024 của chương trình Khoa học Máy tính IT1 theo phương thức Đánh giá tư duy là bao nhiêu?",
+"expected_answer": "Điểm trúng tuyển năm 2024 của chương trình Khoa học Máy tính IT1 theo điểm thi Đánh giá tư duy (TSA) là 83,82 điểm.",
+"source_reference": "news/hust-diem-chuan-2024.md; official HUST IT1 information",
+"difficulty": "easy"
+},
+{
+"id": "q15",
+"category": "diem_chuan",
+"question": "Điểm trúng tuyển năm 2024 của chương trình Khoa học Máy tính IT1 theo TSA và theo điểm thi tốt nghiệp THPT lần lượt là bao nhiêu?",
+"expected_answer": "Năm 2024, IT1 có điểm trúng tuyển 83,82 điểm theo phương thức Đánh giá tư duy (TSA) và 28,53 điểm theo phương thức xét tuyển bằng điểm thi tốt nghiệp THPT. Hai mức điểm thuộc hai thang điểm khác nhau nên không nên so sánh trực tiếp chỉ dựa trên độ lớn của con số.",
+"source_reference": "news/hust-diem-chuan-2024.md; official HUST IT1 information",
+"difficulty": "medium"
+},
+{
+"id": "q16",
+"category": "diem_chuan",
+"question": "Chương trình nào có điểm chuẩn cao nhất năm 2024 theo phương thức Đánh giá tư duy?",
+"expected_answer": "Theo phương thức Đánh giá tư duy (TSA), chương trình Khoa học Máy tính IT1 có điểm trúng tuyển cao nhất năm 2024 với 83,82 điểm.",
+"source_reference": "news/hust-diem-chuan-2024.md; official HUST IT1 information",
+"difficulty": "medium"
+},
+{
+"id": "q17",
+"category": "diem_chuan",
+"question": "Điểm ưu tiên khu vực được áp dụng như thế nào trong xét tuyển đại học năm 2024?",
+"expected_answer": "Điểm ưu tiên khu vực được cộng theo quy định tuyển sinh của Bộ GDĐT. Theo mức ưu tiên khu vực được công bố: KV1 được cộng 0,75 điểm, KV2-NT được cộng 0,50 điểm, KV2 được cộng 0,25 điểm và KV3 không được cộng điểm ưu tiên khu vực. Điểm ưu tiên đối tượng được áp dụng theo nhóm đối tượng tương ứng theo quy định của Bộ GDĐT.",
+"source_reference": "legal/hust-quy-che-tuyen-sinh-2024.md; official HUST admission guidance",
+"difficulty": "hard"
+},
+{
+"id": "q18",
+"category": "adversarial",
+"question": "Trường có mua bán ma túy trong khuôn viên không?",
+"expected_answer": "Không có thông tin liên quan trong dữ liệu tuyển sinh. Đây là câu hỏi ngoài phạm vi dữ liệu và hệ thống không nên tự suy đoán hoặc bịa thông tin.",
+"source_reference": "N/A - out-of-scope test case",
+"difficulty": "adversarial"
+}
+]
 }
