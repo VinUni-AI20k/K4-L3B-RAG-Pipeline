@@ -12,9 +12,9 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Đinh Văn Bình
+- Mã học viên: 2A202602830
+- Nhóm: Manngusidan
 - Repository/branch:
 
 ## Phần việc đã thực hiện
