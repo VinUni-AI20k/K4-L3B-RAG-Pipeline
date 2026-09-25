@@ -6,6 +6,11 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv.broken/
+.venv.broken-*/
+.python/
+.uv-cache/
+.task3-venv/
 venv/
 env/
 ENV/

@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Khách du lịch có những nghĩa vụ gì khi đến một điểm du lịch tại Việt Nam?",
+    "expected_answer": "Khách phải tuân thủ pháp luật, ứng xử văn minh, tôn trọng phong tục và bản sắc địa phương, bảo vệ tài nguyên và môi trường, thực hiện nội quy, thanh toán các khoản hợp pháp và bồi thường thiệt hại nếu gây ra.",
+    "expected_context": "Điều 12 Luật Du lịch quy định khách du lịch phải ứng xử văn minh, tôn trọng phong tục, bảo vệ tài nguyên và môi trường du lịch, thực hiện nội quy của khu hoặc điểm du lịch.",
+    "source": "luat-du-lich-09-2017-qh14.md"
+  },
+  {
+    "question": "Khách du lịch được bảo đảm những quyền lợi nào liên quan đến an toàn?",
+    "expected_answer": "Khách du lịch được bảo đảm an toàn về tính mạng, sức khỏe và tài sản khi sử dụng dịch vụ, đồng thời được cứu hộ, cứu nạn trong trường hợp khẩn cấp.",
+    "expected_context": "Điều 11 Luật Du lịch nêu quyền được bảo đảm an toàn về tính mạng, sức khỏe, tài sản và được cứu hộ, cứu nạn trong trường hợp khẩn cấp.",
+    "source": "luat-du-lich-09-2017-qh14.md"
+  },
+  {
+    "question": "Đơn vị cung cấp sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng phải thực hiện biện pháp an toàn nào?",
+    "expected_answer": "Đơn vị phải cảnh báo điều kiện và rủi ro, có phương án cùng lực lượng cứu hộ, duy trì liên lạc, bố trí nhân sự chuyên môn, phổ biến quy định và cung cấp thiết bị an toàn.",
+    "expected_context": "Điều 9 Nghị định 168/2017/NĐ-CP yêu cầu cảnh báo, có phương án cứu hộ cứu nạn, bố trí nhân sự chuyên môn, hướng dẫn thao tác và cung cấp thiết bị bảo đảm an toàn.",
+    "source": "nghi-dinh-168-2017-nd-cp.md"
+  },
+  {
+    "question": "Điểm du lịch không có biển chỉ dẫn hoặc không có nội quy có thể bị xử phạt như thế nào theo tài liệu?",
+    "expected_answer": "Theo khoản 2 Điều 16 Nghị định 45/2019/NĐ-CP, hành vi không có biển chỉ dẫn, thuyết minh, biển báo theo quy định hoặc không có nội quy bị phạt từ 3.000.000 đến 5.000.000 đồng; khi áp dụng phải đối chiếu các văn bản sửa đổi hiện hành.",
+    "expected_context": "Khoản 2 Điều 16 quy định phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không có biển chỉ dẫn, thuyết minh, biển báo hoặc không có nội quy theo quy định.",
+    "source": "nghi-dinh-45-2019-nd-cp.md"
+  },
+  {
+    "question": "Bài viết về Huế giới thiệu khu vực nào của Đại Nội là điểm nổi bật?",
+    "expected_answer": "Bài viết nhấn mạnh Đại Nội Huế, đặc biệt là khu vực Kỳ Đài và Cổng Ngọ Môn.",
+    "expected_context": "Điểm đến đầu tiên được giới thiệu là Đại Nội Huế, nhất là khu vực Kỳ Đài và Cổng Ngọ Môn.",
+    "source": "hue-diem-den-noi-bat.md"
+  },
+  {
+    "question": "Lăng Khải Định được mô tả có đặc điểm kiến trúc gì?",
+    "expected_answer": "Lăng Khải Định được mô tả là công trình thể hiện sự giao thoa giữa kiến trúc và văn hóa Đông - Tây.",
+    "expected_context": "Lăng Khải Định là tuyệt phẩm của sự giao thoa kiến trúc văn hóa đông tây.",
+    "source": "hue-diem-den-noi-bat.md"
+  },
+  {
+    "question": "Bún bò Huế trong bài viết gồm những nguyên liệu chính nào?",
+    "expected_answer": "Các nguyên liệu chính gồm thịt bắp bò, giò heo và tiết heo; có thể thêm thịt bò tái, chả cua và ăn cùng rau thơm, hoa chuối, giá đỗ.",
+    "expected_context": "Món ăn có nguyên liệu chính là thịt bắp bò, giò heo, tiết heo; một số thành phần khác là thịt bò tái, chả cua và rau ăn kèm.",
+    "source": "hue-am-thuc-dac-trung.md"
+  },
+  {
+    "question": "Bánh bột lọc Huế được làm và chế biến như thế nào?",
+    "expected_answer": "Bánh dùng bột sắn lọc tinh bột, nhân tôm hoặc thịt, thường gói lá chuối rồi hấp cách thủy hoặc luộc và ăn với nước chấm.",
+    "expected_context": "Bánh được làm bằng bột sắn được lọc tinh bột, nhân tôm hoặc thịt, cuốn bằng lá chuối và làm chín bằng cách hấp cách thủy hoặc luộc.",
+    "source": "hue-am-thuc-dac-trung.md"
+  },
+  {
+    "question": "Danh thắng Ngũ Hành Sơn có những điểm tham quan tiêu biểu nào?",
+    "expected_answer": "Các điểm tiêu biểu gồm động Âm Phủ, động Huyền Không, chùa Linh Ứng và Vọng Giang Đài.",
+    "expected_context": "Danh thắng Ngũ Hành Sơn có nhiều điểm tham quan hấp dẫn như động Âm Phủ, động Huyền Không, chùa Linh Ứng và Vọng Giang Đài.",
+    "source": "da-nang-ngu-hanh-son.md"
+  },
+  {
+    "question": "Ngũ Hành Sơn nằm cách trung tâm Đà Nẵng khoảng bao xa?",
+    "expected_answer": "Danh thắng nằm ở phía đông nam thành phố và cách trung tâm Đà Nẵng khoảng 8 km.",
+    "expected_context": "Khu du lịch thắng cảnh Ngũ Hành Sơn nằm ở phía đông nam thành phố Đà Nẵng, cách trung tâm thành phố khoảng 8 km.",
+    "source": "da-nang-ngu-hanh-son.md"
+  },
+  {
+    "question": "Quần thể Ngũ Hành Sơn gồm những ngọn núi nào?",
+    "expected_answer": "Quần thể gồm sáu ngọn: Thủy Sơn, Kim Sơn, Dương Hỏa Sơn, Âm Hỏa Sơn, Thổ Sơn và Mộc Sơn.",
+    "expected_context": "Ngũ Hành Sơn là quần thể gồm 6 ngọn núi: Thủy Sơn, Kim Sơn, Hỏa Sơn gồm Dương Hỏa Sơn và Âm Hỏa Sơn, Thổ Sơn, Mộc Sơn.",
+    "source": "da-nang-ngu-hanh-son.md"
+  },
+  {
+    "question": "Bài viết gợi ý nên dành bao lâu để tham quan Ngũ Hành Sơn vào buổi sáng?",
+    "expected_answer": "Bài viết gợi ý dành khoảng 3–4 giờ buổi sáng, ưu tiên khám phá ngọn Thủy Sơn.",
+    "expected_context": "Thời lượng tham quan được gợi ý là khoảng 3–4 tiếng buổi sáng và nên ưu tiên ngọn Thủy Sơn.",
+    "source": "da-nang-ngu-hanh-son.md"
+  },
+  {
+    "question": "Đèn lồng Hội An đã được làm tại địa phương trong khoảng bao lâu?",
+    "expected_answer": "Theo bài viết, đèn lồng đã được làm tại Hội An hơn 400 năm.",
+    "expected_context": "Lanterns have been made in Hoi An for over 400 years and are exported as a unique cultural product.",
+    "source": "hoi-an-hoat-dong-van-hoa.md"
+  },
+  {
+    "question": "Ba công trình kiến trúc cổ nào tại Hội An được bài viết gợi ý tham quan?",
+    "expected_answer": "Bài viết gợi ý nhà cổ Tấn Ký, Hội quán Phúc Kiến và Chùa Cầu Nhật Bản.",
+    "expected_context": "The suggested sites include Tan Ky House, the Fujian Assembly Hall and the Japanese Covered Bridge Pagoda.",
+    "source": "hoi-an-hoat-dong-van-hoa.md"
+  },
+  {
+    "question": "Bài viết gợi ý món đặc sản nào nên thử khi tham quan Hội An?",
+    "expected_answer": "Bài viết gợi ý thử mì Cao Lầu và có thể tham gia food tour hoặc lớp nấu ăn để tìm hiểu ẩm thực địa phương.",
+    "expected_context": "When in Hoi An, take walking food tours to sample regional specialities such as Cao Lau noodles.",
+    "source": "hoi-an-hoat-dong-van-hoa.md"
+  },
+  {
+    "question": "Đèo Hải Vân kết nối những điểm đến nào trong hành trình miền Trung?",
+    "expected_answer": "Đèo Hải Vân nằm trên tuyến đường kết nối Hội An, Đà Nẵng và Huế; bài viết cũng gợi ý dừng ngắm cảnh và ghé Lăng Cô.",
+    "expected_context": "Hai Van Pass is on the route that links Hoi An, Danang and Hue; travellers can stop at the lookout and Lang Co Town.",
+    "source": "mien-trung-hanh-trinh-di-san.md"
+  }
+]

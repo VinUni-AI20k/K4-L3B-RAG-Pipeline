@@ -64,6 +64,7 @@ streamlit run app.py
 
 ## Tài liệu
 
+- [Checklist hoàn thành](docs/CHECKLIST_HOAN_THANH.md): trạng thái hiện tại, checklist nhóm, checklist cá nhân và thứ tự ưu tiên.
 - [Module contracts](docs/MODULE_CONTRACTS.md): schema, interface và invariant mà code/test nên tuân theo.
 - [Step-by-step guide](docs/STEP_BY_STEP.md): thứ tự triển khai và tiêu chí hoàn thành từng bước.
 - [Grading rubric](docs/GRADING_RUBRIC.md): Rubric thang điểm.
