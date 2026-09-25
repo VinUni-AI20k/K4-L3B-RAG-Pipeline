@@ -4,8 +4,7 @@
 
 - Họ và tên: NGUYỄN THÀNH TIẾN
 - Mã học viên: 2A202603003
-- Nhóm: Gene (hoặc tên nhóm của bạn)
-- Vai trò theo TEAMMATES.md: Người C (Generation & UI)
+- Nhóm: Gene
 
 ## Đóng góp chính
 
