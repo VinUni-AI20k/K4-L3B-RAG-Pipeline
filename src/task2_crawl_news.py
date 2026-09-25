@@ -3,12 +3,19 @@ Task 2 — Crawl bài viết/thông báo.
 
 Chủ đề: thuế và nghĩa vụ kê khai của hộ kinh doanh cá thể.
 
-7 bài viết (>=5 yêu cầu), phủ cả chế độ thuế cũ và cải cách hiện hành
-(quyết định cùng người dùng: giữ cả hai vì "thuế môn bài" và "phương pháp
-khoán" đã bị bãi bỏ từ 01/01/2026 nhưng vẫn là kiến thức nền cần thiết):
-    - Cải cách 2026: bỏ thuế khoán, bỏ lệ phí môn bài, cách tính thuế mới.
-    - Nền/lịch sử: cách tính thuế khoán (trước 2026) để đối chiếu.
-    - Vận hành: hoá đơn điện tử, phạt chậm nộp hồ sơ khai thuế.
+9 bài viết (>=5 yêu cầu), **toàn bộ từ nguồn nhà nước**: chinhphu.vn
+(xaydungchinhsach, baochinhphu) và VietnamPlus (Thông tấn xã Việt Nam).
+Các blog nhà cung cấp phần mềm (einvoice/misa/meinvoice/easybooks) đã bị
+loại bỏ để tăng độ tin cậy của corpus.
+
+Phủ các mảng: bỏ thuế khoán và lệ phí môn bài, ngưỡng doanh thu hiện hành
+(Nghị định 141/2026/NĐ-CP nâng từ 500 triệu lên 01 tỷ đồng), tỷ lệ/thuế
+suất theo hoạt động kinh doanh, hồ sơ và thời hạn kê khai, hoá đơn điện tử,
+xử phạt vi phạm hành chính về quản lý thuế.
+
+Ghi chú: thuvienphapluat.vn bị chặn bởi Cloudflare JS challenge (403/307).
+Theo hướng dẫn của task này ("nếu website chặn crawler, hãy chọn nguồn công
+khai khác; không vượt WAF"), dùng nguồn .gov.vn tương đương thay thế.
 
 Cài browser trước khi chạy:
     python -m playwright install chromium
@@ -23,20 +30,26 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # Cai cach 2026: bo ap dung thue khoan.
+    # Cai cach 2026: bo ap dung thue khoan (Thong tan xa Viet Nam).
     "https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp",
-    # Cai cach 2026: chinh thuc bo le phi mon bai.
-    "https://einvoice.vn/tin-tuc/bo-thue-mon-bai",
-    # Cai cach 2026: tong quan noi dung moi ND68/2026 + TT18/2026 (chinhphu.vn).
+    # Tong quan noi dung moi ND68/2026 + TT18/2026.
     "https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm",
-    # Cai cach 2026: cach tinh thue ho kinh doanh theo quy dinh moi.
-    "https://sme.misa.vn/334301/thue-ho-kinh-doanh/",
-    # Nen/lich su: cach tinh thue khoan truoc 2026, de doi chieu.
-    "https://www.meinvoice.vn/tin-tuc/17722/cach-tinh-thue-khoan-ho-kinh-doanh/",
-    # Van hanh: hoa don dien tu cho ho kinh doanh.
-    "https://easybooks.vn/hoa-don-ho-kinh-doanh/",
-    # Van hanh: muc phat cham nop ho so khai thue tu 2026.
-    "https://einvoice.vn/tin-tuc/muc-phat-cham-nop-ho-so-khai-thue",
+    # TOAN VAN Nghi dinh 141/2026/ND-CP: sua "500 trieu dong" thanh "01 ty dong"
+    # tai Dieu 3, Dieu 4 ND68/2026. Ban PDF ky so tren vanban.chinhphu.vn la anh
+    # scan khong co lop text, nen day la nguon van ban day du duy nhat doc duoc.
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-141-2026-nd-cp-nang-nguong-doanh-thu-khong-phai-chiu-thue-len-1-ty-dong-119260504154326455.htm",
+    # Huong dan trien khai ND141/2026.
+    "https://xaydungchinhsach.chinhphu.vn/huong-dan-trien-khai-nghi-dinh-so-141-2026-nd-cp-ve-chinh-sach-thue-doi-voi-ho-kinh-doanh-doanh-nghiep-119260502203430701.htm",
+    # Nang nguong chiu thue len 1 ty dong/nam, ap dung tu 01/01/2026.
+    "https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm",
+    # Thue suat / ty le theo tung hoat dong kinh doanh cua ho kinh doanh.
+    "https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm",
+    # Luu y khi ke khai thue theo ky (ho so, thoi han).
+    "https://xaydungchinhsach.chinhphu.vn/luu-y-chinh-trong-ky-khai-thue-quy-i-2026-119260312174235595.htm",
+    # Muc phat tien trong xu phat vi pham hanh chinh ve quan ly thue.
+    "https://xaydungchinhsach.chinhphu.vn/muc-phat-tien-trong-xu-phat-vi-pham-hanh-chinh-ve-quan-ly-thue-119260331093932736.htm",
+    # Diem moi ND254/2026 + TT91/2026 ve hoa don dien tu, chung tu dien tu.
+    "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-cua-nghi-dinh-254-2026-nd-cp-va-thong-tu-91-2026-tt-btc-ve-hoa-don-dien-tu-chung-tu-dien-tu-119260717143502375.htm",
 ]
 
 
