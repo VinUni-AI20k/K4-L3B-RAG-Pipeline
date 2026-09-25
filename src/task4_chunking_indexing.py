@@ -59,12 +59,12 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
             _gemini_client = genai.Client(api_key=api_key)
 
         embeddings: list[list[float]] = []
-        batch_size = 50
+        batch_size = 20
         import time
 
         for i in range(0, len(texts), batch_size):
             batch = texts[i : i + batch_size]
-            max_retries = 5
+            max_retries = 8
             for attempt in range(max_retries):
                 try:
                     response = _gemini_client.models.embed_content(
@@ -77,7 +77,7 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
                 except Exception as err:
                     err_str = str(err)
                     if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
-                        wait_sec = 5 * (attempt + 1)
+                        wait_sec = 10 * (attempt + 1)
                         print(f"Rate limited (429). Retrying batch {i // batch_size + 1} in {wait_sec}s...")
                         time.sleep(wait_sec)
                     else:
@@ -86,7 +86,10 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
                 raise RuntimeError(f"Failed to embed batch starting at index {i} after {max_retries} retries")
 
             if i + batch_size < len(texts):
-                time.sleep(1.0)
+                time.sleep(3.0)
+            batch_num = i // batch_size + 1
+            total_batches = (len(texts) + batch_size - 1) // batch_size
+            print(f"  Embedded batch {batch_num}/{total_batches} ({min(i + batch_size, len(texts))}/{len(texts)} chunks)")
 
         return embeddings
 
