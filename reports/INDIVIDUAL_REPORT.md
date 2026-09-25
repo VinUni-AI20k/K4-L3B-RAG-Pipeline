@@ -12,10 +12,17 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
+<<<<<<< Updated upstream
 - Họ và tên:Tô Anh Đức
 - Mã học viên:2A202602639
 - Nhóm:
 - Repository/branch:
+=======
+- Họ và tên: Hồ Hoàng Phương Anh 
+- Mã học viên: 2A202602460
+- Nhóm: Hello World
+- Repository/branch: https://github.com/abbeyIsMe/K4-L3B-RAG-Pipeline
+>>>>>>> Stashed changes
 
 ## Phần việc đã thực hiện
 
@@ -52,5 +59,5 @@ Mô tả tối đa hai quyết định mà bạn trực tiếp tham gia:
 
 Tôi xác nhận nội dung trên phản ánh đúng phần việc của mình và có thể giải thích hoặc chạy lại trong buổi demo.
 
-- Ngày:
-- Tên thành viên:
+- Ngày: 25/09/2026
+- Tên thành viên: Hồ Hoàng Phương ANh 
