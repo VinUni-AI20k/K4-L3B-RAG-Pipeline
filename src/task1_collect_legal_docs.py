@@ -25,20 +25,18 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
 
+    import requests
+    
+    sources = {
+        "chienluoc-marketing-dulich-vietnam.pdf": "https://images.vietnamtourism.gov.vn/vn/dmdocuments/2023/qdpheduyetchienluocmarketing.pdf",
+        "sotay-dulich-congdong-vietnam.pdf": "https://images.vietnamtourism.gov.vn/vn/dmdocuments/CBTHandbookVNonepage.pdf",
+        "camnang-dulich-saigon.pdf": "https://sodulich.hochiminhcity.gov.vn/UPLOADS/TINTUC/FILE/2022/7/202207291137205728.pdf",
+    }
+    for filename, url in sources.items():
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        (DATA_DIR / filename).write_bytes(response.content)
 
 if __name__ == "__main__":
     setup_directory()
