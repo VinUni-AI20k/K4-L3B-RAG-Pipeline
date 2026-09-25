@@ -15,36 +15,49 @@ Cài browser trước khi chạy:
 
 import asyncio
 import json
+import os
+from datetime import datetime, timezone
 from pathlib import Path
+
+from dotenv import load_dotenv
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
+load_dotenv()
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    url.strip() for url in os.getenv("ARTICLE_URLS", "").split(",") if url.strip()
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    if not url.startswith(("http://", "https://")):
+        raise ValueError(f"Invalid public URL: {url!r}")
+    from crawl4ai import AsyncWebCrawler
+
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+    if getattr(result, "success", True) is False:
+        raise RuntimeError(getattr(result, "error_message", "crawl failed"))
+    metadata = getattr(result, "metadata", None) or {}
+    markdown = getattr(result, "markdown", "")
+    if not isinstance(markdown, str):
+        markdown = getattr(markdown, "raw_markdown", str(markdown))
+    if not markdown.strip():
+        raise ValueError(f"Crawler returned empty content for {url}")
+    return {
+        "url": url,
+        "title": str(metadata.get("title") or url),
+        "date_crawled": datetime.now(timezone.utc).isoformat(),
+        "content_markdown": markdown.strip(),
+    }
 
 
 async def crawl_all() -> None:
     """Crawl và lưu từng bài thành một file JSON."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    if len(ARTICLE_URLS) < 5:
+        raise ValueError("ARTICLE_URLS must contain at least 5 public URLs")
 
     for index, url in enumerate(ARTICLE_URLS, 1):
         try:
