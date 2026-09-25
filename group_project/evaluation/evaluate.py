@@ -82,6 +82,16 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
         context_recall,
     ]
     
+    from ragas.run_config import RunConfig
+
+    # Giới hạn 2 luồng đồng thời và tăng timeout để tránh nghẽn API Gemini
+    run_config = RunConfig(
+        timeout=300,
+        max_workers=2,
+        max_wait=120,
+        max_retries=10,
+    )
+
     gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
     openai_key = os.getenv("OPENAI_API_KEY", "").strip()
 
@@ -89,9 +99,15 @@ def run_evaluation(dataset_path: str, retrieval_method: str):
         from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
         judge_llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash-lite", google_api_key=gemini_key)
         judge_embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001", google_api_key=gemini_key)
-        eval_results = evaluate(eval_dataset, metrics=metrics, llm=judge_llm, embeddings=judge_embeddings)
+        eval_results = evaluate(
+            eval_dataset,
+            metrics=metrics,
+            llm=judge_llm,
+            embeddings=judge_embeddings,
+            run_config=run_config,
+        )
     else:
-        eval_results = evaluate(eval_dataset, metrics=metrics)
+        eval_results = evaluate(eval_dataset, metrics=metrics, run_config=run_config)
     
     return eval_results
 
