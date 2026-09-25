@@ -20,36 +20,48 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
-ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+ARTICLE_URLS = [ 
+    "https://uet.vnu.edu.vn/ke-hoach-ket-thuc-khoa-hoc-cua-cac-lop-qh-2021-k66-chuong-trinh-ky-su-cac-khoa-cu-va-tn-truoc-han-dot-xet-thang-01-2026/",
+    "https://uet.vnu.edu.vn/thong-bao-so-5-ve-trien-khai-cho-sinh-vien-tham-gia-bhyt-nam-2026/",
+    "https://uet.vnu.edu.vn/tham-gia-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep/",
+    "https://uet.vnu.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-khoa-hoc-cong-nghe-dao-tao-thac-si-tien-si-du-hoc-nuoc-ngoai-cua-tap-doan-vingroup/",
+    "https://uet.vnu.edu.vn/tong-hop-ve-hoc-bong-bac-sau-dai-hoc-tai-uet-nam-2021/",
+    "https://uet.vnu.edu.vn/thong-tin-hoc-bong-vingroup/",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    """Crawl một bài viết qua Crawl4AI và trả về metadata cùng nội dung markdown."""
+    from datetime import datetime
+    from crawl4ai import AsyncWebCrawler
+
+    async with AsyncWebCrawler(verbose=False) as crawler:
+        result = await crawler.arun(url=url)
+        title = "Thông báo UET"
+        if result.metadata and result.metadata.get("title"):
+            title = result.metadata["title"].strip()
+        markdown_content = result.markdown or ""
+        
+        return {
+            "url": url,
+            "title": title,
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": markdown_content,
+        }
 
 
-async def crawl_all() -> None:
+async def crawl_all(force: bool = False) -> None:
     """Crawl và lưu từng bài thành một file JSON."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     for index, url in enumerate(ARTICLE_URLS, 1):
+        output = DATA_DIR / f"article_{index:02d}.json"
+        if not force and output.exists() and output.stat().st_size > 100:
+            print(f"Skipping existing: {output.name} (use force=True to re-crawl)")
+            continue
         try:
+            print(f"Crawling ({index}/{len(ARTICLE_URLS)}): {url}")
             article = await crawl_article(url)
-            output = DATA_DIR / f"article_{index:02d}.json"
             output.write_text(
                 json.dumps(article, ensure_ascii=False, indent=2),
                 encoding="utf-8",
