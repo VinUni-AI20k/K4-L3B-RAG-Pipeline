@@ -1,0 +1,17 @@
+[
+    { "question": "Chính sách hoàn học phí là gì?", "expected_answer": "Tiền hoàn học phí được xử lý trong vòng 30 ngày.", "expected_context": "tuition-policy.md" },
+    { "question": "Thư viện mở cửa lúc mấy giờ?", "expected_answer": "Thư viện mở cửa lúc 8:00 sáng vào các ngày trong tuần.", "expected_context": "library.md" },
+    { "question": "Làm thế nào để xin nghỉ phép?", "expected_answer": "Nộp đơn xin nghỉ cho phòng Nhân sự trước ít nhất 3 ngày.", "expected_context": "hr-policy.md" },
+    { "question": "Thang điểm là gì?", "expected_answer": "A: 90-100, B: 80-89, C: 70-79.", "expected_context": "grading.md" },
+    { "question": "Làm thế nào để yêu cầu bảng điểm?", "expected_answer": "Gửi yêu cầu qua cổng thông tin sinh viên và thanh toán phí xử lý.", "expected_context": "transcript.md" },
+    { "question": "Mức phạt khi thanh toán trễ là bao nhiêu?", "expected_answer": "Áp dụng mức phạt 5% đối với các khoản thanh toán trễ hạn.", "expected_context": "tuition-policy.md" },
+    { "question": "Cần bao nhiêu tín chỉ để tốt nghiệp?", "expected_answer": "Cần 120 tín chỉ để tốt nghiệp.", "expected_context": "curriculum.md" },
+    { "question": "Chính sách hoàn tiền đối với chỗ ở là gì?", "expected_answer": "Tiền hoàn được tính theo tỷ lệ số ngày đã sử dụng.", "expected_context": "accommodation.md" },
+    { "question": "Ngưỡng để bị cảnh cáo học vụ là bao nhiêu?", "expected_answer": "GPA dưới 2.0 sẽ dẫn đến tình trạng cảnh cáo học vụ.", "expected_context": "academic-policy.md" },
+    { "question": "Làm thế nào để chuyển ngành?", "expected_answer": "Nộp đơn chuyển ngành trước khi học kỳ bắt đầu.", "expected_context": "advising.md" },
+    { "question": "Quy trình khiếu nại là gì?", "expected_answer": "Nộp đơn khiếu nại lên hội đồng trong vòng 14 ngày.", "expected_context": "appeals.md" },
+    { "question": "Làm thế nào để báo cáo hành vi sai phạm?", "expected_answer": "Báo cáo thông qua đường dây nóng về đạo đức hoặc email.", "expected_context": "conduct.md" },
+    { "question": "Mức phạt trả sách thư viện trễ là bao nhiêu?", "expected_answer": "Áp dụng mức phạt 1 USD cho mỗi ngày trả trễ.", "expected_context": "library.md" },
+    { "question": "Làm thế nào để yêu cầu hỗ trợ dành cho người khuyết tật?", "expected_answer": "Liên hệ bộ phận dịch vụ sinh viên và cung cấp giấy tờ chứng minh.", "expected_context": "student-services.md" },
+    { "question": "Tuần định hướng diễn ra khi nào?", "expected_answer": "Tuần định hướng diễn ra vào tuần đầu tiên của học kỳ.", "expected_context": "orientation.md" }
+]

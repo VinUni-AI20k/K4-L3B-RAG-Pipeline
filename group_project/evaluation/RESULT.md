@@ -4,13 +4,13 @@
 
 | Field                              | Value |
 | ---------------------------------- | ----- |
-| Evaluation date                    | 2026-09-25 |
+| Evaluation date                   | 2026-09-25 |
 | Framework and version              | Deterministic retrieval audit, Python 3.11 |
-| Evaluator model                    | N/A - chưa chạy evaluator LLM |
-| Generator model                    | gpt-4o-mini (cấu hình trong `.env`) |
-| Embedding model                    | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 |
-| Corpus version/commit              | branch `tainangtre`, corpus commit `99c00fa` |
-| Golden dataset size                | 15 |
+| Evaluator model                   | N/A - chưa chạy evaluator LLM |
+| Generator model                   | gpt-4o-mini (cấu hình trong `.env`) |
+| Embedding model                   | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 |
+| Corpus version/commit             | branch `tainangtre`, corpus commit `99c00fa` |
+| Golden dataset size               | 15 |
 | `top_k`                            | 3 |
 | Fallback threshold and calibration | 0.6; in-domain dense score khoảng 0.72-0.86, out-of-domain khoảng 0.28-0.45 |
 
@@ -19,17 +19,19 @@
 - **Config A — dense-only:** Task 5 semantic search, không RRF.
 - **Config B — hybrid + RRF:** Task 5 + Task 6 BM25, hợp nhất bằng Task 7 RRF.
 
-Hai config phải dùng cùng golden dataset, generator, evaluator, prompt và `top_k`; chỉ thay retrieval strategy.
+Hai config dùng cùng golden dataset, corpus, embedding model và `top_k=3`; chỉ thay retrieval strategy.
 
 ## Overall scores
 
-| Metric            | Config A | Config B | Delta B−A |
+| Metric            | Config A | Config B | Delta B-A |
 | ----------------- | -------: | -------: | --------: |
 | Faithfulness      | N/A      | N/A      | N/A       |
 | Answer relevance  | N/A      | N/A      | N/A       |
 | Context recall    | 0.600    | 0.733    | +0.133    |
 | Context precision | 0.289    | 0.356    | +0.067    |
 | **Average**       | N/A      | N/A      | N/A       |
+
+Faithfulness và answer relevance chưa được chấm bằng evaluator LLM vì chưa có output answer/judge. Các số liệu retrieval đã ghi là audit xác định theo `expected_context` của golden dataset; Config B hit đúng 11/15 câu.
 
 ## A/B comparison
 
@@ -49,12 +51,12 @@ Hai config phải dùng cùng golden dataset, generator, evaluator, prompt và `
 
 | Priority | Action | Evidence from failure analysis | Expected impact | How to verify |
 | -------: | ------ | ------------------------------ | --------------- | ------------- |
-|        1 | Tăng recall cho tài liệu dài bằng chunking theo section/table và metadata field | 4/15 hybrid cases chưa hit đúng expected source | Cải thiện context recall | Chạy lại audit 15 golden cases |
-|        2 | Bổ sung query expansion cho mã phương thức, deadline và thông tin liên hệ | Các câu hỏi factual ngắn dễ bị chunk liên quan cạnh tranh | Cải thiện top-k precision | So sánh trên cùng golden set |
-|        3 | Chạy evaluator LLM cho faithfulness và answer relevance | Hai metric này hiện chưa có số đo độc lập | Hoàn thiện đủ 4 metric | Chạy evaluator trên cả Config A và Config B |
+| 1 | Tăng recall cho tài liệu dài bằng chunking theo section/table và metadata field | 4/15 hybrid cases chưa hit đúng expected source | Cải thiện context recall cho mã phương thức, deadline và số điện thoại | Chạy lại audit 15 golden cases |
+| 2 | Bổ sung query expansion cho mã phương thức, deadline và thông tin liên hệ | Các câu hỏi factual ngắn dễ bị chunk liên quan cạnh tranh | Cải thiện top-k precision | So sánh dense-only, hybrid và expansion trên cùng golden set |
+| 3 | Chạy evaluator LLM cho faithfulness và answer relevance | Hai metric này hiện chưa có số đo độc lập | Hoàn thiện đủ 4 metric theo rubric | Chạy evaluator trên cả Config A và Config B |
 
 ## Bonus experiments
 
 | Experiment | Baseline | Metric delta | Latency/cost delta | Conclusion |
 | ---------- | -------- | -----------: | -----------------: | ---------- |
-| MiniLM dense vs TF-IDF fallback trong UI | MiniLM dense | N/A | TF-IDF không cần tải model thứ hai | Dùng làm baseline; BGE-M3 chưa tải hoàn chỉnh |
+| MiniLM dense vs TF-IDF fallback trong UI | MiniLM dense | N/A | TF-IDF không cần tải model thứ hai | Dùng làm baseline hiển thị; BGE-M3 chưa tải hoàn chỉnh |
