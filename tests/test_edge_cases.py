@@ -190,7 +190,6 @@ def test_crawl_article_raises_when_crawl_reports_failure(monkeypatch):
         asyncio.run(task2.crawl_article("https://example.com/blocked"))
 
 
-<<<<<<< HEAD
 def _generation_chunk() -> dict:
     return {
         "id": "chunk-0",
@@ -269,7 +268,6 @@ def test_generate_returns_safe_refusal_on_llm_error(monkeypatch):
         "retrieval_source": "none",
     }
     validate_generation_result(result)
-=======
 def test_chunk_documents_handles_tiny_content():
     from src.task4_chunking_indexing import chunk_documents
 
@@ -290,4 +288,3 @@ def test_chunk_documents_handles_tiny_content():
     assert chunks[0]["id"] == "tiny::chunk-0"
     assert chunks[0]["metadata"]["chunk_index"] == 0
     assert chunks[0]["content"].strip()
->>>>>>> 0db1225ca7ac9579f3a53cb314c6dff293ebaac6
