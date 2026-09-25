@@ -1,0 +1,113 @@
+{"kind":"deck","id":"pr/4alxq2","name":"Deck"}
+{"kind":"layout","layoutId":"83db2b41-ab0c-4b8a-83a9-97ff694f34a1","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2de212d4-68bf-4f1e-b732-7c7c94ea4855","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/t9fof6","slide":1,"title":"IELTS WRITING  /  RAG","textShapes":7}
+{"kind":"shape","id":"sh/i5c3at4n","slide":1,"bbox":[0,0,16,720]}
+{"kind":"shape","id":"sh/5snm5one","slide":1,"bbox":[862,0,418,720]}
+{"kind":"textbox","id":"sh/4re5c3mt","slide":1,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[78,64,540,32]}
+{"kind":"textbox","id":"sh/ru547y5k","slide":1,"text":"Hỏi đáp có\nnguồn kiểm chứng","textPreview":"Hỏi đáp có | nguồn kiểm chứng","textChars":27,"textLines":2,"bbox":[78,176,760,188]}
+{"kind":"textbox","id":"sh/qtwnet4z","slide":1,"text":"Trợ lý truy xuất tài liệu và trả lời kèm trích dẫn","textPreview":"Trợ lý truy xuất tài liệu và trả lời kèm trích dẫn","textChars":50,"textLines":1,"bbox":[82,402,720,72]}
+{"kind":"textbox","id":"sh/dwnm98na","slide":1,"text":"TÀI LIỆU","textPreview":"TÀI LIỆU","textChars":8,"textLines":1,"bbox":[900,236,250,35]}
+{"kind":"shape","id":"sh/cve5g3mp","slide":1,"bbox":[900,284,190,9]}
+{"kind":"shape","id":"sh/7y14ve50","slide":1,"bbox":[900,284,136,9]}
+{"kind":"textbox","id":"sh/6xs3294f","slide":1,"text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[900,335,250,35]}
+{"kind":"shape","id":"sh/sj21o7ax","slide":1,"bbox":[900,383,190,9]}
+{"kind":"shape","id":"sh/tkb2xcri","slide":1,"bbox":[900,383,166,9]}
+{"kind":"textbox","id":"sh/6hkjmhsr","slide":1,"text":"CÂU TRẢ LỜI  [S1]","textPreview":"CÂU TRẢ LỜI  [S1]","textChars":17,"textLines":1,"bbox":[900,434,300,35]}
+{"kind":"textbox","id":"sh/rit0v29c","slide":1,"text":"30 câu hỏi đánh giá  ·  5 trang nguồn","textPreview":"30 câu hỏi đánh giá  ·  5 trang nguồn","textChars":37,"textLines":1,"bbox":[82,604,650,32]}
+{"kind":"notes","id":"nt/t9fof6","slide":1,"text":"Giới thiệu Ask IELTS Writing: truy xuất bằng chứng từ corpus đã thu thập và sinh câu trả lời có trích dẫn. Corpus benchmark hiện gồm 5 trang chuẩn hóa; golden set 30 câu hỏi tiếng Anh."}
+{"kind":"slide","id":"sl/o0fv7g","slide":2,"title":"IELTS WRITING  /  RAG","textShapes":15}
+{"kind":"textbox","id":"sh/hcje9obq","slide":2,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[72,38,470,28]}
+{"kind":"textbox","id":"sh/u9svy9cz","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,38,40,28]}
+{"kind":"textbox","id":"sh/fa1w7edk","slide":2,"text":"Phạm vi & dữ liệu","textPreview":"Phạm vi & dữ liệu","textChars":17,"textLines":1,"bbox":[72,88,1130,70]}
+{"kind":"textbox","id":"sh/4fux4juh","slide":2,"text":"HỎI ĐÁP TRONG IELTS WRITING","textPreview":"HỎI ĐÁP TRONG IELTS WRITING","textChars":27,"textLines":1,"bbox":[74,185,520,34]}
+{"kind":"textbox","id":"sh/pg3edobm","slide":2,"text":"Task 1/2  ·  tiêu chí  ·  band descriptors","textPreview":"Task 1/2  ·  tiêu chí  ·  band descriptors","textChars":42,"textLines":1,"bbox":[74,229,520,74]}
+{"kind":"textbox","id":"sh/2dsf2tcb","slide":2,"text":"NGUỒN HIỆN CÓ","textPreview":"NGUỒN HIỆN CÓ","textChars":13,"textLines":1,"bbox":[74,341,270,32]}
+{"kind":"textbox","id":"sh/3e1wbetw","slide":2,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[72,384,190,124]}
+{"kind":"textbox","id":"sh/c3ux83ud","slide":2,"text":"trang Markdown","textPreview":"trang Markdown","textChars":14,"textLines":1,"bbox":[76,514,270,36]}
+{"kind":"shape","id":"sh/d43eh8by","slide":2,"bbox":[430,190,0,370]}
+{"kind":"textbox","id":"sh/9g3upsju","slide":2,"text":"GOLDEN SET","textPreview":"GOLDEN SET","textChars":10,"textLines":1,"bbox":[492,185,380,34]}
+{"kind":"textbox","id":"sh/8fudgn29","slide":2,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[488,284,310,142]}
+{"kind":"textbox","id":"sh/nelcni14","slide":2,"text":"câu hỏi","textPreview":"câu hỏi","textChars":7,"textLines":1,"bbox":[495,425,300,44]}
+{"kind":"textbox","id":"sh/mdcvedkj","slide":2,"text":"3 nhóm thử thách","textPreview":"3 nhóm thử thách","textChars":16,"textLines":1,"bbox":[495,489,360,42]}
+{"kind":"shape","id":"sh/x4netsj6","slide":2,"bbox":[875,190,0,370]}
+{"kind":"textbox","id":"sh/w3edkn2l","slide":2,"text":"10 + 10 + 10","textPreview":"10 + 10 + 10","textChars":12,"textLines":1,"bbox":[924,278,300,68]}
+{"kind":"textbox","id":"sh/v2lwr210","slide":2,"text":"từ khóa  ·  diễn đạt lại\nnhiều ràng buộc","textPreview":"từ khóa  ·  diễn đạt lại | nhiều ràng buộc","textChars":40,"textLines":2,"bbox":[926,357,300,105]}
+{"kind":"textbox","id":"sh/a1cvixkf","slide":2,"text":"Câu hỏi benchmark bằng tiếng Anh","textPreview":"Câu hỏi benchmark bằng tiếng Anh","textChars":32,"textLines":1,"bbox":[926,494,300,54]}
+{"kind":"notes","id":"nt/o0fv7g","slide":2,"text":"Golden set: 30 câu, chia đều BM25-targeted, semantic paraphrase và multi-constraint. Benchmark retrieval dùng câu hỏi tiếng Anh phù hợp ngôn ngữ corpus."}
+{"kind":"slide","id":"sl/qjr9wb","slide":3,"title":"IELTS WRITING  /  RAG","textShapes":24}
+{"kind":"textbox","id":"sh/bqt83ml4","slide":3,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[72,38,470,28]}
+{"kind":"textbox","id":"sh/cr29w7mp","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,38,40,28]}
+{"kind":"textbox","id":"sh/xsbq5c3a","slide":3,"text":"Kiến trúc RAG","textPreview":"Kiến trúc RAG","textChars":13,"textLines":1,"bbox":[72,88,1130,70]}
+{"kind":"textbox","id":"sh/2lk76x4n","slide":3,"text":"Từ tài liệu nguồn đến câu trả lời có thể kiểm chứng","textPreview":"Từ tài liệu nguồn đến câu trả lời có thể kiểm chứng","textChars":51,"textLines":1,"bbox":[74,164,1000,44]}
+{"kind":"textbox","id":"sh/nmt8z2l8","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[106,286,78,78]}
+{"kind":"shape","id":"sh/on2987mt","slide":3,"bbox":[195,325,141,0]}
+{"kind":"textbox","id":"sh/pobq1c3y","slide":3,"text":"›","textPreview":"›","textChars":1,"textLines":1,"bbox":[320,302,34,44]}
+{"kind":"textbox","id":"sh/mh4r214r","slide":3,"text":"Nguồn","textPreview":"Nguồn","textChars":5,"textLines":1,"bbox":[37,398,216,44]}
+{"kind":"textbox","id":"sh/7id8b6lc","slide":3,"text":"IELTS + bài viết","textPreview":"IELTS + bài viết","textChars":16,"textLines":1,"bbox":[37,447,216,54]}
+{"kind":"textbox","id":"sh/r6pcj2d0","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[353,286,78,78]}
+{"kind":"shape","id":"sh/q5gvqxcv","slide":3,"bbox":[442,325,141,0]}
+{"kind":"textbox","id":"sh/dsrulsv6","slide":3,"text":"›","textPreview":"›","textChars":1,"textLines":1,"bbox":[567,302,34,44]}
+{"kind":"textbox","id":"sh/cryds7ul","slide":3,"text":"Chuẩn hóa","textPreview":"Chuẩn hóa","textChars":9,"textLines":1,"bbox":[284,398,216,44]}
+{"kind":"textbox","id":"sh/zu9cn2dc","slide":3,"text":"Markdown","textPreview":"Markdown","textChars":8,"textLines":1,"bbox":[284,447,216,54]}
+{"kind":"textbox","id":"sh/et0vuxcr","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[600,286,78,78]}
+{"kind":"shape","id":"sh/1wrupcvi","slide":3,"bbox":[689,325,141,0]}
+{"kind":"textbox","id":"sh/0vidw7ux","slide":3,"text":"›","textPreview":"›","textChars":1,"textLines":1,"bbox":[814,302,34,44]}
+{"kind":"textbox","id":"sh/ny9wrmd8","slide":3,"text":"Lập chỉ mục","textPreview":"Lập chỉ mục","textChars":11,"textLines":1,"bbox":[531,398,216,44]}
+{"kind":"textbox","id":"sh/mx0vyhc3","slide":3,"text":"ChromaDB + BM25","textPreview":"ChromaDB + BM25","textChars":15,"textLines":1,"bbox":[531,447,216,54]}
+{"kind":"textbox","id":"sh/yt4fqlwb","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[847,286,78,78]}
+{"kind":"shape","id":"sh/judgzqxg","slide":3,"bbox":[936,325,141,0]}
+{"kind":"textbox","id":"sh/kvmxsbe1","slide":3,"text":"›","textPreview":"›","textChars":1,"textLines":1,"bbox":[1061,302,34,44]}
+{"kind":"textbox","id":"sh/lwvy1gfm","slide":3,"text":"Truy xuất","textPreview":"Truy xuất","textChars":9,"textLines":1,"bbox":[778,398,216,44]}
+{"kind":"textbox","id":"sh/apkfm1wz","slide":3,"text":"Dense + RRF","textPreview":"Dense + RRF","textChars":11,"textLines":1,"bbox":[778,447,216,54]}
+{"kind":"textbox","id":"sh/bqtgv6xk","slide":3,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1094,286,78,78]}
+{"kind":"textbox","id":"sh/wrmxobe5","slide":3,"text":"Trả lời","textPreview":"Trả lời","textChars":7,"textLines":1,"bbox":[1025,398,216,44]}
+{"kind":"textbox","id":"sh/xsvyxgfq","slide":3,"text":"LLM + [S#]","textPreview":"LLM + [S#]","textChars":10,"textLines":1,"bbox":[1025,447,216,54]}
+{"kind":"textbox","id":"sh/ulozy5w3","slide":3,"text":"Chunk theo heading  ·  tối đa 1.200 ký tự  ·  không overlap","textPreview":"Chunk theo heading  ·  tối đa 1.200 ký tự  ·  không overlap","textChars":59,"textLines":1,"bbox":[75,584,1100,38]}
+{"kind":"notes","id":"nt/qjr9wb","slide":3,"text":"Luồng: thu thập -> chuẩn hóa Markdown -> chunk và lập chỉ mục -> semantic + lexical retrieval -> RRF -> grounded generation. Chunking mới giới hạn 1200 ký tự, 0 overlap, giữ breadcrumb heading. Vector index lưu trong ChromaDB."}
+{"kind":"slide","id":"sl/k81c1z","slide":4,"title":"IELTS WRITING  /  RAG","textShapes":17}
+{"kind":"textbox","id":"sh/i183alwn","slide":4,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[72,38,470,28]}
+{"kind":"textbox","id":"sh/5ozml0vy","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,38,40,28]}
+{"kind":"textbox","id":"sh/4nq5cvud","slide":4,"text":"Truy xuất: hai tín hiệu, một thứ hạng","textPreview":"Truy xuất: hai tín hiệu, một thứ hạng","textChars":37,"textLines":1,"bbox":[72,88,1130,70]}
+{"kind":"textbox","id":"sh/rq14nad4","slide":4,"text":"SEMANTIC","textPreview":"SEMANTIC","textChars":8,"textLines":1,"bbox":[90,190,300,35]}
+{"kind":"textbox","id":"sh/6p8ne5cj","slide":4,"text":"Dense","textPreview":"Dense","textChars":5,"textLines":1,"bbox":[90,238,300,58]}
+{"kind":"textbox","id":"sh/tsjmp0va","slide":4,"text":"Tìm đoạn gần nghĩa","textPreview":"Tìm đoạn gần nghĩa","textChars":18,"textLines":1,"bbox":[90,308,320,42]}
+{"kind":"textbox","id":"sh/sra5gfup","slide":4,"text":"Cosine similarity","textPreview":"Cosine similarity","textChars":17,"textLines":1,"bbox":[90,357,320,32]}
+{"kind":"textbox","id":"sh/fu14rad0","slide":4,"text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[447,264,100,70]}
+{"kind":"textbox","id":"sh/etsni5cv","slide":4,"text":"TỪ KHÓA","textPreview":"TỪ KHÓA","textChars":7,"textLines":1,"bbox":[575,190,300,35]}
+{"kind":"textbox","id":"sh/wjy9cnqt","slide":4,"text":"BM25","textPreview":"BM25","textChars":4,"textLines":1,"bbox":[575,238,300,58]}
+{"kind":"textbox","id":"sh/hk7q5s7e","slide":4,"text":"Khớp thuật ngữ cụ thể","textPreview":"Khớp thuật ngữ cụ thể","textChars":21,"textLines":1,"bbox":[575,308,350,42]}
+{"kind":"textbox","id":"sh/uhwrax83","slide":4,"text":"Lexical ranking","textPreview":"Lexical ranking","textChars":15,"textLines":1,"bbox":[575,357,320,32]}
+{"kind":"shape","id":"sh/vi583ip8","slide":4,"bbox":[92,430,1093,0]}
+{"kind":"textbox","id":"sh/47y9g7q5","slide":4,"text":"RRF  k=60","textPreview":"RRF  k=60","textChars":9,"textLines":1,"bbox":[92,462,300,52]}
+{"kind":"textbox","id":"sh/587q9c7q","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[390,460,90,54]}
+{"kind":"textbox","id":"sh/ilgrex8z","slide":4,"text":"Top 5 đoạn liên quan","textPreview":"Top 5 đoạn liên quan","textChars":20,"textLines":1,"bbox":[490,462,500,52]}
+{"kind":"textbox","id":"sh/j6p872pk","slide":4,"text":"Embedding mặc định pipeline: BAAI/bge-m3","textPreview":"Embedding mặc định pipeline: BAAI/bge-m3","textChars":40,"textLines":1,"bbox":[92,574,750,38]}
+{"kind":"textbox","id":"sh/sbi9k7q1","slide":4,"text":"Benchmark: all-mpnet-base-v2","textPreview":"Benchmark: all-mpnet-base-v2","textChars":28,"textLines":1,"bbox":[92,615,750,30]}
+{"kind":"notes","id":"nt/k81c1z","slide":4,"text":"RRF gộp hai danh sách xếp hạng với k=60, xuất top 5. Embedding production mặc định BAAI/bge-m3; benchmark retrieval hiện dùng sentence-transformers/all-mpnet-base-v2. Metric benchmark chưa đại diện chính xác cho BGE-M3."}
+{"kind":"slide","id":"sl/lph0o3","slide":5,"title":"IELTS WRITING  /  RAG","textShapes":12}
+{"kind":"textbox","id":"sh/0f21cz2h","slide":5,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[72,38,470,28]}
+{"kind":"textbox","id":"sh/zetk3ulc","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,38,40,28]}
+{"kind":"textbox","id":"sh/ydkjap4r","slide":5,"text":"Câu trả lời có nguồn","textPreview":"Câu trả lời có nguồn","textChars":20,"textLines":1,"bbox":[72,88,1130,70]}
+{"kind":"textbox","id":"sh/94v2943e","slide":5,"text":"CÂU HỎI","textPreview":"CÂU HỎI","textChars":7,"textLines":1,"bbox":[76,192,210,32]}
+{"kind":"textbox","id":"sh/83m1gz2t","slide":5,"text":"Task 2 chiếm bao nhiêu\nđiểm Writing?","textPreview":"Task 2 chiếm bao nhiêu | điểm Writing?","textChars":36,"textLines":2,"bbox":[76,238,330,115]}
+{"kind":"textbox","id":"sh/n2dk7ul8","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[408,260,90,56]}
+{"kind":"shape","id":"sh/m14jepkn","slide":5,"bbox":[512,193,0,315]}
+{"kind":"textbox","id":"sh/p8rix03u","slide":5,"text":"BẰNG CHỨNG TRUY XUẤT","textPreview":"BẰNG CHỨNG TRUY XUẤT","textChars":20,"textLines":1,"bbox":[560,192,430,32]}
+{"kind":"textbox","id":"sh/o7i14fmp","slide":5,"text":"“Task 2 is worth two thirds.”","textPreview":"“Task 2 is worth two thirds.”","textChars":29,"textLines":1,"bbox":[560,242,590,80]}
+{"kind":"textbox","id":"sh/q14n298n","slide":5,"text":"[S1]  IELTS Writing Test Resources","textPreview":"[S1]  IELTS Writing Test Resources","textChars":34,"textLines":1,"bbox":[560,334,560,34]}
+{"kind":"shape","id":"sh/b2d4vep8","slide":5,"bbox":[76,424,1104,0]}
+{"kind":"textbox","id":"sh/c3m54jqt","slide":5,"text":"TRẢ LỜI","textPreview":"TRẢ LỜI","textChars":7,"textLines":1,"bbox":[76,462,180,30]}
+{"kind":"textbox","id":"sh/dofmxo7e","slide":5,"text":"Task 2 chiếm 2/3 tổng điểm Writing.  [S1]","textPreview":"Task 2 chiếm 2/3 tổng điểm Writing.  [S1]","textChars":41,"textLines":1,"bbox":[76,508,1080,64]}
+{"kind":"textbox","id":"sh/ypon6t8z","slide":5,"text":"Không đủ bằng chứng → từ chối an toàn","textPreview":"Không đủ bằng chứng → từ chối an toàn","textChars":37,"textLines":1,"bbox":[76,621,900,34]}
+{"kind":"notes","id":"nt/lph0o3","slide":5,"text":"Ví dụ dựa trên evidence trong golden dataset Q01. LLM mặc định deepseek-flash; câu trả lời chỉ dùng context truy xuất và dùng citation [S#]. Nếu nguồn không xác minh được, hệ thống từ chối an toàn. Streamlit hiển thị câu trả lời và nguồn."}
+{"kind":"slide","id":"sl/n67360","slide":6,"title":"IELTS WRITING  /  RAG","textShapes":7}
+{"kind":"textbox","id":"sh/a50zulkj","slide":6,"text":"IELTS WRITING  /  RAG","textPreview":"IELTS WRITING  /  RAG","textChars":21,"textLines":1,"bbox":[72,38,470,28]}
+{"kind":"textbox","id":"sh/x8rip03a","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,38,40,28]}
+{"kind":"textbox","id":"sh/w7ihwv2p","slide":6,"text":"Kết quả truy xuất","textPreview":"Kết quả truy xuất","textChars":17,"textLines":1,"bbox":[72,88,1130,70]}
+{"kind":"textbox","id":"sh/jat0ralg","slide":6,"text":"30 câu hỏi  ·  5 trang nguồn  ·  Hit@k = tìm thấy chunk chứa evidence","textPreview":"30 câu hỏi  ·  5 trang nguồn  ·  Hit@k = tìm thấy chunk chứa evidence","textChars":69,"textLines":1,"bbox":[74,158,1120,38]}
+{"kind":"textbox","id":"sh/5cbitk3m","slide":6,"text":"Hybrid dẫn đầu ở Hit@1 và MRR@5","textPreview":"Hybrid dẫn đầu ở Hit@1 và MRR@5","textChars":31,"textLines":1,"bbox":[76,555,730,48]}
+{"kind":"textbox","id":"sh/kb2h0f21","slide":6,"text":"Hit@5 bằng BM25","textPreview":"Hit@5 bằng BM25","textChars":15,"textLines":1,"bbox":[810,559,360,40]}
+{"kind":"textbox","id":"sh/7et0valc","slide":6,"text":"Đo truy xuất evidence, không đo độ đúng câu trả lời LLM.","textPreview":"Đo truy xuất evidence, không đo độ đúng câu trả lời LLM.","textChars":56,"textLines":1,"bbox":[76,626,1080,28]}
+{"kind":"table","id":"tb/vid0vu58","slide":6,"name":"","rows":4,"cols":5,"preview":"Phương thức | Hit@1 | Hit@3 | Hit@5 | MRR@5","bbox":[74,226,1132,300]}
+{"kind":"notes","id":"nt/n67360","slide":6,"text":"Nguồn: group_project/evaluation/RETRIEVAL_COMPARISON.md và golden_dataset.json. Chunking theo heading, tối đa 1200 ký tự, không overlap. Benchmark 30 câu tiếng Anh trên 5 trang. Dense model benchmark all-mpnet-base-v2; pipeline mặc định BAAI/bge-m3. Hit@k/MRR@5 đo truy xuất evidence, không đo chất lượng generation. Hybrid Hit@5 = BM25 = 0.900; Hybrid MRR@5 cao nhất = 0.764."}

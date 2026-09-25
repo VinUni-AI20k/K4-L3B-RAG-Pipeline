@@ -6,6 +6,22 @@ Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài 
 
 Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
 
+## Phạm vi dự án IELTS Writing
+
+Dự án có một scope chức năng: **Ask IELTS Writing**. Người dùng đặt câu hỏi về IELTS Writing; hệ thống chỉ trả lời dựa trên các đoạn dữ liệu truy xuất được, kèm citation. Nếu dữ liệu không đủ căn cứ hoặc câu hỏi nằm ngoài IELTS Writing, hệ thống từ chối trả lời. Danh sách nguồn cùng URL đầy đủ nằm trong [IELTS Writing Sources](docs/IELTS_WRITING_SOURCES.md).
+
+Backend Task 10 dùng `generate_with_citation(query)`:
+
+```python
+from src.task10_generation import generate_with_citation
+
+result = generate_with_citation("IELTS Academic Writing Task 2 được chấm theo tiêu chí nào?")
+```
+
+Cấu hình `LLM_PROVIDER=deepseek`, `LLM_MODEL=deepseek-flash` và `DEEPSEEK_API_KEY` trong `.env` để dùng DeepSeek.
+
+Embedding mặc định chạy local bằng `BAAI/bge-m3`; DeepSeek được dùng cho generation. PageIndex là fallback tùy chọn, cần `PAGEINDEX_API_KEY` riêng; để trống thì pipeline tiếp tục với hybrid retrieval.
+
 ## Sản phẩm phải nộp
 
 - Repository nhóm chạy được.

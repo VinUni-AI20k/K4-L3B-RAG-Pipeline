@@ -1,0 +1,431 @@
+[
+  {
+    "id": "Q01",
+    "gold_evidence_spans": [
+      "Task 1 is worth a third of your overall mark for Writing. Task 2 is worth two thirds."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Which Writing task contributes the larger share of the overall mark, and what fraction does it contribute?",
+    "evidence": "Task 2 contributes two thirds of the overall Writing mark, while Task 1 contributes one third.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-6"
+  },
+  {
+    "id": "Q02",
+    "gold_evidence_spans": [
+      "In Task 1, you have to describe some visual information in your own words (a graph, table, chart or diagram). You need to write at least 150 words in about 20 minutes. In Task 2, you are given a point of view, argument or problem which you need to discuss. You need to write at least 250 words in about 40 minutes.",
+      "For Task 1, you’re asked to write at least 150 words. This is the shorter of the two tasks, so it’s best to spend no more than 20 minutes on it. For Task 2, you’re asked to write at least 250 words, so it’s best to spend about 40 minutes on this task."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "What minimum response lengths and approximate time budgets apply to the two Academic Writing tasks?",
+    "evidence": "Task 1: at least 150 words and about 20 minutes. Task 2: at least 250 words and about 40 minutes.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_04_ielts-academic-format-writing.md::chunk-1",
+      "news/article_02_writing-test-resources.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_04_ielts-academic-format-writing.md::chunk-1"
+  },
+  {
+    "id": "Q03",
+    "gold_evidence_spans": [
+      "you should summarise the information by selecting and reporting the main features, and make comparisons where relevant",
+      "write a summary of the information by selecting and reporting the main features and making comparisons where relevant"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "When describing Academic Task 1 visual data, what should the writer select and report, and when should comparisons be made?",
+    "evidence": "Summarise the information by selecting and reporting its main features; make comparisons where relevant.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-8",
+      "news/article_02_writing-test-resources.md::chunk-17",
+      "news/article_04_ielts-academic-format-writing.md::chunk-10"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-8"
+  },
+  {
+    "id": "Q04",
+    "gold_evidence_spans": [
+      "depending on that situation, you may need to write a personal letter",
+      "a semi-formal letter",
+      "a formal letter"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "In a General Training Task 1 letter, how do the personal, semi-formal and formal categories change with the recipient and situation?",
+    "evidence": "The situation determines whether the letter is personal (for example, to a friend), semi-formal (to a manager), or formal (to someone not personally known).",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-10"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-10"
+  },
+  {
+    "id": "Q05",
+    "gold_evidence_spans": [
+      "Task Response is used for Task 2 responses. It assesses how fully you respond to the task; how your main ideas are extended and supported"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "For Task 2, what does the Task Response criterion assess about answering the question and developing main ideas?",
+    "evidence": "Task Response is used for Task 2; it assesses completeness of the response and how main ideas are extended and supported. Task Achievement is used for Task 1.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-12",
+      "news/article_04_ielts-academic-format-writing.md::chunk-3"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-12"
+  },
+  {
+    "id": "Q06",
+    "gold_evidence_spans": [
+      "The second criterion is Coherence and Cohesion. This assesses how well you’ve organised your response; how logical the development of the message is"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "How do the official explanations distinguish organisation/linking from vocabulary assessment, including what is judged about word choice?",
+    "evidence": "Coherence and Cohesion concerns organisation, logical development and links; Lexical Resource concerns vocabulary range, accuracy and appropriacy.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-13",
+      "news/article_04_ielts-academic-format-writing.md::chunk-5"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-13"
+  },
+  {
+    "id": "Q07",
+    "gold_evidence_spans": [
+      "The full assessment scales used by IELTS Writing examiners, are now available. These consist of the IELTS band descriptors and the detailed, key assessment criteria"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Which published reference can a learner consult to compare the full IELTS Writing descriptors and detailed assessment criteria across score levels?",
+    "evidence": "The full assessment scales used by Writing examiners, including the band descriptors and detailed key assessment criteria, were made available.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_01_ielts-writing-band-descriptors-and-key-assessment-criteria.md::chunk-0"
+    ],
+    "legacy_primary_chunk_id": "news/article_01_ielts-writing-band-descriptors-and-key-assessment-criteria.md::chunk-0"
+  },
+  {
+    "id": "Q08",
+    "gold_evidence_spans": [
+      "- 5 to 10 minutes reading the essay question and planning your answer - 15 to 20 minutes writing your first draft - 10 minutes proofreading and editing your essay"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "When planning a Task 2 essay, how does the recommended schedule divide time among planning, drafting, and the final revision stage?",
+    "evidence": "The breakdown is 5–10 minutes for reading/planning, 15–20 minutes for the first draft, and 10 minutes for proofreading/editing.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-4"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-4"
+  },
+  {
+    "id": "Q09",
+    "gold_evidence_spans": [
+      "Two or three body paragraphs, each addressing one issue or idea"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "What paragraph structure does the essay outline recommend, including the suggested number and role of body paragraphs?",
+    "evidence": "Use an introduction, two or three body paragraphs each addressing one issue or idea, and a conclusion that sums up the discussion.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-6"
+  },
+  {
+    "id": "Q10",
+    "gold_evidence_spans": [
+      "There is more than one main idea in each paragraph. Move any unrelated sentences to the correct paragraph. Each paragraph should address one issue only."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "During editing, what kind of idea placement makes a paragraph unfocused, and how should the writer fix it?",
+    "evidence": "A paragraph should address one issue only; move unrelated sentences to the paragraph where they belong.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-13"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-13"
+  },
+  {
+    "id": "Q11",
+    "gold_evidence_spans": [
+      "An overview is the part of the response that summarises the main points. That is, the main trends, changes, or number of steps"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "In a visual-summary response, what part condenses the dominant pattern rather than supplying the supporting particulars?",
+    "evidence": "The overview summarises the main points, such as the main trends, changes, or number of steps.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-21"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-21"
+  },
+  {
+    "id": "Q12",
+    "gold_evidence_spans": [
+      "The supporting information should include the figures, or numbers, provided and the position of the items on the map."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "When a map question asks about major changes over time, what two kinds of supporting detail should accompany the description?",
+    "evidence": "Support the major changes with the supplied figures and the positions of items on the map; compass directions can help describe locations.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-20"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-20"
+  },
+  {
+    "id": "Q13",
+    "gold_evidence_spans": [
+      "no sub-headings; no bullet-points; no greeting at the beginning or name at the end; and no diagrams, charts or tables"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "For the Academic visual task, which formatting elements are ruled out even when the response meets the minimum length?",
+    "evidence": "The response must be written in full without subheadings, bullet points, a greeting, a name/sign-off, or diagrams, charts and tables.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-18"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-18"
+  },
+  {
+    "id": "Q14",
+    "gold_evidence_spans": [
+      "Comparing or contrasting the information by adequately highlighting the key features"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "In Task 1, what does Task Achievement expect the writer to do with the visual's key features besides selecting them?",
+    "evidence": "Compare or contrast the key features, provide enough supporting detail, report accurately, and present an overview.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-24"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-24"
+  },
+  {
+    "id": "Q15",
+    "gold_evidence_spans": [
+      "the second bullet point asks you to explain your problems, which means explaining more than one problem. This bullet point also asks you to explain why it’s difficult to work, which means it has two parts."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "If one instruction in a letter prompt asks for both difficulties and their cause, how should a candidate treat that instruction to cover it fully?",
+    "evidence": "The example bullet contains two parts: explain more than one problem and explain why working is difficult. Both parts need to be addressed.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-33"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-33"
+  },
+  {
+    "id": "Q16",
+    "gold_evidence_spans": [
+      "For Band 7 or higher, the purpose should be clear. To achieve this, it helps to state the main purpose in the opening paragraph."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "What does the preparation advice recommend placing in the opening paragraph to make a Band 7 letter's purpose clear?",
+    "evidence": "State the main purpose in the opening paragraph so the reason for writing is clear.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-29"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-29"
+  },
+  {
+    "id": "Q17",
+    "gold_evidence_spans": [
+      "someone you don’t know personally. As a result, your letter should be formal, which means it should not be too chatty or too friendly. You’re asked to start your letter with Dear Sir or Madam."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "A candidate is writing to a company manager they have never met. What tone and greeting does the IELTS example recommend?",
+    "evidence": "Use a formal, not overly chatty or friendly, tone and begin with 'Dear Sir or Madam'.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-30"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-30"
+  },
+  {
+    "id": "Q18",
+    "gold_evidence_spans": [
+      "you need to discuss whether these advertisements have a bad effect on both children and their families. If you don’t discuss both, you will be limited to Band 5"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "If an essay prompt asks whether advertising harms children and their families, which parts must the response discuss to avoid being capped at Band 5 for Task Response?",
+    "evidence": "Address both children and their families; omitting either main part limits the response to Band 5. Give reasons and relevant examples.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-39"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-39"
+  },
+  {
+    "id": "Q19",
+    "gold_evidence_spans": [
+      "For Band 7 or higher, it needs to be clear and developed. This means the reader should be able to easily understand your position, and that your ideas lead to a logical conclusion."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "For the next level above Band 6, what qualities should a writer's stance show, and how should the argument finish?",
+    "evidence": "At Band 7 or higher, the position should be clear and developed, with ideas leading to a logical conclusion.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-41"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-41"
+  },
+  {
+    "id": "Q20",
+    "gold_evidence_spans": [
+      "Coherence refers to the linking of ideas through structure and the logical organisation of your writing. Cohesion refers to using a variety of ways to show clear relationships between and within sentences."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Which criterion concerns the large-scale organisation and logical flow of ideas, as opposed to the devices linking sentences?",
+    "evidence": "Coherence is structural linking and logical organisation; cohesion uses devices that clarify relationships within and between sentences.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-46"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-46"
+  },
+  {
+    "id": "Q21",
+    "gold_evidence_spans": [
+      "In Task 1, as the response is short, using paragraphs is only important for Bands 8 and 9. For Task 2, however, paragraphs are expected at Band 6 and above."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "At which bands is paragraphing described as important for short Task 1 responses, and from which band is it expected in Task 2?",
+    "evidence": "For short Task 1 responses paragraphing matters only at Bands 8 and 9; Task 2 expects paragraphs from Band 6 and above.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-48"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-48"
+  },
+  {
+    "id": "Q22",
+    "gold_evidence_spans": [
+      "clearly mark sequences or stages in a response (such as firstly, in conclusion) as well as relationships in a response (for example hence, as a result, although, because)"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Which linking expressions can mark sequence, and which examples can signal a relationship such as result or contrast?",
+    "evidence": "'Firstly' and 'in conclusion' mark sequences; 'hence', 'as a result', 'although' and 'because' signal relationships.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-54"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-54"
+  },
+  {
+    "id": "Q23",
+    "gold_evidence_spans": [
+      "Reference and substitution devices that help the writer to avoid repetition. For example, pronouns, relative pronouns, the definite article ‘the’"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "What kinds of reference forms can help an essay avoid repeating the same noun?",
+    "evidence": "Reference and substitution include pronouns, relative pronouns and the definite article 'the'.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-52"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-52"
+  },
+  {
+    "id": "Q24",
+    "gold_evidence_spans": [
+      "described as ‘minimally adequate’ and falls under Band 5 for Lexical Resource. For higher bands, Examiners are looking for flexible use of vocabulary."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "What vocabulary capability separates a merely adequate Band 5 range from the level sought at higher bands?",
+    "evidence": "Band 5 may have a minimally adequate range; higher bands require flexible use of wider vocabulary, including synonyms and collocations.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-56"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-56"
+  },
+  {
+    "id": "Q25",
+    "gold_evidence_spans": [
+      "not suitable for the situation. For example when you use an informal word when a formal word may be more appropriate, or if the word does not sound natural in that situation. There may also be inaccuracies in collocation."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "What is wrong when a word sounds unnatural in its context or is too informal for the situation, and what related vocabulary issue may occur?",
+    "evidence": "These are lexical inappropriacies; inaccurate collocations, where words are not normally used together, may also occur.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-61"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-61"
+  },
+  {
+    "id": "Q26",
+    "gold_evidence_spans": [
+      "A more serious error is one that stops you from communicating what you’d like to communicate. If errors in spelling and/or word formation are noticeable and cause some difficulty for the reader"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "How severe must a spelling or word-formation problem become before it limits the Lexical Resource score to Band 5?",
+    "evidence": "A serious error prevents communication; noticeable spelling or word-formation errors that cause reader difficulty limit Lexical Resource to Band 5.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-60"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-60"
+  },
+  {
+    "id": "Q27",
+    "gold_evidence_spans": [
+      "Complex sentences contain one or more additional clauses, that is a main clause and one or more subordinate clauses."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Under the grammar criterion, what clause structure distinguishes a complex sentence from a simple sentence?",
+    "evidence": "A simple sentence has one independent clause; a complex sentence has a main clause and one or more subordinate clauses.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-66"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-66"
+  },
+  {
+    "id": "Q28",
+    "gold_evidence_spans": [
+      "They include passive forms, modal verbs, comparative structures or complex noun phrases."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Name examples of more complex phrasing within sentences that count toward grammatical range.",
+    "evidence": "Examples include passive forms, modal verbs, comparative structures and complex noun phrases.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-67"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-67"
+  },
+  {
+    "id": "Q29",
+    "gold_evidence_spans": [
+      "This difference is not important for Band 7, but it is important for Band 8. For this higher band, the majority of your sentences need to be error-free"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "At Band 8, how does IELTS distinguish an occasional grammar slip from a repeated pattern, and why is that distinction different at Band 7?",
+    "evidence": "Non-systematic errors are occasional; this distinction is not important for Band 7 but is important for Band 8, where most sentences should be error-free.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-70"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-70"
+  },
+  {
+    "id": "Q30",
+    "gold_evidence_spans": [
+      "IELTS Academic is delivered on computer. For Writing, you can also choose Writing on Paper where available."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "For Academic Writing, is typing the only available way to take the test, or may a paper response be an option in some locations?",
+    "evidence": "IELTS Academic is delivered on computer; for Writing, candidates may also choose Writing on Paper where available.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_03_academic-test.md::chunk-2"
+    ],
+    "legacy_primary_chunk_id": "news/article_03_academic-test.md::chunk-2"
+  }
+]

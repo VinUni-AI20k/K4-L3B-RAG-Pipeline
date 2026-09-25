@@ -1,0 +1,491 @@
+[
+  {
+    "id": "Q01",
+    "gold_evidence_spans": [
+      "Task 1 is worth a third of your overall mark for Writing. Task 2 is worth two thirds."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Trong điểm Writing tổng thể, Task nào có trọng số lớn hơn và chiếm bao nhiêu?",
+    "evidence": "Task 2 contributes two thirds of the overall Writing mark, while Task 1 contributes one third.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-6",
+    "language": "vi",
+    "expected_answer": "Task 2 chiếm hai phần ba tổng điểm Writing; Task 1 chiếm một phần ba."
+  },
+  {
+    "id": "Q02",
+    "gold_evidence_spans": [
+      "In Task 1, you have to describe some visual information in your own words (a graph, table, chart or diagram). You need to write at least 150 words in about 20 minutes. In Task 2, you are given a point of view, argument or problem which you need to discuss. You need to write at least 250 words in about 40 minutes.",
+      "For Task 1, you’re asked to write at least 150 words. This is the shorter of the two tasks, so it’s best to spend no more than 20 minutes on it. For Task 2, you’re asked to write at least 250 words, so it’s best to spend about 40 minutes on this task."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Hai bài Academic Writing yêu cầu tối thiểu bao nhiêu từ và thời gian làm bài khoảng bao lâu?",
+    "evidence": "Task 1: at least 150 words and about 20 minutes. Task 2: at least 250 words and about 40 minutes.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_04_ielts-academic-format-writing.md::chunk-1",
+      "news/article_02_writing-test-resources.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_04_ielts-academic-format-writing.md::chunk-1",
+    "language": "vi",
+    "expected_answer": "Task 1 yêu cầu ít nhất 150 từ trong khoảng 20 phút. Task 2 yêu cầu ít nhất 250 từ trong khoảng 40 phút."
+  },
+  {
+    "id": "Q03",
+    "gold_evidence_spans": [
+      "you should summarise the information by selecting and reporting the main features, and make comparisons where relevant",
+      "write a summary of the information by selecting and reporting the main features and making comparisons where relevant"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Khi mô tả biểu đồ ở Academic Task 1, cần chọn và trình bày điều gì, và khi nào nên so sánh?",
+    "evidence": "Summarise the information by selecting and reporting its main features; make comparisons where relevant.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-8",
+      "news/article_02_writing-test-resources.md::chunk-17",
+      "news/article_04_ielts-academic-format-writing.md::chunk-10"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-8",
+    "language": "vi",
+    "expected_answer": "Tóm tắt thông tin bằng cách chọn và nêu đặc điểm chính; so sánh khi phù hợp."
+  },
+  {
+    "id": "Q04",
+    "gold_evidence_spans": [
+      "depending on that situation, you may need to write a personal letter",
+      "a semi-formal letter",
+      "a formal letter"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Trong thư General Training Task 1, tình huống và người nhận quyết định thế nào giữa giọng thân mật, bán trang trọng và trang trọng?",
+    "evidence": "The situation determines whether the letter is personal (for example, to a friend), semi-formal (to a manager), or formal (to someone not personally known).",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-10"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-10",
+    "language": "vi",
+    "expected_answer": "Tùy tình huống và người nhận: thư thân mật có thể gửi bạn bè, bán trang trọng gửi quản lý, còn trang trọng gửi người mình không quen biết."
+  },
+  {
+    "id": "Q05",
+    "gold_evidence_spans": [
+      "Task Response is used for Task 2 responses. It assesses how fully you respond to the task; how your main ideas are extended and supported"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Ở Task 2, tiêu chí Task Response đánh giá những khía cạnh nào trong việc trả lời đề và phát triển ý chính?",
+    "evidence": "Task Response is used for Task 2; it assesses completeness of the response and how main ideas are extended and supported. Task Achievement is used for Task 1.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-12",
+      "news/article_04_ielts-academic-format-writing.md::chunk-3"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-12",
+    "language": "vi",
+    "expected_answer": "Task Response áp dụng cho Task 2; đánh giá mức độ trả lời đầy đủ yêu cầu và cách các ý chính được mở rộng, hỗ trợ. Task Achievement áp dụng cho Task 1."
+  },
+  {
+    "id": "Q06",
+    "gold_evidence_spans": [
+      "The second criterion is Coherence and Cohesion. This assesses how well you’ve organised your response; how logical the development of the message is"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Tài liệu phân biệt Coherence and Cohesion với Lexical Resource ra sao, nhất là về cách tổ chức ý và lựa chọn từ?",
+    "evidence": "Coherence and Cohesion concerns organisation, logical development and links; Lexical Resource concerns vocabulary range, accuracy and appropriacy.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-13",
+      "news/article_04_ielts-academic-format-writing.md::chunk-5"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-13",
+    "language": "vi",
+    "expected_answer": "Coherence and Cohesion đánh giá cách tổ chức, phát triển logic và liên kết ý. Lexical Resource đánh giá độ rộng, độ chính xác và tính phù hợp của từ vựng."
+  },
+  {
+    "id": "Q07",
+    "gold_evidence_spans": [
+      "The full assessment scales used by IELTS Writing examiners, are now available. These consist of the IELTS band descriptors and the detailed, key assessment criteria"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Người học có thể tra cứu tài liệu công bố nào để đối chiếu đầy đủ band descriptor và tiêu chí đánh giá IELTS Writing?",
+    "evidence": "The full assessment scales used by Writing examiners, including the band descriptors and detailed key assessment criteria, were made available.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_01_ielts-writing-band-descriptors-and-key-assessment-criteria.md::chunk-0"
+    ],
+    "legacy_primary_chunk_id": "news/article_01_ielts-writing-band-descriptors-and-key-assessment-criteria.md::chunk-0",
+    "language": "vi",
+    "expected_answer": "Có thể tham khảo các thang đánh giá đầy đủ dành cho giám khảo Writing, gồm band descriptor và tiêu chí đánh giá chi tiết."
+  },
+  {
+    "id": "Q08",
+    "gold_evidence_spans": [
+      "- 5 to 10 minutes reading the essay question and planning your answer - 15 to 20 minutes writing your first draft - 10 minutes proofreading and editing your essay"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Khi lập kế hoạch cho bài Task 2, thời gian được khuyến nghị chia thế nào giữa đọc và lập dàn ý, viết nháp, rồi soát bài?",
+    "evidence": "The breakdown is 5–10 minutes for reading/planning, 15–20 minutes for the first draft, and 10 minutes for proofreading/editing.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-4"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-4",
+    "language": "vi",
+    "expected_answer": "Dành 5–10 phút đọc đề và lập kế hoạch, 15–20 phút viết bản nháp, và 10 phút cuối để đọc soát, chỉnh sửa."
+  },
+  {
+    "id": "Q09",
+    "gold_evidence_spans": [
+      "Two or three body paragraphs, each addressing one issue or idea"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Dàn ý bài luận khuyến nghị cấu trúc các đoạn thế nào, gồm bao nhiêu đoạn thân bài và mỗi đoạn đảm nhiệm việc gì?",
+    "evidence": "Use an introduction, two or three body paragraphs each addressing one issue or idea, and a conclusion that sums up the discussion.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-6"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-6",
+    "language": "vi",
+    "expected_answer": "Dùng mở bài, hai hoặc ba đoạn thân bài (mỗi đoạn triển khai một vấn đề hoặc ý tưởng), rồi kết luận tóm tắt phần thảo luận."
+  },
+  {
+    "id": "Q10",
+    "gold_evidence_spans": [
+      "There is more than one main idea in each paragraph. Move any unrelated sentences to the correct paragraph. Each paragraph should address one issue only."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Khi chỉnh sửa, điều gì khiến một đoạn văn mất trọng tâm và người viết nên xử lý ra sao?",
+    "evidence": "A paragraph should address one issue only; move unrelated sentences to the paragraph where they belong.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-13"
+    ],
+    "legacy_primary_chunk_id": "news/article_05_10-steps-to-writing-high-scoring-ielts-essays.md::chunk-13",
+    "language": "vi",
+    "expected_answer": "Mỗi đoạn chỉ nên bàn một vấn đề; chuyển câu không liên quan sang đoạn phù hợp."
+  },
+  {
+    "id": "Q11",
+    "gold_evidence_spans": [
+      "An overview is the part of the response that summarises the main points. That is, the main trends, changes, or number of steps"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Trong bài tóm tắt dữ liệu trực quan, phần nào khái quát xu hướng chính thay vì liệt kê chi tiết hỗ trợ?",
+    "evidence": "The overview summarises the main points, such as the main trends, changes, or number of steps.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-21"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-21",
+    "language": "vi",
+    "expected_answer": "Overview là phần tóm lược điểm chính, chẳng hạn xu hướng, thay đổi hoặc số bước nổi bật."
+  },
+  {
+    "id": "Q12",
+    "gold_evidence_spans": [
+      "The supporting information should include the figures, or numbers, provided and the position of the items on the map."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Khi mô tả các thay đổi chính trên bản đồ theo thời gian, cần kèm những loại chi tiết hỗ trợ nào?",
+    "evidence": "Support the major changes with the supplied figures and the positions of items on the map; compass directions can help describe locations.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-20"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-20",
+    "language": "vi",
+    "expected_answer": "Cần dùng số liệu được cung cấp và vị trí của các hạng mục trên bản đồ; có thể dùng phương hướng để mô tả vị trí."
+  },
+  {
+    "id": "Q13",
+    "gold_evidence_spans": [
+      "no sub-headings; no bullet-points; no greeting at the beginning or name at the end; and no diagrams, charts or tables"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Ở bài Academic Task 1, những hình thức trình bày nào không được dùng dù bài đã đạt số từ tối thiểu?",
+    "evidence": "The response must be written in full without subheadings, bullet points, a greeting, a name/sign-off, or diagrams, charts and tables.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-18"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-18",
+    "language": "vi",
+    "expected_answer": "Bài cần viết thành văn bản hoàn chỉnh, không dùng tiêu đề phụ, gạch đầu dòng, lời chào, tên ký cuối thư, sơ đồ, biểu đồ hay bảng."
+  },
+  {
+    "id": "Q14",
+    "gold_evidence_spans": [
+      "Comparing or contrasting the information by adequately highlighting the key features"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Ngoài việc chọn các đặc điểm chính của hình, Task Achievement yêu cầu thí sinh xử lý chúng thế nào?",
+    "evidence": "Compare or contrast the key features, provide enough supporting detail, report accurately, and present an overview.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-24"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-24",
+    "language": "vi",
+    "expected_answer": "Cần so sánh hoặc đối chiếu đặc điểm chính, cung cấp đủ chi tiết hỗ trợ, trình bày chính xác và đưa ra overview."
+  },
+  {
+    "id": "Q15",
+    "gold_evidence_spans": [
+      "the second bullet point asks you to explain your problems, which means explaining more than one problem. This bullet point also asks you to explain why it’s difficult to work, which means it has two parts."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Nếu một gạch đầu dòng trong đề thư yêu cầu nêu cả vấn đề lẫn nguyên nhân khiến công việc khó khăn, cần trả lời thế nào cho đủ?",
+    "evidence": "The example bullet contains two parts: explain more than one problem and explain why working is difficult. Both parts need to be addressed.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-33"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-33",
+    "language": "vi",
+    "expected_answer": "Phải nêu nhiều hơn một vấn đề và giải thích vì sao việc đi làm khó khăn; cần trả lời cả hai phần."
+  },
+  {
+    "id": "Q16",
+    "gold_evidence_spans": [
+      "For Band 7 or higher, the purpose should be clear. To achieve this, it helps to state the main purpose in the opening paragraph."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Theo hướng dẫn, nên đưa thông tin gì vào đoạn mở đầu thư để mục đích rõ ràng ở Band 7 trở lên?",
+    "evidence": "State the main purpose in the opening paragraph so the reason for writing is clear.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-29"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-29",
+    "language": "vi",
+    "expected_answer": "Nêu mục đích chính ngay ở đoạn mở đầu để người đọc hiểu rõ lý do viết thư."
+  },
+  {
+    "id": "Q17",
+    "gold_evidence_spans": [
+      "someone you don’t know personally. As a result, your letter should be formal, which means it should not be too chatty or too friendly. You’re asked to start your letter with Dear Sir or Madam."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Nếu viết cho quản lý công ty mà mình chưa từng gặp, ví dụ IELTS khuyến nghị giọng điệu và lời chào nào?",
+    "evidence": "Use a formal, not overly chatty or friendly, tone and begin with 'Dear Sir or Madam'.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-30"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-30",
+    "language": "vi",
+    "expected_answer": "Dùng giọng trang trọng, tránh quá suồng sã hoặc thân mật, và mở đầu bằng “Dear Sir or Madam”."
+  },
+  {
+    "id": "Q18",
+    "gold_evidence_spans": [
+      "you need to discuss whether these advertisements have a bad effect on both children and their families. If you don’t discuss both, you will be limited to Band 5"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Nếu đề luận hỏi quảng cáo có ảnh hưởng xấu đến trẻ em và gia đình hay không, cần bàn những phần nào để tránh bị giới hạn ở Band 5 Task Response?",
+    "evidence": "Address both children and their families; omitting either main part limits the response to Band 5. Give reasons and relevant examples.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-39"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-39",
+    "language": "vi",
+    "expected_answer": "Cần thảo luận cả trẻ em lẫn gia đình; bỏ sót một phần có thể khiến điểm bị giới hạn ở Band 5. Đưa ra lý do và ví dụ phù hợp."
+  },
+  {
+    "id": "Q19",
+    "gold_evidence_spans": [
+      "For Band 7 or higher, it needs to be clear and developed. This means the reader should be able to easily understand your position, and that your ideas lead to a logical conclusion."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "So với Band 6, lập trường ở Band 7 trở lên cần thể hiện đặc điểm gì và lập luận nên kết thúc thế nào?",
+    "evidence": "At Band 7 or higher, the position should be clear and developed, with ideas leading to a logical conclusion.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-41"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-41",
+    "language": "vi",
+    "expected_answer": "Lập trường cần rõ ràng và được phát triển; các ý cần dẫn đến một kết luận hợp lý."
+  },
+  {
+    "id": "Q20",
+    "gold_evidence_spans": [
+      "Coherence refers to the linking of ideas through structure and the logical organisation of your writing. Cohesion refers to using a variety of ways to show clear relationships between and within sentences."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Tiêu chí nào đánh giá bố cục tổng thể và mạch logic của ý tưởng, khác với các phương tiện liên kết giữa câu?",
+    "evidence": "Coherence is structural linking and logical organisation; cohesion uses devices that clarify relationships within and between sentences.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-46"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-46",
+    "language": "vi",
+    "expected_answer": "Coherence nói về liên kết ở cấp độ cấu trúc và tổ chức logic; Cohesion dùng phương tiện thể hiện quan hệ trong và giữa các câu."
+  },
+  {
+    "id": "Q21",
+    "gold_evidence_spans": [
+      "In Task 1, as the response is short, using paragraphs is only important for Bands 8 and 9. For Task 2, however, paragraphs are expected at Band 6 and above."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Với câu trả lời Task 1 ngắn, việc chia đoạn quan trọng ở band nào; còn Task 2 yêu cầu chia đoạn từ band nào?",
+    "evidence": "For short Task 1 responses paragraphing matters only at Bands 8 and 9; Task 2 expects paragraphs from Band 6 and above.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-48"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-48",
+    "language": "vi",
+    "expected_answer": "Ở Task 1 ngắn, chia đoạn chỉ quan trọng tại Band 8 và 9. Với Task 2, việc chia đoạn được kỳ vọng từ Band 6 trở lên."
+  },
+  {
+    "id": "Q22",
+    "gold_evidence_spans": [
+      "clearly mark sequences or stages in a response (such as firstly, in conclusion) as well as relationships in a response (for example hence, as a result, although, because)"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Những cụm từ nối nào báo hiệu trình tự, và ví dụ nào thể hiện quan hệ như kết quả hoặc tương phản?",
+    "evidence": "'Firstly' and 'in conclusion' mark sequences; 'hence', 'as a result', 'although' and 'because' signal relationships.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-54"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-54",
+    "language": "vi",
+    "expected_answer": "“Firstly” và “in conclusion” báo hiệu trình tự; “hence”, “as a result”, “although” và “because” thể hiện quan hệ như kết quả hoặc nguyên nhân."
+  },
+  {
+    "id": "Q23",
+    "gold_evidence_spans": [
+      "Reference and substitution devices that help the writer to avoid repetition. For example, pronouns, relative pronouns, the definite article ‘the’"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Những dạng quy chiếu nào giúp tránh lặp lại cùng một danh từ trong bài luận?",
+    "evidence": "Reference and substitution include pronouns, relative pronouns and the definite article 'the'.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-52"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-52",
+    "language": "vi",
+    "expected_answer": "Có thể dùng đại từ, đại từ quan hệ và mạo từ xác định “the” trong phép quy chiếu và thay thế."
+  },
+  {
+    "id": "Q24",
+    "gold_evidence_spans": [
+      "described as ‘minimally adequate’ and falls under Band 5 for Lexical Resource. For higher bands, Examiners are looking for flexible use of vocabulary."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Năng lực từ vựng nào phân biệt phạm vi vừa đủ ở Band 5 với mức được kỳ vọng ở band cao hơn?",
+    "evidence": "Band 5 may have a minimally adequate range; higher bands require flexible use of wider vocabulary, including synonyms and collocations.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-56"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-56",
+    "language": "vi",
+    "expected_answer": "Band 5 có thể chỉ đạt phạm vi từ vựng tối thiểu chấp nhận được; band cao hơn đòi hỏi dùng từ linh hoạt, gồm từ đồng nghĩa và collocation."
+  },
+  {
+    "id": "Q25",
+    "gold_evidence_spans": [
+      "not suitable for the situation. For example when you use an informal word when a formal word may be more appropriate, or if the word does not sound natural in that situation. There may also be inaccuracies in collocation."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Lỗi gì xảy ra khi một từ nghe không tự nhiên trong ngữ cảnh hoặc quá suồng sã; ngoài ra còn có vấn đề từ vựng liên quan nào?",
+    "evidence": "These are lexical inappropriacies; inaccurate collocations, where words are not normally used together, may also occur.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-61"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-61",
+    "language": "vi",
+    "expected_answer": "Đó là lỗi dùng từ không phù hợp (inappropriacy), chẳng hạn dùng từ quá thân mật trong ngữ cảnh trang trọng. Ngoài ra, người viết có thể kết hợp từ không chính xác (collocation)."
+  },
+  {
+    "id": "Q26",
+    "gold_evidence_spans": [
+      "A more serious error is one that stops you from communicating what you’d like to communicate. If errors in spelling and/or word formation are noticeable and cause some difficulty for the reader"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Lỗi chính tả hoặc cấu tạo từ phải nghiêm trọng đến mức nào mới khiến Lexical Resource bị giới hạn ở Band 5?",
+    "evidence": "A serious error prevents communication; noticeable spelling or word-formation errors that cause reader difficulty limit Lexical Resource to Band 5.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-60"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-60",
+    "language": "vi",
+    "expected_answer": "Lỗi nghiêm trọng có thể cản trở truyền đạt. Lỗi chính tả hoặc cấu tạo từ dễ nhận thấy và gây khó khăn cho người đọc sẽ giới hạn Lexical Resource ở Band 5."
+  },
+  {
+    "id": "Q27",
+    "gold_evidence_spans": [
+      "Complex sentences contain one or more additional clauses, that is a main clause and one or more subordinate clauses."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Theo tiêu chí ngữ pháp, cấu trúc mệnh đề nào phân biệt câu phức với câu đơn?",
+    "evidence": "A simple sentence has one independent clause; a complex sentence has a main clause and one or more subordinate clauses.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-66"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-66",
+    "language": "vi",
+    "expected_answer": "Câu đơn có một mệnh đề độc lập; câu phức có một mệnh đề chính và ít nhất một mệnh đề phụ thuộc."
+  },
+  {
+    "id": "Q28",
+    "gold_evidence_spans": [
+      "They include passive forms, modal verbs, comparative structures or complex noun phrases."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "bm25_targeted",
+    "question": "Hãy nêu một số cấu trúc diễn đạt phức tạp hơn trong câu được tính vào phạm vi ngữ pháp.",
+    "evidence": "Examples include passive forms, modal verbs, comparative structures and complex noun phrases.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-67"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-67",
+    "language": "vi",
+    "expected_answer": "Ví dụ gồm câu bị động, động từ khuyết thiếu, cấu trúc so sánh và cụm danh từ phức tạp."
+  },
+  {
+    "id": "Q29",
+    "gold_evidence_spans": [
+      "This difference is not important for Band 7, but it is important for Band 8. For this higher band, the majority of your sentences need to be error-free"
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "multi_constraint",
+    "question": "Ở Band 8, IELTS phân biệt lỗi ngữ pháp thỉnh thoảng với lỗi lặp thành quy luật ra sao, và vì sao điều này khác Band 7?",
+    "evidence": "Non-systematic errors are occasional; this distinction is not important for Band 7 but is important for Band 8, where most sentences should be error-free.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_02_writing-test-resources.md::chunk-70"
+    ],
+    "legacy_primary_chunk_id": "news/article_02_writing-test-resources.md::chunk-70",
+    "language": "vi",
+    "expected_answer": "Lỗi không có tính hệ thống là lỗi thỉnh thoảng xảy ra. Sự phân biệt này không quan trọng ở Band 7 nhưng quan trọng ở Band 8, nơi phần lớn câu cần không có lỗi."
+  },
+  {
+    "id": "Q30",
+    "gold_evidence_spans": [
+      "IELTS Academic is delivered on computer. For Writing, you can also choose Writing on Paper where available."
+    ],
+    "scope": "Ask IELTS Writing",
+    "challenge_type": "semantic_paraphrase",
+    "question": "Trong IELTS Academic Writing, thí sinh bắt buộc phải gõ bài hay một số địa điểm có thể chọn viết trên giấy?",
+    "evidence": "IELTS Academic is delivered on computer; for Writing, candidates may also choose Writing on Paper where available.",
+    "legacy_relevant_chunk_ids": [
+      "news/article_03_academic-test.md::chunk-2"
+    ],
+    "legacy_primary_chunk_id": "news/article_03_academic-test.md::chunk-2",
+    "language": "vi",
+    "expected_answer": "IELTS Academic được tổ chức trên máy tính; riêng Writing, thí sinh có thể chọn làm bài trên giấy tại nơi có cung cấp hình thức này."
+  }
+]
