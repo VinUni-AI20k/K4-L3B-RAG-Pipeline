@@ -1,1 +1,16 @@
-{"url":"https://xaydungchinhsach.chinhphu.vn/phuong-thuc-nganh-chuong-trinh-tuyen-sinh-dai-hoc-nam-2025-cua-dai-hoc-kinh-te-quoc-dan-1192501040836584.htm","title":"Phương thức, chỉ tiêu tuyển sinh 2025 của Đại học Kinh tế Quốc dân (NEU)","date_crawled":"2026-09-25T00:00:00+00:00","content_markdown":"## Phương thức tuyển sinh\n\nNăm 2025, Đại học Kinh tế Quốc dân tuyển sinh theo xét tuyển thẳng, xét tuyển bằng điểm thi tốt nghiệp THPT năm 2025 và xét tuyển kết hợp. Trường sử dụng các tổ hợp A00, A01, D01 và D07; các môn trong tổ hợp có hệ số 1.\n\nXét tuyển kết hợp áp dụng với SAT từ 1200, ACT từ 26; HSA từ 85, APT từ 700 hoặc TSA từ 60; hoặc chứng chỉ IELTS từ 5.5, TOEFL iBT từ 46, TOEIC bốn kỹ năng theo ngưỡng trường công bố kết hợp với điểm thi phù hợp. Chứng chỉ home edition không được dùng.\n\n## Ngành, chỉ tiêu và quy định\n\nNăm 2025 trường tuyển 73 mã ngành/chương trình với 89 chương trình đào tạo. Thí sinh được đăng ký không giới hạn nguyện vọng và chỉ trúng tuyển một nguyện vọng ưu tiên cao nhất. Điểm xét tuyển theo thang 30, làm tròn đến hai chữ số thập phân. Học phí chương trình chuẩn khoảng 18–25 triệu đồng/năm; chương trình tiên tiến, chất lượng cao, POHE và chương trình bằng tiếng Anh khoảng 41–65 triệu đồng/năm. Nguồn: Báo điện tử Chính phủ, đăng ngày 20/07/2025."}
+{
+  "id": "neu2026_news_01",
+  "title": "Hướng dẫn đăng ký hồ sơ xét tuyển kết hợp, xét tuyển theo kết quả thi tốt nghiệp THPT vào ĐHCQ NEU 2026",
+  "doc_type": "news",
+  "url": "https://fit.neu.edu.vn/post/huong-dan-dang-ky-ho-so-xet-tuyen-ket-hop-xet-tuyen-theo-ket-qua-thi-tot-nghiep-thpt-vao-dhcq-neu-2026",
+  "local_path": "data/landing/news/article_01.json",
+  "admission_year": 2026,
+  "audience": "dai_hoc_chinh_quy",
+  "date_crawled": "2026-09-25T03:56:37.064323+00:00",
+  "date_published": "2026-05-28",
+  "content_markdown": "Để chuẩn bị cho công tác tuyển sinh Đại học chính quy năm 2026, Đại học Kinh tế Quốc dân đã chính thức vận hành cổng thông tin đăng ký xét tuyển trực tuyến tại địa chỉ: [**https://xtkh.neu.edu.vn**](https://xtkh.neu.edu.vn/). \n\nhoặc sử dụng mã QR:\n\n*Giao diện hệ thống đăng ký*\n\n**📌 Một số lưu ý quan trọng trước khi bắt đầu đăng ký hồ sơ:**\n\n* **Thời gian đăng ký hồ sơ:** Từ **08h00 ngày 20/5/2026** đến **17h00 ngày 20/6/2026**.\n* **Thí sinh xét tuyển Nhóm 5** (Chỉ xét theo điểm 3 môn thi tốt nghiệp THPT): **BỎ QUA** bước nộp lệ phí trên cổng đăng ký của NEU.\n* **Thiết bị khuyến nghị:** Thí sinh có thể dùng máy tính bàn, laptop, máy tính bảng hoặc điện thoại. **Bắt buộc** sử dụng trình duyệt **Chrome ở chế độ ẩn danh** (Bấm tổ hợp phím Ctrl + Shift + N trên máy tính) để truy cập link.\n* **Chuẩn bị Email:** Khuyến khích thí sinh sử dụng **Gmail**. Nên chuẩn bị 1 email chính và 1 email dự phòng. Mọi thông tin liên quan đến xử lý hồ sơ sẽ được gửi về email này.\n\n**Chi tiết hướng dẫn tại file** [**đính kèm**](https://uploadservice.neu.edu.vn/Tempnam2026/xtkh/thang05/ngay26/dc092cf4-5fcf-4441-96c1-fddbb5220c16.pdf)**.**",
+  "raw_html_path": "data/landing/raw_html/neu2026_news_01.html",
+  "raw_sha256": "0a3d216cc11bdd74dc2b745c15c603b564e7eb823b6a8f23d4250dd6b257d400",
+  "collection_method": "requests+beautifulsoup+markdownify",
+  "content_status": "collected"
+}
