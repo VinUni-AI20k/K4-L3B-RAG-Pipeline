@@ -45,6 +45,8 @@ async def crawl_article(url: str) -> dict:
 
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(url=url)
+        if not result.success or (result.status_code or 200) >= 400:
+            raise ValueError(f"Crawl failed for {url}: {result.error_message}")
         title = (result.metadata or {}).get("title") or url
         markdown = str(result.markdown) if result.markdown else ""
         if not markdown.strip():

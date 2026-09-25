@@ -20,6 +20,34 @@ LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 
 
+def _paragraph_text(paragraph, ns: str) -> str:
+    """Flatten one w:p's own flow text (runs, tabs, breaks).
+
+    Recurses into everything except w:drawing subtrees: a drawing (image or
+    text box) can nest its own w:p elements, which the top-level walk in
+    `_docx_to_text` already visits on their own. Descending into a drawing
+    here would swallow that nested text into the host paragraph too and
+    duplicate it.
+    """
+    parts: list[str] = []
+
+    def walk(element) -> None:
+        for child in element:
+            if child.tag == ns + "drawing":
+                continue
+            if child.tag == ns + "t":
+                parts.append(child.text or "")
+            elif child.tag == ns + "tab":
+                parts.append("\t")
+            elif child.tag == ns + "br":
+                parts.append("\n")
+            else:
+                walk(child)
+
+    walk(paragraph)
+    return "".join(parts)
+
+
 def _docx_to_text(path: Path) -> str:
     """Extract plain text from a .docx (OOXML zip) using only the stdlib."""
     import zipfile
@@ -33,13 +61,35 @@ def _docx_to_text(path: Path) -> str:
         xml_content = archive.read(key)
 
     ns = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+    mc_ns = "{http://schemas.openxmlformats.org/markup-compatibility/2006}"
     tree = ET.fromstring(xml_content)
+
+    # mc:AlternateContent wraps two equivalent copies of the same content
+    # (a modern w:drawing text box in mc:Choice, a legacy VML fallback in
+    # mc:Fallback). Drop the Fallback copy so its text isn't extracted twice.
+    for alternate in tree.iter(mc_ns + "AlternateContent"):
+        for fallback in alternate.findall(mc_ns + "Fallback"):
+            alternate.remove(fallback)
+
     paragraphs = []
     for paragraph in tree.iter(ns + "p"):
-        text = "".join(node.text or "" for node in paragraph.iter(ns + "t"))
+        text = _paragraph_text(paragraph, ns)
         if text.strip():
             paragraphs.append(text)
     return "\n\n".join(paragraphs)
+
+
+def _should_convert(source: Path, target: Path) -> bool:
+    """Whether `source` needs (re)converting into `target`.
+
+    A size-only skip check treats any non-trivial existing output as final,
+    so re-running task1/task2 with fresh source data (a new crawl, a
+    re-downloaded document) silently leaves stale markdown in place. Also
+    reconvert when the target is empty/too small, regardless of mtimes.
+    """
+    if not target.exists() or target.stat().st_size <= 200:
+        return True
+    return source.stat().st_mtime > target.stat().st_mtime
 
 
 def convert_legal_docs() -> None:
@@ -53,7 +103,7 @@ def convert_legal_docs() -> None:
         if suffix not in {".pdf", ".doc", ".docx"}:
             continue
         target = output_dir / f"{path.stem}.md"
-        if target.exists() and target.stat().st_size > 200:
+        if not _should_convert(path, target):
             print(f"Skip existing: {target.name}")
             continue
 
@@ -80,7 +130,7 @@ def convert_news_articles() -> None:
 
     for path in sorted(news_dir.glob("*.json")):
         target = output_dir / f"{path.stem}.md"
-        if target.exists() and target.stat().st_size > 200:
+        if not _should_convert(path, target):
             print(f"Skip existing: {target.name}")
             continue
         data = json.loads(path.read_text(encoding="utf-8"))

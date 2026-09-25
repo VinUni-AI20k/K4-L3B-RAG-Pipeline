@@ -6,7 +6,10 @@
 
 BỘ TÀI CHÍNH
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
 
 Số: 18/2026/TT-BTC
 
@@ -124,7 +127,8 @@ Cơ quan thuế gửi Quyết định hoàn thuế, Phụ lục số tiền thu�
 
 4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các đơn vị, cơ sở kinh doanh phản ánh kịp thời về Bộ Tài chính để được giải quyết./.
 
-KT. BỘ TRƯỞNGTHỨ TRƯỞNG
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
 
 Cao Anh Tuấn
 
@@ -228,7 +232,9 @@ Mẫu số: 01/TB-ĐĐKD
 
 (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
-                                                  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do Hạnh phúc
+                                                  
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do Hạnh phúc
 
 THÔNG BÁO
 
@@ -238,15 +244,15 @@ Về việc thành lập/thay đổi thông tin/tạm ngừng/chấm dứt hoạ
 
 Kính gửi: (Cơ quan thuế quản lý trực tiếp NNT)……………
 
-1. Người nộp thuế: 
+	1. Người nộp thuế: 	
 
-2. Mã số thuế:
+	2. Mã số thuế:	
 
-3. Thông tin đại lý thuế (nếu có): 
+		3. Thông tin đại lý thuế (nếu có): 
 
-3a. Tên:
+		3a. Tên:	
 
-3b. Mã số thuế: 
+		3b. Mã số thuế: 	
 
 Thông báo về việc thành lập/thay đổi thông tin/tạm ngừng/khôi phục tạm ngừng kinh doanh trước thời hạn/chấm dứt hoạt động địa điểm kinh doanh như sau:
 
@@ -452,15 +458,10 @@ NGƯỜI NỘP THUẾ hoặc
 
 (Ký và ghi rõ họ tên/Ký điện tử)
 
-Mẫu số: 02/TB-ĐĐKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 02/TB-ĐĐKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 02/TB-ĐĐKD
 
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 02/TB-ĐĐKD
-
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+(Kèm theo Thông tư số 18/2026/TT-BTC 
+ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 TÊN CƠ QUAN THUẾ CẤP TRÊN
 
@@ -758,7 +759,8 @@ Nơi nhận:
 
 - Lưu VT, ...
 
-QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (1)(Ký, ghi rõ họ tên và đóng dấu)
+QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ (1)
+(Ký, ghi rõ họ tên và đóng dấu)
 
 Hoặc
 
@@ -774,15 +776,10 @@ Phần nội dung ghi trong dấu < > chỉ là giải thích hoặc ví dụ, c
 
 (2) Cơ quan thuế (trường hợp hệ thống tự động tạo, gửi thông báo cho người nộp thuế).
 
-Mẫu số: 01/TKN-CNKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/TKN-CNKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 01/TKN-CNKD
 
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 01/TKN-CNKD
-
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+(Kèm theo Thông tư số 18/2026/TT-BTC
+ ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM              
 
@@ -804,7 +801,7 @@ bán hàng đa cấp, hoạt động kinh doanh khác chưa khấu trừ, nộp
 
 [01] Kỳ tính thuế:
 
-[01a] Năm………
+	[01a] Năm………
 
 [01b] 6 tháng đầu năm….. 
 
@@ -814,19 +811,19 @@ bán hàng đa cấp, hoạt động kinh doanh khác chưa khấu trừ, nộp
 
 [03] Bổ sung lần thứ:.... □
 
-[04] Người nộp thuế:......................................................................................................................................................................
+	[04] Người nộp thuế:......................................................................................................................................................................	
 
-[05] Mã số thuế:
+	[05] Mã số thuế:	
 
-[06] Tổ chức/cá nhân kê khai, nộp thuế thay theo ủy quyền (nếu có): 
+	[06] Tổ chức/cá nhân kê khai, nộp thuế thay theo ủy quyền (nếu có): 		
 
-[06.1] Mã số thuế: 
+	[06.1] Mã số thuế: 	
 
-[06.2] Văn bản uỷ quyền (nếu có): Số………………ngày……tháng……năm
+	[06.2] Văn bản uỷ quyền (nếu có): Số………………ngày……tháng……năm	
 
-[07] Tên đại lý thuế (nếu có):
+	[07] Tên đại lý thuế (nếu có):		
 
-[07.1] Mã số thuế:................................................................................................................................................................................
+	[07.1] Mã số thuế:................................................................................................................................................................................	
 
 A. XÁC ĐỊNH NGHĨA VỤ THUẾ GTGT, TNCN
 
@@ -1010,7 +1007,7 @@ Số thuế còn phải nộp
 
 [13]
 
-B. KÊ KHAI THUẾ TIÊU THỤ ĐẶC BIỆT
+	B. KÊ KHAI THUẾ TIÊU THỤ ĐẶC BIỆT
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1082,7 +1079,7 @@ Số thuế còn phải nộp
 
 [17]
 
-C. KÊ KHAI THUẾ TÀI NGUYÊN, BẢO VỆ MÔI TRƯỜNG, PHÍ BẢO VỆ MÔI TRƯỜNG
+	C. KÊ KHAI THUẾ TÀI NGUYÊN, BẢO VỆ MÔI TRƯỜNG, PHÍ BẢO VỆ MÔI TRƯỜNG
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1222,7 +1219,7 @@ Số phí còn phải nộp
 
 [29]
 
-D. HỖ TRỢ THÔNG TIN NỘP THUẾ
+	D. HỖ TRỢ THÔNG TIN NỘP THUẾ
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1240,59 +1237,59 @@ Tiểu mục
 
 Cơ quan thu
 
-Cơ quan thuế
+	Cơ quan thuế
 
-Hạn nộp thuế
+	Hạn nộp thuế
 
-[30]
+	[30]
 
-[31]
+	[31]
 
-[32]
+	[32]
 
-[33]
+	[33]
 
-[34]
+	[34]
 
-[35]
+	[35]
 
-[36]
+	[36]
 
-[37]
+	[37]
 
-[38]
+	[38]
 
 …
 
-Tổng cộng
+	Tổng cộng
 
-[39]
+	[39]
 
          E. ĐỀ NGHỊ XỬ LÝ KHOẢN NỘP THỪA
 
 [40] Đề nghị hoàn trả:
 
-[40.1] Số thuế GTGT: 
+	[40.1] Số thuế GTGT: 	
 
-[40.2] Số thuế TNCN: 
+	[40.2] Số thuế TNCN: 	
 
-[40.3] Tổng cộng: 
+	[40.3] Tổng cộng: 	
 
 [41] Hình thức hoàn trả:
 
-[42] ☐ Chuyển khoản.
+	[42] ☐ Chuyển khoản.
 
-[42.1] Tên chủ tài khoản: 
+	[42.1] Tên chủ tài khoản: 	
 
-[42.2]Tài khoản số:[42.3] Tại Ngân hàng/KBNN: 
+		[42.2]Tài khoản số:	[42.3] Tại Ngân hàng/KBNN: 	
 
 [43] ☐ Tiền mặt.
 
-[43.1] Tên người nhận tiền:
+	[43.1] Tên người nhận tiền:	
 
-[43.2] Số CCCD/Số định danh cá nhân/Số Hộ chiếu: …………………. [43.3] Ngày cấp:……./…../…… [43.4] Nơi cấp:
+	[43.2] Số CCCD/Số định danh cá nhân/Số Hộ chiếu: …………………. [43.3] Ngày cấp:……./…../…… [43.4] Nơi cấp:	
 
-[43.5] Nơi nhận tiền hoàn thuế: Kho bạc Nhà nước 
+	[43.5] Nơi nhận tiền hoàn thuế: Kho bạc Nhà nước 	
 
 Thông tin người nộp thuế đề nghị bù trừ khoản nộp thừa với khoản nợ, khoản thu phát sinh hoặc đề nghị hoàn kiêm bù trừ thu ngân sách nhà nước:
 
@@ -1308,7 +1305,8 @@ Mã số thuế
 
 Tên NNT
 
-Số định danh khoản phải nộp (ID)(nếu có)
+Số định danh khoản phải nộp (ID)
+(nếu có)
 
 Nội dung khoản nợ/phát sinh
 
@@ -1374,17 +1372,13 @@ Ghi chú:
 
 - Hệ số K tính phí bảo vệ môi trường đối với khai thác khoáng sản thực hiện theo quy định tại Nghị định số 27/2023/NĐ-CP và các văn bản sửa đổi bổ sung (nếu có)
 
-Mẫu số: 01/CNKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chínhMẫu số: 01/CNKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
-
 Mẫu số: 01/CNKD
 
 (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
 
-Mẫu số: 01/CNKD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
 
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc 
 
 TỜ KHAI THUẾ ĐỐI VỚI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
 
@@ -1402,7 +1396,7 @@ TỜ KHAI THUẾ ĐỐI VỚI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
 
 [01] Kỳ tính thuế:
 
-[01a] Tháng .... năm ............. 
+	[01a] Tháng .... năm ............. 
 
 [01b] Quý .... năm ................
 
@@ -1412,21 +1406,21 @@ TỜ KHAI THUẾ ĐỐI VỚI HỘ KINH DOANH, CÁ NHÂN KINH DOANH
 
 [03] Bổ sung lần thứ:.... □
 
-[04] Người nộp thuế:
+		[04] Người nộp thuế:	
 
-[05] Mã số thuế: 
+		[05] Mã số thuế: 	
 
-[06] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 
+		[06] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 	
 
-[06.1] Mã số thuế: 
+		[06.1] Mã số thuế: 	
 
-[06.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm
+		[06.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm	
 
-[07] Tên đại lý thuế (nếu có): 
+		[07] Tên đại lý thuế (nếu có): 	
 
-[07.1] Mã số thuế: 
+		[07.1] Mã số thuế: 	
 
-A. KÊ KHAI THUẾ GTGT, TNCN
+	A. KÊ KHAI THUẾ GTGT, TNCN
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1504,11 +1498,11 @@ Hoạt động cung cấp sản phẩm nội dung thông tin số về giải tr
 
 (đ)
 
-1.6
+	1.6
 
-Hoạt động kinh doanh khác 
+	Hoạt động kinh doanh khác 
 
-(e)
+	(e)
 
 2
 
@@ -1516,89 +1510,89 @@ Mã địa điểm kinh doanh 1:
 
 Tên địa điểm kinh doanh 1:
 
-2.1
+	2.1
 
-….
+	….
 
-II
+	II
 
 Hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số khác không có chức năng đặt hàng trực tuyến và chức năng thanh toán
 
-1
+	1
 
-Trụ sở kinh doanh:
+	Trụ sở kinh doanh:
 
-1.1
+	1.1
 
-Phân phối, cung cấp hàng hóa 
+	Phân phối, cung cấp hàng hóa 
 
-(a)
+	(a)
 
-1.2
+	1.2
 
-Dịch vụ, xây dựng không bao thầu  nguyên vật liệu
+	Dịch vụ, xây dựng không bao thầu  nguyên vật liệu
 
-(b)
+	(b)
 
-1.3
+	1.3
 
-Hoạt động cho thuê tài sản trừ bất động sản
+	Hoạt động cho thuê tài sản trừ bất động sản
 
-(c)
+	(c)
 
-1.4
+	1.4
 
-Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu
+	Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu
 
-(d)
+	(d)
 
-1.5
+	1.5
 
-Hoạt động cung cấp sản phẩm nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số
+	Hoạt động cung cấp sản phẩm nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số
 
-(đ)
+	(đ)
 
-1.6
+	1.6
 
-Hoạt động kinh doanh khác 
+	Hoạt động kinh doanh khác 
 
-(e)
+	(e)
 
-2
+	2
 
 Mã địa điểm kinh doanh 1:
 
 Tên địa điểm kinh doanh 1:
 
-2.1
+	2.1
 
-….
+	….
 
-III
+	III
 
 Hoạt động đã cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh
 
-….
+	….
 
-IV
+	IV
 
-Tổng cộng
+	Tổng cộng
 
-[16]
+	[16]
 
-VI
+	VI
 
-Số thuế được miễn
+	Số thuế được miễn
 
-[17]
+	[17]
 
-VII
+	VII
 
-Số thuế còn phải nộp
+	Số thuế còn phải nộp
 
-[18]
+	[18]
 
-B. KÊ KHAI THUẾ TIÊU THỤ ĐẶC BIỆT
+	B. KÊ KHAI THUẾ TIÊU THỤ ĐẶC BIỆT
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1670,7 +1664,7 @@ Số thuế còn phải nộp
 
 [22]
 
-C. KÊ KHAI THUẾ TÀI NGUYÊN, BẢO VỆ MÔI TRƯỜNG, PHÍ BẢO VỆ MÔI TRƯỜNG
+	C. KÊ KHAI THUẾ TÀI NGUYÊN, BẢO VỆ MÔI TRƯỜNG, PHÍ BẢO VỆ MÔI TRƯỜNG
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1810,7 +1804,7 @@ Số phí còn phải nộp
 
 [34]
 
-D. HỖ TRỢ TỰ ĐỘNG THÔNG TIN NỘP THUẾ
+	D. HỖ TRỢ TỰ ĐỘNG THÔNG TIN NỘP THUẾ
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -1836,31 +1830,31 @@ Hạn nộp thuế
 
 [35]
 
-[36]
+	[36]
 
-[37]
+	[37]
 
-[38]
+	[38]
 
-[39]
+	[39]
 
-[40]
+	[40]
 
-[41]
+	[41]
 
-[42]
+	[42]
 
-[43]
+	[43]
 
-[44]
+	[44]
 
 …
 
-Tổng cộng
+	Tổng cộng
 
-[45]
+	[45]
 
-Bạn còn được tiếp tục trừ…. đồng vào doanh thu tính thuế TNCN của kỳ tiếp theo
+	Bạn còn được tiếp tục trừ…. đồng vào doanh thu tính thuế TNCN của kỳ tiếp theo
 
 Tôi cam đoan những nội dung kê khai trên là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.
 
@@ -1872,7 +1866,8 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ..…..
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Ký, ghi rõ họ tên/ Ký điện tử)
 
@@ -1900,19 +1895,14 @@ BVMT: Bảo vệ môi trường
 
 - Chỉ tiêu [14]: Đối với cá nhân kinh doanh nộp thuế thu nhập cá nhân trên doanh thu tính thuế có nhiều ngành, nghề kinh doanh áp dụng thuế suất thuế thu nhập cá nhân khác nhau, có nhiều địa điểm kinh doanh thì được lựa chọn một (01) ngành, nghề hoặc một (01) địa điểm kinh doanh để áp dụng mức trừ 500 triệu đồng trước khi tính thuế thu nhập cá nhân theo phương án có lợi nhất. Trường hợp ngành, nghề, địa điểm kinh doanh được lựa chọn chưa trừ đủ 500 triệu đồng, cá nhân được tiếp tục lựa chọn thêm ngành, nghề, địa điểm kinh doanh khác để tiếp tục được trừ cho đến khi đủ 500 triệu đồng.
 
-- Chỉ tiêu [3.1], [3.2]…tại khoản III, mục C: bao gồm khoáng sản và đất đá bóc, đất đá thải (nếu có).
+	- Chỉ tiêu [3.1], [3.2]…tại khoản III, mục C: bao gồm khoáng sản và đất đá bóc, đất đá thải (nếu có).
 
-- Hệ số K tính phí bảo vệ môi trường đối với khai thác khoáng sản thực hiện theo quy định tại Nghị định số 27/2023/NĐ-CP và các văn bản sửa đổi bổ sung (nếu có).
-
-Mẫu số: 02/CNKD-TNCN-QTT(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 02/CNKD-TNCN-QTT(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+	- Hệ số K tính phí bảo vệ môi trường đối với khai thác khoáng sản thực hiện theo quy định tại Nghị định số 27/2023/NĐ-CP và các văn bản sửa đổi bổ sung (nếu có).
 
 Mẫu số: 02/CNKD-TNCN-QTT
 
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 02/CNKD-TNCN-QTT
-
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+(Kèm theo Thông tư số 18/2026/TT-BTC 
+ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 CỘNG HOÀ  XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
@@ -1926,29 +1916,29 @@ TỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP CÁ NHÂN
 
 [02] Lần đầu:                            [03] Bổ sung lần thứ: 
 
-[04] Người nộp thuế: 
+		[04] Người nộp thuế: 	
 
-[05] Mã số thuế: 
+	[05] Mã số thuế: 	
 
-[06] Địa chỉ trụ sở kinh doanh:
+		[06] Địa chỉ trụ sở kinh doanh:
 
-[06.1] Số nhà, đường phố/xóm/ấp/thôn:
+		[06.1] Số nhà, đường phố/xóm/ấp/thôn:	
 
-[06.2] Xã/phường/đặc khu:
+		[06.2] Xã/phường/đặc khu:	
 
-[06.3] Tỉnh/TP:
+		[06.3] Tỉnh/TP:	
 
-[07] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 
+	[07] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 		
 
-[07.1] Mã số thuế: 
+	[07.1] Mã số thuế: 	
 
-[07.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm 
+	[07.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm 	
 
-[08] Tên đại lý thuế (nếu có): 
+	[08] Tên đại lý thuế (nếu có): 	
 
-[08.1] Mã số thuế:
+	[08.1] Mã số thuế:	
 
-A. KÊ KHAI THÔNG TIN TÍNH THUẾ
+	A. KÊ KHAI THÔNG TIN TÍNH THUẾ
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -2156,29 +2146,29 @@ Hạn nộp thuế
 
 [32]
 
-[33]
+	[33]
 
-[34]
+	[34]
 
-[35]
+	[35]
 
-[36]
+	[36]
 
-[37]
+	[37]
 
-[38]
+	[38]
 
-[39]
+	[39]
 
-[40]
+	[40]
 
 1
 
 …
 
-Tổng cộng
+	Tổng cộng
 
-[41]
+	[41]
 
 D. ĐỀ NGHỊ XỬ LÝ KHOẢN NỘP THỪA
 
@@ -2186,27 +2176,28 @@ D. ĐỀ NGHỊ XỬ LÝ KHOẢN NỘP THỪA
 
 [43] ☐ Chuyển khoản.
 
-[43.1] Tên chủ tài khoản: 
+	[43.1] Tên chủ tài khoản: 	
 
-[43.2] Số tài khoản:[43.3] Tại Ngân hàng/KBNN: 
+		[43.2] Số tài khoản:	[43.3] Tại Ngân hàng/KBNN: 	
 
 [44] ☐ Tiền mặt.
 
-[44.1] Tên người nhận tiền:
+	[44.1] Tên người nhận tiền:	
 
-[44.2] Số CCCD/Số định danh cá nhân/Số Hộ chiếu:  
+	[44.2] Số CCCD/Số định danh cá nhân/Số Hộ chiếu: 	 
 
-[44.3] Ngày cấp:……./…../…… [44.4] Nơi cấp:
+	[44.3] Ngày cấp:……./…../…… [44.4] Nơi cấp:	
 
-[44.5] Nơi nhận tiền hoàn thuế: Kho bạc Nhà nước 
+	[44.5] Nơi nhận tiền hoàn thuế: Kho bạc Nhà nước 	
 
-Thông tin người nộp thuế đề nghị bù trừ khoản nộp thừa với khoản nợ, khoản thu phát sinh hoặc đề nghị hoàn kiêm bù trừ thu ngân sách nhà nước:
+	Thông tin người nộp thuế đề nghị bù trừ khoản nộp thừa với khoản nợ, khoản thu phát sinh hoặc đề nghị hoàn kiêm bù trừ thu ngân sách nhà nước:
 
 STT
 
 Thông tin khoản nợ/khoản thu phát sinh
 
-Số tiền còn phải nộp đề nghị bù trừ với số tiền nộp thừa
+Số tiền còn phải nộp đề nghị
+ bù trừ với số tiền nộp thừa
 
 Số tiền còn phải nộp sau bù trừ
 
@@ -2214,7 +2205,8 @@ Mã số thuế
 
 Tên NNT
 
-Số định danh khoản phải nộp (ID)(nếu có)
+Số định danh khoản phải nộp (ID)
+(nếu có)
 
 Nội dung khoản nợ/ phát sinh
 
@@ -2254,7 +2246,8 @@ Số tiền còn phải nộp
 
 [56]
 
-[57] = [55]-[56]
+[57] = [55]-
+[56]
 
 Tôi cam đoan những nội dung kê khai trên là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.
 
@@ -2266,7 +2259,8 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ..…..
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Ký, ghi rõ họ tên/ Ký điện tử)
 
@@ -2278,14 +2272,6 @@ Ghi chú:
 
 - Số thuế được miễn: là số tiền thuế phát sinh phải nộp được miễn theo mức quy định của Chính phủ.
 
-Mẫu số: 01/BK-STK (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/BK-STK (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 01/BK-STK 
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 01/BK-STK 
 
 (Kèm theo Thông tư số 18/2026/TT-BTC 
@@ -2294,9 +2280,9 @@ ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 THÔNG BÁO SỐ TÀI KHOẢN/SỐ HIỆU VÍ ĐIỆN TỬ
 
-[01] Người nộp thuế:
+		[01] Người nộp thuế:	
 
-[02] Mã số thuế: 
+		[02] Mã số thuế: 	
 
 Thông báo về số tài khoản ngân hàng/số hiệu ví điện tử liên quan đến sản xuất, kinh doanh của hộ kinh doanh, cá nhân kinh doanh như sau:
 
@@ -2342,27 +2328,24 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ..…..
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Chữ ký, ghi rõ họ tên/ Ký điện tử)
 
-Mẫu số: 01/TCKT(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/TCKT(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 01/TCKT
 
 (Kèm theo Thông tư số 18/2026/TT-BTC 
 
 ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
-Mẫu số: 01/TCKT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 
-(Kèm theo Thông tư số 18/2026/TT-BTC 
 
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc
-
-TỜ KHAI THUẾ CỦA TỔ CHỨC KHAI THAY        (Áp dụng đối với tổ chức khai thuế thay, nộp thuế thay cá nhân hợp tác kinh doanh với tổ chức; tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản)
+TỜ KHAI THUẾ CỦA TỔ CHỨC KHAI THAY
+        (Áp dụng đối với tổ chức khai thuế thay, nộp thuế thay cá nhân hợp tác kinh doanh với tổ chức; 
+tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản)
 
 □ Tổ chức khai thuế thay, nộp thuế thay cá nhân hợp tác kinh doanh với tổ chức
 
@@ -2370,7 +2353,7 @@ TỜ KHAI THUẾ CỦA TỔ CHỨC KHAI THAY        (Áp dụng đối với t�
 
 [01] Kỳ tính thuế:
 
-[01a] Tháng .... năm ............. 
+	[01a] Tháng .... năm ............. 
 
 [01b] Quý .... năm ................
 
@@ -2378,17 +2361,17 @@ TỜ KHAI THUẾ CỦA TỔ CHỨC KHAI THAY        (Áp dụng đối với t�
 
 [02] Lần đầu: □
 
-[03] Bổ sung lần thứ:.... □
+	[03] Bổ sung lần thứ:.... □
 
-[04] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 
+	[04] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 	
 
-[04.1] Mã số thuế: 
+	[04.1] Mã số thuế: 	
 
-[04.2] Điện thoại: .............................. [04.3] Email: 
+	[04.2] Điện thoại: .............................. [04.3] Email: 	
 
-[05] Tên đại lý thuế (nếu có): 
+	[05] Tên đại lý thuế (nếu có): 	
 
-[05.1] Mã số thuế: 
+	[05.1] Mã số thuế: 	
 
 Đơn vị tiền: Đồng Việt Nam
 
@@ -2398,7 +2381,7 @@ Chỉ tiêu
 
 Mã chỉ tiêu
 
-Số tiền
+	Số tiền
 
 I
 
@@ -2454,7 +2437,8 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ..…..
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử)
 
@@ -2472,14 +2456,6 @@ Ghi chú:
 
 - Trường hợp tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản thì sử dụng mã số thuế của tổ chức khai thuế thay, nộp thuế thay và hồ sơ khai thuế được nộp tại cơ quan thuế nơi có bất động sản cho thuê.
 
-Mẫu số: 01/BK-KTHTKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/BK-KTHTKD(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 01/BK-KTHTKD
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 01/BK-KTHTKD
 
 (Kèm theo Thông tư số 18/2026/TT-BTC 
@@ -2492,9 +2468,9 @@ BẢNG KÊ CHI TIẾT HỘ KINH DOANH, CÁ NHÂN KINH DOANH
 
 (Kèm theo Tờ khai 01/TCKT áp dụng đối với tổ chức khai thuế thay, nộp thuế thay cho cá nhân hợp tác kinh doanh với tổ chức)
 
-[01] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 
+	[01] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 	
 
-[02] Mã số thuế: 
+	[02] Mã số thuế: 	
 
 Đơn vị tiền: Đồng Việt Nam
 
@@ -2528,7 +2504,7 @@ Tổng cộng
 
 [09]
 
-Tôi cam đoan những nội dung kê khai trên là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.
+	Tôi cam đoan những nội dung kê khai trên là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.
 
  NHÂN VIÊN ĐẠI LÝ THUẾ
 
@@ -2538,17 +2514,10 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ....
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/ Ký điện tử)
-
-Mẫu số: 02/BK-KTBĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 02/BK-KTBĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 02/BK-KTBĐS
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 Mẫu số: 02/BK-KTBĐS
 
@@ -2562,15 +2531,15 @@ Phụ lục
 
 (Kèm theo tờ khai 01/TCKT áp dụng đối với tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản)
 
-[01] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 
+	[01] Tổ chức khai thuế thay, nộp thuế thay theo pháp luật quản lý thuế: 	
 
-[02] Mã số thuế: 
+	[02] Mã số thuế: 		
 
-[03] Địa chỉ nơi có bất động sản cho thuê: 
+	[03] Địa chỉ nơi có bất động sản cho thuê: 	
 
-[03.1] Xã/phường/đặc khu:
+	[03.1] Xã/phường/đặc khu:	
 
-[03.2] Tỉnh/TP:
+	[03.2] Tỉnh/TP:	
 
                                                                                                                           Đơn vị tiền: Đồng Việt Nam 
 
@@ -2646,14 +2615,6 @@ Chỉ tiêu [09]: Trường hợp cá nhân có nhiều bất động sản cho 
 
 - Trường hợp tổ chức khai thuế thay, nộp thuế thay cho nhiều bất động sản cho thuê thì lập tờ khai theo từng địa bàn xã/phường/đặc khu nơi có bất động sản cho thuê.
 
-Mẫu số: 01/XSBHĐC (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/XSBHĐC (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-Mẫu số: 01/XSBHĐC 
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
 Mẫu số: 01/XSBHĐC 
 
 (Kèm theo Thông tư số 18/2026/TT-BTC 
@@ -2672,17 +2633,17 @@ TỜ KHAI THUẾ THU NHẬP CÁ NHÂN
 
 [01a] Tháng…năm…
 
-[01b] Quý….năm…..
+	[01b] Quý….năm…..
 
 [02] Lần đầu:                                    [03] Bổ sung lần thứ: …  
 
-[04] Tên người nộp thuế: 
+	[04] Tên người nộp thuế: 	
 
-[05] Mã số thuế:
+	[05] Mã số thuế:	
 
-[06] Tên đại lý thuế (nếu có): 
+	[06] Tên đại lý thuế (nếu có): 	
 
-[07] Mã số thuế:
+	[07] Mã số thuế:	
 
 Đơn vị tiền: Đồng Việt Nam
 
@@ -2832,13 +2793,7 @@ Ghi chú:
 
 Tờ khai này áp dụng đối với doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác theo quy định tại Thông tư này. Đối với doanh nghiệp xổ số, bảo hiểm, bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá theo quy định tại Thông tư hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.
 
-Mẫu số: 01/BK-XSBHĐC (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/BK-XSBHĐC (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Phụ lục
-
-Mẫu số: 01/BK-XSBHĐC 
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+Phụ lục
 
 Mẫu số: 01/BK-XSBHĐC 
 
@@ -2856,11 +2811,11 @@ TỪ HOẠT ĐỘNG ĐẠI LÝ XỔ SỔ, ĐẠI LÝ BẢO HIỂM, BÁN HÀNG Đ
 
     [02] Lần đầu:                                        [03] Bổ sung lần thứ: …  
 
-       [04] Tên người nộp thuế: 
+	       [04] Tên người nộp thuế: 	
 
-       [05] Mã số thuế:             
+	       [05] Mã số thuế: 		            
 
-                Đơn vị tiền: Đồng Việt Nam
+	                Đơn vị tiền: Đồng Việt Nam
 
 STT
 
@@ -2988,13 +2943,13 @@ Ghi chú:
 
 Doanh nghiệp xổ số, bảo hiểm, bán hàng đa cấp kê khai toàn bộ cá nhân có phát sinh doanh thu trong năm tính thuế, không phân biệt có phát sinh khấu trừ thuế hay không phát sinh khấu trừ thuế.
 
-Mẫu số: 01/BĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/BĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+Mẫu số: 01/BĐS
+(Kèm theo Thông tư số 18/2026/TT-BTC 
+ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
-Mẫu số: 01/BĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
 
-Mẫu số: 01/BĐS(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc 
 
 THÔNG BÁO DOANH THU/TỜ KHAI THUẾ 
 
@@ -3018,27 +2973,27 @@ THÔNG BÁO DOANH THU/TỜ KHAI THUẾ
 
 [03] Bổ sung lần thứ:....
 
-[04] Người nộp thuế: 
+		[04] Người nộp thuế: 	
 
-[05] Mã số thuế: 
+		[05] Mã số thuế: 	
 
-[06] Mã địa điểm kinh doanh nơi nộp tờ khai:
+		[06] Mã địa điểm kinh doanh nơi nộp tờ khai:	
 
-[06.1] Số nhà, đường phố/xóm/ấp/thôn: 
+		[06.1] Số nhà, đường phố/xóm/ấp/thôn: 	
 
-[06.2] Xã/phường/đặc khu :
+		[06.2] Xã/phường/đặc khu :	
 
-[06.3] Tỉnh/TP:
+		[06.3] Tỉnh/TP:	
 
-[07] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 
+		[07] Tổ chức/cá nhân khai, nộp thuế thay theo ủy quyền (nếu có): 	
 
-[07.1] Mã số thuế: 
+		[07.1] Mã số thuế: 	
 
-[07.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm 
+		[07.2] Văn bản ủy quyền (nếu có): Số ...................................... ngày ..... tháng ..... năm 	
 
-[08] Tên đại lý thuế (nếu có): 
+		[08] Tên đại lý thuế (nếu có): 	
 
-[08.1] Mã số thuế: 
+		[08.1] Mã số thuế: 	
 
 Đơn vị tiền: Đồng Việt Nam
 
@@ -3112,7 +3067,7 @@ Tổng số thuế còn phải nộp [18]=[11]+[17]
 
 (TNCN: Thu nhập cá nhân; GTGT: Giá trị gia tăng)
 
-B. HỖ TRỢ TỰ ĐỘNG THÔNG TIN NỘP THUẾ
+	B. HỖ TRỢ TỰ ĐỘNG THÔNG TIN NỘP THUẾ
 
 Đơn vị tiền: Đồng Việt Nam 
 
@@ -3138,33 +3093,33 @@ Hạn nộp thuế
 
 [19]
 
-[20]
+	[20]
 
-[21]
+	[21]
 
-[22]
+	[22]
 
-[23]
+	[23]
 
-[24]
+	[24]
 
-[25]
+	[25]
 
-[26]
+	[26]
 
-[27]
+	[27]
 
-[28]
+	[28]
 
 1
 
 …
 
-Tổng cộng
+	Tổng cộng
 
-[29]
+	[29]
 
-Người nộp thuế còn được tiếp tục trừ…. đồng vào doanh thu tính thuế TNCN của kỳ tiếp theo.
+	Người nộp thuế còn được tiếp tục trừ…. đồng vào doanh thu tính thuế TNCN của kỳ tiếp theo.
 
 Tôi cam đoan những nội dung kê khai trên là đúng và chịu trách nhiệm trước pháp luật về những nội dung đã khai./.
 
@@ -3176,7 +3131,8 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm ..…..
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Ký, ghi rõ họ tên/Ký điện tử)
 
@@ -3185,14 +3141,6 @@ Ghi chú:
 - Tổ chức, cá nhân khai thuế thay, nộp thuế thay cho cá nhân ủy quyền theo quy định của pháp luật dân sự không bao gồm trường hợp tổ chức là bên đi thuê khai thuế thay, nộp thuế thay cho cá nhân. 
 
 -  Cá nhân có nhiều bất động sản cho thuê trên cùng địa bàn một tỉnh, thành phố hoặc khác tỉnh, thành phố, thực hiện khai thuế tổng hợp chung cho các bất động sản trên một (01) hồ sơ khai thuế và lựa chọn một (01) cơ quan thuế nơi có bất động sản cho thuê để nộp hồ sơ khai thuế (trừ trường hợp tổ chức là bên đi thuê khai thuế thay, nộp thuế thay). Cá nhân thực hiện kê khai doanh thu, số thuế giá trị gia tăng, thuế thu nhập cá nhân phải nộp và nộp thuế theo từng địa điểm nơi có bất động sản cho thuê.
-
-Mẫu số: 01/BK-BĐS (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)Mẫu số: 01/BK-BĐS (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)                                
-
-Mẫu số: 01/BK-BĐS 
-
-(Kèm theo Thông tư số 18/2026/TT-BTC 
-
-ngày 05/3/2026 của Bộ trưởng Bộ Tài chính)
 
 Mẫu số: 01/BK-BĐS 
 
@@ -3206,9 +3154,9 @@ BẢNG KÊ CHI TIẾT BẤT ĐỘNG SẢN CHO THUÊ
 
 (Kèm theo tờ khai 01/BĐS áp dụng đối với trường hợp cá nhân khai thuế đối với hoạt động cho thuê bất động sản)
 
-[01] Người nộp thuế: 
+	[01] Người nộp thuế: 	
 
-[02] Mã số thuế: 
+	[02] Mã số thuế: 		
 
                                                                                                                           Đơn vị tiền: Đồng Việt Nam 
 
@@ -3306,12 +3254,6 @@ NGƯỜI NỘP THUẾ hoặc
 
 (Ký, ghi rõ họ tên/ Ký điện tử)
 
-Mẫu số: 01/BK-HTK(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chínhMẫu số: 01/BK-HTK(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
-
-Mẫu số: 01/BK-HTK
-
-(Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
-
 Mẫu số: 01/BK-HTK
 
 (Kèm theo Thông tư số 18/2026/TT-BTC ngày 05/3/2026 của Bộ trưởng Bộ Tài chính
@@ -3322,11 +3264,7 @@ CỦA HỘ KINH DOANH, CÁ NHÂN KINH DOANH
 
 (Áp dụng đối với hộ kinh doanh, cá nhân kinh doanh trong năm 2025 có mức doanh thu từ 3 tỷ đồng trở lên hoặc từ năm 2026 lựa chọn nộp thuế thu nhập cá nhân trên thu nhập tính thuế)
 
-Mẫu số: 01/TKN-CNKD(Ban hành kèm theo ….)Mẫu số: 01/TKN-CNKD(Ban hành kèm theo ….)[01] Tên người nộp thuế: …………………………………………………………………
-
-Mẫu số: 01/TKN-CNKD
-
-(Ban hành kèm theo ….)
+[01] Tên người nộp thuế: …………………………………………………………………
 
 Mẫu số: 01/TKN-CNKD
 
@@ -3412,6 +3350,7 @@ Chứng chỉ hành nghề số: .........
 
 ………., ngày ... tháng ... năm .….
 
-NGƯỜI NỘP THUẾ hoặcĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
+NGƯỜI NỘP THUẾ hoặc
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ
 
 (Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/ Ký điện tử)

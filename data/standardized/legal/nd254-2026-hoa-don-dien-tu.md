@@ -18,7 +18,7 @@ ____________________________________
 
 Hà Nội, ngày 30 tháng 6 năm 2026
 
-NGHỊ ĐỊNH
+	NGHỊ ĐỊNH
 
 Quy định chi tiết một số điều và biện pháp để tổ chức, 
 
@@ -60,7 +60,7 @@ d) Tra cứu, cung cấp, sử dụng thông tin hóa đơn điện tử gồm: 
 
 Điều 2. Đối tượng áp dụng
 
-Tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ (sau đây gọi là người bán) bao gồm:
+			Tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ (sau đây gọi là người bán) bao gồm:
 
 a) Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã được thành lập và hoạt động theo pháp luật Việt Nam; chi nhánh, văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam (sau đây gọi là tổ chức kinh tế); 
 
@@ -96,23 +96,23 @@ Mã của cơ quan thuế trên hóa đơn điện tử bao gồm số giao dị
 
 2. Hóa đơn điện tử không có mã của cơ quan thuế là hóa đơn điện tử do tổ chức bán hàng hóa, cung cấp dịch vụ gửi cho người mua không có mã của cơ quan thuế.
 
-3. Hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu điện tử với cơ quan thuế (sau đây gọi là hóa đơn điện tử từ máy tính tiền) là hóa đơn điện tử có mã của cơ quan thuế hoặc hoá đơn điện tử không có mã của cơ quan thuế hoặc dữ liệu điện tử để người mua có thể truy xuất, kê khai thông tin hóa đơn điện tử khởi tạo từ máy tính tiền do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập từ hệ thống tính tiền, dữ liệu được chuyển đến cơ quan thuế theo định dạng chuẩn dữ liệu. 
+	3. Hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu điện tử với cơ quan thuế (sau đây gọi là hóa đơn điện tử từ máy tính tiền) là hóa đơn điện tử có mã của cơ quan thuế hoặc hoá đơn điện tử không có mã của cơ quan thuế hoặc dữ liệu điện tử để người mua có thể truy xuất, kê khai thông tin hóa đơn điện tử khởi tạo từ máy tính tiền do tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ lập từ hệ thống tính tiền, dữ liệu được chuyển đến cơ quan thuế theo định dạng chuẩn dữ liệu. 
 
-4. Máy tính tiền là hệ thống tính tiền bao gồm một thiết bị điện tử đồng bộ hoặc một hệ thống gồm nhiều thiết bị điện tử được kết hợp với nhau bằng giải pháp công nghệ thông tin có chức năng chung như: tính tiền, lưu trữ các giao dịch bán hàng, số liệu bán hàng.
+	4. Máy tính tiền là hệ thống tính tiền bao gồm một thiết bị điện tử đồng bộ hoặc một hệ thống gồm nhiều thiết bị điện tử được kết hợp với nhau bằng giải pháp công nghệ thông tin có chức năng chung như: tính tiền, lưu trữ các giao dịch bán hàng, số liệu bán hàng.
 
 5. Hóa đơn, chứng từ hợp pháp là hóa đơn, chứng từ đảm bảo đúng về hình thức và nội dung theo quy định tại Nghị định này.
 
 6. Hóa đơn, chứng từ giả là hóa đơn, chứng từ được in hoặc khởi tạo theo mẫu hóa đơn, chứng từ đã được thông báo phát hành của tổ chức, cá nhân khác hoặc in, khởi tạo trùng số của cùng một ký hiệu mẫu số hóa đơn, ký hiệu hóa đơn, chứng từ hoặc làm giả hóa đơn điện tử, chứng từ điện tử.
 
-7. Sử dụng hóa đơn, chứng từ không hợp pháp là việc sử dụng hóa đơn, chứng từ giả; sử dụng hóa đơn, chứng từ chưa có giá trị sử dụng, hết giá trị sử dụng; sử dụng hóa đơn bị ngừng sử dụng trong thời gian bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn, trừ trường hợp được phép sử dụng theo thông báo của cơ quan thuế; sử dụng hóa đơn điện tử không đăng ký sử dụng với cơ quan thuế; sử dụng hóa đơn điện tử chưa có mã của cơ quan thuế đối với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế; sử dụng hóa đơn mua hàng hoá, dịch vụ có ngày lập trên hóa đơn từ ngày cơ quan thuế xác định bên bán không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền; sử dụng hóa đơn, chứng từ mua hàng hoá, dịch vụ có ngày lập trên hóa đơn, chứng từ trước ngày xác định bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền hoặc chưa có thông báo của cơ quan thuế về việc bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan có thẩm quyền nhưng cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã có kết luận đó là hoá đơn, chứng từ không hợp pháp.
+			7. Sử dụng hóa đơn, chứng từ không hợp pháp là việc sử dụng hóa đơn, chứng từ giả; sử dụng hóa đơn, chứng từ chưa có giá trị sử dụng, hết giá trị sử dụng; sử dụng hóa đơn bị ngừng sử dụng trong thời gian bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn, trừ trường hợp được phép sử dụng theo thông báo của cơ quan thuế; sử dụng hóa đơn điện tử không đăng ký sử dụng với cơ quan thuế; sử dụng hóa đơn điện tử chưa có mã của cơ quan thuế đối với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế; sử dụng hóa đơn mua hàng hoá, dịch vụ có ngày lập trên hóa đơn từ ngày cơ quan thuế xác định bên bán không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền; sử dụng hóa đơn, chứng từ mua hàng hoá, dịch vụ có ngày lập trên hóa đơn, chứng từ trước ngày xác định bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền hoặc chưa có thông báo của cơ quan thuế về việc bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan có thẩm quyền nhưng cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã có kết luận đó là hoá đơn, chứng từ không hợp pháp.
 
-Sử dụng không hợp pháp hóa đơn, chứng từ là việc sử dụng hóa đơn, chứng từ tẩy xóa, sửa chữa không đúng quy định; sử dụng hóa đơn, chứng từ khống (hoá đơn, chứng từ đã ghi các chỉ tiêu, nội dung nghiệp vụ kinh tế nhưng việc mua bán hàng hoá, dịch vụ không có thật một phần hoặc toàn bộ); sử dụng hóa đơn phản ánh không đúng giá trị thực tế phát sinh hoặc lập hóa đơn khống, lập hóa đơn giả; sử dụng hóa đơn có sự chênh lệch về giá trị hàng hóa, dịch vụ hoặc sai lệch các tiêu thức bắt buộc giữa các liên của hóa đơn (đối với hóa đơn giấy đã phát hành, sử dụng trong giai đoạn trước khi chuyển sang hóa đơn điện tử); sử dụng hóa đơn để quay vòng khi vận chuyển hàng hóa trong khâu lưu thông hoặc dùng hóa đơn của hàng hóa, dịch vụ này để chứng minh cho hàng hóa, dịch vụ khác; sử dụng hóa đơn, chứng từ của tổ chức, cá nhân khác (trừ hóa đơn của cơ quan thuế và trường hợp được ủy nhiệm lập hóa đơn) để hợp thức hóa hàng hóa, dịch vụ mua vào hoặc hàng hóa, dịch vụ bán ra; sử dụng hóa đơn, chứng từ mà cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã kết luận là sử dụng không hợp pháp hóa đơn, chứng từ.
+			Sử dụng không hợp pháp hóa đơn, chứng từ là việc sử dụng hóa đơn, chứng từ tẩy xóa, sửa chữa không đúng quy định; sử dụng hóa đơn, chứng từ khống (hoá đơn, chứng từ đã ghi các chỉ tiêu, nội dung nghiệp vụ kinh tế nhưng việc mua bán hàng hoá, dịch vụ không có thật một phần hoặc toàn bộ); sử dụng hóa đơn phản ánh không đúng giá trị thực tế phát sinh hoặc lập hóa đơn khống, lập hóa đơn giả; sử dụng hóa đơn có sự chênh lệch về giá trị hàng hóa, dịch vụ hoặc sai lệch các tiêu thức bắt buộc giữa các liên của hóa đơn (đối với hóa đơn giấy đã phát hành, sử dụng trong giai đoạn trước khi chuyển sang hóa đơn điện tử); sử dụng hóa đơn để quay vòng khi vận chuyển hàng hóa trong khâu lưu thông hoặc dùng hóa đơn của hàng hóa, dịch vụ này để chứng minh cho hàng hóa, dịch vụ khác; sử dụng hóa đơn, chứng từ của tổ chức, cá nhân khác (trừ hóa đơn của cơ quan thuế và trường hợp được ủy nhiệm lập hóa đơn) để hợp thức hóa hàng hóa, dịch vụ mua vào hoặc hàng hóa, dịch vụ bán ra; sử dụng hóa đơn, chứng từ mà cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã kết luận là sử dụng không hợp pháp hóa đơn, chứng từ.
 
-8. Tiêu hủy hóa đơn, chứng từ 
+				8. Tiêu hủy hóa đơn, chứng từ 
 
-a) Tiêu hủy hóa đơn điện tử, chứng từ điện tử là biện pháp làm cho hóa đơn điện tử, chứng từ điện tử không còn tồn tại trên hệ thống thông tin, không thể truy cập và tham chiếu đến thông tin chứa trong hóa đơn điện tử, chứng từ điện tử;      
+				a) Tiêu hủy hóa đơn điện tử, chứng từ điện tử là biện pháp làm cho hóa đơn điện tử, chứng từ điện tử không còn tồn tại trên hệ thống thông tin, không thể truy cập và tham chiếu đến thông tin chứa trong hóa đơn điện tử, chứng từ điện tử;      
 
-b) Tiêu hủy hóa đơn do cơ quan thuế đặt in, tiêu hủy chứng từ đặt in, tự in là việc sử dụng biện pháp đốt cháy, cắt, xé nhỏ hoặc hình thức tiêu hủy khác, đảm bảo hóa đơn, chứng từ đã tiêu hủy sẽ không thể sử dụng lại các thông tin, số liệu trên đó.
+	b) Tiêu hủy hóa đơn do cơ quan thuế đặt in, tiêu hủy chứng từ đặt in, tự in là việc sử dụng biện pháp đốt cháy, cắt, xé nhỏ hoặc hình thức tiêu hủy khác, đảm bảo hóa đơn, chứng từ đã tiêu hủy sẽ không thể sử dụng lại các thông tin, số liệu trên đó.
 
 Hóa đơn, chứng từ được phép tiêu hủy là hóa đơn, chứng từ đã hết thời hạn lưu trữ theo quy định tại Điều 5 Nghị định này.
 
@@ -128,7 +128,7 @@ Hóa đơn, chứng từ được phép tiêu hủy là hóa đơn, chứng từ
 
 Hóa đơn điện tử phải theo định dạng chuẩn dữ liệu và phải ghi đầy đủ nội dung theo quy định của pháp luật về thuế, pháp luật về kế toán và quy định tại Điều 10 Nghị định này, bảo đảm phản ánh đầy đủ, trung thực nội dung nghiệp vụ kinh tế phát sinh. Người bán chịu trách nhiệm trước pháp luật về tính chính xác của hóa đơn đã lập.
 
-2. Khi khấu trừ thuế thu nhập cá nhân, khi thu thuế, phí, lệ phí, tổ chức, cá nhân khấu trừ thuế, tổ chức thu thuế, phí, lệ phí phải lập chứng từ khấu trừ thuế điện tử, biên lai thu thuế, phí, lệ phí điện tử giao cho người có thu nhập bị khấu trừ thuế, người nộp thuế, nộp phí, lệ phí và phải ghi đầy đủ các nội dung theo quy định tại Điều 23 Nghị định này và theo định dạng chuẩn dữ liệu.
+	2. Khi khấu trừ thuế thu nhập cá nhân, khi thu thuế, phí, lệ phí, tổ chức, cá nhân khấu trừ thuế, tổ chức thu thuế, phí, lệ phí phải lập chứng từ khấu trừ thuế điện tử, biên lai thu thuế, phí, lệ phí điện tử giao cho người có thu nhập bị khấu trừ thuế, người nộp thuế, nộp phí, lệ phí và phải ghi đầy đủ các nội dung theo quy định tại Điều 23 Nghị định này và theo định dạng chuẩn dữ liệu.
 
 3. Trước khi sử dụng hóa đơn điện tử, chứng từ điện tử, tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh, tổ chức, cá nhân khấu trừ thuế thu nhập cá nhân, tổ chức thu thuế, phí, lệ phí phải thực hiện đăng ký sử dụng hóa đơn điện tử, chứng từ điện tử theo quy định của Bộ trưởng Bộ Tài chính.
 
@@ -144,7 +144,7 @@ Việc đăng ký, quản lý, sử dụng hóa đơn điện tử, chứng từ
 
 Điều 5. Bảo quản, lưu trữ hóa đơn, chứng từ và chuyển đổi hóa đơn điện tử, chứng từ điện tử 
 
-Hóa đơn, chứng từ được bảo quản, lưu trữ đảm bảo:
+		Hóa đơn, chứng từ được bảo quản, lưu trữ đảm bảo:
 
 a) Tính an toàn, bảo mật, toàn vẹn, đầy đủ, không bị thay đổi, sai lệch trong suốt thời gian lưu trữ;
 
@@ -190,43 +190,43 @@ d) Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồn
 
 Hộ kinh doanh, cá nhân kinh doanh không thuộc trường hợp sử dụng hóa đơn điện tử mà có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.
 
-2. Đối tượng cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh
+	2. Đối tượng cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh
 
-a) Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là hóa đơn bán hàng trong các trường hợp:
+	a) Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là hóa đơn bán hàng trong các trường hợp:
 
-a.1) Tổ chức không kinh doanh nhưng có phát sinh giao dịch bán hàng hóa, cung cấp dịch vụ thuộc đối tượng chịu thuế theo quy định của pháp luật thuế giá trị gia tăng, thuế thu nhập doanh nghiệp và các loại thuế khác (nếu có); 
+	a.1) Tổ chức không kinh doanh nhưng có phát sinh giao dịch bán hàng hóa, cung cấp dịch vụ thuộc đối tượng chịu thuế theo quy định của pháp luật thuế giá trị gia tăng, thuế thu nhập doanh nghiệp và các loại thuế khác (nếu có); 
 
-a.2) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh thuộc diện nộp thuế giá trị gia tăng theo phương pháp trực tiếp thuộc các trường hợp sau:
+	a.2) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh thuộc diện nộp thuế giá trị gia tăng theo phương pháp trực tiếp thuộc các trường hợp sau:
 
-a.2.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn để giao cho người mua;
+	a.2.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn để giao cho người mua;
 
-a.2.2) Tạm ngừng hoạt động kinh doanh nhưng cần có hóa đơn giao cho khách hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan thuế thông báo tạm ngừng kinh doanh;
+	a.2.2) Tạm ngừng hoạt động kinh doanh nhưng cần có hóa đơn giao cho khách hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan thuế thông báo tạm ngừng kinh doanh;
 
-a.2.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
+	a.2.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
 
-a.2.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động kinh doanh dưới sự giám sát của Tòa án;
+	a.2.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động kinh doanh dưới sự giám sát của Tòa án;
 
-a.2.5) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh trong thời gian giải trình hoặc bổ sung tài liệu theo quy định của Bộ trưởng Bộ Tài chính;
+	a.2.5) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh trong thời gian giải trình hoặc bổ sung tài liệu theo quy định của Bộ trưởng Bộ Tài chính;
 
-b) Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là hóa đơn giá trị gia tăng trong các trường hợp:
+	b) Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là hóa đơn giá trị gia tăng trong các trường hợp:
 
-b.1) Tổ chức kinh tế, tổ chức khác thuộc diện nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuộc các trường hợp sau:
+	b.1) Tổ chức kinh tế, tổ chức khác thuộc diện nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuộc các trường hợp sau:
 
-b.1.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn để giao cho người mua;
+	b.1.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn để giao cho người mua;
 
-b.1.2) Tạm ngừng hoạt động kinh doanh cần có hóa đơn giao cho khách hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan nhà nước có thẩm quyền thông báo tạm ngừng kinh doanh;
+	b.1.2) Tạm ngừng hoạt động kinh doanh cần có hóa đơn giao cho khách hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan nhà nước có thẩm quyền thông báo tạm ngừng kinh doanh;
 
-b.1.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
+	b.1.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
 
-b.1.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động kinh doanh dưới sự giám sát của Tòa án;
+	b.1.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động kinh doanh dưới sự giám sát của Tòa án;
 
-b.1.5) Tổ chức kinh tế, tổ chức khác trong thời gian giải trình hoặc bổ sung tài liệu theo quy định của Bộ trưởng Bộ Tài chính;
+	b.1.5) Tổ chức kinh tế, tổ chức khác trong thời gian giải trình hoặc bổ sung tài liệu theo quy định của Bộ trưởng Bộ Tài chính;
 
-b.2) Tổ chức, cơ quan nhà nước không thuộc đối tượng nộp thuế giá trị gia tăng theo phương pháp khấu trừ có bán đấu giá tài sản (trừ trường hợp bán tài sản công nêu tại khoản 4 Điều 8 Nghị định này), trường hợp giá trúng đấu giá là giá bán đã có thuế giá trị gia tăng được công bố rõ trong hồ sơ bán đấu giá do cơ quan có thẩm quyền phê duyệt thì được cấp hóa đơn giá trị gia tăng để giao cho người mua;
+	b.2) Tổ chức, cơ quan nhà nước không thuộc đối tượng nộp thuế giá trị gia tăng theo phương pháp khấu trừ có bán đấu giá tài sản (trừ trường hợp bán tài sản công nêu tại khoản 4 Điều 8 Nghị định này), trường hợp giá trúng đấu giá là giá bán đã có thuế giá trị gia tăng được công bố rõ trong hồ sơ bán đấu giá do cơ quan có thẩm quyền phê duyệt thì được cấp hóa đơn giá trị gia tăng để giao cho người mua;
 
-c) Cấp hóa đơn bán tài sản công có mã của cơ quan thuế theo từng lần phát sinh trong trường hợp cơ quan được giao nhiệm vụ tổ chức xử lý tài sản công là người nộp thuế giá trị gia tăng bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
+	c) Cấp hóa đơn bán tài sản công có mã của cơ quan thuế theo từng lần phát sinh trong trường hợp cơ quan được giao nhiệm vụ tổ chức xử lý tài sản công là người nộp thuế giá trị gia tăng bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
 
-d) Trình tự, thủ tục cấp hóa đơn điện tử theo từng lần phát sinh tại khoản này theo quy định của Bộ trưởng Bộ Tài chính.
+	d) Trình tự, thủ tục cấp hóa đơn điện tử theo từng lần phát sinh tại khoản này theo quy định của Bộ trưởng Bộ Tài chính.
 
 3. Quy định về áp dụng hóa đơn điện tử, đối với một số trường hợp cụ thể theo yêu cầu quản lý như sau: 
 
@@ -238,7 +238,7 @@ b.1) Khi xuất hàng giao cho cơ sở nhận uỷ thác, cơ sở có hàng h�
 
 b.2) Cơ sở nhận uỷ thác xuất khẩu làm thủ tục xuất khẩu theo quy định của pháp luật hải quan. Khi hàng hóa đã thực xuất khẩu có xác nhận của cơ quan hải quan, căn cứ vào các chứng từ đối chiếu, xác nhận về số lượng, giá trị hàng hóa thực tế xuất khẩu của cơ sở nhận uỷ thác xuất khẩu, cơ sở có hàng hóa uỷ thác xuất khẩu lập hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử cho cơ sở nhận ủy thác xuất khẩu. Cơ sở nhận uỷ thác xuất khẩu lập hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử để thu phí ủy thác của cơ sở có hàng hóa ủy thác.
 
-c) Cơ sở kinh doanh có hàng hóa, dịch vụ xuất khẩu (kể cả cơ sở gia công hàng hóa xuất khẩu) khi xuất khẩu hàng hóa, dịch vụ sử dụng hóa đơn điện tử: hóa đơn thương mại điện tử hoặc hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử. Thời điểm lập hóa đơn thực hiện theo quy định tại khoản 1 Điều 9 Nghị định này.
+	c) Cơ sở kinh doanh có hàng hóa, dịch vụ xuất khẩu (kể cả cơ sở gia công hàng hóa xuất khẩu) khi xuất khẩu hàng hóa, dịch vụ sử dụng hóa đơn điện tử: hóa đơn thương mại điện tử hoặc hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử. Thời điểm lập hóa đơn thực hiện theo quy định tại khoản 1 Điều 9 Nghị định này.
 
 Khi xuất hàng hóa để vận chuyển đến cửa khẩu hay đến nơi làm thủ tục xuất khẩu, cơ sở sử dụng phiếu xuất kho kiêm vận chuyển nội bộ hoặc hóa đơn thương mại điện tử hoặc hóa đơn điện tử theo quy định làm chứng từ lưu thông hàng hóa trên thị trường.
 
@@ -332,11 +332,11 @@ a.3) Xuất vào khu phi thuế quan và các trường hợp được coi như 
 
 a.4) Xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài.
 
-b) Tổ chức kinh tế, cá nhân trong khu phi thuế quan khi bán hàng hóa, cung cấp dịch vụ vào nội địa và khi bán hàng hóa, cung cấp dịch vụ giữa các tổ chức kinh tế, cá nhân trong khu phi thuế quan với nhau, xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài, trên hóa đơn ghi rõ “Dành cho tổ chức, cá nhân trong khu phi thuế quan”. 
+	b) Tổ chức kinh tế, cá nhân trong khu phi thuế quan khi bán hàng hóa, cung cấp dịch vụ vào nội địa và khi bán hàng hóa, cung cấp dịch vụ giữa các tổ chức kinh tế, cá nhân trong khu phi thuế quan với nhau, xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài, trên hóa đơn ghi rõ “Dành cho tổ chức, cá nhân trong khu phi thuế quan”. 
 
 Doanh nghiệp chế xuất có hoạt động kinh doanh khác (ngoài hoạt động chế xuất theo quy định pháp luật về khu công nghiệp, khu chế xuất) khai thuế giá trị gia tăng theo phương pháp trực tiếp thì sử dụng hóa đơn theo điểm a khoản này. Doanh nghiệp chế xuất khai thuế giá trị gia tăng theo phương pháp khấu trừ thì sử dụng hóa đơn theo quy định tại khoản 1 Điều này. 
 
-3. Hóa đơn thương mại điện tử là hóa đơn áp dụng đối với các tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh (người xuất khẩu) có hoạt động xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài mà người xuất khẩu đáp ứng điều kiện chuyển dữ liệu hóa đơn thương mại bằng phương thức điện tử đến cơ quan thuế. Hóa đơn thương mại điện tử đáp ứng quy định về nội dung theo quy định tại Điều 10 Nghị định này và theo định dạng chuẩn dữ liệu.
+	3. Hóa đơn thương mại điện tử là hóa đơn áp dụng đối với các tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh (người xuất khẩu) có hoạt động xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài mà người xuất khẩu đáp ứng điều kiện chuyển dữ liệu hóa đơn thương mại bằng phương thức điện tử đến cơ quan thuế. Hóa đơn thương mại điện tử đáp ứng quy định về nội dung theo quy định tại Điều 10 Nghị định này và theo định dạng chuẩn dữ liệu.
 
 Trường hợp người xuất khẩu không đáp ứng điều kiện chuyển dữ liệu hóa đơn thương mại bằng phương thức điện tử đến cơ quan thuế thì lựa chọn lập hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử.
 
@@ -390,9 +390,9 @@ d.2) Trường hợp đã chuyển giao quyền sở hữu, quyền sử dụng,
 
 đ) Đối với các trường hợp tổ chức kinh doanh mua dịch vụ vận tải hàng không xuất qua website và hệ thống thương mại điện tử được lập theo thông lệ quốc tế, thời điểm lập hóa đơn chậm nhất không quá 05 ngày kế tiếp kể từ ngày chứng từ dịch vụ vận tải hàng không xuất ra trên hệ thống website và hệ thống thương mại điện tử;
 
-e) Đối với hoạt động tìm kiếm thăm dò, khai thác và chế biến dầu thô, thời điểm lập hóa đơn bán dầu thô, condensate, các sản phẩm được chế biến từ dầu thô (bao gồm cả hoạt động bao tiêu sản phẩm theo cam kết của Chính phủ) là thời điểm bên mua và bên bán xác định được giá bán chính thức, không phân biệt đã thu được tiền hay chưa thu được tiền.
+	e) Đối với hoạt động tìm kiếm thăm dò, khai thác và chế biến dầu thô, thời điểm lập hóa đơn bán dầu thô, condensate, các sản phẩm được chế biến từ dầu thô (bao gồm cả hoạt động bao tiêu sản phẩm theo cam kết của Chính phủ) là thời điểm bên mua và bên bán xác định được giá bán chính thức, không phân biệt đã thu được tiền hay chưa thu được tiền.
 
-Đối với hoạt động bán khí thiên nhiên, khí đồng hành, khí than được chuyển bằng đường ống dẫn khí đến người mua, thời điểm lập hóa đơn là thời điểm bên mua, bên bán xác định khối lượng khí giao của tháng nhưng chậm nhất là ngày cuối cùng của thời hạn kê khai, nộp thuế đối với tháng phát sinh nghĩa vụ thuế theo quy định pháp luật về thuế.
+	Đối với hoạt động bán khí thiên nhiên, khí đồng hành, khí than được chuyển bằng đường ống dẫn khí đến người mua, thời điểm lập hóa đơn là thời điểm bên mua, bên bán xác định khối lượng khí giao của tháng nhưng chậm nhất là ngày cuối cùng của thời hạn kê khai, nộp thuế đối với tháng phát sinh nghĩa vụ thuế theo quy định pháp luật về thuế.
 
 Trường hợp thỏa thuận bảo lãnh và cam kết của Chính phủ có quy định khác về thời điểm lập hóa đơn thì thực hiện theo quy định tại thỏa thuận bảo lãnh và cam kết của Chính phủ.
 
@@ -402,25 +402,25 @@ h) Đối với trường hợp bán xăng, dầu tại các cửa hàng bán l�
 
 i) Đối với trường hợp cung cấp dịch vụ vận tải hàng không (bao gồm cả trường hợp đại lý bán đúng giá hưởng hoa hồng của hãng hàng không), dịch vụ bảo hiểm qua đại lý, thời điểm lập hóa đơn là thời điểm hoàn thành việc đối soát dữ liệu giữa các bên nhưng chậm nhất không quá ngày 10 của tháng sau tháng phát sinh;     
 
-k) Đối với hoạt động cho vay của tổ chức tín dụng, thời điểm lập hóa đơn được xác định theo kỳ hạn thu lãi tại thỏa thuận cho vay giữa tổ chức tín dụng và khách hàng đi vay, trừ trường hợp đến kỳ hạn thu lãi không thu được thì thời điểm lập hóa đơn là thời điểm thu được tiền lãi vay của khách hàng. Trường hợp trả lãi trước hạn theo thỏa thuận cho vay, thời điểm lập hóa đơn là thời điểm thu lãi trước hạn;
+	k) Đối với hoạt động cho vay của tổ chức tín dụng, thời điểm lập hóa đơn được xác định theo kỳ hạn thu lãi tại thỏa thuận cho vay giữa tổ chức tín dụng và khách hàng đi vay, trừ trường hợp đến kỳ hạn thu lãi không thu được thì thời điểm lập hóa đơn là thời điểm thu được tiền lãi vay của khách hàng. Trường hợp trả lãi trước hạn theo thỏa thuận cho vay, thời điểm lập hóa đơn là thời điểm thu lãi trước hạn;
 
 l) Đối với kinh doanh vận tải hành khách bằng xe taxi có sử dụng phần mềm tính tiền theo quy định của pháp luật: tại thời điểm kết thúc chuyến đi, doanh nghiệp, hợp tác xã kinh doanh vận tải hành khách bằng xe taxi có sử dụng phần mềm tính tiền thực hiện lập hóa đơn điện tử cho khách hàng đồng thời chuyển dữ liệu hóa đơn đến cơ quan thuế theo quy định;     
 
-m) Đối với cơ sở khám bệnh, chữa bệnh có sử dụng phần mềm quản lý khám bệnh, chữa bệnh và quản lý viện phí, từng giao dịch khám bệnh, chữa bệnh và thực hiện các dịch vụ chụp, chiếu, xét nghiệm có in phiếu thu tiền (thu viện phí hoặc tiền khám, chụp, chiếu, xét nghiệm) và có lưu trên hệ thống công nghệ thông tin, nếu khách hàng (người đến khám, chữa bệnh) không có nhu cầu lấy hóa đơn thì cuối ngày cơ sở khám bệnh, chữa bệnh căn cứ thông tin khám, chữa bệnh và thông tin từ phiếu thu tiền để tổng hợp lập hóa đơn điện tử cho các dịch vụ y tế thực hiện trong ngày, trường hợp khách hàng yêu cầu lập hóa đơn điện tử thì cơ sở khám bệnh, chữa bệnh lập hóa đơn điện tử giao cho khách hàng. 
+	m) Đối với cơ sở khám bệnh, chữa bệnh có sử dụng phần mềm quản lý khám bệnh, chữa bệnh và quản lý viện phí, từng giao dịch khám bệnh, chữa bệnh và thực hiện các dịch vụ chụp, chiếu, xét nghiệm có in phiếu thu tiền (thu viện phí hoặc tiền khám, chụp, chiếu, xét nghiệm) và có lưu trên hệ thống công nghệ thông tin, nếu khách hàng (người đến khám, chữa bệnh) không có nhu cầu lấy hóa đơn thì cuối ngày cơ sở khám bệnh, chữa bệnh căn cứ thông tin khám, chữa bệnh và thông tin từ phiếu thu tiền để tổng hợp lập hóa đơn điện tử cho các dịch vụ y tế thực hiện trong ngày, trường hợp khách hàng yêu cầu lập hóa đơn điện tử thì cơ sở khám bệnh, chữa bệnh lập hóa đơn điện tử giao cho khách hàng. 
 
 Cơ sở khám bệnh, chữa bệnh lập hóa đơn cho cơ quan bảo hiểm xã hội tại thời điểm được cơ quan bảo hiểm xã hội thanh, quyết toán chi phí khám bệnh, chữa bệnh cho người có thẻ bảo hiểm y tế;     
 
 n) Đối với hoạt động thu phí dịch vụ sử dụng đường bộ theo hình thức điện tử không dừng, ngày lập hóa đơn điện tử là ngày xe lưu thông qua trạm thu phí. Trường hợp khách hàng sử dụng dịch vụ thu phí đường bộ theo hình thức điện tử không dừng có một hoặc nhiều phương tiện cùng sử dụng dịch vụ nhiều lần trong tháng, đơn vị cung cấp dịch vụ có thể lập hóa đơn điện tử theo định kỳ, ngày lập hóa đơn điện tử chậm nhất là ngày cuối cùng của tháng phát sinh dịch vụ thu phí. Nội dung hóa đơn liệt kê chi tiết từng lượt xe lưu thông qua các trạm thu phí (bao gồm: thời gian xe qua trạm, giá phí sử dụng đường bộ của từng lượt xe);     
 
-o) Đối với hoạt động kinh doanh bảo hiểm, thời điểm lập hóa đơn là thời điểm ghi nhận doanh thu bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm (trừ trường hợp quy định của điểm a, điểm i khoản này).  
+	o) Đối với hoạt động kinh doanh bảo hiểm, thời điểm lập hóa đơn là thời điểm ghi nhận doanh thu bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm (trừ trường hợp quy định của điểm a, điểm i khoản này).  
 
 Đối với hợp đồng đồng bảo hiểm: khi thu phí bảo hiểm, từng doanh nghiệp đồng bảo hiểm lập hóa đơn cho khách hàng theo phí bảo hiểm nhận được. Trường hợp ủy quyền cho một doanh nghiệp thu hộ phí bảo hiểm thì doanh nghiệp thu hộ thực hiện lập hóa đơn cho khách hàng trên toàn bộ giá trị hợp đồng và doanh nghiệp nhờ thu hộ lập hóa đơn cho doanh nghiệp thu hộ đối với phí bảo hiểm được hưởng theo thỏa thuận của các bên. Khi mua hàng hóa, dịch vụ để bồi thường hoặc thanh toán các khoản chi khác liên quan đến hợp đồng đồng bảo hiểm, trường hợp một doanh nghiệp bảo hiểm được ủy quyền chi hộ thì doanh nghiệp chi hộ thực hiện lập hóa đơn khi thu đòi các doanh nghiệp bảo hiểm nhờ chi hộ;
 
-p) Đối với hoạt động kinh doanh vé xổ số truyền thống, xổ số biết kết quả ngay (vé xổ số) theo hình thức bán vé số in sẵn đủ mệnh giá cho khách hàng thì sau khi thu hồi vé xổ số không tiêu thụ hết và chậm nhất là trước khi mở thưởng của kỳ tiếp theo, doanh nghiệp kinh doanh xổ số lập 01 hóa đơn giá trị gia tăng điện tử có mã của cơ quan thuế cho từng đại lý là tổ chức, cá nhân cho vé xổ số được bán trong kỳ gửi cơ quan thuế cấp mã cho hóa đơn;  
+	p) Đối với hoạt động kinh doanh vé xổ số truyền thống, xổ số biết kết quả ngay (vé xổ số) theo hình thức bán vé số in sẵn đủ mệnh giá cho khách hàng thì sau khi thu hồi vé xổ số không tiêu thụ hết và chậm nhất là trước khi mở thưởng của kỳ tiếp theo, doanh nghiệp kinh doanh xổ số lập 01 hóa đơn giá trị gia tăng điện tử có mã của cơ quan thuế cho từng đại lý là tổ chức, cá nhân cho vé xổ số được bán trong kỳ gửi cơ quan thuế cấp mã cho hóa đơn;  
 
 q) Đối với hoạt động kinh doanh casino và trò chơi điện tử có thưởng, thời điểm lập hóa đơn điện tử chậm nhất là 01 ngày kể từ thời điểm kết thúc ngày xác định doanh thu, đồng thời doanh nghiệp kinh doanh casino và trò chơi điện tử có thưởng chuyển dữ liệu ghi nhận số tiền thu được (do đổi đồng tiền quy ước cho người chơi tại quầy, tại bàn chơi và số tiền thu tại máy trò chơi điện tử có thưởng) trừ đi số tiền đổi trả cho người chơi (do người chơi trúng thưởng hoặc người chơi không sử dụng hết) theo mẫu do Bộ trưởng Bộ Tài chính quy định đến cơ quan thuế cùng thời điểm chuyển dữ liệu hóa đơn điện tử. Ngày xác định doanh thu là khoảng thời gian từ 06:00:00 sáng đến 05:59:59 ngày hôm sau. Trường hợp pháp luật chuyên ngành có quy định khác thì thực hiện theo pháp luật chuyên ngành;
 
-r) Đối với doanh nghiệp cung cấp các dịch vụ cho cá nhân là người tiêu dùng: dịch vụ ngân hàng; dịch vụ trung gian thanh toán; dịch vụ thông tin tín dụng; kinh doanh chứng khoán; giao dịch tài sản mã hóa; dịch vụ hỗ trợ giao dịch trên sàn giao dịch các-bon; kinh doanh bảo hiểm; dịch vụ chuyển tiền qua ví điện tử; dịch vụ ngừng, cấp điện trở lại; dịch vụ thương mại điện tử; dịch vụ bưu chính, vận chuyển trực tiếp phục vụ hoạt động thương mại điện tử; dịch vụ vận tải hành khách công cộng bằng tàu điện, xe buýt; kinh doanh vận tải hành khách bằng xe taxi, xe hợp đồng, xe mô tô hai bánh; dịch vụ trông giữ xe; hoạt động chiếu phim và các dịch vụ khác, đáp ứng điều kiện có hệ thống phần mềm quản lý chi tiết từng giao dịch, có dữ liệu thu tiền được lưu trữ trên hệ thống theo từng giao dịch thì cơ sở dữ liệu thông tin chi tiết giao dịch phát sinh của doanh nghiệp được chuyển đến cơ quan thuế theo quy định tại điểm a.2 khoản 3 Điều 16 Nghị định này. Người bán chịu trách nhiệm về tính chính xác của thông tin giao dịch, lưu trữ đầy đủ dữ liệu chi tiết của từng giao dịch, bảo đảm khả năng truy xuất, đối chiếu và cung cấp dữ liệu, chứng từ liên quan theo yêu cầu của cơ quan thuế hoặc cơ quan nhà nước có thẩm quyền.
+	r) Đối với doanh nghiệp cung cấp các dịch vụ cho cá nhân là người tiêu dùng: dịch vụ ngân hàng; dịch vụ trung gian thanh toán; dịch vụ thông tin tín dụng; kinh doanh chứng khoán; giao dịch tài sản mã hóa; dịch vụ hỗ trợ giao dịch trên sàn giao dịch các-bon; kinh doanh bảo hiểm; dịch vụ chuyển tiền qua ví điện tử; dịch vụ ngừng, cấp điện trở lại; dịch vụ thương mại điện tử; dịch vụ bưu chính, vận chuyển trực tiếp phục vụ hoạt động thương mại điện tử; dịch vụ vận tải hành khách công cộng bằng tàu điện, xe buýt; kinh doanh vận tải hành khách bằng xe taxi, xe hợp đồng, xe mô tô hai bánh; dịch vụ trông giữ xe; hoạt động chiếu phim và các dịch vụ khác, đáp ứng điều kiện có hệ thống phần mềm quản lý chi tiết từng giao dịch, có dữ liệu thu tiền được lưu trữ trên hệ thống theo từng giao dịch thì cơ sở dữ liệu thông tin chi tiết giao dịch phát sinh của doanh nghiệp được chuyển đến cơ quan thuế theo quy định tại điểm a.2 khoản 3 Điều 16 Nghị định này. Người bán chịu trách nhiệm về tính chính xác của thông tin giao dịch, lưu trữ đầy đủ dữ liệu chi tiết của từng giao dịch, bảo đảm khả năng truy xuất, đối chiếu và cung cấp dữ liệu, chứng từ liên quan theo yêu cầu của cơ quan thuế hoặc cơ quan nhà nước có thẩm quyền.
 
 5. Trường hợp người bán không có phần mềm lập hóa đơn tự động có phát sinh giao dịch bán hàng hóa, cung cấp dịch vụ trong giờ làm việc ban đêm theo quy định của Bộ luật Lao động, thời điểm lập hóa đơn chậm nhất là ngày làm việc tiếp theo.
 
@@ -650,61 +650,61 @@ b) Cung cấp thông tin trên hóa đơn cho các cơ quan có thẩm quyền k
 
 1. Tổ chức, cá nhân được ủy nhiệm lập hóa đơn điện tử có trách nhiệm:
 
-a) Lập hóa đơn điện tử trong phạm vi được ủy nhiệm và bảo đảm phản ánh đúng bản chất nghiệp vụ kinh tế phát sinh giữa bên ủy quyền và người mua; hóa đơn điện tử do tổ chức được ủy nhiệm lập phải thể hiện đầy đủ thông tin của bên ủy quyền là người bán; hóa đơn điện tử phải đảm bảo các quy định của pháp luật về hóa đơn điện tử, bao gồm định dạng dữ liệu, chữ ký số, thời điểm lập hóa đơn và các nội dung trên hóa đơn;
+	a) Lập hóa đơn điện tử trong phạm vi được ủy nhiệm và bảo đảm phản ánh đúng bản chất nghiệp vụ kinh tế phát sinh giữa bên ủy quyền và người mua; hóa đơn điện tử do tổ chức được ủy nhiệm lập phải thể hiện đầy đủ thông tin của bên ủy quyền là người bán; hóa đơn điện tử phải đảm bảo các quy định của pháp luật về hóa đơn điện tử, bao gồm định dạng dữ liệu, chữ ký số, thời điểm lập hóa đơn và các nội dung trên hóa đơn;
 
-b) Gửi hóa đơn điện tử đến cơ quan thuế theo quy định;
+	b) Gửi hóa đơn điện tử đến cơ quan thuế theo quy định;
 
-c) Lưu trữ, bảo quản hóa đơn điện tử quy định của pháp luật;
+	c) Lưu trữ, bảo quản hóa đơn điện tử quy định của pháp luật;
 
-d) Bảo đảm an toàn, bảo mật dữ liệu hóa đơn và thông tin của bên ủy quyền, người mua;
+	d) Bảo đảm an toàn, bảo mật dữ liệu hóa đơn và thông tin của bên ủy quyền, người mua;
 
-đ) Không được sử dụng dữ liệu hóa đơn vào mục đích khác ngoài phạm vi ủy nhiệm, trừ trường hợp pháp luật có quy định khác;
+		đ) Không được sử dụng dữ liệu hóa đơn vào mục đích khác ngoài phạm vi ủy nhiệm, trừ trường hợp pháp luật có quy định khác;
 
-e) Phối hợp với bên ủy quyền trong việc điều chỉnh, thay thế, hủy hóa đơn khi phát hiện sai sót;
+	e) Phối hợp với bên ủy quyền trong việc điều chỉnh, thay thế, hủy hóa đơn khi phát hiện sai sót;
 
-g) Cung cấp đầy đủ, kịp thời thông tin, dữ liệu liên quan đến hóa đơn theo yêu cầu của cơ quan nhà nước có thẩm quyền.
+	g) Cung cấp đầy đủ, kịp thời thông tin, dữ liệu liên quan đến hóa đơn theo yêu cầu của cơ quan nhà nước có thẩm quyền.
 
-2. Chủ quản nền tảng thương mại điện tử, nền tảng số có trách nhiệm cung cấp thông tin người mua, thông tin liên quan đến giao dịch, thời điểm giao hàng và xác nhận trạng trái hoàn tất đơn hàng trên hệ thống để người bán lập hóa đơn điện tử theo quy định đối với trường hợp bán hàng hóa, cung cấp dịch vụ qua nền tảng thương mại điện tử, nền tảng số.
+	2. Chủ quản nền tảng thương mại điện tử, nền tảng số có trách nhiệm cung cấp thông tin người mua, thông tin liên quan đến giao dịch, thời điểm giao hàng và xác nhận trạng trái hoàn tất đơn hàng trên hệ thống để người bán lập hóa đơn điện tử theo quy định đối với trường hợp bán hàng hóa, cung cấp dịch vụ qua nền tảng thương mại điện tử, nền tảng số.
 
 Điều 20. Nghĩa vụ và trách nhiệm của tổ chức cung cấp dịch vụ hoá đơn điện tử, chứng từ điện tử
 
-1. Nghĩa vụ và trách nhiệm của tổ chức cung cấp giải pháp lập hóa đơn điện tử, chứng từ điện tử:
+	1. Nghĩa vụ và trách nhiệm của tổ chức cung cấp giải pháp lập hóa đơn điện tử, chứng từ điện tử:
 
 a) Nghĩa vụ:
 
-a.1) Cung cấp giải pháp trong việc lập, truyền, lưu trữ, xử lý dữ liệu hóa đơn điện tử, hóa đơn điện tử có mã của cơ quan thuế khởi tạo từ máy tính tiền, chứng từ điện tử; truyền dữ liệu hóa đơn điện tử, chứng từ điện tử đến cơ quan thuế. Trường hợp tổ chức cung cấp dịch vụ hóa đơn điện tử, chứng từ điện tử chưa phải là tổ chức truyền, lưu trữ dữ liệu hoá đơn điện tử, chứng từ điện tử với cơ quan thuế thì thực hiện truyền dữ liệu hóa đơn điện tử, chứng từ điện tử đến cơ quan thuế thông qua việc sử dụng dịch vụ của tổ chức truyền, lưu trữ dữ liệu hoá đơn điện tử, chứng từ điện tử với cơ quan thuế;     
+	a.1) Cung cấp giải pháp trong việc lập, truyền, lưu trữ, xử lý dữ liệu hóa đơn điện tử, hóa đơn điện tử có mã của cơ quan thuế khởi tạo từ máy tính tiền, chứng từ điện tử; truyền dữ liệu hóa đơn điện tử, chứng từ điện tử đến cơ quan thuế. Trường hợp tổ chức cung cấp dịch vụ hóa đơn điện tử, chứng từ điện tử chưa phải là tổ chức truyền, lưu trữ dữ liệu hoá đơn điện tử, chứng từ điện tử với cơ quan thuế thì thực hiện truyền dữ liệu hóa đơn điện tử, chứng từ điện tử đến cơ quan thuế thông qua việc sử dụng dịch vụ của tổ chức truyền, lưu trữ dữ liệu hoá đơn điện tử, chứng từ điện tử với cơ quan thuế;     
 
-a.2) Thực hiện truyền, nhận đúng hạn, toàn vẹn hóa đơn điện tử, chứng từ điện tử và lưu trữ kết quả truyền nhận giữa các bên tham gia giao dịch;
+	a.2) Thực hiện truyền, nhận đúng hạn, toàn vẹn hóa đơn điện tử, chứng từ điện tử và lưu trữ kết quả truyền nhận giữa các bên tham gia giao dịch;
 
 b) Trách nhiệm:
 
-b.1) Công khai thông báo phương thức hoạt động, chất lượng dịch vụ trên Trang thông tin điện tử giới thiệu dịch vụ của tổ chức;     
+	b.1) Công khai thông báo phương thức hoạt động, chất lượng dịch vụ trên Trang thông tin điện tử giới thiệu dịch vụ của tổ chức;     
 
-b.2) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử;     
+	b.2) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử;     
 
-b.3) Thông báo cho người mua dịch vụ kế hoạch ngừng hoặc tạm ngừng cung cấp dịch vụ và biện pháp xử lý ít nhất trước 30 ngày để bảo đảm quyền lợi của người sử dụng dịch vụ;     
+	b.3) Thông báo cho người mua dịch vụ kế hoạch ngừng hoặc tạm ngừng cung cấp dịch vụ và biện pháp xử lý ít nhất trước 30 ngày để bảo đảm quyền lợi của người sử dụng dịch vụ;     
 
-b.4) Thực hiện trách nhiệm khác theo thỏa thuận với người sử dụng dịch vụ.
+	b.4) Thực hiện trách nhiệm khác theo thỏa thuận với người sử dụng dịch vụ.
 
-2. Nghĩa vụ và trách nhiệm của tổ chức truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với cơ quan thuế:
+	2. Nghĩa vụ và trách nhiệm của tổ chức truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với cơ quan thuế:
 
-a) Nghĩa vụ:
+	a) Nghĩa vụ:
 
 a.1) Cung cấp dịch vụ truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với Cục Thuế sau khi nhận được từ người sử dụng dịch vụ (bao gồm cả tổ chức cung cấp giải pháp lập hóa đơn điện tử, chứng từ điện tử chưa thực hiện kết nối với Cục Thuế);     
 
 a.2) Thực hiện cấp mã của cơ quan thuế trong trường hợp cơ quan thuế thông báo ủy quyền; thực hiện cung cấp hóa đơn điện tử có mã của cơ quan thuế, chứng từ điện tử cho các đối tượng được miễn phí dịch vụ do cơ quan thuế ủy thác;     
 
-b) Trách nhiệm:
+	b) Trách nhiệm:
 
-b.1) Thiết lập kênh kết nối chuyển dữ liệu đến Cục Thuế đảm bảo liên tục, an ninh, an toàn;     
+	b.1) Thiết lập kênh kết nối chuyển dữ liệu đến Cục Thuế đảm bảo liên tục, an ninh, an toàn;     
 
-b.2) Công khai, thông báo phương thức hoạt động, chất lượng dịch vụ trên Trang thông tin điện tử giới thiệu dịch vụ của tổ chức;     
+	b.2) Công khai, thông báo phương thức hoạt động, chất lượng dịch vụ trên Trang thông tin điện tử giới thiệu dịch vụ của tổ chức;     
 
-b.3) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử; 
+	b.3) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử; 
 
-b.4) Thông báo kịp thời cho Cục Thuế về các vấn đề ảnh hưởng đến việc cung cấp dịch vụ truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với cơ quan thuế; phối hợp với Cục Thuế xử lý vướng mắc phát sinh trong quá trình thực hiện;     
+	b.4) Thông báo kịp thời cho Cục Thuế về các vấn đề ảnh hưởng đến việc cung cấp dịch vụ truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với cơ quan thuế; phối hợp với Cục Thuế xử lý vướng mắc phát sinh trong quá trình thực hiện;     
 
-b.5) Thông báo cho Cục Thuế và người sử dụng dịch vụ kế hoạch ngừng hoặc tạm ngừng cung cấp dịch vụ và biện pháp xử lý ít nhất trước 30 ngày để phối hợp thực hiện và đảm bảo quyền lợi của người sử dụng dịch vụ;     
+	b.5) Thông báo cho Cục Thuế và người sử dụng dịch vụ kế hoạch ngừng hoặc tạm ngừng cung cấp dịch vụ và biện pháp xử lý ít nhất trước 30 ngày để phối hợp thực hiện và đảm bảo quyền lợi của người sử dụng dịch vụ;     
 
 b.6) Thực hiện trách nhiệm khác theo thỏa thuận với Cục Thuế và người sử dụng dịch vụ.
 
@@ -734,7 +734,7 @@ QUY ĐỊNH VỀ CHỨNG TỪ ĐIỆN TỬ
 
 Điều 22. Loại chứng từ 
 
-1. Chứng từ trong lĩnh vực quản lý thuế, phí, lệ phí của cơ quan quản lý thuế bao gồm:
+	1. Chứng từ trong lĩnh vực quản lý thuế, phí, lệ phí của cơ quan quản lý thuế bao gồm:
 
 a) Chứng từ khấu trừ thuế thu nhập cá nhân; 
 
@@ -744,21 +744,21 @@ b) Biên lai thu thuế, phí, lệ phí.
 
 Điều 23. Nội dung chứng từ 
 
-1. Đối với chứng từ khấu trừ thuế thu nhập cá nhân 
+	1. Đối với chứng từ khấu trừ thuế thu nhập cá nhân 
 
 a) Tên chứng từ khấu trừ thuế; ký hiệu mẫu chứng từ khấu trừ thuế, ký hiệu chứng từ khấu trừ thuế, số thứ tự chứng từ khấu trừ thuế;
 
-b) Tên, địa chỉ, mã số thuế của tổ chức, cá nhân chi trả thu nhập;
+	b) Tên, địa chỉ, mã số thuế của tổ chức, cá nhân chi trả thu nhập;
 
-c) Tên, địa chỉ, số điện thoại, mã số thuế của cá nhân nhận thu nhập (nếu cá nhân đã có mã số thuế), hoặc số định danh cá nhân;
+	c) Tên, địa chỉ, số điện thoại, mã số thuế của cá nhân nhận thu nhập (nếu cá nhân đã có mã số thuế), hoặc số định danh cá nhân;
 
-d) Quốc tịch (nếu người nộp thuế không thuộc quốc tịch Việt Nam);
+	d) Quốc tịch (nếu người nộp thuế không thuộc quốc tịch Việt Nam);
 
-đ) Khoản thu nhập, thời điểm trả thu nhập, tổng thu nhập chịu thuế, khoản đóng bảo hiểm bắt buộc; khoản từ thiện, nhân đạo, khuyến học; số thuế đã khấu trừ;
+	đ) Khoản thu nhập, thời điểm trả thu nhập, tổng thu nhập chịu thuế, khoản đóng bảo hiểm bắt buộc; khoản từ thiện, nhân đạo, khuyến học; số thuế đã khấu trừ;
 
-e) Ngày, tháng, năm lập chứng từ khấu trừ thuế;
+	e) Ngày, tháng, năm lập chứng từ khấu trừ thuế;
 
-g) Họ tên, chữ ký của người trả thu nhập.
+	g) Họ tên, chữ ký của người trả thu nhập.
 
 Trường hợp sử dụng chứng từ khấu trừ thuế thu nhập cá nhân điện tử thì chữ ký trên chứng từ điện tử là chữ ký số.
 
@@ -780,23 +780,23 @@ g) Chữ ký số của tổ chức thu thuế, phí, lệ phí;
 
 Nội dung trên biên lai phải đúng với nội dung nghiệp vụ kinh tế phát sinh.
 
-h) Biên lai được thể hiện là tiếng Việt. Trường hợp cần thêm tiếng nước ngoài thì phần tiếng nước ngoài được đặt bên phải trong ngoặc đơn “( )” hoặc đặt ngay dưới dòng nội dung bằng tiếng Việt với cỡ chữ nhỏ hơn chữ tiếng Việt.
+	h) Biên lai được thể hiện là tiếng Việt. Trường hợp cần thêm tiếng nước ngoài thì phần tiếng nước ngoài được đặt bên phải trong ngoặc đơn “( )” hoặc đặt ngay dưới dòng nội dung bằng tiếng Việt với cỡ chữ nhỏ hơn chữ tiếng Việt.
 
-Chữ số trên biên lai là các chữ số tự nhiên 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+	Chữ số trên biên lai là các chữ số tự nhiên 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
 
-Đồng tiền trên biên lai là đồng Việt Nam. Trường hợp các khoản phải thu phí, lệ phí được pháp luật quy định có mức thu bằng ngoại tệ thì được thu bằng ngoại tệ hoặc thu bằng đồng Việt Nam trên cơ sở quy đổi từ ngoại tệ ra đồng Việt Nam theo tỷ giá quy định tại Nghị định số 362/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Phí và lệ phí.
+	Đồng tiền trên biên lai là đồng Việt Nam. Trường hợp các khoản phải thu phí, lệ phí được pháp luật quy định có mức thu bằng ngoại tệ thì được thu bằng ngoại tệ hoặc thu bằng đồng Việt Nam trên cơ sở quy đổi từ ngoại tệ ra đồng Việt Nam theo tỷ giá quy định tại Nghị định số 362/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Phí và lệ phí.
 
-Ngoài các thông tin bắt buộc theo quy định tại khoản này, tổ chức thu thuế, phí, lệ phí có thể tạo thêm các thông tin khác, kể cả tạo lo-go, hình ảnh trang trí hoặc quảng cáo phù hợp với quy định của pháp luật và không che khuất, làm mờ các nội dung bắt buộc thể hiện trên biên lai. Cỡ chữ của các thông tin tạo thêm không được lớn hơn cỡ chữ của các nội dung bắt buộc thể hiện trên biên lai.
+	Ngoài các thông tin bắt buộc theo quy định tại khoản này, tổ chức thu thuế, phí, lệ phí có thể tạo thêm các thông tin khác, kể cả tạo lo-go, hình ảnh trang trí hoặc quảng cáo phù hợp với quy định của pháp luật và không che khuất, làm mờ các nội dung bắt buộc thể hiện trên biên lai. Cỡ chữ của các thông tin tạo thêm không được lớn hơn cỡ chữ của các nội dung bắt buộc thể hiện trên biên lai.
 
 3. Mẫu hiển thị chứng từ điện tử theo hướng dẫn tại Nghị định số 347/2025/NĐ-CP của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước và các văn bản hướng dẫn thi hành.
 
 Điều 24. Thời điểm lập chứng từ
 
-1. Tại thời điểm khấu trừ thuế thu nhập cá nhân, thời điểm thu thuế, phí, lệ phí, tổ chức khấu trừ thuế thu nhập cá nhân, tổ chức thu thuế, phí, lệ phí, phải lập chứng từ, biên lai giao cho người nộp thuế, phí, lệ phí trừ các trường hợp quy định tại khoản 2, khoản 3 và khoản 4 Điều này.
+	1. Tại thời điểm khấu trừ thuế thu nhập cá nhân, thời điểm thu thuế, phí, lệ phí, tổ chức khấu trừ thuế thu nhập cá nhân, tổ chức thu thuế, phí, lệ phí, phải lập chứng từ, biên lai giao cho người nộp thuế, phí, lệ phí trừ các trường hợp quy định tại khoản 2, khoản 3 và khoản 4 Điều này.
 
-2. Trường hợp cá nhân ủy quyền quyết toán thuế thì tổ chức khấu trừ thuế thu nhập cá nhân không phải lập chứng từ khấu trừ thuế thu nhập cá nhân. 
+	2. Trường hợp cá nhân ủy quyền quyết toán thuế thì tổ chức khấu trừ thuế thu nhập cá nhân không phải lập chứng từ khấu trừ thuế thu nhập cá nhân. 
 
-3. Đối với cá nhân không ký hợp đồng lao động hoặc ký hợp đồng lao động dưới 03 tháng thì tổ chức, cá nhân trả thu nhập lập chứng từ khấu trừ thuế cho mỗi lần khấu trừ thuế hoặc lập một chứng từ khấu trừ cho nhiều lần khấu trừ thuế trong một năm tính thuế khi cá nhân yêu cầu. Đối với cá nhân ký hợp đồng lao động từ 03 tháng trở lên, tổ chức, cá nhân trả thu nhập chỉ lập một chứng từ khấu trừ thuế trong một năm tính thuế.
+	3. Đối với cá nhân không ký hợp đồng lao động hoặc ký hợp đồng lao động dưới 03 tháng thì tổ chức, cá nhân trả thu nhập lập chứng từ khấu trừ thuế cho mỗi lần khấu trừ thuế hoặc lập một chứng từ khấu trừ cho nhiều lần khấu trừ thuế trong một năm tính thuế khi cá nhân yêu cầu. Đối với cá nhân ký hợp đồng lao động từ 03 tháng trở lên, tổ chức, cá nhân trả thu nhập chỉ lập một chứng từ khấu trừ thuế trong một năm tính thuế.
 
 4. Đối với thu nhập của nhà đầu tư cá nhân phát sinh từ hoạt động chuyển nhượng chứng khoán, đầu tư vốn, chuyển nhượng tài sản mã hóa, chuyển nhượng vàng miếng, thu nhập từ bản quyền, nhượng quyền thương mại, thu nhập từ trúng thưởng, thừa kế, quà tặng trong trường hợp khoản thu nhập này đã được tổ chức chi trả hoặc tổ chức khấu trừ thuế thực hiện khấu trừ, nộp thuế thu nhập cá nhân tại nguồn thì tổ chức chi trả hoặc tổ chức khấu trừ thuế không phải lập chứng từ khấu trừ thuế thu nhập cá nhân.
 
@@ -824,7 +824,7 @@ Ngoài các thông tin bắt buộc theo quy định tại khoản này, tổ ch
 
 2. Chứng từ được lập theo đúng quy định tại Điều 23 là chứng từ hợp pháp để thanh toán, hạch toán và quyết toán tài chính.
 
-Trường hợp không đúng quy định tại Điều 23 thì không có giá trị thanh toán và không được hạch toán, quyết toán tài chính.
+	Trường hợp không đúng quy định tại Điều 23 thì không có giá trị thanh toán và không được hạch toán, quyết toán tài chính.
 
 3. Việc lập chứng từ điện tử phải bảo đảm phản ánh đầy đủ, trung thực giao dịch phát sinh; tuân thủ quy định của pháp luật về giao dịch điện tử, pháp luật về kế toán và pháp luật về thuế, phí và lệ phí.
 
@@ -876,21 +876,21 @@ b) Tổ chức thu thuế, phí, lệ phí điện tử, tổ chức nhận ủy
 
 4. Lưu trữ và bảo đảm tính toàn vẹn của toàn bộ chứng từ điện tử; thực hiện các quy định pháp luật về bảo đảm an toàn, an ninh hệ thống dữ liệu điện tử.
 
-5. Chấp hành sự kiểm tra, đối chiếu của cơ quan quản lý thuế và các cơ quan có thẩm quyền theo quy định của pháp luật.
+	5. Chấp hành sự kiểm tra, đối chiếu của cơ quan quản lý thuế và các cơ quan có thẩm quyền theo quy định của pháp luật.
 
 Điều 30. Trách nhiệm của cơ quan hải quan trong quản lý chứng từ điện tử
 
-1. Cục Hải quan có trách nhiệm:
+	1. Cục Hải quan có trách nhiệm:
 
-a) Xây dựng cơ sở dữ liệu về chứng từ điện tử để phục vụ công tác quản lý thuế, phục vụ công tác quản lý nhà nước của các cơ quan khác của nhà nước; 
+	a) Xây dựng cơ sở dữ liệu về chứng từ điện tử để phục vụ công tác quản lý thuế, phục vụ công tác quản lý nhà nước của các cơ quan khác của nhà nước; 
 
-b) Thông báo các loại chứng từ đã được phát hành, được báo mất, không còn giá trị sử dụng.
+	b) Thông báo các loại chứng từ đã được phát hành, được báo mất, không còn giá trị sử dụng.
 
-2. Chi cục Hải quan khu vực có trách nhiệm:
+	2. Chi cục Hải quan khu vực có trách nhiệm:
 
-a) Quản lý hoạt động tạo, phát hành chứng từ của các tổ chức đã đăng ký tạo, phát hành chứng từ với cơ quan hải quan trên địa bàn quản lý;
+	a) Quản lý hoạt động tạo, phát hành chứng từ của các tổ chức đã đăng ký tạo, phát hành chứng từ với cơ quan hải quan trên địa bàn quản lý;
 
-b) Kiểm tra hoạt động tạo, phát hành và sử dụng chứng từ trên địa bàn;
+	b) Kiểm tra hoạt động tạo, phát hành và sử dụng chứng từ trên địa bàn;
 
 c) Theo dõi, kiểm tra hoạt động hủy chứng từ theo quy định của Bộ Tài chính trên địa bàn.
 
@@ -928,7 +928,7 @@ XÂY DỰNG THÔNG TIN HÓA ĐƠN ĐIỆN TỬ, CHỨNG TỪ ĐIỆN TỬ
 
 Điều 33. Xây dựng, thu thập, xử lý và quản lý hệ thống thông tin về hóa đơn điện tử, chứng từ điện tử 
 
-1. Xây dựng hệ thống thông tin về hóa đơn, chứng từ 
+1. Xây dựng hệ thống thông tin về hóa đơn, chứng từ 	
 
 a) Cơ sở dữ liệu hóa đơn, chứng từ là tập hợp các dữ liệu thông tin hóa đơn, chứng từ được sắp xếp, tổ chức để truy cập, khai thác, quản lý và cập nhật thông qua phương tiện điện tử;
 
@@ -1172,9 +1172,9 @@ Trường hợp bán đấu giá tài sản để thi hành án thì hóa đơn 
 
  4. Tên, địa chỉ, mã số thuế hoặc mã số đơn vị có quan hệ với ngân sách hoặc số định danh cá nhân của người mua
 
-a) Trường hợp người mua là cơ sở kinh doanh (tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh) có mã số thuế thì tên, địa chỉ, mã số thuế của người mua thể hiện trên hóa đơn phải ghi theo đúng tại giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hoạt động chi nhánh, giấy chứng nhận đăng ký hộ kinh doanh, giấy chứng nhận đăng ký thuế, thông báo mã số thuế, giấy chứng nhận đăng ký đầu tư, giấy chứng nhận đăng ký hợp tác xã; trường hợp người mua cung cấp mã số đơn vị có quan hệ ngân sách thì tên, địa chỉ, mã số đơn vị có quan hệ ngân sách thể hiện trên hóa đơn là mã số đơn vị có quan hệ với ngân sách được cấp.
+	a) Trường hợp người mua là cơ sở kinh doanh (tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh) có mã số thuế thì tên, địa chỉ, mã số thuế của người mua thể hiện trên hóa đơn phải ghi theo đúng tại giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hoạt động chi nhánh, giấy chứng nhận đăng ký hộ kinh doanh, giấy chứng nhận đăng ký thuế, thông báo mã số thuế, giấy chứng nhận đăng ký đầu tư, giấy chứng nhận đăng ký hợp tác xã; trường hợp người mua cung cấp mã số đơn vị có quan hệ ngân sách thì tên, địa chỉ, mã số đơn vị có quan hệ ngân sách thể hiện trên hóa đơn là mã số đơn vị có quan hệ với ngân sách được cấp.
 
-Trường hợp tên, địa chỉ người mua quá dài, trên hóa đơn người bán được viết ngắn gọn một số danh từ thông dụng như: “Phường” thành “P” , “Thành phố” thành “TP”, “Việt Nam” thành “VN” hoặc “Cổ phần” là “CP”, “Trách nhiệm hữu hạn” thành “TNHH”, “khu công nghiệp” thành “KCN”, “sản xuất” thành “SX”, “Chi nhánh” thành “CN”… nhưng phải đảm bảo đầy đủ số nhà, tên đường phố, phường, xã, đặc khu, tỉnh, thành phố xác định được chính xác tên, địa chỉ doanh nghiệp và phù hợp với đăng ký kinh doanh, đăng ký thuế của doanh nghiệp;
+	Trường hợp tên, địa chỉ người mua quá dài, trên hóa đơn người bán được viết ngắn gọn một số danh từ thông dụng như: “Phường” thành “P” , “Thành phố” thành “TP”, “Việt Nam” thành “VN” hoặc “Cổ phần” là “CP”, “Trách nhiệm hữu hạn” thành “TNHH”, “khu công nghiệp” thành “KCN”, “sản xuất” thành “SX”, “Chi nhánh” thành “CN”… nhưng phải đảm bảo đầy đủ số nhà, tên đường phố, phường, xã, đặc khu, tỉnh, thành phố xác định được chính xác tên, địa chỉ doanh nghiệp và phù hợp với đăng ký kinh doanh, đăng ký thuế của doanh nghiệp;
 
 b) Trường hợp người mua là người tiêu dùng cung cấp tên, địa chỉ, số định danh cá nhân thì trên hóa đơn phải thể hiện tên, địa chỉ, số định danh cá nhân (đối với người mua là người nước ngoài cung cấp thông tin để lập hóa đơn thì thông tin về địa chỉ, số định danh cá nhân có thể được thay thế bằng thông tin về số hộ chiếu hoặc giấy tờ xuất nhập cảnh và quốc tịch của khách hàng); trường hợp người mua không cung cấp tên, địa chỉ, số định danh cá nhân thì trên hóa đơn thể hiện rõ “Bán cho người tiêu dùng”. Một số trường hợp bán hàng hóa, cung cấp dịch vụ đặc thù cho người tiêu dùng là cá nhân quy định tại điểm 9 Phụ lục này thì trên hóa đơn không phải thể hiện tên, địa chỉ, số định danh cá nhân của người mua.
 
@@ -1182,27 +1182,28 @@ Hóa đơn không có thông tin người mua hoặc hóa đơn xuất cho ngư�
 
 5. Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ; thành tiền chưa có thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền thanh toán đã có thuế giá trị gia tăng.
 
-a) Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ
+	a) Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ
 
-a.1) Tên hàng hóa, dịch vụ: Trên hóa đơn phải thể hiện tên hàng hóa, dịch vụ được giao dịch bằng tiếng Việt phù hợp với quy định pháp luật. Trường hợp bán hàng hóa có nhiều chủng loại khác nhau thì tên hàng hóa thể hiện chi tiết đến từng chủng loại (ví dụ: Điện thoại Samsung; mặt hàng ăn, uống (trừ trường hợp tính tiền theo suất, theo phần;…)). 
+	a.1) Tên hàng hóa, dịch vụ: Trên hóa đơn phải thể hiện tên hàng hóa, dịch vụ được giao dịch bằng tiếng Việt phù hợp với quy định pháp luật. Trường hợp bán hàng hóa có nhiều chủng loại khác nhau thì tên hàng hóa thể hiện chi tiết đến từng chủng loại (ví dụ: Điện thoại Samsung; mặt hàng ăn, uống (trừ trường hợp tính tiền theo suất, theo phần;…)). 
 
 Trường hợp pháp luật có quy định về định danh hàng hóa, dịch vụ thì người bán thể hiện tên hàng hóa, dịch vụ trên hóa đơn theo quy định pháp luật về định danh hàng hóa, dịch vụ.
 
-a.1.1) Trường hợp hàng hóa phải đăng ký quyền sử dụng, quyền sở hữu thì trên hóa đơn phải thể hiện các số hiệu, ký hiệu đặc trưng của hàng hóa mà khi đăng ký pháp luật có yêu cầu (ví dụ: địa chỉ, cấp nhà, chiều dài, chiều rộng, số tầng của một ngôi nhà).
+	a.1.1) Trường hợp hàng hóa phải đăng ký quyền sử dụng, quyền sở hữu thì trên hóa đơn phải thể hiện các số hiệu, ký hiệu đặc trưng của hàng hóa mà khi đăng ký pháp luật có yêu cầu (ví dụ: địa chỉ, cấp nhà, chiều dài, chiều rộng, số tầng của một ngôi nhà).
 
 Trường hợp người bán ô tô, xe máy lập hóa đơn điện tử có đủ các thông tin sau: Họ và tên người mua; số định danh cá nhân hoặc mã số thuế (đối với tổ chức); nhãn hiệu, loại xe, năm sản xuất; số khung, số máy; số Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường (đối với xe nhập khẩu) hoặc số Phiếu kiểm tra chất lượng xuất xưởng (đối với xe sản xuất, lắp ráp trong nước) là căn cứ để cơ quan thuế xác định và thông báo số tiền lệ phí trước bạ phải nộp;
 
-a.1.2) Trường hợp kinh doanh dịch vụ vận tải đường bộ trong nước thì trên hoá đơn phải thể hiện biển số phương tiện vận tải, hành trình (điểm đi - điểm đến). Đối với doanh nghiệp kinh doanh vận tải cung cấp dịch vụ vận tải hàng hóa trên nền tảng số, hoạt động thương mại điện tử thì phải thể hiện tên hàng hóa vận chuyển, thông tin tên, địa chỉ, mã số thuế hoặc số định danh cá nhân của người gửi hàng. Đối với doanh nghiệp cung cấp dịch vụ vận tải, cho thuê xe có ký hợp đồng với đối tác theo tuyến cố định thì trên hóa đơn không cần thể hiện biển số phương tiện vận tải, hành trình (điểm đi - điểm đến).
+	a.1.2) Trường hợp kinh doanh dịch vụ vận tải đường bộ trong nước thì trên hoá đơn phải thể hiện biển số phương tiện vận tải, hành trình (điểm đi - điểm đến). Đối với doanh nghiệp kinh doanh vận tải cung cấp dịch vụ vận tải hàng hóa trên nền tảng số, hoạt động thương mại điện tử thì phải thể hiện tên hàng hóa vận chuyển, thông tin tên, địa chỉ, mã số thuế hoặc số định danh cá nhân của người gửi hàng. Đối với doanh nghiệp cung cấp dịch vụ vận tải, cho thuê xe có ký hợp đồng với đối tác theo tuyến cố định thì trên hóa đơn không cần thể hiện biển số phương tiện vận tải, hành trình (điểm đi - điểm đến).
 
-Trường hợp cần ghi thêm chữ nước ngoài thì chữ nước ngoài được đặt bên phải trong ngoặc đơn “( )” hoặc đặt ngay dưới dòng tiếng Việt và có cỡ chữ nhỏ hơn chữ tiếng Việt. Trường hợp hàng hóa, dịch vụ được giao dịch có quy định về mã hàng hóa, dịch vụ thì trên hóa đơn phải ghi cả tên và mã hàng hóa, dịch vụ;     
+	Trường hợp cần ghi thêm chữ nước ngoài thì chữ nước ngoài được đặt bên phải trong ngoặc đơn “( )” hoặc đặt ngay dưới dòng tiếng Việt và có cỡ chữ nhỏ hơn chữ tiếng Việt. Trường hợp hàng hóa, dịch vụ được giao dịch có quy định về mã hàng hóa, dịch vụ thì trên hóa đơn phải ghi cả tên và mã hàng hóa, dịch vụ;     
 
-a.2) Đơn vị tính: Người bán căn cứ vào tính chất, đặc điểm của hàng hóa để xác định tên đơn vị tính của hàng hóa thể hiện trên hóa đơn theo đơn vị tính là đơn vị đo lường theo quy định pháp luật về đo lường (ví dụ như: tấn, tạ, yến, kg, g, mg hoặc lượng, lạng, cái, con, chiếc, hộp, can, thùng, bao, gói, tuýp, m3, m2, m). Đối với dịch vụ thì trên hóa đơn không nhất thiết phải có tiêu thức “đơn vị tính” mà đơn vị tính xác định theo từng lần cung cấp dịch vụ và nội dung dịch vụ cung cấp;     
+	a.2) Đơn vị tính: Người bán căn cứ vào tính chất, đặc điểm của hàng hóa để xác định tên đơn vị tính của hàng hóa thể hiện trên hóa đơn theo đơn vị tính là đơn vị đo lường theo quy định pháp luật về đo lường (ví dụ như: tấn, tạ, yến, kg, g, mg hoặc lượng, lạng, cái, con, chiếc, hộp, can, thùng, bao, gói, tuýp, m3, m2, m). Đối với dịch vụ thì trên hóa đơn không nhất thiết phải có tiêu thức “đơn vị tính” mà đơn vị tính xác định theo từng lần cung cấp dịch vụ và nội dung dịch vụ cung cấp;     
 
-a.3) Số lượng hàng hóa, dịch vụ: Người bán ghi số lượng bằng chữ số Ả-rập căn cứ theo đơn vị tính nêu trên. Trường hợp cung cấp các loại hàng hóa dịch vụ đặc thù như điện, nước, và các loại dịch vụ viễn thông, dịch vụ công nghệ thông tin, dịch vụ truyền hình, dịch vụ bưu chính và chuyển phát, ngân hàng, chứng khoán, tài sản mã hóa, bảo hiểm, dịch vụ khám bệnh, chữa bệnh và các trường hợp khác theo quy định tại điểm a, điểm b khoản 4 Điều 9 được lập hóa đơn kèm bảng kê; bảng kê được lưu giữ cùng hóa đơn để phục vụ việc kiểm tra, đối chiếu của các cơ quan có thẩm quyền.
+	a.3) Số lượng hàng hóa, dịch vụ: Người bán ghi số lượng bằng chữ số 
+Ả-rập căn cứ theo đơn vị tính nêu trên. Trường hợp cung cấp các loại hàng hóa dịch vụ đặc thù như điện, nước, và các loại dịch vụ viễn thông, dịch vụ công nghệ thông tin, dịch vụ truyền hình, dịch vụ bưu chính và chuyển phát, ngân hàng, chứng khoán, tài sản mã hóa, bảo hiểm, dịch vụ khám bệnh, chữa bệnh và các trường hợp khác theo quy định tại điểm a, điểm b khoản 4 Điều 9 được lập hóa đơn kèm bảng kê; bảng kê được lưu giữ cùng hóa đơn để phục vụ việc kiểm tra, đối chiếu của các cơ quan có thẩm quyền.
 
 Đối với hàng hóa, dịch vụ khuyến mại theo quy định của pháp luật về thương mại; hàng hóa, dịch vụ cho, biếu, tặng phù hợp với quy định của pháp luật, doanh nghiệp được lập hóa đơn tổng hợp cho các giao dịch phát sinh trong tháng, quý phù hợp với kỳ khai thuế giá trị gia tăng của tổ chức, cá nhân bán hàng hóa. Tổ chức, cá nhân bán hàng hóa có trách nhiệm bảo đảm việc lập hóa đơn tổng hợp phản ánh đầy đủ, chính xác các giao dịch phát sinh; lưu giữ danh sách chi tiết hàng hóa, dịch vụ khuyến mại, cho, biếu, tặng và hồ sơ có liên quan; cung cấp thông tin, tài liệu phục vụ quản lý thuế khi cơ quan có thẩm quyền yêu cầu. Trường hợp khách hàng yêu cầu lập hóa đơn theo từng giao dịch thì người bán phải lập hóa đơn giao cho khách hàng theo quy định.
 
-Hóa đơn phải ghi rõ “kèm theo bảng kê số…, ngày… tháng... năm”. Bảng kê phải có tên, mã số thuế và địa chỉ của người bán, tên hàng hóa, dịch vụ, số lượng, đơn giá, thành tiền hàng hóa, dịch vụ bán ra, ngày lập, tên và chữ ký người lập bảng kê. Trường hợp người bán nộp thuế giá trị gia tăng theo phương pháp khấu trừ thì bảng kê phải có tiêu thức “thuế suất thuế giá trị gia tăng” và “tiền thuế giá trị gia tăng”. Tổng cộng tiền thanh toán đúng với số tiền ghi trên hóa đơn giá trị gia tăng. Hàng hóa, dịch vụ bán ra ghi trên bảng kê theo thứ tự bán hàng trong ngày. Bảng kê phải ghi rõ “kèm theo hóa đơn số…ngày… tháng... năm”;
+	Hóa đơn phải ghi rõ “kèm theo bảng kê số…, ngày… tháng... năm”. Bảng kê phải có tên, mã số thuế và địa chỉ của người bán, tên hàng hóa, dịch vụ, số lượng, đơn giá, thành tiền hàng hóa, dịch vụ bán ra, ngày lập, tên và chữ ký người lập bảng kê. Trường hợp người bán nộp thuế giá trị gia tăng theo phương pháp khấu trừ thì bảng kê phải có tiêu thức “thuế suất thuế giá trị gia tăng” và “tiền thuế giá trị gia tăng”. Tổng cộng tiền thanh toán đúng với số tiền ghi trên hóa đơn giá trị gia tăng. Hàng hóa, dịch vụ bán ra ghi trên bảng kê theo thứ tự bán hàng trong ngày. Bảng kê phải ghi rõ “kèm theo hóa đơn số…ngày… tháng... năm”;
 
 a.4) Đơn giá hàng hóa, dịch vụ: Người bán ghi đơn giá hàng hóa, dịch vụ theo đơn vị tính nêu trên. Trường hợp các hàng hóa, dịch vụ sử dụng bảng kê để liệt kê các hàng hóa, dịch vụ đã bán kèm theo hóa đơn thì trên hóa đơn không nhất thiết phải có đơn giá. 
 

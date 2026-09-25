@@ -64,6 +64,16 @@ def setup_directory() -> None:
     print(f"Ready: {DATA_DIR}")
 
 
+def _is_valid_docx(path: Path) -> bool:
+    """A real .docx is a zip archive. curl can exit 0 while the server
+    actually returned an HTML error page (e.g. an expired signed URL
+    token), or leave a truncated file behind after a `--max-time` timeout —
+    a byte-size check alone accepts both of those as "downloaded"."""
+    import zipfile
+
+    return path.exists() and zipfile.is_zipfile(path)
+
+
 def download_documents() -> None:
     """Tải các văn bản luật hiện hành từ Công báo Chính phủ."""
     import subprocess
@@ -76,18 +86,26 @@ def download_documents() -> None:
     # certificate verification on; it does not weaken or bypass it.
     for filename, url in SOURCES.items():
         target = DATA_DIR / filename
-        if target.exists() and target.stat().st_size > 1024:
+        if _is_valid_docx(target):
             print(f"Skip existing: {filename}")
             continue
-        subprocess.run(
-            [
-                "curl", "-fsSL", "-A", "Mozilla/5.0",
-                "--max-time", "40",
-                "-o", str(target),
-                url,
-            ],
-            check=True,
-        )
+
+        tmp_target = target.with_name(target.name + ".part")
+        try:
+            subprocess.run(
+                [
+                    "curl", "-fsSL", "-A", "Mozilla/5.0",
+                    "--max-time", "40",
+                    "-o", str(tmp_target),
+                    url,
+                ],
+                check=True,
+            )
+            if not _is_valid_docx(tmp_target):
+                raise ValueError(f"Downloaded file is not a valid DOCX: {filename}")
+            tmp_target.replace(target)
+        finally:
+            tmp_target.unlink(missing_ok=True)
         print(f"Downloaded: {filename} ({target.stat().st_size} bytes)")
 
 
