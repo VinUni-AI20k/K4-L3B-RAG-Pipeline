@@ -13,8 +13,19 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 
 from pathlib import Path
 
+import requests
+
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+# Danh sách tài liệu cần tải: (tên file, URL công khai)
+# TODO: Thay thế bằng URL thực tế phù hợp với chủ đề của nhóm.
+DOCUMENT_SOURCES: dict[str, str] = {
+    # Ví dụ (thay bằng URL thực):
+    # "hoc-phi-2024.pdf": "https://example.edu/hoc-phi-2024.pdf",
+    # "quy-che-hoc-bong.pdf": "https://example.edu/hoc-bong.pdf",
+    # "noi-quy-ky-tuc-xa.pdf": "https://example.edu/noi-quy-ktx.pdf",
+}
 
 
 def setup_directory() -> None:
@@ -25,19 +36,24 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    if not DOCUMENT_SOURCES:
+        raise ValueError(
+            "DOCUMENT_SOURCES trống. Hãy thêm ít nhất 3 URL tài liệu vào DOCUMENT_SOURCES."
+        )
+
+    for filename, url in DOCUMENT_SOURCES.items():
+        dest = DATA_DIR / filename
+        if dest.exists():
+            print(f"Already exists, skipping: {dest.name}")
+            continue
+        print(f"Downloading: {url}")
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        dest.write_bytes(response.content)
+        print(f"Saved: {dest}")
+
+    downloaded = list(DATA_DIR.iterdir())
+    print(f"\nTotal files in {DATA_DIR}: {len(downloaded)}")
 
 
 if __name__ == "__main__":
