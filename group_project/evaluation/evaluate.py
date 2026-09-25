@@ -1,0 +1,113 @@
+import json
+import os
+import pandas as pd
+from datasets import Dataset
+from ragas import evaluate
+from ragas.metrics import (
+    faithfulness,
+    answer_relevancy,
+    context_precision,
+    context_recall,
+)
+from dotenv import load_dotenv
+
+# Tạm thời comment dòng import này vì file generation chưa hoàn thiện
+# from src.task10_generation import generate_with_citation
+
+def mock_generate_with_citation(query: str, retrieval_method: str):
+    """
+    Hàm giả lập để code chạy không bị lỗi trong lúc chờ các bạn khác code xong.
+    Sau này sẽ xóa hàm này và dùng hàm thật từ src.task10_generation.
+    """
+    return {
+        "answer": f"Đây là câu trả lời giả lập cho câu hỏi: {query}",
+        "sources": [
+            {
+                "content": "Đây là nội dung tài liệu giả lập. ĐHQGHN tuyển sinh bằng 4 phương thức.",
+                "score": 0.9,
+                "id": "chunk_1",
+                "metadata": {}
+            }
+        ],
+        "retrieval_source": retrieval_method
+    }
+
+def load_golden_dataset(filepath: str):
+    with open(filepath, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def run_evaluation(dataset_path: str, retrieval_method: str):
+    """
+    Chạy đánh giá cho một phương thức tìm kiếm (dense hoặc hybrid).
+    """
+    print(f"🔄 Đang thu thập câu trả lời cho phương thức: {retrieval_method.upper()}...")
+    data = load_golden_dataset(dataset_path)
+    
+    questions = []
+    answers = []
+    contexts = []
+    ground_truths = []
+    
+    for item in data:
+        q = item["question"]
+        gt = item["answer"]
+        
+        # 1. Gọi hàm sinh câu trả lời
+        # TODO: Thay hàm mock_generate_with_citation bằng hàm thật từ task 10
+        result = mock_generate_with_citation(q, retrieval_method=retrieval_method)
+        
+        generated_answer = result["answer"]
+        # Rút trích list các đoạn văn bản thô từ sources
+        retrieved_contexts = [src["content"] for src in result.get("sources", [])]
+        
+        questions.append(q)
+        answers.append(generated_answer)
+        contexts.append(retrieved_contexts)
+        ground_truths.append(gt)
+        
+    # Tạo Dataset đúng định dạng HuggingFace mà ragas yêu cầu
+    eval_dataset = Dataset.from_dict({
+        "question": questions,
+        "answer": answers,
+        "contexts": contexts,
+        "ground_truth": ground_truths
+    })
+    
+    print(f"📊 Đang chấm điểm bằng LLM-as-a-judge cho {retrieval_method.upper()}...")
+    # 2. Chạy evaluate với 4 metrics
+    metrics = [
+        faithfulness,
+        answer_relevancy,
+        context_precision,
+        context_recall,
+    ]
+    
+    # Có thể cần chỉ định rõ LLM và Embeddings dùng để chấm thi nếu không dùng default của OpenAI
+    eval_results = evaluate(eval_dataset, metrics=metrics)
+    
+    return eval_results
+
+if __name__ == "__main__":
+    # Đọc API Key từ .env (Ragas cần OpenAI API Key để làm giám khảo chấm thi)
+    load_dotenv()
+    
+    dataset_file = "group_project/evaluation/golden_dataset.json"
+    
+    # 1. Đánh giá phương thức Dense (Chỉ Vector)
+    dense_results = run_evaluation(dataset_file, "dense")
+    
+    # 2. Đánh giá phương thức Hybrid (Vector + BM25)
+    hybrid_results = run_evaluation(dataset_file, "hybrid")
+    
+    # 3. In kết quả ra màn hình để bạn tự điền vào file RESULT.md
+    print("\n" + "="*50)
+    print("🏆 KẾT QUẢ ĐÁNH GIÁ (A/B TESTING)")
+    print("="*50)
+    
+    print("\n[A] Phương thức DENSE-ONLY:")
+    print(dense_results)
+    
+    print("\n[B] Phương thức HYBRID:")
+    print(hybrid_results)
+    
+    print("\n>>> Hãy copy các chỉ số trên điền vào file group_project/evaluation/RESULT.md nhé! <<<")
