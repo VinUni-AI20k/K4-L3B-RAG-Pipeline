@@ -26,7 +26,12 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 load_dotenv(Path(__file__).parent.parent / ".env")
 
 ARTICLE_URLS = [
-    "https://vnexpress.net/cam-nang-du-lich-tp-hcm-4608205.html"
+    "https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html",
+    "https://www.ivivu.com/blog/2013/09/du-lich-da-nang-2025-cam-nang-tu-a-den-z/",
+    "https://vnexpress.net/cam-nang-du-lich-hoi-an-4446174.html",
+    "https://acb.com.vn/thu-vien/top-dia-diem-du-lich-theo-tung-thang-tai-viet-nam",
+    "https://vi.wikipedia.org/wiki/Du_l%E1%BB%8Bch_Vi%E1%BB%87t_Nam",
+    "https://www.greensm.com/vn-vi/news/du-lich-sai-gon"
 ]
 
 
