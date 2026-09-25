@@ -20,7 +20,7 @@ st.set_page_config(
     page_title="IELTS Writing · RAG Lab",
     page_icon="✦",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
 )
 
 
@@ -148,11 +148,14 @@ def inject_styles() -> None:
         .source-meta { color:var(--muted); font-size:.84rem; margin-top:.25rem; }
         [data-testid="stExpander"] { border-radius:14px; overflow:hidden; }
         .stMain .stButton>button {
-          min-height:3rem; border-radius:14px; color:#183c62;
+          min-height:3.2rem; height:auto; border-radius:14px; color:#183c62;
           background:rgba(255,255,255,.56); border:1px solid rgba(255,255,255,.92);
           box-shadow:0 8px 24px rgba(48,86,133,.1),inset 0 1px 0 #fff;
           backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px);
           font-weight:700;
+        }
+        .stMain .stButton>button p {
+          white-space:normal; overflow:visible; text-overflow:clip; line-height:1.35;
         }
         .stMain .stButton>button:hover {
           color:#fff; background:#186f94; border-color:#186f94;
