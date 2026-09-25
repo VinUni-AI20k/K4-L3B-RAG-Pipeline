@@ -7,7 +7,7 @@ APP_PATH = Path(__file__).parent.parent / "app.py"
 
 
 def test_app_renders_household_tax_portal():
-    """The initial screen exposes the tax-only chat flow and controls."""
+    """Màn hình ban đầu hiển thị luồng hỏi đáp thuế và các điều khiển cần thiết."""
     app = AppTest.from_file(str(APP_PATH)).run()
 
     assert not app.exception

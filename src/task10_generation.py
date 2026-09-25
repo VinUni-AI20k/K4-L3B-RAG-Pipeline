@@ -1,14 +1,13 @@
-"""
-Task 10 — Generation có citation.
+"""Task 10 — Sinh câu trả lời có trích dẫn.
 
-Hướng dẫn:
-    1. Retrieve top-k chunks.
-    2. Reorder để giảm lost-in-the-middle.
-    3. Format context kèm title và source.
-    4. Gọi provider được chọn trong .env.
-    5. Trả answer, sources và retrieval_source.
+Luồng xử lý:
+    1. Lấy top-k chunk.
+    2. Sắp xếp lại để giảm hiện tượng bỏ sót thông tin ở giữa context.
+    3. Định dạng context kèm tiêu đề và nguồn.
+    4. Gọi nhà cung cấp được chọn trong .env.
+    5. Trả về câu trả lời, nguồn và đường retrieval.
 
-Nếu context không đủ hoặc provider lỗi, trả safe refusal; không bịa thông tin.
+Nếu context không đủ hoặc nhà cung cấp lỗi, trả lời từ chối an toàn; không bịa thông tin.
 """
 
 import os
@@ -35,7 +34,7 @@ Nếu context không đủ evidence, hãy trả lời đúng câu: Tôi không t
 
 
 def reorder_for_llm(chunks: list[dict]) -> list[dict]:
-    """Đưa chunks quan trọng về đầu và cuối context."""
+    """Đưa các chunk quan trọng về đầu và cuối context."""
     if len(chunks) <= 2:
         return list(chunks)
 
@@ -45,7 +44,7 @@ def reorder_for_llm(chunks: list[dict]) -> list[dict]:
 
 
 def format_context(chunks: list[dict]) -> str:
-    """Tạo context có title và source label."""
+    """Tạo context có nhãn tiêu đề và nguồn để đối chiếu citation."""
     parts = []
     for index, chunk in enumerate(chunks, start=1):
         metadata = chunk["metadata"]
@@ -108,7 +107,7 @@ def call_llm(system_prompt: str, user_message: str) -> str:
 
 
 def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
-    """Trả về GenerationResult."""
+    """Sinh GenerationResult từ context đã truy xuất."""
     try:
         chunks = retrieve(query, top_k=top_k)
     except Exception:

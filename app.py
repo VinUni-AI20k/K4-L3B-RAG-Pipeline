@@ -1,4 +1,4 @@
-"""Streamlit chat interface for household-business tax and declaration RAG."""
+"""Giao diện Streamlit cho chatbot thuế và nghĩa vụ kê khai hộ kinh doanh."""
 
 import streamlit as st
 from dotenv import load_dotenv
@@ -16,7 +16,7 @@ SUGGESTED_QUESTIONS = [
 
 
 def source_label(source: dict, index: int) -> str:
-    """Return a complete, visible label for one retrieval source."""
+    """Tạo nhãn đầy đủ, hiển thị được cho một nguồn truy xuất."""
     metadata = source["metadata"]
     return (
         f"{index}. {metadata['title']} | {metadata['source']} | "
@@ -25,7 +25,7 @@ def source_label(source: dict, index: int) -> str:
 
 
 def render_sources(sources: list[dict]) -> None:
-    """Show source metadata and excerpts for answer verification."""
+    """Hiển thị metadata và trích đoạn nguồn để kiểm chứng câu trả lời."""
     if not sources:
         return
     st.markdown('<p class="sources-heading">Nguồn tham khảo</p>', unsafe_allow_html=True)
@@ -41,7 +41,7 @@ def render_sources(sources: list[dict]) -> None:
 
 
 def apply_theme() -> None:
-    """Apply the approved Ant Design-inspired portal visual language."""
+    """Áp dụng ngôn ngữ giao diện portal lấy cảm hứng từ Ant Design."""
     st.markdown(
         """
         <style>
