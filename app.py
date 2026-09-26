@@ -110,6 +110,7 @@ def apply_theme() -> None:
         .feedback-row { align-items:center; border-top:1px solid var(--line); display:flex; gap:.5rem; margin-top:.7rem; padding-top:.55rem; } .feedback-row span { color:var(--muted); font-size:.72rem; margin-right:auto; } .feedback-row .stButton > button { min-height:auto; padding:.32rem .55rem; }
         .st-key-suggestion-chips { margin:.05rem 0 .45rem; } .st-key-suggestion-chips .stButton > button { background:#f7f3ed; border-color:#e7ded2; font-size:.72rem; font-weight:600; min-height:2rem; padding:.32rem .55rem; width:auto; }
         .st-key-hero-query-form { background:#f7f3ed; border:1px solid var(--line); border-radius:8px; padding:.55rem .7rem .7rem; } .st-key-hero-query-form [data-baseweb="input"] { background:var(--white)!important; } .st-key-hero-query-form input { color:var(--navy)!important; -webkit-text-fill-color:var(--navy)!important; } .st-key-hero-query-form input::placeholder { color:var(--muted)!important; -webkit-text-fill-color:var(--muted)!important; opacity:1; } [data-testid="stFormSubmitButton"] button { background:var(--saffron)!important; color:var(--white)!important; min-height:2.5rem; text-align:center; }
+        [data-testid="stTextInput"] label, [data-testid="stSelectbox"] label, [data-testid="stSlider"] label { color:var(--navy)!important; }
         @media (max-width:768px) { .main .block-container { padding-left:1rem; padding-right:1rem; } .st-key-hero-workspace { padding:.8rem; } .official-header { align-items:flex-start; flex-wrap:wrap; } }
         </style>
         """,
