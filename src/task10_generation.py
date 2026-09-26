@@ -132,7 +132,7 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
             "retrieval_source": "none",
         }
 
-    if not answer.strip():
+    if not answer.strip() or answer.strip() == SAFE_REFUSAL:
         return {
             "answer": SAFE_REFUSAL,
             "sources": [],

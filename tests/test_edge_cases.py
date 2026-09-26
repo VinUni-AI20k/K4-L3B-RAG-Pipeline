@@ -245,6 +245,26 @@ def test_generate_returns_safe_refusal_on_empty_retrieval(monkeypatch):
     }
 
 
+def test_generate_drops_irrelevant_sources_when_llm_refuses(monkeypatch):
+    import src.task10_generation as generation
+
+    chunk = _generation_chunk()
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: [chunk])
+    monkeypatch.setattr(
+        generation,
+        "call_llm",
+        lambda system_prompt, user_message: generation.SAFE_REFUSAL,
+    )
+
+    result = generation.generate_with_citation("Cách nướng cá basa?", top_k=1)
+
+    assert result == {
+        "answer": generation.SAFE_REFUSAL,
+        "sources": [],
+        "retrieval_source": "none",
+    }
+
+
 def test_generate_returns_safe_refusal_on_llm_error(monkeypatch):
     from src.contracts import validate_generation_result
     import src.task10_generation as generation
