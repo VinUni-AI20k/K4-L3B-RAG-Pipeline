@@ -1,4 +1,6 @@
 import inspect
+import sys
+from types import ModuleType, SimpleNamespace
 
 import pytest
 
@@ -253,3 +255,95 @@ def test_generation_result_validator_accepts_safe_refusal():
             "retrieval_source": "none",
         }
     )
+
+
+def test_generation_preserves_ranked_sources_and_citation_labels(monkeypatch):
+    import src.task10_generation as generation
+
+    chunks = [result(f"chunk-{index}", 1 - index / 10, "hybrid") for index in range(5)]
+    captured = {}
+
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: chunks)
+
+    def fake_llm(system_prompt, user_message):
+        captured["message"] = user_message
+        return "Học phí được đóng theo học kỳ [S2]."
+
+    monkeypatch.setattr(generation, "call_llm", fake_llm)
+    output = generation.generate_with_citation("Khi nào đóng học phí?", top_k=5)
+
+    validate_generation_result(output)
+    assert output["retrieval_source"] == "hybrid"
+    assert [item["id"] for item in output["sources"]] == [item["id"] for item in chunks]
+    assert "[S2 |" in captured["message"]
+
+
+def test_generation_safely_refuses_invalid_llm_citation(monkeypatch):
+    import src.task10_generation as generation
+
+    chunks = [result("chunk-0", 0.9, "hybrid")]
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: chunks)
+    monkeypatch.setattr(generation, "call_llm", lambda *args: "Unsupported claim [S9].")
+
+    output = generation.generate_with_citation("Question", top_k=1)
+    assert output["answer"] == generation.SAFE_REFUSAL
+    assert output["sources"] == chunks
+
+
+def test_generation_normalizes_grouped_citations(monkeypatch):
+    import src.task10_generation as generation
+
+    chunks = [result("chunk-0", 0.9, "hybrid"), result("chunk-1", 0.8, "hybrid")]
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: chunks)
+    monkeypatch.setattr(
+        generation,
+        "call_llm",
+        lambda *args: "Điều kiện được quy định trong hai nguồn [S1, S2].",
+    )
+
+    output = generation.generate_with_citation("Question", top_k=2)
+    assert output["answer"] == "Điều kiện được quy định trong hai nguồn [S1][S2]."
+
+
+def test_pageindex_without_key_is_safe(monkeypatch):
+    import src.task8_pageindex_vectorless as pageindex
+
+    monkeypatch.setattr(pageindex, "PAGEINDEX_API_KEY", "")
+    assert pageindex.pageindex_search("query", top_k=3) == []
+
+
+def test_gemini_provider_keeps_client_for_request(monkeypatch):
+    import src.task10_generation as generation
+
+    calls = []
+    fake_genai = ModuleType("google.genai")
+    fake_types = ModuleType("google.genai.types")
+    fake_google = ModuleType("google")
+
+    class Config:
+        def __init__(self, **kwargs):
+            self.values = kwargs
+
+    class Client:
+        def __init__(self, api_key):
+            self.api_key = api_key
+            self.models = SimpleNamespace(generate_content=self.generate_content)
+
+        def generate_content(self, **kwargs):
+            calls.append((self, kwargs))
+            return SimpleNamespace(text="Câu trả lời [S1].")
+
+    fake_types.GenerateContentConfig = Config
+    fake_genai.Client = Client
+    fake_genai.types = fake_types
+    fake_google.genai = fake_genai
+    monkeypatch.setitem(sys.modules, "google", fake_google)
+    monkeypatch.setitem(sys.modules, "google.genai", fake_genai)
+    monkeypatch.setitem(sys.modules, "google.genai.types", fake_types)
+    monkeypatch.setattr(generation, "LLM_PROVIDER", "gemini")
+    monkeypatch.setattr(generation, "LLM_MODEL", "gemini-test")
+    monkeypatch.setenv("GEMINI_API_KEY", "test-key")
+
+    assert generation.call_llm("system", "user") == "Câu trả lời [S1]."
+    assert calls[0][0].api_key == "test-key"
+    assert calls[0][1]["model"] == "gemini-test"

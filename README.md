@@ -14,7 +14,7 @@ Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không 
 - Chatbot Streamlit hiển thị câu trả lời và nguồn đã dùng.
 - Golden dataset tối thiểu 15 câu; đánh giá 4 metric và so sánh A/B.
 - `group_project/evaluation/RESULT.md`.
-- Mỗi thành viên nộp báo cáo cá nhân theo template trong `group_project/ịndividual/INDIVIDUAL_REPORT.md`.
+- Báo cáo cá nhân của Trần Thị Thu Hiền: `reports/2A202602737-tran-thi-thu-hien.md`.
 
 ## Quick start
 
@@ -67,7 +67,7 @@ streamlit run app.py
 - [Module contracts](docs/MODULE_CONTRACTS.md): schema, interface và invariant mà code/test nên tuân theo.
 - [Step-by-step guide](docs/STEP_BY_STEP.md): thứ tự triển khai và tiêu chí hoàn thành từng bước.
 - [Grading rubric](docs/GRADING_RUBRIC.md): Rubric thang điểm.
-- [Individual report](group_project/ịndividual/INDIVIDUAL_REPORT.md): template báo cáo cá nhân.
+- [Individual report](reports/2A202602737-tran-thi-thu-hien.md): báo cáo đóng góp của Trần Thị Thu Hiền.
 - [Suggested topics](docs/SUGGESTED_TOPICS.md): danh sách chủ đề tham khảo, không bắt buộc.
 
 ## Kiểm tra
@@ -82,3 +82,21 @@ pytest tests/test_acceptance.py -q
 # Toàn bộ
 pytest -q
 ```
+
+## Trạng thái triển khai
+
+- Task 1–3: đã thu thập và chuẩn hóa 3 PDF pháp luật cùng 5 trang/bài viết.
+- Task 4: đã chuẩn bị 498 chunks, cấu hình BGE-M3 và Chroma cosine.
+- Task 5–7: dense search, BM25 và Reciprocal Rank Fusion dùng chung schema.
+- Task 8–9: PageIndex là fallback tùy chọn; thiếu key hoặc lỗi dịch vụ không làm
+  pipeline/UI crash. Chạy `python -m src.task8_pageindex_vectorless` một lần để
+  upload và cache ID nếu muốn bật fallback này.
+- Task 10/UI: hỗ trợ OpenAI, Gemini hoặc Anthropic; câu trả lời không có citation
+  hợp lệ sẽ được đổi thành safe refusal. Chọn provider và điền `LLM_MODEL` cùng
+  API key tương ứng trong `.env` trước khi chạy Streamlit.
+- Evaluation: đã chạy paired A/B trên 15 golden cases. Dense-only đạt trung bình
+  0.920; hybrid + RRF đạt 0.839. Raw output và judgment nằm trong
+  `group_project/evaluation/evaluation_results.json`.
+
+Test offline hiện có thể chạy mà không gọi API. Test Chroma thật tự bỏ qua khi
+`chromadb` chưa được cài trong môi trường kiểm thử.

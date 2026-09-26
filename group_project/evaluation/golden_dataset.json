@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Khách du lịch có những quyền cơ bản nào theo Luật Du lịch 2017?",
+    "expected_answer": "Khách du lịch được sử dụng dịch vụ hoặc tự đi du lịch, yêu cầu thông tin theo hợp đồng, được bảo đảm quyền lợi và an toàn, khiếu nại hoặc khởi kiện, kiến nghị và được bồi thường thiệt hại theo pháp luật.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 11, trang 6: Quyền của khách du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Khách du lịch có nghĩa vụ gì đối với văn hóa và môi trường tại nơi đến?",
+    "expected_answer": "Khách phải ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương, đồng thời bảo vệ tài nguyên và môi trường du lịch.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 12, trang 6: Nghĩa vụ của khách du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Ai có trách nhiệm cảnh báo nguy cơ và cứu hộ khách du lịch khi khẩn cấp?",
+    "expected_answer": "Tổ chức, cá nhân kinh doanh du lịch phải cảnh báo nguy cơ, thông báo và chỉ dẫn kịp thời, áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 13, trang 7: Bảo đảm an toàn cho khách du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Điểm du lịch cần đáp ứng những điều kiện chung nào để được công nhận?",
+    "expected_answer": "Điểm du lịch phải có tài nguyên và ranh giới xác định; có hạ tầng, dịch vụ cần thiết; và đáp ứng yêu cầu về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 23, trang 10: Điều kiện công nhận điểm du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Thời hạn thẩm định và quyết định công nhận điểm du lịch là bao lâu?",
+    "expected_answer": "Cơ quan chuyên môn cấp tỉnh thẩm định trong 20 ngày kể từ khi nhận hồ sơ hợp lệ; Ủy ban nhân dân cấp tỉnh quyết định trong 10 ngày kể từ khi nhận kết quả thẩm định.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 24, trang 10: Trình tự công nhận điểm du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Điều kiện về trình độ của người phụ trách kinh doanh lữ hành nội địa và quốc tế khác nhau thế nào?",
+    "expected_answer": "Lữ hành nội địa yêu cầu tốt nghiệp trung cấp trở lên chuyên ngành lữ hành hoặc có chứng chỉ nghiệp vụ nội địa; lữ hành quốc tế yêu cầu cao đẳng trở lên hoặc chứng chỉ nghiệp vụ quốc tế.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 31, trang 14: Điều kiện kinh doanh dịch vụ lữ hành.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Luật Du lịch liệt kê những loại cơ sở lưu trú nào?",
+    "expected_answer": "Gồm khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch, nhà nghỉ du lịch, nhà ở có phòng cho khách thuê, bãi cắm trại và các cơ sở lưu trú khác.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 48, trang 21-22: Các loại cơ sở lưu trú du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Cơ quan nào công nhận hạng sao cho cơ sở lưu trú du lịch?",
+    "expected_answer": "Tổng cục Du lịch công nhận hạng 4 và 5 sao; cơ quan chuyên môn về du lịch cấp tỉnh công nhận hạng 1, 2 và 3 sao.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 50, trang 22: Thẩm quyền công nhận hạng cơ sở lưu trú.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Thẻ hướng dẫn viên du lịch quốc tế và nội địa có thời hạn bao lâu?",
+    "expected_answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 5 năm.",
+    "expected_context": "Luật Du lịch 09/2017/QH14, Điều 58, trang 27: Thẻ hướng dẫn viên du lịch.",
+    "expected_source": "luat_du_lich_09_2017_qh14.pdf"
+  },
+  {
+    "question": "Một điểm du lịch phải có những dịch vụ và hạ tầng cụ thể nào theo Nghị định 168?",
+    "expected_answer": "Phải có kết nối giao thông và thông tin liên lạc thuận lợi, điện, nước sạch, biển chỉ dẫn và thuyết minh, cùng dịch vụ ăn uống và mua sắm.",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Điều 11, trang 5-6: Điều kiện công nhận điểm du lịch.",
+    "expected_source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf"
+  },
+  {
+    "question": "Vùng đệm của khu vực di sản thế giới có vai trò gì?",
+    "expected_answer": "Vùng đệm bao quanh hoặc tiếp giáp khu vực di sản, tạo thêm một lớp bảo vệ và là nơi tổ chức hoạt động phát huy giá trị di sản thế giới.",
+    "expected_context": "Nghị định 109/2017/NĐ-CP, Điều 3 khoản 10, trang 2: Khái niệm vùng đệm.",
+    "expected_source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf"
+  },
+  {
+    "question": "Khu vực di sản thế giới và vùng đệm được bảo vệ tương ứng như khu vực nào của di tích?",
+    "expected_answer": "Khu vực di sản thế giới được bảo vệ như khu vực bảo vệ I; vùng đệm được bảo vệ như khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+    "expected_context": "Nghị định 109/2017/NĐ-CP, Điều 4, trang 3: Bảo vệ khu vực di sản và vùng đệm.",
+    "expected_source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf"
+  },
+  {
+    "question": "Vietnam Tourism mô tả Hà Nội và Đồng bằng sông Cửu Long như thế nào?",
+    "expected_answer": "Hà Nội là cửa ngõ tới các kho báu miền Bắc; Đồng bằng sông Cửu Long có các làng nổi và rừng ngập mặn trên đường đổ ra biển.",
+    "expected_context": "Điểm đến | Vietnam Tourism: phần giới thiệu các vùng và điểm đến Việt Nam.",
+    "expected_source": "article_01.json"
+  },
+  {
+    "question": "Bún thang và bánh chưng thể hiện điều gì về ẩm thực miền Bắc?",
+    "expected_answer": "Bún thang cho thấy sự cầu kỳ nhưng tinh tế của công thức Hà Nội; bánh chưng thể hiện truyền thống lâu đời và được các gia đình làm vào dịp Tết để nhớ về cội nguồn.",
+    "expected_context": "Vietnam: A foodie guide by region, mục North — Subtle sophistication và Long traditions.",
+    "expected_source": "article_04.json"
+  },
+  {
+    "question": "Điều gì làm sợi cao lầu Hội An trở nên đặc biệt theo bài viết?",
+    "expected_answer": "Sợi được cho là làm bằng nước giàu canxi từ giếng Bá Lễ, pha tro cây tràm từ Cù Lao Chàm, tạo độ to, chắc và kết cấu giống udon.",
+    "expected_context": "Explore the food of Hoi An, mục Cao lầu (pork rice noodles).",
+    "expected_source": "article_05.json"
+  }
+]

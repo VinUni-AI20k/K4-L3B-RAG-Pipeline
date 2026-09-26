@@ -105,7 +105,10 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     for index, score in ranked:
         score = float(score)
         item = CORPUS[index]
-        if score <= 0 or item["id"] in seen:
+        # BM25Okapi can produce a zero IDF on a tiny corpus even when a term
+        # matches. Token overlap is therefore the relevance gate; a raw score
+        # of zero remains a valid and correctly ordered BM25 result.
+        if not set(query_tokens).intersection(_tokenize(item["content"])) or item["id"] in seen:
             continue
         seen.add(item["id"])
         metadata = dict(item["metadata"])

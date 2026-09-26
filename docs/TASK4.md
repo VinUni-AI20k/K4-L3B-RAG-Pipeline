@@ -87,8 +87,7 @@ nhỏ. Chúng kiểm tra metadata, giới hạn độ dài, ID, mốc trang, cac
 không trùng, dọn đuôi tài liệu cũ, vector lỗi và collection không tương thích.
 `reports/task4_index.json` chỉ được tạo/cập nhật sau một lần index thành công.
 
-Bộ `tests/test_contracts.py` hiện còn 7 lỗi `NotImplementedError` thuộc Task
-5, 6, 7, 9, 10 chưa triển khai; các kiểm tra contract liên quan Task 4 đã đạt.
+Bộ contract cho Task 4–10 hiện đã được triển khai và đạt kiểm thử offline.
 Chất lượng tìm kiếm vẫn phụ thuộc lỗi OCR ở Task 3; Task 4 không tự sửa văn bản.
 
 Nguồn tham khảo: [BGE-M3 model card](https://huggingface.co/BAAI/bge-m3),
