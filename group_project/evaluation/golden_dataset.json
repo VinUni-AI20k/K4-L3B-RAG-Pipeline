@@ -1,82 +1,114 @@
 [
   {
+    "id": 1,
+    "category": "keyword",
     "question": "Người mua có thể yêu cầu trả hàng/hoàn tiền trong thời hạn bao lâu sau khi nhận hàng?",
-    "expected_answer": "Người mua có thể gửi yêu cầu trả hàng/hoàn tiền trong vòng 15 ngày kể từ khi đơn hàng được giao thành công (hoặc 24 giờ đối với thực phẩm tươi sống/đông lạnh).",
-    "expected_context": "Chính sách Trả hàng và Hoàn tiền của Shopee quy định thời hạn khiếu nại đối với đơn hàng tiêu chuẩn là 15 ngày."
+    "expected_answer": "Đối với đơn hàng tiêu chuẩn, thời hạn là 15 ngày kể từ lúc giao hàng thành công. Đối với thực phẩm tươi sống và đông lạnh, thời hạn là trong vòng 24 giờ. Đối với đơn hàng Người bán tự vận chuyển, thời hạn là 15 ngày kể từ lúc bấm nhận hàng, hoặc tối đa 20 ngày kể từ lúc lấy hàng thành công nếu chưa bấm nhận hàng.",
+    "expected_context": "1.2. Thời gian tối đa để gửi yêu cầu trả hàng hoàn tiền cho Shopee: Đối với đơn hàng giao thực phẩm tươi sống & đông lạnh: Trong vòng 24 giờ kể từ lúc đơn hàng được cập nhật trạng thái 'Giao hàng thành công'. Đối với đơn hàng do Người bán tự vận chuyển: 15 ngày kể từ lúc bạn bấm 'Đã nhận được hàng', hoặc 20 ngày kể từ lúc đơn hàng được cập nhật trạng thái 'Lấy hàng thành công' và bạn không bấm 'Đã nhận được hàng'. Đối với các đơn hàng khác: 15 ngày kể từ lúc đơn hàng được cập nhật trạng thái 'Giao hàng thành công'."
   },
   {
-    "question": "Shopee hỗ trợ những phương thức thanh toán nào?",
-    "expected_answer": "Shopee hỗ trợ Ví ShopeePay, Thẻ tín dụng/ghi nợ quốc tế (Visa, Mastercard, JCB), Thanh toán khi nhận hàng (COD), Chuyển khoản ngân hàng qua mã QR, Apple Pay, Google Pay, trả góp 0% và SPayLater.",
-    "expected_context": "Hướng dẫn các Phương Thức Thanh Toán trên Shopee (Payment Methods Overview)."
+    "id": 2,
+    "category": "keyword",
+    "question": "Shopee hỗ trợ những phương thức thanh toán nào cho người mua?",
+    "expected_answer": "Shopee hỗ trợ các phương thức: Ví ShopeePay, Thẻ tín dụng/ghi nợ (Visa, Mastercard, JCB, American Express), Thanh toán khi nhận hàng (COD), Chuyển khoản ngân hàng qua mã QR (VietQR), Ví điện tử Apple Pay & Google Pay, Trả góp 0% qua thẻ tín dụng và SPayLater (Mua trước trả sau).",
+    "expected_context": "Các phương thức thanh toán được hỗ trợ (Supported Payment Methods): Shopee hỗ trợ nhiều phương thức thanh toán an toàn và tiện lợi cho người mua hàng (buyers): 1. Ví ShopeePay; 2. Thẻ tín dụng / Thẻ ghi nợ (Credit / Debit Card) Visa, Mastercard, JCB, American Express; 3. Thanh toán khi nhận hàng (COD); 4. Chuyển khoản ngân hàng qua mã QR; 5. Ví điện tử Apple Pay & Google Pay; 6. Trả góp 0% qua thẻ tín dụng; 7. SPayLater (Mua trước trả sau)."
   },
   {
-    "question": "Người bán không được đăng bán những sản phẩm nào trên Shopee?",
-    "expected_answer": "Người bán không được đăng bán hàng giả, hàng nhái, sản phẩm bất hợp pháp, hàng hoá vi phạm quyền sở hữu trí tuệ, hoặc các mặt hàng cấm theo quy định pháp luật và chính sách của sàn.",
-    "expected_context": "Quy định đăng bán sản phẩm và tiêu chuẩn cộng đồng người bán Shopee."
-  },
-  {
+    "id": 3,
+    "category": "cross_source",
     "question": "Quyền và trách nhiệm của Người Bán đối với việc bảo hành sản phẩm trên sàn là gì?",
-    "expected_answer": "Người Bán có trách nhiệm tiếp nhận bảo hành sản phẩm, dịch vụ cho Người Mua đúng như cam kết trong chính sách bảo hành của mình hoặc của nhà sản xuất, đồng thời phải công khai thông tin này trong phần mô tả sản phẩm.",
-    "expected_context": "Chính sách bảo hành - trách nhiệm Người Bán trên Shopee."
+    "expected_answer": "Người Bán có trách nhiệm tiếp nhận và thực hiện bảo hành sản phẩm, dịch vụ cho Người Mua đúng như cam kết trong chính sách bảo hành của mình và/hoặc của nhà sản xuất, đồng thời phải công khai thông tin này trong phần mô tả sản phẩm trên sàn Shopee.",
+    "expected_context": "4. Chính sách bảo hành: Người Bán có trách nhiệm tiếp nhận bảo hành sản phẩm, dịch vụ cho Người Mua như cam kết trong Chính sách bảo hành sản phẩm của Người bán và/hoặc của nhà sản xuất và thông tin về Chính sách bảo hành này phải được đăng tải trên Sàn Shopee trong phần mô tả về sản phẩm, dịch vụ."
   },
   {
-    "question": "Đối với đơn hàng do Người bán tự vận chuyển, người mua có tối đa bao nhiêu ngày để gửi yêu cầu trả hàng kể từ lúc 'Lấy hàng thành công' nếu chưa bấm nhận hàng?",
-    "expected_answer": "Người mua có tối đa 20 ngày kể từ lúc đơn hàng cập nhật trạng thái 'Lấy hàng thành công' nếu người mua chưa bấm 'Đã nhận được hàng'.",
-    "expected_context": "Những quy định chung về Trả hàng/Hoàn tiền của Shopee."
+    "id": 4,
+    "category": "keyword",
+    "question": "Đối với đơn hàng do Người bán tự vận chuyển, người mua có tối đa bao nhiêu ngày để gửi yêu cầu trả hàng nếu chưa bấm nhận hàng?",
+    "expected_answer": "Người mua có tối đa 20 ngày kể từ lúc đơn hàng cập nhật trạng thái 'Lấy hàng thành công' nếu chưa bấm 'Đã nhận được hàng'.",
+    "expected_context": "Đối với đơn hàng do Người bán tự vận chuyển: 15 ngày kể từ lúc bạn bấm 'Đã nhận được hàng', hoặc 20 ngày kể từ lúc đơn hàng được cập nhật trạng thái 'Lấy hàng thành công' và bạn không bấm 'Đã nhận được hàng'."
   },
   {
-    "question": "Sản phẩm cần đáp ứng các điều kiện cơ bản nào để được tiếp nhận bảo hành?",
-    "expected_answer": "Sản phẩm phải còn thời hạn bảo hành (căn cứ theo tem, phiếu hoặc kích hoạt điện tử), còn nguyên tem/phiếu bảo hành và hư hỏng do lỗi kỹ thuật của nhà sản xuất, không phải do lỗi của người mua.",
-    "expected_context": "Chính sách bảo hành sản phẩm dành cho Người Mua."
+    "id": 5,
+    "category": "cross_source",
+    "question": "Sản phẩm cần đáp ứng các điều kiện cơ bản nào để Người Mua được tiếp nhận bảo hành?",
+    "expected_answer": "Sản phẩm phải còn thời hạn bảo hành (căn cứ theo tem, phiếu hoặc kích hoạt điện tử), còn nguyên tem/phiếu bảo hành và hư hỏng do lỗi kỹ thuật không phải do lỗi của Người Mua.",
+    "expected_context": "Điều kiện bảo hành đối với hàng hóa: Các điều kiện bảo hành được liệt kê dưới đây là các điều kiện cơ bản mà Shopee khuyến cáo Người Mua cần hiểu rõ: Còn thời hạn bảo hành (dựa trên tem/phiếu bảo hành/hoặc thời điểm kích hoạt bảo hành điện tử). Còn tem/phiếu bảo hành. Sản phẩm bị lỗi kỹ thuật không phải do lỗi của Người Mua."
   },
   {
+    "id": 6,
+    "category": "keyword",
     "question": "Shopee xử lý khiếu nại tranh chấp không phải là Trả hàng/Hoàn tiền trong thời hạn bao lâu?",
-    "expected_answer": "Shopee xử lý và đưa ra hướng giải quyết trong vòng 07 ngày làm việc kể từ ngày nhận được đầy đủ thông tin, tài liệu liên quan từ các bên.",
-    "expected_context": "Quy trình giải quyết tranh chấp và xử lý khiếu nại của Shopee."
+    "expected_answer": "Shopee sẽ xử lý và đưa ra hướng giải quyết tranh chấp trong vòng 07 ngày làm việc kể từ ngày nhận được đầy đủ thông tin, tài liệu liên quan từ các bên.",
+    "expected_context": "Thời gian Shopee xử lý và đưa ra hướng giải quyết tranh chấp là trong vòng 07 ngày làm việc kể từ ngày nhận được đầy đủ thông tin, tài liệu liên quan đến vụ việc từ các bên."
   },
   {
-    "question": "Những lý do hợp lệ nào người mua có thể chọn khi yêu cầu Trả hàng/Hoàn tiền?",
-    "expected_answer": "Các lý do hợp lệ gồm: Chưa nhận được hàng, thiếu hàng, người bán gửi sai hàng, hàng lỗi không hoạt động, hàng khác với mô tả, hàng đã qua sử dụng, hàng giả/nhái, hoặc đổi ý (nếu sản phẩm còn nguyên bao bì tem mác).",
-    "expected_context": "Quy trình Shopee xử lý yêu cầu Trả hàng/Hoàn tiền."
-  },
-  {
+    "id": 7,
+    "category": "semantic",
     "question": "Chính sách Shopee Đảm Bảo bảo vệ tiền thanh toán của người mua như thế nào?",
-    "expected_answer": "Shopee Đảm Bảo giữ số tiền thanh toán của người mua và chỉ chuyển khoản cho người bán sau khi người mua xác nhận đã nhận hàng thỏa đáng hoặc hết thời hạn khiếu nại mà không có yêu cầu đổi trả.",
-    "expected_context": "Chính sách Shopee Đảm Bảo bảo vệ quyền lợi người mua."
+    "expected_answer": "Shopee Đảm Bảo bảo vệ quyền lợi người mua bằng cách giữ khoản tiền thanh toán và cho phép đổi trả trong vòng 15 ngày, chỉ chuyển tiền cho người bán sau khi người mua nhận hàng thỏa đáng hoặc hết thời hạn bảo đảm mà không có khiếu nại.",
+    "expected_context": "Shopee Đảm Bảo bảo vệ quyền lợi của Người mua bằng cách cho phép Người mua được Trả hàng/Hoàn tiền trong vòng 15 ngày. Shopee Đảm bảo giúp Người mua luôn yên tâm khi mua sắm trên Shopee, giữ số tiền thanh toán an toàn cho đến khi đơn hàng hoàn tất thỏa đáng."
   },
   {
-    "question": "Người mua tại Shopee Mall được hưởng những cam kết quyền lợi đặc biệt nào?",
-    "expected_answer": "Người mua tại Shopee Mall được cam kết 100% hàng chính hãng (hoàn tiền gấp đôi nếu phát hiện hàng giả), chính sách miễn phí đổi trả lên đến 15 ngày và hỗ trợ vận chuyển ưu tiên.",
-    "expected_context": "Điều khoản Dịch vụ Shopee Mall và cam kết hàng chính hãng."
+    "id": 8,
+    "category": "cross_source",
+    "question": "Người mua tại Shopee Mall được hưởng những cam kết quyền lợi đặc biệt nào về hàng chính hãng và đổi trả?",
+    "expected_answer": "Người mua tại Shopee Mall được cam kết 100% hàng chính hãng (hoàn tiền gấp đôi nếu phát hiện hàng giả), thời hạn yêu cầu trả hàng hoàn tiền lên đến 15 ngày lịch (hoặc 24 giờ với thực phẩm tươi sống đông lạnh) và xử lý trả hàng trong vòng 05 ngày.",
+    "expected_context": "1.9. Thời hạn và điều kiện Người Mua tại Shopee Mall được phép yêu cầu trả hàng: Người Mua tại Shopee Mall có quyền gửi khiếu nại hoặc yêu cầu trả hàng hoàn tiền trong vòng 24 giờ đồng hồ đối với Sản Phẩm là thực phẩm tươi sống và đông lạnh, và 15 ngày lịch đối với các sản phẩm còn lại kể từ ngày đơn hàng mua ở Shopee Mall được cập nhật trạng thái Giao hàng thành công. Shopee cam kết hàng chính hãng 100% và xử lý trong vòng 05 ngày."
   },
   {
-    "question": "Người mua cần chuẩn bị những bằng chứng gì khi gửi yêu cầu khiếu nại hoàn tiền?",
-    "expected_answer": "Người mua cần chuẩn bị video quay khui kiện hàng rõ 6 mặt và mã vận đơn, ảnh chụp cận cảnh chi tiết lỗi/hư hỏng, ảnh chụp nhãn mác sản phẩm và biên bản đồng kiểm (nếu có).",
-    "expected_context": "Hướng dẫn theo dõi đơn hàng và cung cấp bằng chứng hoàn tiền."
+    "id": 9,
+    "category": "semantic",
+    "question": "Người mua cần chuẩn bị những bằng chứng gì khi gửi yêu cầu khiếu nại hoàn tiền do hàng bể vỡ hoặc thiếu hàng?",
+    "expected_answer": "Người mua cần cung cấp video quay rõ nét quá trình mở kiện hàng thấy rõ 6 mặt và thông tin mã vận đơn, ảnh chụp cận cảnh chi tiết lỗi/hư hỏng, và ảnh chụp bao bì tem niêm phong.",
+    "expected_context": "2. Bằng chứng cần thiết khi yêu cầu Trả hàng / Hoàn tiền: Video quay rõ nét quá trình mở kiện hàng (đồng kiểm/khui hàng), thấy rõ 6 mặt kiện hàng và thông tin mã vận đơn (tracking number); Ảnh chụp cận cảnh chi tiết sản phẩm bị hư hỏng, móp méo, trầy xước hoặc thiếu số lượng; Ảnh chụp bao bì và tem niêm phong."
   },
   {
+    "id": 10,
+    "category": "keyword",
     "question": "Làm thế nào để người mua theo dõi hành trình đơn hàng trên ứng dụng Shopee?",
-    "expected_answer": "Người mua vào mục 'Tôi' > 'Đơn Mua', chọn đơn hàng và nhấn vào 'Thông tin vận chuyển' để xem mã vận đơn, đơn vị vận chuyển và trạng thái di chuyển của kiện hàng.",
-    "expected_context": "Hướng dẫn theo dõi đơn hàng và mã vận đơn."
+    "expected_answer": "Người mua truy cập mục 'Tôi' > 'Đơn Mua' trên ứng dụng Shopee, chọn đơn hàng cần kiểm tra và bấm vào thanh 'Thông tin vận chuyển' để xem mã vận đơn, đơn vị vận chuyển và lịch trình di chuyển theo thời gian thực.",
+    "expected_context": "1. Hướng dẫn theo dõi đơn hàng (Order Tracking Guide): Người mua có thể chủ động theo dõi hành trình đơn hàng bằng cách: Truy cập mục Tôi > Đơn Mua trên ứng dụng Shopee. Chọn đơn hàng cần kiểm tra và bấm vào thanh Thông tin vận chuyển. Hệ thống hiển thị chi tiết mã vận đơn (tracking number), đơn vị vận chuyển và lịch trình di chuyển theo thời gian thực."
   },
   {
-    "question": "Thời gian hoàn tiền cho người mua sau khi yêu cầu trả hàng được chấp thuận là bao lâu?",
-    "expected_answer": "Tiền hoàn về Ví ShopeePay/Số dư tài khoản trong 24 giờ, hoặc về thẻ tín dụng/ghi nợ trong vòng 7 - 14 ngày làm việc tùy thuộc vào ngân hàng phát hành thẻ.",
-    "expected_context": "Thời gian và phương thức hoàn tiền theo quy định Shopee."
+    "id": 11,
+    "category": "cross_source",
+    "question": "Trường hợp sản phẩm bị từ chối bảo hành hoặc phát sinh chi phí là những trường hợp nào?",
+    "expected_answer": "Các trường hợp bị từ chối hoặc phát sinh chi phí gồm: sản phẩm hết thời hạn bảo hành; sản phẩm bị bể, biến dạng, cháy, nổ, ẩm thấp trong động cơ do người sử dụng; hoặc không còn tem/phiếu bảo hành.",
+    "expected_context": "Người Mua cần lưu ý về một số trường hợp có thể phát sinh chi phí: sản phẩm hết thời hạn bảo hành; sản phẩm bị bể, biến dạng, cháy, nổ, ẩm thấp trong động cơ do người sử dụng; hoặc các trường hợp khác theo Chính sách bảo hành của sản phẩm."
   },
   {
-    "question": "Trường hợp sản phẩm bị từ chối bảo hành là những trường hợp nào?",
-    "expected_answer": "Sản phẩm bị từ chối bảo hành khi hết hạn bảo hành, mất tem mác niêm phong, bị can thiệp sửa chữa tại nơi không được ủy quyền, hoặc hư hỏng do rơi vỡ, vào nước, chập cháy do sử dụng sai hướng dẫn.",
-    "expected_context": "Các điều khoản loại trừ bảo hành trong chính sách bảo hành Shopee."
+    "id": 12,
+    "category": "semantic",
+    "question": "Quy định về thông tin mô tả khi Người Bán đăng bán sản phẩm trên Shopee là gì?",
+    "expected_answer": "Mô tả sản phẩm phải đầy đủ và chi tiết về đặc điểm, công dụng, cách dùng và lưu ý sử dụng; từ ngữ trung thực, rõ ràng, không gây hiểu lầm; điền đầy đủ nguồn gốc xuất xứ, thuộc tính sản phẩm và chế độ bảo hành (nếu có).",
+    "expected_context": "4. Thông tin mô tả: Mô tả sản phẩm cần đầy đủ và chi tiết, giúp người mua có thể hiểu rõ những đặc điểm, công dụng, cách dùng, lưu ý khi sử dụng của sản phẩm để làm căn cứ khi đặt mua hàng. Từ ngữ mô tả trung thực, rõ ràng, không lập lờ hoặc gây hiểu lầm cho khách hàng. Điền đầy đủ nguồn gốc, xuất xứ, thuộc tính sản phẩm và chế độ bảo hành (nếu có)."
   },
   {
-    "question": "Nếu Người bán không phản hồi yêu cầu trả hàng của Người mua thì hệ thống xử lý ra sao?",
-    "expected_answer": "Nếu người bán không phản hồi trong thời hạn quy định (thường là 2-3 ngày), hệ thống Shopee sẽ tự động chấp thuận yêu cầu hoàn tiền cho người mua.",
-    "expected_context": "Quy trình xử lý tự động khi người bán không phản hồi khiếu nại."
+    "id": 13,
+    "category": "keyword",
+    "question": "Thời hạn Shopee xem xét và phản hồi đối với yêu cầu Trả hàng/Hoàn tiền đang xem xét là bao lâu?",
+    "expected_answer": "Shopee sẽ tiến hành rà soát yêu cầu và gửi kết quả xử lý tới người mua trong vòng 3-5 ngày làm việc (không tính chủ nhật và ngày lễ).",
+    "expected_context": "Đối với các yêu cầu Trả hàng/Hoàn tiền hiển thị trạng thái Shopee đang xem xét: Đây là quá trình Shopee đang tiến hành rà soát yêu cầu của bạn và sẽ gửi kết quả xử lý tới bạn trong vòng 3-5 ngày làm việc (không tính chủ nhật và ngày lễ)."
   },
   {
-    "question": "Người mua có thể hủy đơn hàng khi nào và tiền được hoàn ra sao?",
-    "expected_answer": "Người mua có thể hủy ngay lập tức nếu đơn hàng chưa được người bán chuẩn bị và giao cho đơn vị vận chuyển. Số tiền đã thanh toán trước sẽ được hoàn lại theo phương thức thanh toán ban đầu.",
-    "expected_context": "Chính sách hủy đơn hàng và hoàn tiền Shopee."
+    "id": 14,
+    "category": "cross_source",
+    "question": "Quy trình Shopee xử lý và đưa ra quyết định yêu cầu trả hàng hoàn tiền tại Shopee Mall diễn ra trong bao lâu?",
+    "expected_answer": "Shopee sẽ xử lý và đưa ra quyết định cuối cùng trong vòng 05 ngày kể từ thời điểm nhận được yêu cầu hoàn tiền hoặc nhận được sản phẩm hoàn trả từ Người Mua.",
+    "expected_context": "1.9.2. Quy trình xử lý yêu cầu trả hàng hoàn tiền của Shopee Mall: Trong hầu hết các trường hợp, Shopee sẽ xử lý và đưa ra quyết định cuối cùng liên quan đến yêu cầu trả hàng hoàn tiền của Người Mua trong vòng 05 ngày kể từ thời điểm Shopee nhận được yêu cầu hoàn tiền hoặc nhận được Sản Phẩm Hoàn Trả về từ Người Mua."
+  },
+  {
+    "id": 15,
+    "category": "semantic",
+    "question": "Khi phát sinh tranh chấp hoặc khiếu nại, giải pháp nào được Shopee khuyến khích ưu tiên giữa các bên?",
+    "expected_answer": "Shopee khuyến khích giải pháp thương lượng, hòa giải giữa Người Bán và Người Mua để đạt được sự đồng thuận về phương án giải quyết trước khi Shopee can thiệp theo quy định.",
+    "expected_context": "1. Quy định chung về giải quyết tranh chấp/Xử lý khiếu nại: Khi phát sinh tranh chấp hoặc khiếu nại, Shopee khuyến khích giải pháp thương lượng, hòa giải giữa các bên để đạt được sự đồng thuận về phương án giải quyết. Nếu Người Bán, Người Mua và các bên có liên quan không thể thương lượng với nhau, Shopee có trách nhiệm giải quyết vụ việc theo quy định."
+  },
+  {
+    "id": 16,
+    "category": "keyword",
+    "question": "Người mua có thể thay đổi phương thức thanh toán của đơn hàng khi nào?",
+    "expected_answer": "Người mua có thể thay đổi tại trang Thanh toán trước khi bấm Đặt hàng; hoặc đối với đơn hàng đã đặt nhưng chưa thanh toán, có thể vào trang chi tiết đơn hàng để chọn lại phương thức thanh toán trong thời gian chờ thanh toán.",
+    "expected_context": "Hướng dẫn thay đổi phương thức thanh toán: Người mua có thể thay đổi phương thức thanh toán tại trang Thanh toán (Checkout) trước khi bấm Đặt hàng. Đối với đơn hàng đã đặt nhưng chưa thanh toán, bạn có thể vào trang chi tiết đơn hàng để chọn lại phương thức thanh toán khác trong thời gian chờ thanh toán quy định."
   }
 ]

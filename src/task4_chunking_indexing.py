@@ -24,14 +24,6 @@ load_dotenv()
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
 CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
 
-# =============================================================================
-# CONFIGURATION
-# =============================================================================
-
-# Chunk size 500 ký tự với overlap 50 ký tự:
-# - Phù hợp với độ dài các điều khoản quy định/chính sách TMĐT
-# - Đủ ngữ cảnh cho từng điều kiện bảo hành, đổi trả, tranh chấp
-# - Tránh vượt quá context window khi inject nhiều chunks vào LLM
 CHUNK_SIZE = 750
 CHUNK_OVERLAP = 100
 CHUNKING_METHOD = "recursive"
