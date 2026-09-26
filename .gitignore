@@ -13,6 +13,7 @@ ENV/
 # Packaging / build artifacts
 build/
 dist/
+node_modules/
 .eggs/
 *.egg
 *.egg-info/
@@ -40,11 +41,14 @@ data/_tmp_pdf/
 
 # Temp / cache
 .pytest_cache/
+.crawl4ai/
 *.tmp
 *.log
 pageindex_doc_ids.json
 pageindex_pdfs/
 
+chroma_db/
+pageindex_cache.json
 # Jupyter
 .ipynb_checkpoints/
 

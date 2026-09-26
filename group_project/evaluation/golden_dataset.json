@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Du lịch ẩm thực miền núi phía Bắc bao gồm những món ăn đặc sắc nào của tỉnh Lào Cai?",
+    "expected_answer": "Các món ăn đặc sắc của Lào Cai bao gồm thịt trâu gác bếp, thắng cố ngựa và khâu nhục[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.1 Du lịch ẩm thực miền núi phía Bắc[cite: 1]."
+  },
+  {
+    "question": "Phố đi bộ Hồ Gươm ở Hà Nội mở cửa vào thời gian nào trong tuần?",
+    "expected_answer": "Phố đi bộ Hồ Gươm mở cửa từ 18h thứ Sáu đến hết Chủ nhật hàng tuần[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Chơi đâu - Phố đi bộ[cite: 2]."
+  },
+  {
+    "question": "Tại Huế, hoạt động xem biểu diễn tái hiện bắn súng thần công ở Kỳ Đài diễn ra vào lúc nào?",
+    "expected_answer": "Hoạt động xem biểu diễn tái hiện bắn súng thần công diễn ra vào lúc 20h tối thứ bảy hàng tuần[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Ăn chơi[cite: 3]."
+  },
+  {
+    "question": "Khi đi thuyền trên đầm Vân Long ở Ninh Bình, du khách sẽ thấy đặc điểm gì của nước đầm?",
+    "expected_answer": "Nước đầm không xanh như nước biển mà trong vắt, lộ rõ từng lớp rêu phía dưới[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Đầm Vân Long[cite: 4]."
+  },
+  {
+    "question": "Bún riêu cua của Việt Nam từng được trang mạng nào vinh danh là một trong 21 món ngon nhất thế giới năm 2018?",
+    "expected_answer": "Bún riêu cua từng được trang Traveller của Australia vinh danh là một trong 21 món ngon nhất thế giới năm 2018[cite: 5].",
+    "expected_context": "Bài viết 'Top 15 Món ăn ngon Việt Nam theo đánh giá của du khách' trên Mytour.vn, phần 9. Bữa ăn đặc sắc với bún riêu cua[cite: 5]."
+  },
+  {
+    "question": "Huyện Bình Thủy ở Cần Thơ nổi tiếng với món đặc sản nào?",
+    "expected_answer": "Huyện Bình Thủy nổi tiếng với món bánh tét lá cẩm thơm ngon, đẹp mắt[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.6 Ẩm thực Cần Thơ[cite: 1]."
+  },
+  {
+    "question": "Chợ hoa Quảng Bá ở Hà Nội hoạt động đông vui nhất vào khoảng thời gian nào?",
+    "expected_answer": "Chợ hoa Quảng Bá hoạt động đông vui nhất vào khoảng 3 - 4h sáng, khi người mua kẻ bán tấp nập[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Đi chợ[cite: 2]."
+  },
+  {
+    "question": "Từ 'chá' trong tên gọi 'Rừng Rú Chá' ở Huế có ý nghĩa là gì?",
+    "expected_answer": "Từ 'chá' có nghĩa là cây chá, một loại cây mọc ở vùng ngập mặn[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Khám phá - Rừng Rú Chá[cite: 3]."
+  },
+  {
+    "question": "Động Am Tiên ở Ninh Bình còn được mệnh danh là gì do con đường duy nhất trước kia là leo núi?",
+    "expected_answer": "Động Am Tiên còn được mệnh danh là Tuyệt Tình Cốc[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Động Am Tiên[cite: 4]."
+  },
+  {
+    "question": "Theo Nghị định 348/2025/NĐ-CP, Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến mức tối đa là bao nhiêu trong lĩnh vực du lịch?",
+    "expected_answer": "Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến 25.000.000 đồng[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 6 sửa đổi, bổ sung Điều 19 quy định về Thẩm quyền của Thanh tra Hàng hải Việt Nam[cite: 6]."
+  },
+  {
+    "question": "Điều kiện để công nhận điểm du lịch theo Luật Du lịch 2017 bao gồm những gì?",
+    "expected_answer": "Các điều kiện bao gồm: Có tài nguyên du lịch, có ranh giới xác định; Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch; Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 1 Điều 23 quy định về điều kiện công nhận điểm du lịch[cite: 7]."
+  },
+  {
+    "question": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài được quy định là bao nhiêu theo Nghị định 168/2017/NĐ-CP?",
+    "expected_answer": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là 500.000.000 (năm trăm triệu) đồng[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Điểm b Khoản 2 Điều 14 quy định về mức ký quỹ và phương thức ký quỹ[cite: 8]."
+  },
+  {
+    "question": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn bao lâu?",
+    "expected_answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 58 quy định về hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch[cite: 7]."
+  },
+  {
+    "question": "Theo Nghị định 168/2017/NĐ-CP, doanh nghiệp kinh doanh dịch vụ lữ hành có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn bao nhiêu ngày kể từ ngày rút khỏi tài khoản?",
+    "expected_answer": "Doanh nghiệp có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Khoản 2 Điều 16 quy định về việc quản lý, sử dụng tiền ký quỹ[cite: 8]."
+  },
+  {
+    "question": "Lực lượng Quản lý thị trường cấp Chi cục trưởng có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn trong lĩnh vực du lịch không?",
+    "expected_answer": "Có, Chi cục trưởng Chi cục Quản lý thị trường có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 8 sửa đổi, bổ sung Điều 21, tại điểm d khoản 3 quy định quyền hạn của Chi cục trưởng Chi cục Quản lý thị trường[cite: 6]."
+  },
+  {
+    "question": "Quyết định công nhận hạng cơ sở lưu trú du lịch theo Luật Du lịch 2017 có hiệu lực trong thời gian bao nhiêu năm?",
+    "expected_answer": "Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 6 Điều 50 quy định về xếp hạng cơ sở lưu trú du lịch[cite: 7]."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch?",
+    "expected_answer": "Sở Giao thông vận tải là cơ quan có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Chương V Mục 2 (Điều 17 đến Điều 20) quy định về cấp, cấp đổi, cấp lại, thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8]."
+  },
+  {
+    "question": "Tài nguyên du lịch theo Luật Du lịch 2017 được phân thành những loại nào?",
+    "expected_answer": "Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 3 và Điều 15 quy định về các loại tài nguyên du lịch[cite: 7]."
+  }
+]

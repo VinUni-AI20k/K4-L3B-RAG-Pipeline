@@ -1,84 +1,136 @@
-# Day 8 — RAG Pipeline
+# Vietnamese Tourism RAG Pipeline
 
-## Mục tiêu
+Chatbot RAG trả lời câu hỏi về du lịch Việt Nam từ 3 văn bản pháp luật và 5 bài cẩm nang công khai. Pipeline gồm chuẩn hóa dữ liệu, recursive chunking, multilingual sentence-transformer, ChromaDB cosine search, BM25, Reciprocal Rank Fusion (RRF), fallback và generation có citation.
 
-Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.
+## Dữ liệu và nguồn
 
-Nhóm tự chọn bài toán và thu thập dữ liệu phù hợp; repo không cung cấp dữ liệu mẫu.
+- `data/landing/legal/`: 3 PDF ký số; `sources.json` lưu URL trang Công báo và bản PDF có text layer.
+- `data/landing/news/`: 5 JSON có đủ `url`, `title`, `date_crawled`, `content_markdown`.
+- `data/standardized/legal/` và `data/standardized/news/`: Markdown UTF-8 dùng để chunk/index.
+- Chủ đề: Luật Du lịch, quy định hướng dẫn/xử phạt và cẩm nang Hà Nội, Ninh Bình, Huế, ẩm thực Việt Nam.
 
-## Sản phẩm phải nộp
+## Kiến trúc
 
-- Repository nhóm chạy được.
-- Tối thiểu 3 tài liệu chính sách và 5 bài viết/page do nhóm tự thu thập.
-- Pipeline: convert → chunk → index → dense + BM25 → RRF → fallback → generation có citation.
-- Chatbot Streamlit hiển thị câu trả lời và nguồn đã dùng.
-- Golden dataset tối thiểu 15 câu; đánh giá 4 metric và so sánh A/B.
-- `group_project/evaluation/RESULT.md`.
-- Mỗi thành viên nộp báo cáo cá nhân theo template trong `group_project/ịndividual/INDIVIDUAL_REPORT.md`.
-
-## Quick start
-
-```bash
-python -m venv .venv
-source .venv/bin/activate       # Windows: .venv\Scripts\activate
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install -e ".[dev]"
-python -m playwright install chromium
-cp .env.example .env
+```text
+landing -> standardized Markdown -> chunks -> embeddings -> ChromaDB
+                                             |             |
+                                             +-> BM25      +-> dense
+                                                    \       /
+                                                     RRF
+                                                      |
+                                        dense-score fallback
+                                                      |
+                                      LLM answer + [n] citations
 ```
 
-Điền API key cần dùng trong `.env`; không commit file này.
+Các interface và invariant nằm trong `docs/MODULE_CONTRACTS.md`. ID chunk có dạng `<document-id>::chunk-<index>` và Chroma dùng `upsert`, nên chạy lại không tạo bản ghi trùng.
 
-```bash
-# 1. Thu thập và chuẩn hoá
+## Cài đặt
+
+Yêu cầu Python 3.10–3.13 và Node.js 18+ nếu dùng giao diện React.
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install -e ".[dev]"
+Copy-Item .env.example .env
+```
+
+Playwright/Chromium chỉ cần khi chạy lại crawler. Corpus đã crawl sẵn nên người làm retrieval, evaluation hoặc demo không bắt buộc cài browser.
+
+### Cấu hình 9Router
+
+```dotenv
+LLM_PROVIDER=openai
+LLM_MODEL=cx/gpt-5.6-luna
+OPENAI_BASE_URL=http://127.0.0.1:20128/v1
+OPENAI_API_KEY=<key được tạo trong 9Router>
+
+EMBEDDING_PROVIDER=sentence_transformers
+EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+```
+
+Tên biến vẫn là `OPENAI_API_KEY` vì dự án dùng OpenAI-compatible SDK; giá trị phải là key gateway do 9Router cấp. Không commit `.env`.
+
+## Chạy pipeline
+
+Không cần crawl lại để demo. Với corpus hiện có:
+
+```powershell
+python -m src.task3_convert_markdown
+python -m src.task4_chunking_indexing
+python -m pytest -q
+```
+
+Nếu cần thu thập lại từ đầu:
+
+```powershell
+python -m playwright install chromium
 python -m src.task1_collect_legal_docs
 python -m src.task2_crawl_news
 python -m src.task3_convert_markdown
+```
 
-# 2. Index và kiểm tra contract
-python -m src.task4_chunking_indexing
-pytest -q
+## Chạy chatbot
 
-# 3. Chạy sản phẩm
+### Streamlit
+
+```powershell
 streamlit run app.py
 ```
 
-## Lộ trình 3 giờ
+### React + FastAPI
 
-| Mốc                  | Thời gian | Kết quả cần có                           |
-| -------------------- | --------: | ---------------------------------------- |
-| 0. Setup             |   10 phút | Môi trường và `.env` sẵn sàng            |
-| 1. Data              |   25 phút | ≥3 legal, ≥5 news, Markdown đã chuẩn hoá |
-| 2. Index & search    |   30 phút | ChromaDB, dense search và BM25 chạy được |
-| 3. Fusion & fallback |   25 phút | RRF và fallback tuân thủ contract        |
-| 4. Generation & UI   |   30 phút | Chatbot trả lời có citation              |
-| 5. Evaluation        |   30 phút | 15+ Q&A, 4 metric, A/B comparison        |
-| 6. Demo & handoff    |   30 phút | Test, report, demo và push repository    |
+Terminal 1:
 
-## Lưu ý quy tắc để có code quality tốt:
-
-- Dense và BM25 nên cùng trả về `SearchResult` theo một schema.
-- RRF chỉ nên dùng để gộp thứ hạng và chỉ chạy một lần.
-- Fallback dùng cosine score gốc của dense retrieval.
-- Threshold phải được hiệu chỉnh trên query in domain và out of domain, không có một con số đúng cho mọi corpus.
-
-## Tài liệu
-
-- [Module contracts](docs/MODULE_CONTRACTS.md): schema, interface và invariant mà code/test nên tuân theo.
-- [Step-by-step guide](docs/STEP_BY_STEP.md): thứ tự triển khai và tiêu chí hoàn thành từng bước.
-- [Grading rubric](docs/GRADING_RUBRIC.md): Rubric thang điểm.
-- [Individual report](group_project/ịndividual/INDIVIDUAL_REPORT.md): template báo cáo cá nhân.
-- [Suggested topics](docs/SUGGESTED_TOPICS.md): danh sách chủ đề tham khảo, không bắt buộc.
-
-## Kiểm tra
-
-```bash
-# Contract tests
-pytest tests/test_contracts.py -q
-
-# Acceptance tests
-pytest tests/test_acceptance.py -q
-
-# Toàn bộ
-pytest -q
+```powershell
+.\.venv\Scripts\python.exe -m uvicorn backend.api:app --reload --port 8000
 ```
+
+Terminal 2:
+
+```powershell
+cd frontend
+npm ci
+npm run dev
+```
+
+Mở `http://localhost:5173`. Khi backend online, giao diện gọi pipeline thật; trạng thái mock chỉ là chế độ dự phòng khi backend không kết nối được. Tab chat hỗ trợ click citation `[1]`, `[2]` để highlight và mở chi tiết nguồn.
+
+## Evaluation A/B
+
+Golden dataset có 18 câu; lần đo chính thức trong báo cáo dùng 15 câu đầu, đáp ứng ngưỡng tối thiểu của rubric. Hai cấu hình dùng cùng corpus, embedding, prompt, model và `top_k=5`:
+
+- A: dense-only.
+- B: dense + BM25, hợp nhất một lần bằng RRF (`k=60`).
+
+Bốn metric Ragas: Faithfulness, Answer Relevance, Context Recall và Context Precision.
+
+```powershell
+.\.venv\Scripts\python.exe -m group_project.evaluation.run_evaluation --skip-index --limit 15
+```
+
+Kết quả chi tiết được lưu tại `group_project/evaluation/evaluation_details.json`; báo cáo tổng hợp được sinh vào `group_project/evaluation/RESULT.md`. Runner checkpoint câu trả lời trong `evaluation_inputs.json`, nên lần chạy lại không phải gọi generator cho các mẫu đã hoàn thành.
+
+## Kiểm thử và demo
+
+```powershell
+python -m pytest tests/test_contracts.py -q
+python -m pytest tests/test_acceptance.py -q
+python -m pytest -q
+```
+
+Kịch bản demo tối thiểu:
+
+1. Một câu trong phạm vi và mở citation/source card.
+2. Một câu ngoài phạm vi để kiểm tra fallback/safe refusal.
+3. Tab A/B hoặc `RESULT.md` để trình bày số đo dense-only so với hybrid + RRF.
+
+## Báo cáo
+
+- Báo cáo nhóm: `group_project/evaluation/RESULT.md`.
+- Báo cáo cá nhân: `reports/`.
+- Rubric: `docs/GRADING_RUBRIC.md`.
+
+Bonus có thể kiểm chứng trong repo: UI citation/source highlighting. HyDE/query expansion, reranker nâng cao và conversation memory không được tuyên bố nếu chưa có code cùng kết quả đo/demo.

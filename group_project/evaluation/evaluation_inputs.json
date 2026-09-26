@@ -1,0 +1,1118 @@
+[
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 1,
+    "user_input": "Du lịch ẩm thực miền núi phía Bắc bao gồm những món ăn đặc sắc nào của tỉnh Lào Cai?",
+    "response": "Các món ăn đặc sắc của tỉnh Lào Cai gồm **thịt trâu gác bếp, thắng cố ngựa và khâu nhục**. 【Document 5】",
+    "reference": "Các món ăn đặc sắc của Lào Cai bao gồm thịt trâu gác bếp, thắng cố ngựa và khâu nhục[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.1 Du lịch ẩm thực miền núi phía Bắc[cite: 1].",
+    "retrieved_contexts": [
+      "### **2.1 Du lịch ẩm thực miền núi phía Bắc**\nDu lịch ẩm thực miền núi phía Bắc sẽ đưa bạn đến với các tỉnh Lào Cai, Hà Giang, Lai Châu, Sơn La, Điện Biên, Lạng Sơn… để thưởng thức rất nhiều món ăn đa dạng, được chế biến theo công thức riêng của người dân bản địa. Đặc sản vùng cao luôn có sức hút mạnh mẽ, mang lại những trải nghiệm ẩm thực độc đáo.",
+      "Một số món ăn đặc sắc của miền núi phía Bắc như: Thịt trâu gác bếp, thắng cố ngựa, khâu nhục của Lào Cai; phở chua, cháo ấu tẩu, cơm lam của Hà Giang; pa pỉnh tộp, lợn cắp nách của Lai Châu; vịt Chiềng Mai, thịt muối chua, nộm da trâu của Sơn La…\n_Chợ phiên là nơi bạn có thể thử hết những món đặc sản của địa phương_",
+      "Du lịch ẩm thực miền núi phía Bắc mang đến những món ăn đặc sắc như thịt trâu gác bếp, thắng cố ngựa, khâu nhục. Mỗi địa phương có món ăn riêng biệt, chế biến theo phong cách độc đáo của người dân nơi đây, tạo nên trải nghiệm thú vị cho du khách.\n4.\n### Du khách đến Hà Nội nên thưởng thức những món ăn đặc sản nào?",
+      "Có dịp du lịch Hà Nội, bạn chắc chắn phải thưởng thức cốm Làng Vòng, bánh cuốn Thanh Trì, xôi nếp Phú Thượng, bún ngần Phú Đô, giò chả Ước Lễ... Ngoài ra tại đây còn vô số món đặc sản hấp dẫn mà giá thành thì cực kỳ bình dân như phở, bún chả, bún đậu mắm tôm, bún ốc…\n### **2.3 Du lịch Huế**",
+      "_Bánh tráng cuốn thịt heo_ _Bánh tráng cuốn thịt heo_\n### 15. Bún thang\n**Bún thang** , một trong những đặc sản ẩm thực tuyệt vời của Việt Nam, đã thu hút sự chú ý và khen ngợi từ du khách trên khắp thế giới. Được xem là một trong những món ăn ngon nhất của đất nước này, Bún thang không chỉ ghi điểm với khẩu vị hấp dẫn mà còn bởi cách chế biến tinh tế, kết hợp giữa hương vị truyền thống và sự sáng tạo độc đáo."
+    ],
+    "retrieved_ids": [
+      "news/am-thuc-ba-mien.md::chunk-11",
+      "news/am-thuc-ba-mien.md::chunk-12",
+      "news/am-thuc-ba-mien.md::chunk-25",
+      "news/am-thuc-ba-mien.md::chunk-15",
+      "news/mon-an-ngon-viet-nam.md::chunk-62"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 6.3323
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 2,
+    "user_input": "Phố đi bộ Hồ Gươm ở Hà Nội mở cửa vào thời gian nào trong tuần?",
+    "response": "Không có thông tin trong context về thời gian mở cửa của phố đi bộ Hồ Gươm.",
+    "reference": "Phố đi bộ Hồ Gươm mở cửa từ 18h thứ Sáu đến hết Chủ nhật hàng tuần[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Chơi đâu - Phố đi bộ[cite: 2].",
+    "retrieved_contexts": [
+      "Lộc vừng thay lá bên hồ Gươm những ngày xuân.\n### Di chuyển\nHà Nội được ví như trái tim của Việt Nam, do đó du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy từ các tỉnh thành khác.",
+      "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](https://vnexpress.net/thang-9-dac-san-mua-thu-cham-ngo-ha-noi-3464955.html) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng..",
+      "Thứ ba, 12/4/2022, 00:18 (GMT+7)\nNhững công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... là những ấn tượng đầu tiên của du khách về Hà Nội. Với nhiều người, Hà Nội có tất cả những thứ thú vị để khám phá nơi đây theo cách riêng của mình.\n### Hà Nội mùa nào đẹp",
+      "### **2.4 Du lịch ẩm thực Hội An**\nHội An là khu phố cổ nổi tiếng bậc nhất tại Việt Nam, thu hút khách du lịch cả trong và ngoài nước. Không gian tại đây mang đậm màu sắc hoài niệm, những ngôi nhà hàng trăm năm tuổi, khố phường tĩnh lặng trong ánh đèn lồng lung linh. Đến đây bạn cũng sẽ được thưởng thức những món ngon Hội An như cao lầu đậm đà, mì Quảng thanh ngọt, bánh ướt cuốn thịt nướng thơm lừng, bánh mì Phượng giòn tan…\n_Những quán ăn vỉa hè tại Hội An được rất nhiều du khách yêu thích_",
+      "Di tích Hải Vân Quan. Ảnh: Nguyễn Đông\n> Hồ Thủy Tiên\nĐây là một trong những [công viên nước bỏ hoang](https://vnexpress.net/cong-vien-bo-hoang-cua-viet-nam-thanh-diem-den-ky-thu-cua-khach-tay-3825093.html) nổi tiếng nhất thế giới. Rất nhiều khách du lịch bụi tới Việt Nam biến nó thành điểm check-in độc đáo.\nCông viên này từng tốn đến 70 tỷ đồng để xây dựng và mở cửa từ năm 2004 nhưng không thu hút được nhiều khách nên dừng hoạt động sau đó vài năm."
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ha-noi.md::chunk-5",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-3",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-2",
+      "news/am-thuc-ba-mien.md::chunk-18",
+      "news/cam-nang-du-lich-hue.md::chunk-63"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 2.1244
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 3,
+    "user_input": "Tại Huế, hoạt động xem biểu diễn tái hiện bắn súng thần công ở Kỳ Đài diễn ra vào lúc nào?",
+    "response": "Hoạt động này diễn ra vào **20h tối thứ bảy hằng tuần**. citeDocument 1",
+    "reference": "Hoạt động xem biểu diễn tái hiện bắn súng thần công diễn ra vào lúc 20h tối thứ bảy hàng tuần[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Ăn chơi[cite: 3].",
+    "retrieved_contexts": [
+      "Xem bắn súng thần công ở Kỳ Đài là trải nghiệm không nên bỏ lỡ. Kỳ Đài, hay còn được gọi là Cột Cờ Kinh thành Huế được xây vào năm 1807 dưới thời vua Gia Long. Trước đây, trên mặt đài có hai điếm canh và pháo xưởng để bố trí các khẩu súng. Ngày nay, du khách tham quan có thể đến đây vào 20h tối thứ bảy hàng tuần để xem biểu diễn tái hiện bắn súng thần công.",
+      "**Show thực cảnh:** Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở [chùa Thầy](https://vnexpress.net/toi-cuoi-tuan-xem-tinh-hoa-bac-bo-o-ngoai-thanh-ha-noi-3750606.html), dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai.",
+      "Bắc qua sông Hương, [cầu Trường Tiền](https://vnexpress.net/cau-truong-tien-sau-vai-muoi-hai-nhip-2877988.html) vốn là hình ảnh mà nhắc tới Huế ai cũng nhớ. Nếu ban ngày chỉ trầm ngâm in bóng xuống dòng Hương thì chiều muộn và tối đến, cầu lại được tô điểm bằng ánh đèn màu lấp lánh rất nổi bật",
+      "Thứ hai, 20/7/2020, 07:37 (GMT+7)\nNằm trên dải đất miền Trung, Huế là thành phố di sản văn hóa thế giới. Cố đô vốn có lịch sử và truyền thống lâu đời với những giá trị và bản sắc độc đáo.\n### **Huế mùa nào đẹp?**\nMùa du lịch Huế từ tháng 11 năm trước đến tháng 4 năm sau, đẹp nhất là 3-4 tháng đầu năm, tiết trời mát mẻ. Với những du khách yêu núi, biển, thích ngắm bình minh và hoàng hôn, thời điểm nên đi là tháng 6-8 khi mặt trời đẹp nhất trong năm, nước biển xanh nhất.",
+      "Trà sen Huế. Ảnh: Ngọc Trân\n> Chơi\nQuán bia trên phố Tây Huế. Ảnh: Ngân Dương"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-hue.md::chunk-75",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-31",
+      "news/cam-nang-du-lich-hue.md::chunk-20",
+      "news/cam-nang-du-lich-hue.md::chunk-2",
+      "news/cam-nang-du-lich-hue.md::chunk-72"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 3.077
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 4,
+    "user_input": "Khi đi thuyền trên đầm Vân Long ở Ninh Bình, du khách sẽ thấy đặc điểm gì của nước đầm?",
+    "response": "Nước đầm Vân Long trong vắt, mặt nước phẳng lặng không một gợn sóng và có thể nhìn rõ từng lớp rêu bên dưới. [Document 1]",
+    "reference": "Nước đầm không xanh như nước biển mà trong vắt, lộ rõ từng lớp rêu phía dưới[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Đầm Vân Long[cite: 4].",
+    "retrieved_contexts": [
+      "Được mệnh danh là \"vịnh không sóng\", vì khi đi thuyền trên đầm, du khách sẽ thấy mặt nước phẳng không một gợn sóng. Nước không xanh như nước biển, mà trong vắt, lộ rõ từng lớp rêu phía dưới. Đây còn là nơi sở hữu 2 kỷ lục của Trung tâm sách kỷ lục Việt Nam năm 2010 là Nơi có số lượng cá thể voọc mông trắng nhiều nhất và Nơi có bức tranh tự nhiên lớn nhất. Vé tham quan 20.000 đồng/ người và vé thuyền 60.000/ 2 người.\n**Vườn Chim Thung Nham**\nẢnh: Minh Phụng",
+      "Ngày nay, Hồ Thủy Tiên bị bao phủ bằng các bức tranh tường graffiti nhiều màu và cây cối mọc um tùm. Tuy vậy, nhiều du khách mê khám phá truyền tai nhau hồ Thủy Tiên có sức hút không tưởng, là điểm đến không nên bỏ lỡ khi ghé Huế.\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n### **Ăn chơi**\n> Ăn",
+      "> Vịnh Lăng Cô\nBãi tắm [Lăng Cô](https://vnexpress.net/cam-nang-du-lich-lang-co-4625414.html) dài khoảng 8km, nằm dọc Quốc lộ 1A, cạnh đèo Hải Vân và cách Vườn Quốc gia Bạch Mã 24km. Ðây là một bãi tắm có bờ biển thoải, cát trắng, sóng vừa và lớn. Nằm liền kề bãi tắm Lăng Cô là núi Hải Vân, phía sau bãi tắm là đầm Lập An và dãy núi Bạch Mã.\n> Đầm Lập An",
+      "Sáng sớm hôm sau, bạn tiếp tục đi bộ theo đường mòn Đỗ Quyên, đến Ngũ Hồ để chiêm ngưỡng năm hồ nước đẹp nhất rừng Bạch Mã, hòa mình vào dòng suối mát và ngắm cảnh núi non hùng vĩ. Hành trình tiếp tục tới vườn thuốc quý, thác Đỗ Quyên có độ cao hơn 300 m - một trong những kỳ quan của Bạch Mã.\nToàn cảnh đỉnh Bạch Mã và khu vực Vọng Hải Đài mờ ảo trong mây, ở độ cao 1.450 m. Ảnh: Kelvin Long\n[](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)",
+      "### **2.6 Ẩm thực Cần Thơ**\nMuốn tìm hiểu về văn hóa và ẩm thực miệt vườn dân dã của miền sông nước thì du lịch Cần Thơ chính là điểm đến lý tưởng nhất. Những nơi đã tạo nên thương hiệu cho ẩm thực Cần Thơ chính là: Bình Thủy, Cồn Sơn và Phong Điền. Trong khi huyện Bình Thủy nổi tiếng với bánh tét lá cẩm thơm ngon, đẹp mắt thì Cồn Sơn lại là nơi lưu giữ những nét ẩm thực truyền thống, dân dã như cơm gói mo cau, lẩu cá kèo, cá lóc nướng...\n_Ẩm thực Cần Thơ là những món ăn đời thường và dân dã_"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-29",
+      "news/cam-nang-du-lich-hue.md::chunk-64",
+      "news/cam-nang-du-lich-hue.md::chunk-59",
+      "news/cam-nang-du-lich-hue.md::chunk-57",
+      "news/am-thuc-ba-mien.md::chunk-21"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 11.5734
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 5,
+    "user_input": "Bún riêu cua của Việt Nam từng được trang mạng nào vinh danh là một trong 21 món ngon nhất thế giới năm 2018?",
+    "response": "Bún riêu cua của Việt Nam từng được **trang Traveller của Australia** vinh danh là một trong 21 món ngon nhất thế giới năm 2018. [Document 1]",
+    "reference": "Bún riêu cua từng được trang Traveller của Australia vinh danh là một trong 21 món ngon nhất thế giới năm 2018[cite: 5].",
+    "expected_context": "Bài viết 'Top 15 Món ăn ngon Việt Nam theo đánh giá của du khách' trên Mytour.vn, phần 9. Bữa ăn đặc sắc với bún riêu cua[cite: 5].",
+    "retrieved_contexts": [
+      ". Không ngạc nhiên khi món bún riêu của Việt Nam được trang Traveller của Australia vinh danh là một trong 21 món ngon nhất thế giới năm 2018, theo bình chọn của khách du lịch quốc tế.",
+      "# Top 15 Món ăn ngon Việt Nam theo đánh giá của du khách\n**Buzz**\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\nNgày cập nhật gần nhất: 1/9/2026\nNội dung bài viết\n* 1. Phở\n* 2. Hủ tiếu\n* 3. Gỏi cuốn tôm\n* 4. Bún chả\n* 5. Bánh mì\n* 6. Bánh xèo\n* 7. Nem rán\n* 8. Bún bò Huế\n* 9. Bữa ăn đặc sắc với bún riêu cua\n* 10. Chả cá Lã Vọng\n* 11. Bánh cuốn - Món ẩm thực tinh tế của Việt Nam\n* 12. Mì Quảng",
+      "# Top 15 Món ăn ngon nhất Việt Nam theo đánh giá của du khách - Mytour.vn\n\n**Nguồn:** https://mytour.vn/vi/blog/bai-viet/top-15-mon-an-ngon-nhat-viet-nam-theo-danh-gia-cua-du-khach.html\n\n**Thời điểm crawl (UTC):** 2026-09-25T05:15:07.800490+00:00\n\n---",
+      "_Bánh tráng cuốn thịt heo_ _Bánh tráng cuốn thịt heo_\n### 15. Bún thang\n**Bún thang** , một trong những đặc sản ẩm thực tuyệt vời của Việt Nam, đã thu hút sự chú ý và khen ngợi từ du khách trên khắp thế giới. Được xem là một trong những món ăn ngon nhất của đất nước này, Bún thang không chỉ ghi điểm với khẩu vị hấp dẫn mà còn bởi cách chế biến tinh tế, kết hợp giữa hương vị truyền thống và sự sáng tạo độc đáo.",
+      ". Món ăn này, xuất phát từ miền Bắc, không chỉ nổi tiếng tại Hà Nội mà còn trở thành một trong những đặc sản đại diện của ẩm thực Việt Nam. Với hương vị truyền thống, **bún chả** thu hút cả người dân địa phương lẫn du khách quốc tế. Đây không chỉ là một món ăn cho Hà Nội mà còn là đại diện cho ẩm thực Việt trên trường quốc tế. **Bún chả** đã trở thành biểu tượng không thể thiếu khi nói đến ẩm thực Việt Nam, được National Geographic bình chọn là một trong 10 món đường phố ngon nhất thế giới."
+    ],
+    "retrieved_ids": [
+      "news/mon-an-ngon-viet-nam.md::chunk-43",
+      "news/mon-an-ngon-viet-nam.md::chunk-2",
+      "news/mon-an-ngon-viet-nam.md::chunk-0",
+      "news/mon-an-ngon-viet-nam.md::chunk-62",
+      "news/mon-an-ngon-viet-nam.md::chunk-18"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 2.8884
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 6,
+    "user_input": "Huyện Bình Thủy ở Cần Thơ nổi tiếng với món đặc sản nào?",
+    "response": "Huyện Bình Thủy ở Cần Thơ nổi tiếng với **bánh tét lá cẩm**. citeDocument 1",
+    "reference": "Huyện Bình Thủy nổi tiếng với món bánh tét lá cẩm thơm ngon, đẹp mắt[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.6 Ẩm thực Cần Thơ[cite: 1].",
+    "retrieved_contexts": [
+      "### **2.6 Ẩm thực Cần Thơ**\nMuốn tìm hiểu về văn hóa và ẩm thực miệt vườn dân dã của miền sông nước thì du lịch Cần Thơ chính là điểm đến lý tưởng nhất. Những nơi đã tạo nên thương hiệu cho ẩm thực Cần Thơ chính là: Bình Thủy, Cồn Sơn và Phong Điền. Trong khi huyện Bình Thủy nổi tiếng với bánh tét lá cẩm thơm ngon, đẹp mắt thì Cồn Sơn lại là nơi lưu giữ những nét ẩm thực truyền thống, dân dã như cơm gói mo cau, lẩu cá kèo, cá lóc nướng...\n_Ẩm thực Cần Thơ là những món ăn đời thường và dân dã_",
+      "_Bún bung_ là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. \"Bung\" là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)...",
+      "Không chỉ là một món ngon, **chả cá Lã Vọng** còn là nguồn cảm hứng từ lịch sử của khu phố cổ Hà Nội. Quán chả cá Lã Vọng không chỉ là địa điểm thưởng thức ẩm thực mà còn là nơi lưu giữ không khí truyền thống của phố cổ, tạo nên bức tranh tuyệt vời về văn hóa và ẩm thực Việt Nam",
+      "**Đồ gốm Bát Tràng:** Nếu có dịp đến thăm Bát Tràng, bạn đừng quên mua các sản phẩm gốm của làng nghề truyền thống. Với màu men đặc trưng và kỹ thuật thủ công điêu nghệ, những món đồ gốm Bát Tràng có vẻ đẹp rất riêng. Bên cạnh các loại như chén, bát, ly, tách thường dùng, nơi đây còn có các sản phẩm dành riêng làm quà tặng như chuông gió, tượng... Du khách đến chơi làng gốm cũng có thể tự tay làm những chiếc bát, lọ, bình, cốc để làm quà, vừa ý nghĩa, vừa là trải nghiệm thú vị.\n**Du Hy**",
+      ". Với hương vị đặc trưng và sự kết hợp tinh tế, chả cá Lã Vọng không chỉ là một món ngon mà còn là biểu tượng của sự sáng tạo và tinh hoa ẩm thực Việt Nam, luôn là điểm đến lý tưởng cho những ai muốn khám phá hương vị độc đáo của đất nước."
+    ],
+    "retrieved_ids": [
+      "news/am-thuc-ba-mien.md::chunk-21",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-47",
+      "news/mon-an-ngon-viet-nam.md::chunk-47",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-65",
+      "news/mon-an-ngon-viet-nam.md::chunk-48"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 2.6157
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 7,
+    "user_input": "Chợ hoa Quảng Bá ở Hà Nội hoạt động đông vui nhất vào khoảng thời gian nào?",
+    "response": "Không thể xác minh thời gian Chợ hoa Quảng Bá ở Hà Nội hoạt động đông vui nhất vì các tài liệu được cung cấp không đề cập đến thông tin này.",
+    "reference": "Chợ hoa Quảng Bá hoạt động đông vui nhất vào khoảng 3 - 4h sáng, khi người mua kẻ bán tấp nập[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Đi chợ[cite: 2].",
+    "retrieved_contexts": [
+      "### **2.4 Du lịch ẩm thực Hội An**\nHội An là khu phố cổ nổi tiếng bậc nhất tại Việt Nam, thu hút khách du lịch cả trong và ngoài nước. Không gian tại đây mang đậm màu sắc hoài niệm, những ngôi nhà hàng trăm năm tuổi, khố phường tĩnh lặng trong ánh đèn lồng lung linh. Đến đây bạn cũng sẽ được thưởng thức những món ngon Hội An như cao lầu đậm đà, mì Quảng thanh ngọt, bánh ướt cuốn thịt nướng thơm lừng, bánh mì Phượng giòn tan…\n_Những quán ăn vỉa hè tại Hội An được rất nhiều du khách yêu thích_",
+      "Có dịp du lịch Hà Nội, bạn chắc chắn phải thưởng thức cốm Làng Vòng, bánh cuốn Thanh Trì, xôi nếp Phú Thượng, bún ngần Phú Đô, giò chả Ước Lễ... Ngoài ra tại đây còn vô số món đặc sản hấp dẫn mà giá thành thì cực kỳ bình dân như phở, bún chả, bún đậu mắm tôm, bún ốc…\n### **2.3 Du lịch Huế**",
+      "Chợ đầu mối Long Biên. Ảnh: Hanoi Backpackers\n### Quán xá\nẨm thực Hà Thành kết hợp hoàn hảo những hương vị chua, cay, mặn, ngọt và thể hiện chính hình ảnh của thành phố ngàn năm văn hiến: sôi động, trầm mặc, cuốn hút và hấp dẫn. Bạn có thể dễ dàng thưởng thức đặc sản Hà Nội tại các quán vỉa hè bên đường như phở bò, bún chả, bánh mì... \n> Ăn gì",
+      "_Bún bung_ là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. \"Bung\" là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)...",
+      "Ảnh: Viet Nguyen, Hoàng Nhi\n_Bún mọc_ ở Hà Nội có giá 20.000 - 40.000 đồng. Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung... Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long..."
+    ],
+    "retrieved_ids": [
+      "news/am-thuc-ba-mien.md::chunk-18",
+      "news/am-thuc-ba-mien.md::chunk-15",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-39",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-47",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-44"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 4.973
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 8,
+    "user_input": "Từ 'chá' trong tên gọi 'Rừng Rú Chá' ở Huế có ý nghĩa là gì?",
+    "response": "Từ “chá” trong “Rừng Rú Chá” nghĩa là **cây chá ở vùng ngập mặn**. citeDocument 1",
+    "reference": "Từ 'chá' có nghĩa là cây chá, một loại cây mọc ở vùng ngập mặn[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Khám phá - Rừng Rú Chá[cite: 3].",
+    "retrieved_contexts": [
+      "> Rừng Rú Chá\nRừng ngập mặn nguyên sinh thuộc phá Tam Giang, làng Thuận Hòa, xã Hương Phong, thị xã Hương Trà. \"Rú\" nghĩa là rừng, còn \"chá\" là cây chá ở vùng ngập mặn. Nếu đến đây vào mùa thu bạn còn được chiêm ngưỡng màu vàng rực của những bông chá nở khắp rừng.",
+      "Chùa Bái Đính",
+      "Bắc qua sông Hương, [cầu Trường Tiền](https://vnexpress.net/cau-truong-tien-sau-vai-muoi-hai-nhip-2877988.html) vốn là hình ảnh mà nhắc tới Huế ai cũng nhớ. Nếu ban ngày chỉ trầm ngâm in bóng xuống dòng Hương thì chiều muộn và tối đến, cầu lại được tô điểm bằng ánh đèn màu lấp lánh rất nổi bật",
+      ". Là đặc sản của xứ Huế, món bún này có tên gọi đơn giản là 'bún bò' hoặc 'bún bò giò heo' tại địa phương, nhưng trên khắp cả nước và thế giới, nó nổi tiếng với cái tên quen thuộc - 'bún bò Huế'. Bún bò Huế có nguyên liệu chính từ bún, thịt bắp bò, giò heo, và nước dùng có màu đỏ đặc trưng, vị sả và ruốc đặc trưng. Thậm chí, có những phiên bản bún bò Huế còn thêm thịt bò tái, chả cua, tùy theo khẩu vị. Nước dùng của bún bò Huế được nêm nếm với mắm ruốc, tạo nên hương vị độc đáo khó cưỡng",
+      "Mỗi khi nhắc đến ẩm thực miền Trung, không thể không kể đến **bún bò Huế** , một biểu tượng ngon miệng của vùng đất cố đô. Hương vị đặc trưng, nước dùng ngọt tự nhiên, thịt bò mềm, chả Huế thơm phức, cùng rau sống tạo nên sự hấp dẫn không thể cưỡng của món ăn này. Bún bò Huế, không chỉ chiếm trọn lòng thực khách Việt mà còn khiến du khách quốc tế say đắm"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-hue.md::chunk-51",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-22",
+      "news/cam-nang-du-lich-hue.md::chunk-20",
+      "news/mon-an-ngon-viet-nam.md::chunk-37",
+      "news/mon-an-ngon-viet-nam.md::chunk-36"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 2.8048
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 9,
+    "user_input": "Động Am Tiên ở Ninh Bình còn được mệnh danh là gì do con đường duy nhất trước kia là leo núi?",
+    "response": "Động Am Tiên ở Ninh Bình còn được mệnh danh là **Tuyệt Tình Cốc**. citeDocument 1",
+    "reference": "Động Am Tiên còn được mệnh danh là Tuyệt Tình Cốc[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Động Am Tiên[cite: 4].",
+    "retrieved_contexts": [
+      ". Trước kia, chỉ có con đường duy nhất tới đây là leo núi, vì vậy mà Am Tiên được mệnh danh Tuyệt Tình Cốc. Ngày nay, du khách có thể đi bằng đường hầm xuyên núi, sau đó leo núi thăm chùa dâng hương, ngắm động với các thạch nhũ kỳ ảo. Vé tham quan 20.000 đồng/ người.",
+      "**Lăng Khải Định** nằm ở triền núi Châu Chữ thuộc xã Thủy Bằng, thị xã Hương Thủy, là nơi an nghỉ của vua Khải Định (1885 - 1925). Lăng Khải Định là công trình có diện tích nhỏ nhất nhưng lại tốn công sức và tiền của nhất trong các lăng tẩm triều Nguyễn. Kiến trúc lăng có sự giao thoa của hai nền văn hoá Đông - Tây, phản ánh sở thích xa hoa của nhà vua lúc sinh thời.\nLăng Khải Định được xây trong 10 năm, từ 1920 đến 1930. Ảnh: Ngô Trần Hải An",
+      "So với lăng tẩm khác của các vua nhà Nguyễn, lăng Dục Đức có kiến trúc đơn giản và khiêm tốn. Lăng lấy đồi Phước Quả làm tiền án, núi Tam Thai sau lưng làm hậu chẩm và dòng khe chảy vòng qua trước mặt làm minh đường tụ thủy.",
+      "* Chợ Đông Ba\n  * Phố Tây Huế (phố đi bộ)",
+      "Quần thể [chùa Bái Đính](https://vnexpress.net/cam-nang-du-lich-chua-bai-dinh-4833152.html) được xây dựng từ năm 2003, có diện tích hơn 500 ha, được bao bọc bởi những vòng cung núi đá vôi kỳ vĩ. Chùa được chia thành 2 khu: Tân tự và Cổ tự. Tại đây, du khách có thể đi bộ tham quan hoặc di chuyển bằng xe điện (giá 30.000 đồng/người/ lượt). Một số điện mà du khách thường ghé thăm khi tới là chùa Pháp Chủ (gồm có 5 gian, gian giữa đặt tượng Phật Thích Ca cao 10 m, nặng 100 tấn), điện Tam Thế.."
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-27",
+      "news/cam-nang-du-lich-hue.md::chunk-35",
+      "news/cam-nang-du-lich-hue.md::chunk-38",
+      "news/cam-nang-du-lich-hue.md::chunk-70",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-23"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 2.6227
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 10,
+    "user_input": "Theo Nghị định 348/2025/NĐ-CP, Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến mức tối đa là bao nhiêu trong lĩnh vực du lịch?",
+    "response": "Theo Nghị định 348/2025/NĐ-CP, Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền tối đa **25.000.000 đồng**. citeDocument 1",
+    "reference": "Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến 25.000.000 đồng[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 6 sửa đổi, bổ sung Điều 19 quy định về Thẩm quyền của Thanh tra Hàng hải Việt Nam[cite: 6].",
+    "retrieved_contexts": [
+      "10.000.000 đồng.\n\n2. Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;\n\nc) Tịch thu tang vật vi phạm hành chính;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n3. Chánh thanh tra Hàng hải Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến mức 40.000.000 đồng;\n\n\fCÔNG BÁO/Số 10/Ngày 11-01-2026\n\n35\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc\n\nđình chỉ hoạt động có thời hạn;",
+      "b) Phạt tiền đến 25.000.000 đồng;\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc\n\nđình chỉ hoạt động có thời hạn;\n\nd) Tịch thu tang vật vi phạm hành chính;\n\nđ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n6. Tư lệnh Vùng Cảnh sát biển, Cục trưởng Cục Nghiệp vụ và Pháp luật\n\nthuộc Cảnh sát biển Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 40.000.000 đồng;\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn;",
+      "thời hạn 05 năm.\n\n5. Phí thẩm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy định\n\ncủa pháp luật về phí và lệ phí.\n\nĐiều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch\n\n1. Điều kiện cấp thẻ hướng dẫn viên du lịch nội địa bao gồm:\n\n\f74\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\na) Có quốc tịch Việt Nam, thường trú tại Việt Nam;\n\nb) Có năng lực hành vi dân sự đầy đủ;\n\nc) Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy;",
+      "b) Phạt tiền đến 15.000.000 đồng;\n\n\fCÔNG BÁO/Số 10/Ngày 11-01-2026\n\n39\n\nc)  Tịch  thu  tang  vật  vi  phạm  hành  chính  có  giá  trị  không  vượt  quá\n\n30.000.000 đồng;\n\nd) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n5. Hải đoàn trưởng Hải đoàn Cảnh sát biển; Đoàn trưởng Đoàn trinh sát,\nĐoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy thuộc Cảnh sát\nbiển Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;",
+      "d) Tịch thu tang vật vi phạm hành chính;\n\nđ) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n2. Giám đốc các Sở Văn hóa, Thể thao và Du lịch, Sở Du lịch, Sở Công\nThương, Sở Xây dựng; Trưởng đoàn kiểm tra do Cục trưởng Cục Du lịch Quốc\ngia Việt Nam thành lập; Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ\nViệt Nam thành lập; Trưởng đoàn kiểm tra do Cục trưởng Cục Hàng hải và\nĐường thủy Việt Nam thành lập có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 40.000.000 đồng;"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-7",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-21",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-144",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-20",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-36"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 5.6326
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 11,
+    "user_input": "Điều kiện để công nhận điểm du lịch theo Luật Du lịch 2017 bao gồm những gì?",
+    "response": "Theo Luật Du lịch 2017, điều kiện công nhận điểm du lịch bao gồm:\n\n1. Có tài nguyên du lịch và ranh giới xác định. [Document 2]  \n2. Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch. [Document 2]  \n3. Đáp ứng các điều kiện về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường theo quy định của pháp luật. [Document 2]",
+    "reference": "Các điều kiện bao gồm: Có tài nguyên du lịch, có ranh giới xác định; Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch; Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 1 Điều 23 quy định về điều kiện công nhận điểm du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.\n\n\f72\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:\n\na) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ\n\nquan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;",
+      "b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn  về  du  lịch  cấp  tỉnh  thẩm  định  và  công  nhận;  trường  hợp  không  công  nhận,\nphải trả lời bằng văn bản và nêu rõ lý do.\n\n4.  Phí  thẩm  định  công  nhận  cơ  sở  kinh  doanh  dịch  vụ  du  lịch  khác  đạt  tiêu\nchuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí và\nlệ phí.",
+      "2. Chính phủ quy định việc lập, quản lý và thực hiện quy hoạch về du lịch.\n\nChương IV\nĐIỂM DU LỊCH, KHU DU LỊCH\n\nĐiều 23. Điều kiện công nhận điểm du lịch\n\n1. Điều kiện công nhận điểm du lịch bao gồm:\n\na) Có tài nguyên du lịch, có ranh giới xác định;\n\nb) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;\n\n\f54\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nc) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường\n\ntheo quy định của pháp luật.",
+      "khách du lịch.\n\n2. Chính phủ quy định chi tiết điểm c khoản 1 Điều này.\n\n\f68\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nĐiều 50. Xếp hạng cơ sở lưu trú du lịch\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký\n\nxếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.",
+      "phạm vi chức năng quản lý của Bộ Văn hóa, Thể thao và Du lịch hết hiệu lực kể từ\nngày Nghị định này có hiệu lực thi hành.\nĐiều 32. Điều khoản chuyển tiếp\n1. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan\nnhà nước có thẩm quyền trước ngày Nghị định này có hiệu lực được công nhận là\nđáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du\nlịch cho đến hết thời hạn theo quyết định công nhận hạng."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-134",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-135",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-51",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-116",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-67"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 4.9234
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 12,
+    "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài được quy định là bao nhiêu theo Nghị định 168/2017/NĐ-CP?",
+    "response": "Không thể xác minh mức ký quỹ đối với doanh nghiệp kinh doanh dịch vụ lữ hành phục vụ khách du lịch ra nước ngoài từ các trích đoạn được cung cấp. Context chỉ nêu việc ngân hàng cấp Giấy chứng nhận tiền ký quỹ và Nghị định có Mẫu số 01, nhưng không nêu số tiền cụ thể. 【Document 1】【Document 3】",
+    "reference": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là 500.000.000 (năm trăm triệu) đồng[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Điểm b Khoản 2 Điều 14 quy định về mức ký quỹ và phương thức ký quỹ[cite: 8].",
+    "retrieved_contexts": [
+      "CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018 11\n3. Sau khi phong tỏa số tiền ký quỹ, ngân hàng nhận ký quỹ cấp Giấy chứng\nnhận tiền ký quỹ kinh doanh dịch vụ lữ hành cho doanh nghiệp theo Mẫu số 01\nquy định tại Phụ lục kèm theo Nghị định này.\nĐiều 16. Quản lý, sử dụng tiền ký quỹ\n1. Trong trường hợp khách du lịch bị chết, bị tai nạn, rủi ro, bị xâm hại tính\nmạng cần phải đưa về nơi cư trú hoặc điều trị khẩn cấp mà doanh nghiệp không có",
+      "3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra\n\nnước ngoài có quyền và nghĩa vụ sau đây:\n\na)  Quyền  và  nghĩa  vụ  quy  định  tại  các điểm  a,  c,  d,  đ,  g,  h,  i  và  k  khoản  1,\n\nđiểm b và điểm c khoản 2 Điều này;\n\nb) Sử dụng hướng dẫn viên du lịch quốc tế để đưa khách du lịch ra nước ngoài\ntheo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch\ntrong thời gian đưa khách du lịch ra nước ngoài.\n\n\f64",
+      "Bộ Tài chính\n\nkinh  doanh  dịch  vụ  du  lịch  khác  đạt  tiêu  chuẩn  phục  vụ\nkhách du lịch.\n\n3.2  Phí  thẩm  định  cấp  Giấy  phép  kinh  doanh  dịch  vụ  lữ  hành\nquốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa.\n\nBộ Tài chính\n\nĐiều 77. Hiệu lực thi hành\n\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.\n\n2. Luật Du lịch số 44/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực\n\nthi hành.\n\nĐiều 78. Quy định chuyển tiếp",
+      "b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.\n\n\f72\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:\n\na) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ\n\nquan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;",
+      "20 CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018\nPhụ lục\n(Kèm theo Nghị định số 168/2017/NĐ-CP\nngày 31 tháng 12 năm 2017 của Chính phủ)\nMẫu số 01 Giấy chứng nhận tiền ký quỹ kinh doanh dịch vụ lữ hành\nMẫu số 02 Đơn đề nghị cấp, cấp đổi, cấp lại biển hiệu phương tiện vận tải\nkhách du lịch\nMẫu số 03 Mẫu biển hiệu"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-34",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-98",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-192",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-134",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-70"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 5.7936
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 13,
+    "user_input": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn bao lâu?",
+    "response": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn **05 năm**. citeDocument 5",
+    "reference": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 58 quy định về hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "cơ quan chuyên môn về du lịch cấp tỉnh;\n\nc) Cơ quan chuyên môn về du lịch cấp tỉnh tổ chức kiểm tra và cấp thẻ hướng\ndẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm  tra nghiệp vụ trong\nthời hạn 10 ngày kể từ ngày có kết quả kiểm tra.\n\nĐiều 62. Cấp đổi thẻ hướng dẫn viên du lịch\n\n1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ tục\n\nđề nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ hết hạn sử dụng.",
+      "c) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc\nvăn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng dẫn viên\ndu lịch tại điểm, phải có phân công của tổ chức, cá nhân quản lý khu du lịch, điểm\ndu lịch.\n\n4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ\n\nhướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.\n\nThẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có\n\nthời hạn 05 năm.",
+      "chuyên môn về du lịch cấp tỉnh;\n\nb) Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn về du lịch cấp tỉnh cấp thẻ hướng dẫn viên du lịch cho người đề nghị; trường\nhợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.\n\nĐiều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du\n\nlịch tại điểm\n\n1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn",
+      "lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa\n\n1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên\n\ndu lịch nội địa bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn\n\nhóa, Thể thao và Du lịch quy định;\n\nb) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;\n\nc) Bản sao có chứng thực các văn bằng, chứng chỉ tương ứng với điều kiện quy\n\nđịnh tại điểm d khoản 1 hoặc điểm b và điểm c khoản 2 Điều 59 của Luật này;",
+      "d) Giấy chứng nhận sức khỏe do cơ sở khám bệnh, chữa bệnh có thẩm quyền\n\ncấp trong thời hạn không quá 06 tháng tính đến thời điểm nộp hồ sơ;\n\nđ) 02 ảnh chân dung màu cỡ 3cm x 4cm.\n\n\fCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n75\n\n2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ\n\nhướng dẫn viên du lịch nội địa được quy định như sau:\n\na) Người đề nghị cấp thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan\n\nchuyên môn về du lịch cấp tỉnh;"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-152",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-143",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-150",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-148",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-149"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 3.1674
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 14,
+    "user_input": "Theo Nghị định 168/2017/NĐ-CP, doanh nghiệp kinh doanh dịch vụ lữ hành có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn bao nhiêu ngày kể từ ngày rút khỏi tài khoản?",
+    "response": "Doanh nghiệp kinh doanh dịch vụ lữ hành phải bổ sung số tiền ký quỹ đã sử dụng **trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ**. 【Document 1】",
+    "reference": "Doanh nghiệp có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Khoản 2 Điều 16 quy định về việc quản lý, sử dụng tiền ký quỹ[cite: 8].",
+    "retrieved_contexts": [
+      "khả năng bố trí kinh phí để giải quyết kịp thời, doanh nghiệp gửi đề nghị giải tỏa\ntạm thời tiền ký quỹ đến cơ quan cấp giấy phép kinh doanh dịch vụ lữ hành. Trong\nthời hạn 48 giờ kể từ thời điểm nhận được đề nghị của doanh nghiệp, cơ quan cấp\ngiấy phép kinh doanh dịch vụ lữ hành xem xét và đề nghị ngân hàng cho doanh\nnghiệp trích tài khoản tiền ký quỹ để sử dụng hoặc từ chối.\n2. Trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ,",
+      "doanh nghiệp kinh doanh dịch vụ lữ hành có trách nhiệm bổ sung số tiền ký quỹ đã\nsử dụng để bảo đảm mức ký quỹ theo quy định tại Điều 14 Nghị định này. Trường\nhợp doanh nghiệp không thực hiện, ngân hàng gửi văn bản thông báo cho cơ quan\ncấp phép để có biện pháp xử lý theo quy định của pháp luật.\n3. Doanh nghiệp gửi văn bản đề nghị hoàn trả tiền ký quỹ đến ngân hàng trong\nnhững trường hợp sau đây:\na) Có thông báo bằng văn bản của cơ quan cấp giấy phép kinh doanh dịch vụ",
+      "CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018 11\n3. Sau khi phong tỏa số tiền ký quỹ, ngân hàng nhận ký quỹ cấp Giấy chứng\nnhận tiền ký quỹ kinh doanh dịch vụ lữ hành cho doanh nghiệp theo Mẫu số 01\nquy định tại Phụ lục kèm theo Nghị định này.\nĐiều 16. Quản lý, sử dụng tiền ký quỹ\n1. Trong trường hợp khách du lịch bị chết, bị tai nạn, rủi ro, bị xâm hại tính\nmạng cần phải đưa về nơi cư trú hoặc điều trị khẩn cấp mà doanh nghiệp không có",
+      "lữ hành về việc doanh nghiệp không được cấp giấy phép kinh doanh dịch vụ lữ\nhành hoặc thay đổi ngân hàng nhận ký quỹ;\nb) Có văn bản của cơ quan cấp giấy phép kinh doanh dịch vụ lữ hành về việc\nhoàn trả tiền ký quỹ sau khi thu hồi giấy phép kinh doanh dịch vụ lữ hành.\nMục 2\nCẤP, CẤP ĐỔI, CẤP LẠI, THU HỒI BIỂN HIỆU\nPHƯƠNG TIỆN VẬN TẢI KHÁCH DU LỊCH\nĐiều 17. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp biển hiệu phương tiện\nvận tải khách du lịch",
+      "18 CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018\nd) Tiền lãi từ tiền gửi của Quỹ tại ngân hàng;\nđ) Các nguồn thu hợp pháp khác theo quy định của pháp luật.\n2. Số dư kinh phí năm trước của Quỹ được chuyển sang năm sau để tiếp tục\nsử dụng.\nChương VII\nĐIỀU KHOẢN THI HÀNH\nĐiều 31. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.\n2. Nghị định số 92/2007/NĐ-CP ngày 01 tháng 6 năm 2007 của Chính phủ quy"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-35",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-36",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-34",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-37",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-65"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 3.8576
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 15,
+    "user_input": "Lực lượng Quản lý thị trường cấp Chi cục trưởng có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn trong lĩnh vực du lịch không?",
+    "response": "Không thể xác minh từ các tài liệu được cung cấp liệu **Chi cục trưởng Quản lý thị trường** có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn trong lĩnh vực du lịch hay không. Các tài liệu chỉ quy định về thủ tục cấp, cấp lại, cấp đổi giấy phép kinh doanh dịch vụ lữ hành và thời hạn xử lý hồ sơ, không nêu thẩm quyền xử phạt của lực lượng Quản lý thị trường.【Document 1】【Document 3】【Document 5】",
+    "reference": "Có, Chi cục trưởng Chi cục Quản lý thị trường có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 8 sửa đổi, bổ sung Điều 21, tại điểm d khoản 3 quy định quyền hạn của Chi cục trưởng Chi cục Quản lý thị trường[cite: 6].",
+    "retrieved_contexts": [
+      "giấy phép;\n\nb)  Trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  nhận  được  hồ  sơ  hợp  lệ,  cơ\nquan  nhà  nước  có  thẩm  quyền  cấp  giấy  phép  có  trách  nhiệm  cấp  đổi  giấy  phép\nkinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo\nbằng văn bản và nêu rõ lý do.\n\nTổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi\n\ndoanh nghiệp có trụ sở khi cấp đổi Giấy phép kinh doanh dịch vụ lữ hành quốc tế.",
+      "b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn về du lịch cấp tỉnh thẩm định và cấp Giấy phép kinh doanh dịch vụ lữ hành\nnội địa cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu\nrõ lý do.\n\n3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh\n\ndoanh dịch vụ lữ hành nội địa.\n\nĐiều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh\n\ndịch vụ lữ hành quốc tế",
+      "2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề nghị\ncấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng kể từ\nngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy phép thì\ndoanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.\n\n3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được cấp",
+      "b)  Trong  thời  hạn  30  ngày  kể  từ  ngày  nhận  được  hồ  sơ  hợp  lệ,  cơ  quan  nhà\nnước có thẩm quyền chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch\nthẩm  định  và  ra  quyết  định  công  nhận  hạng  cơ  sở  lưu  trú  du  lịch;  trường  hợp\nkhông công nhận, phải thông báo bằng văn bản và nêu rõ lý do.\n\n\fCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n69",
+      "định như sau:\n\na) Doanh nghiệp gửi đơn đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành\ntheo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định đến cơ quan nhà\nnước có thẩm quyền cấp giấy phép;\n\nb)  Trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  nhận  được  đơn  đề  nghị  của\ndoanh nghiệp, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm cấp\nlại giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối,\nphải thông báo bằng văn bản và nêu rõ lý do."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-85",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-76",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-194",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-121",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-81"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 4.9573
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 16,
+    "user_input": "Quyết định công nhận hạng cơ sở lưu trú du lịch theo Luật Du lịch 2017 có hiệu lực trong thời gian bao nhiêu năm?",
+    "response": "Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn **05 năm**. [Document 1]",
+    "reference": "Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 6 Điều 50 quy định về xếp hạng cơ sở lưu trú du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "CÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n69\n\n6. Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm. Sau\nkhi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu cầu\nđăng ký xếp hạng lại cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5\nvà 7 Điều này.\n\n7. Phí thẩm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo quy\n\nđịnh của pháp luật về phí và lệ phí.\n\n8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính",
+      "b)  Trong  thời  hạn  30  ngày  kể  từ  ngày  nhận  được  hồ  sơ  hợp  lệ,  cơ  quan  nhà\nnước có thẩm quyền chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch\nthẩm  định  và  ra  quyết  định  công  nhận  hạng  cơ  sở  lưu  trú  du  lịch;  trường  hợp\nkhông công nhận, phải thông báo bằng văn bản và nêu rõ lý do.\n\n\fCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n69",
+      "khách du lịch.\n\n2. Chính phủ quy định chi tiết điểm c khoản 1 Điều này.\n\n\f68\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nĐiều 50. Xếp hạng cơ sở lưu trú du lịch\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký\n\nxếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.",
+      "phạm vi chức năng quản lý của Bộ Văn hóa, Thể thao và Du lịch hết hiệu lực kể từ\nngày Nghị định này có hiệu lực thi hành.\nĐiều 32. Điều khoản chuyển tiếp\n1. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan\nnhà nước có thẩm quyền trước ngày Nghị định này có hiệu lực được công nhận là\nđáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du\nlịch cho đến hết thời hạn theo quyết định công nhận hạng.",
+      "b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn  về  du  lịch  cấp  tỉnh  thẩm  định  và  công  nhận;  trường  hợp  không  công  nhận,\nphải trả lời bằng văn bản và nêu rõ lý do.\n\n4.  Phí  thẩm  định  công  nhận  cơ  sở  kinh  doanh  dịch  vụ  du  lịch  khác  đạt  tiêu\nchuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí và\nlệ phí."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-122",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-121",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-116",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-67",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-135"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 3.249
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 17,
+    "user_input": "Cơ quan nào có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch?",
+    "response": "Theo context được cung cấp, **Sở Giao thông vận tải** có thẩm quyền **cấp biển hiệu** phương tiện vận tải khách du lịch đối với phương tiện thủy nội địa. citeDocument 2\n\nTuy nhiên, context **không nêu đủ căn cứ** để xác minh cơ quan có thẩm quyền **cấp đổi, cấp lại và thu hồi** biển hiệu.",
+    "reference": "Sở Giao thông vận tải là cơ quan có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Chương V Mục 2 (Điều 17 đến Điều 20) quy định về cấp, cấp đổi, cấp lại, thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8].",
+    "retrieved_contexts": [
+      "CÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n67\n\n3.  Chính  phủ  quy  định  trình  tự,  thủ  tục,  thẩm  quyền  cấp  biển  hiệu  phương\n\ntiện vận tải khách du lịch.\n\nĐiều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải khách\n\ndu lịch\n\n1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch vụ\n\nlữ hành, với khách du lịch theo hành trình, tuyến đường phù hợp.\n\n2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.",
+      "3. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện của người điều khiển\nphương  tiện,  nhân  viên  phục  vụ,  trang  thiết  bị,  chất  lượng  dịch  vụ  trên  phương\ntiện vận tải khách du lịch sau khi có ý kiến của Bộ Văn hóa, Thể thao và Du lịch.\n\nĐiều 46. Cấp biển hiệu phương tiện vận tải khách du lịch\n\n1. Phương tiện vận tải khách du lịch được cấp biển hiệu khi đáp ứng các điều\n\nkiện quy định tại khoản 2 Điều 45 của Luật này.",
+      "làm việc đối với phương tiện thủy nội địa kể từ ngày nhận được hồ sơ hợp lệ, Sở\nGiao thông vận tải tổ chức thẩm định, cấp biển hiệu cho phương tiện vận tải khách\ndu lịch. Trường hợp từ chối, phải thông báo bằng văn bản hoặc qua địa chỉ giao\ndịch điện tử của đơn vị và nêu rõ lý do;\nc) Trong quá trình thẩm định, Sở Giao thông vận tải kiểm tra thông tin về\ngiấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với",
+      "b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.\n\n\f72\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:\n\na) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ\n\nquan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;",
+      "2.  Phương  tiện  vận  tải  khách  du  lịch  có  biển  hiệu  được  vận  tải  hành  khách\ntheo hợp đồng và được ưu tiên bố trí nơi neo đậu, dừng, đỗ để đón, trả khách du\nlịch tại sân bay, bến cảng, nhà ga, bến xe, trong khu du lịch, gần điểm du lịch, cơ\nsở lưu trú du lịch và được hoạt động không hạn chế thời gian trên các tuyến giao\nthông dẫn tới các điểm tham quan du lịch, cơ sở lưu trú du lịch, điểm cung ứng\ndịch vụ du lịch theo quy định của chính quyền địa phương."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-113",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-111",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-41",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-134",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-112"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 5.4442
+  },
+  {
+    "config": "A",
+    "config_name": "dense-only",
+    "case_index": 18,
+    "user_input": "Tài nguyên du lịch theo Luật Du lịch 2017 được phân thành những loại nào?",
+    "response": "Theo Luật Du lịch 2017, tài nguyên du lịch được phân thành:\n\n- **Tài nguyên du lịch tự nhiên**: gồm cảnh quan thiên nhiên, các yếu tố địa chất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể sử dụng cho mục đích du lịch. [Document 2]\n- **Tài nguyên du lịch văn hóa**: Context được cung cấp không có nội dung quy định cụ thể về loại này, nên không thể xác minh thêm.",
+    "reference": "Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 3 và Điều 15 quy định về các loại tài nguyên du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "b) Lập quy hoạch về du lịch;\n\n\f46\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nc) Xúc tiến du lịch, xây dựng thương hiệu du lịch quốc gia, địa phương;\n\nd) Xây dựng kết cấu hạ tầng phục vụ phát triển du lịch.\n\n4. Nhà nước có chính sách khuyến khích, hỗ trợ cho các hoạt động sau đây:\n\na) Đầu tư phát triển cơ sở vật chất kỹ thuật, dịch vụ du lịch chất lượng cao;\n\nb) Nghiên cứu, định hướng phát triển sản phẩm du lịch;\n\nc) Đào tạo và phát triển nguồn nhân lực du lịch;",
+      "trách nhiệm bảo vệ tài nguyên du lịch.\n\nMục 2\nPHÁT TRIỂN SẢN PHẨM DU LỊCH\n\nĐiều 18. Xây dựng, phát triển sản phẩm du lịch\n\n1. Tổ chức, cá nhân có quyền sáng tạo, phát triển, kinh doanh các sản phẩm du\n\nlịch đáp ứng nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.\n\n2. Chính phủ có chính sách hỗ trợ phát triển sản phẩm du lịch chủ đạo đối với\ntừng vùng và trong phạm vi toàn quốc theo từng giai đoạn, đáp ứng nhu cầu của thị\ntrường trên cơ sở đánh giá, phân loại tài nguyên du lịch.",
+      "Điều 15. Các loại tài nguyên du lịch\n\n1. Tài nguyên du lịch tự nhiên bao gồm cảnh quan thiên nhiên, các yếu tố địa\nchất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể\nđược sử dụng cho mục đích du lịch.",
+      "Điều 5. Đánh giá, phân loại tài nguyên du lịch\n1. Căn cứ kết quả điều tra, tài nguyên du lịch được đánh giá về giá trị, sức\nchứa, mức độ hấp dẫn, phạm vi ảnh hưởng và khả năng khai thác phục vụ phát\ntriển du lịch.\n2. Căn cứ kết quả đánh giá, tài nguyên du lịch quy định tại Điều 15 Luật Du\nlịch được phân loại thành tài nguyên du lịch cấp quốc gia và tài nguyên du lịch\ncấp tỉnh.\nĐiều 6. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh",
+      "5.  Sản  phẩm  du  lịch  là  tập  hợp  các  dịch  vụ  trên  cơ  sở  khai  thác  giá  trị  tài\n\nnguyên du lịch để thỏa mãn nhu cầu của khách du lịch.\n\n6. Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu\ntư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao\ngồm khu du lịch cấp tỉnh và khu du lịch quốc gia.\n\n7.  Điểm  du  lịch  là  nơi  có  tài  nguyên  du  lịch  được  đầu  tư,  khai  thác  phục  vụ\n\nkhách du lịch."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-13",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-40",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-35",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-6",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-5"
+    ],
+    "retrieval_methods": [
+      "dense",
+      "dense",
+      "dense",
+      "dense",
+      "dense"
+    ],
+    "latency_seconds": 4.1567
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 1,
+    "user_input": "Du lịch ẩm thực miền núi phía Bắc bao gồm những món ăn đặc sắc nào của tỉnh Lào Cai?",
+    "response": "Các món ăn đặc sắc của tỉnh Lào Cai gồm **thịt trâu gác bếp, thắng cố ngựa và khâu nhục**. 【Document 5】",
+    "reference": "Các món ăn đặc sắc của Lào Cai bao gồm thịt trâu gác bếp, thắng cố ngựa và khâu nhục[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.1 Du lịch ẩm thực miền núi phía Bắc[cite: 1].",
+    "retrieved_contexts": [
+      "### **2.1 Du lịch ẩm thực miền núi phía Bắc**\nDu lịch ẩm thực miền núi phía Bắc sẽ đưa bạn đến với các tỉnh Lào Cai, Hà Giang, Lai Châu, Sơn La, Điện Biên, Lạng Sơn… để thưởng thức rất nhiều món ăn đa dạng, được chế biến theo công thức riêng của người dân bản địa. Đặc sản vùng cao luôn có sức hút mạnh mẽ, mang lại những trải nghiệm ẩm thực độc đáo.",
+      "Một số món ăn đặc sắc của miền núi phía Bắc như: Thịt trâu gác bếp, thắng cố ngựa, khâu nhục của Lào Cai; phở chua, cháo ấu tẩu, cơm lam của Hà Giang; pa pỉnh tộp, lợn cắp nách của Lai Châu; vịt Chiềng Mai, thịt muối chua, nộm da trâu của Sơn La…\n_Chợ phiên là nơi bạn có thể thử hết những món đặc sản của địa phương_",
+      "Du lịch ẩm thực miền núi phía Bắc mang đến những món ăn đặc sắc như thịt trâu gác bếp, thắng cố ngựa, khâu nhục. Mỗi địa phương có món ăn riêng biệt, chế biến theo phong cách độc đáo của người dân nơi đây, tạo nên trải nghiệm thú vị cho du khách.\n4.\n### Du khách đến Hà Nội nên thưởng thức những món ăn đặc sản nào?",
+      "Các loại hình du lịch ẩm thực phổ biến bao gồm ẩm thực địa phương, ẩm thực đường phố, tham gia các hoạt động ẩm thực như hội chợ, lễ hội, và trải nghiệm văn hóa ẩm thực kết hợp với phong tục, truyền thống của từng địa phương.\n3.\n### Du lịch ẩm thực miền núi phía Bắc có gì đặc biệt và những món ăn nào nổi bật?",
+      "Có dịp du lịch Hà Nội, bạn chắc chắn phải thưởng thức cốm Làng Vòng, bánh cuốn Thanh Trì, xôi nếp Phú Thượng, bún ngần Phú Đô, giò chả Ước Lễ... Ngoài ra tại đây còn vô số món đặc sản hấp dẫn mà giá thành thì cực kỳ bình dân như phở, bún chả, bún đậu mắm tôm, bún ốc…\n### **2.3 Du lịch Huế**"
+    ],
+    "retrieved_ids": [
+      "news/am-thuc-ba-mien.md::chunk-11",
+      "news/am-thuc-ba-mien.md::chunk-12",
+      "news/am-thuc-ba-mien.md::chunk-25",
+      "news/am-thuc-ba-mien.md::chunk-24",
+      "news/am-thuc-ba-mien.md::chunk-15"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 3.6245
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 2,
+    "user_input": "Phố đi bộ Hồ Gươm ở Hà Nội mở cửa vào thời gian nào trong tuần?",
+    "response": "Không có thông tin trong context về thời gian mở cửa của phố đi bộ Hồ Gươm, nên không thể xác minh.",
+    "reference": "Phố đi bộ Hồ Gươm mở cửa từ 18h thứ Sáu đến hết Chủ nhật hàng tuần[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Chơi đâu - Phố đi bộ[cite: 2].",
+    "retrieved_contexts": [
+      "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](https://vnexpress.net/thang-9-dac-san-mua-thu-cham-ngo-ha-noi-3464955.html) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng..",
+      "Lộc vừng thay lá bên hồ Gươm những ngày xuân.\n### Di chuyển\nHà Nội được ví như trái tim của Việt Nam, do đó du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy từ các tỉnh thành khác.",
+      "**Ngắm toàn cảnh Hà Nội từ trên cao :**Đến Hà Nội, bạn không thể bỏ qua Đài quan sát Lotte nằm trên đường Liễu Giai, bởi đây là nơi có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào. Đài quan sát mở cửa từ 9h đến hết ngày.",
+      "Thứ hai, 27/7/2020, 07:37 (GMT+7)\nCách Hà Nội khoảng 100 km, Ninh Bình là lựa chọn phù hợp với những du khách không có nhiều thời gian nhưng muốn khám phá thiên nhiên hùng vĩ.\n### Ninh Bình mùa nào đẹp\nNinh Bình là nơi bạn có thể ghé thăm vào nhiều thời điểm trong năm. Tuy nhiên, nên đến đây vào mùa xuân (tháng 1 - 3) khi tiết trời mát mẻ, có nhiều lễ hội và mùa hè (tháng 5 - 8) để ngắm những cánh đồng lúa chín vàng hay các đầm sen thơm ngát.",
+      "Vì khuôn viên [Đại Nội Huế](https://vnexpress.net/dau-tich-13-cua-kinh-thanh-hue-xua-4300476.html) rất rộng cũng như tiết trời nắng nóng mùa hè, bạn nên đến từ sáng sớm ngay khi mở cửa lúc 7h và mang theo mũ, nón tránh nắng. Bạn cần ít nhất 3 tiếng tham quan khu di tích. Vé vào Đại Nội giá 200.000 đồng một người"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ha-noi.md::chunk-3",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-5",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-34",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-2",
+      "news/cam-nang-du-lich-hue.md::chunk-27"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.4405
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 3,
+    "user_input": "Tại Huế, hoạt động xem biểu diễn tái hiện bắn súng thần công ở Kỳ Đài diễn ra vào lúc nào?",
+    "response": "Hoạt động diễn ra vào **20h tối thứ bảy hàng tuần**. [Document 1]",
+    "reference": "Hoạt động xem biểu diễn tái hiện bắn súng thần công diễn ra vào lúc 20h tối thứ bảy hàng tuần[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Ăn chơi[cite: 3].",
+    "retrieved_contexts": [
+      "Xem bắn súng thần công ở Kỳ Đài là trải nghiệm không nên bỏ lỡ. Kỳ Đài, hay còn được gọi là Cột Cờ Kinh thành Huế được xây vào năm 1807 dưới thời vua Gia Long. Trước đây, trên mặt đài có hai điếm canh và pháo xưởng để bố trí các khẩu súng. Ngày nay, du khách tham quan có thể đến đây vào 20h tối thứ bảy hàng tuần để xem biểu diễn tái hiện bắn súng thần công.",
+      "**Show thực cảnh:** Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở [chùa Thầy](https://vnexpress.net/toi-cuoi-tuan-xem-tinh-hoa-bac-bo-o-ngoai-thanh-ha-noi-3750606.html), dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai.",
+      "Dự lễ thượng cờ vào buổi sáng là trải nghiệm đặc biệt tại lăng Chủ tịch Hồ Chí Minh. Nếu bỏ lỡ, du khách có thể yên tâm dạo chơi một vòng quanh thành phố và quay lại đây tham gia lễ hạ cờ lúc 9h tối hàng ngày. Không khí trang nghiêm bao trùm khắp quảng trường Ba Đình khi tiếng loa phát thanh vang lên báo lễ hạ cờ sắp diễn ra. Người người xếp hàng ngay ngắn, dõi theo đoàn cảnh vệ trang trọng hạ lá cờ Tổ Quốc trong tiếng nhạc bài hát \"Bác vẫn cùng chúng cháu hành quân\".",
+      "**Nghe ca trù:** Ca trù có nguồn gốc từ thế kỷ 11, phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera. Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại. Ca trù có năm không gian trình diễn chính: Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán",
+      "Bắc qua sông Hương, [cầu Trường Tiền](https://vnexpress.net/cau-truong-tien-sau-vai-muoi-hai-nhip-2877988.html) vốn là hình ảnh mà nhắc tới Huế ai cũng nhớ. Nếu ban ngày chỉ trầm ngâm in bóng xuống dòng Hương thì chiều muộn và tối đến, cầu lại được tô điểm bằng ánh đèn màu lấp lánh rất nổi bật"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-hue.md::chunk-75",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-31",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-20",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-29",
+      "news/cam-nang-du-lich-hue.md::chunk-20"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.221
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 4,
+    "user_input": "Khi đi thuyền trên đầm Vân Long ở Ninh Bình, du khách sẽ thấy đặc điểm gì của nước đầm?",
+    "response": "Nước đầm Vân Long phẳng lặng, không một gợn sóng và trong vắt, có thể nhìn rõ từng lớp rêu phía dưới. citeDocument 1",
+    "reference": "Nước đầm không xanh như nước biển mà trong vắt, lộ rõ từng lớp rêu phía dưới[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Đầm Vân Long[cite: 4].",
+    "retrieved_contexts": [
+      "Được mệnh danh là \"vịnh không sóng\", vì khi đi thuyền trên đầm, du khách sẽ thấy mặt nước phẳng không một gợn sóng. Nước không xanh như nước biển, mà trong vắt, lộ rõ từng lớp rêu phía dưới. Đây còn là nơi sở hữu 2 kỷ lục của Trung tâm sách kỷ lục Việt Nam năm 2010 là Nơi có số lượng cá thể voọc mông trắng nhiều nhất và Nơi có bức tranh tự nhiên lớn nhất. Vé tham quan 20.000 đồng/ người và vé thuyền 60.000/ 2 người.\n**Vườn Chim Thung Nham**\nẢnh: Minh Phụng",
+      "Ngày nay, Hồ Thủy Tiên bị bao phủ bằng các bức tranh tường graffiti nhiều màu và cây cối mọc um tùm. Tuy vậy, nhiều du khách mê khám phá truyền tai nhau hồ Thủy Tiên có sức hút không tưởng, là điểm đến không nên bỏ lỡ khi ghé Huế.\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n[ ](https://vnexpress.net/cam-nang-du-lich-hue-4126937.html)\n### **Ăn chơi**\n> Ăn",
+      "Nếu đi bằng phương tiện cá nhân, từ Hà Nội, du khách theo đường Giải Phóng, qua bến xe Giáp Bát, rẽ vào cao tốc Pháp Vân - Cầu Giẽ, từ đó đi hướng Phủ Lý là tới Ninh Bình.  \n\nDi chuyển trong thành phố, du khách nên thuê xe máy với giá từ 100.000 - 150.000 đồng/ ngày để chủ động vì các điểm tham quan ở Ninh Bình cách nhau khá xa. Nếu đi nhóm đông, du khách nên gọi taxi để tiết kiệm chi phí.",
+      "> Vịnh Lăng Cô\nBãi tắm [Lăng Cô](https://vnexpress.net/cam-nang-du-lich-lang-co-4625414.html) dài khoảng 8km, nằm dọc Quốc lộ 1A, cạnh đèo Hải Vân và cách Vườn Quốc gia Bạch Mã 24km. Ðây là một bãi tắm có bờ biển thoải, cát trắng, sóng vừa và lớn. Nằm liền kề bãi tắm Lăng Cô là núi Hải Vân, phía sau bãi tắm là đầm Lập An và dãy núi Bạch Mã.\n> Đầm Lập An",
+      "Ngày 1: TP Ninh Bình - Hang Múa - Tràng An\nNgày 2: Chùa Bái Đính - Cố Đô Hoa Lư – Động Am Tiên\nHoặc\nNgày 1: TP Ninh Bình - Tam Cốc - Bích Động - Đồi dứa Tam Điệp\nNgày 2: Nhà thờ đá Phát Diệm - Vườn chim Thung Nham\nHoặc\nNgày 1: Hà Nội - Vườn Quốc gia Cúc Phương\nNgày 2: Vườn Quốc gia Cúc Phương - Đầm Vân Long\n**Ngân Dương**"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-29",
+      "news/cam-nang-du-lich-hue.md::chunk-64",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-5",
+      "news/cam-nang-du-lich-hue.md::chunk-59",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-36"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 3.7414
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 5,
+    "user_input": "Bún riêu cua của Việt Nam từng được trang mạng nào vinh danh là một trong 21 món ngon nhất thế giới năm 2018?",
+    "response": "Bún riêu cua của Việt Nam từng được trang **Traveller của Australia** vinh danh là một trong 21 món ngon nhất thế giới năm 2018. citeDocument 1",
+    "reference": "Bún riêu cua từng được trang Traveller của Australia vinh danh là một trong 21 món ngon nhất thế giới năm 2018[cite: 5].",
+    "expected_context": "Bài viết 'Top 15 Món ăn ngon Việt Nam theo đánh giá của du khách' trên Mytour.vn, phần 9. Bữa ăn đặc sắc với bún riêu cua[cite: 5].",
+    "retrieved_contexts": [
+      ". Không ngạc nhiên khi món bún riêu của Việt Nam được trang Traveller của Australia vinh danh là một trong 21 món ngon nhất thế giới năm 2018, theo bình chọn của khách du lịch quốc tế.",
+      "# Top 15 Món ăn ngon Việt Nam theo đánh giá của du khách\n**Buzz**\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\nNgày cập nhật gần nhất: 1/9/2026\nNội dung bài viết\n* 1. Phở\n* 2. Hủ tiếu\n* 3. Gỏi cuốn tôm\n* 4. Bún chả\n* 5. Bánh mì\n* 6. Bánh xèo\n* 7. Nem rán\n* 8. Bún bò Huế\n* 9. Bữa ăn đặc sắc với bún riêu cua\n* 10. Chả cá Lã Vọng\n* 11. Bánh cuốn - Món ẩm thực tinh tế của Việt Nam\n* 12. Mì Quảng",
+      "Nhắc đến ẩm thực Việt Nam không ai không biết đến món **bánh xèo**.**Bánh xèo** Việt Nam được mệnh danh là món pancake ngon nhất thế giới đồng thời đã từng được vinh danh tại lễ hội Đời sống dân gian Smithsonian Mỹ vào năm 2007. Bánh xèo là một trong những món ăn ngon nổi tiếng của Việt Nam, không chỉ là món ngon được người dân Việt ưa chuộng, đây còn là nét văn hóa ẩm thực được du khách nước ngoài yêu mến. Cách làm bánh xèo không quá khó",
+      "_Bánh tráng cuốn thịt heo_ _Bánh tráng cuốn thịt heo_\n### 15. Bún thang\n**Bún thang** , một trong những đặc sản ẩm thực tuyệt vời của Việt Nam, đã thu hút sự chú ý và khen ngợi từ du khách trên khắp thế giới. Được xem là một trong những món ăn ngon nhất của đất nước này, Bún thang không chỉ ghi điểm với khẩu vị hấp dẫn mà còn bởi cách chế biến tinh tế, kết hợp giữa hương vị truyền thống và sự sáng tạo độc đáo.",
+      "Đọc tóm tắt\n### 1. Phở\n**Phở** không chỉ là một món ăn ngon mà còn trở thành “đại sứ ẩm thực”, góp phần vinh danh văn hóa của Việt Nam với bạn bè quốc tế. Hương vị của món ăn này hội tụ đầy đủ những gì tinh túy nhất trong ẩm thực Việt Nam. Nhiều du khách quốc tế đến tham quan, du lịch tại Việt Nam, ngoài việc khám phá những địa điểm tham quan nổi tiếng, ai cũng từng một lần vào quán, gọi tô Phở nóng hổi để thưởng thức, mà không phải gọi bằng từ tiếng Anh là “noodle” gọi thẳng là “Pho”."
+    ],
+    "retrieved_ids": [
+      "news/mon-an-ngon-viet-nam.md::chunk-43",
+      "news/mon-an-ngon-viet-nam.md::chunk-2",
+      "news/mon-an-ngon-viet-nam.md::chunk-25",
+      "news/mon-an-ngon-viet-nam.md::chunk-62",
+      "news/mon-an-ngon-viet-nam.md::chunk-4"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.9122
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 6,
+    "user_input": "Huyện Bình Thủy ở Cần Thơ nổi tiếng với món đặc sản nào?",
+    "response": "Huyện Bình Thủy ở Cần Thơ nổi tiếng với **bánh tét lá cẩm**. [Document 1]",
+    "reference": "Huyện Bình Thủy nổi tiếng với món bánh tét lá cẩm thơm ngon, đẹp mắt[cite: 1].",
+    "expected_context": "Bài viết 'Khám phá ẩm thực và trải nghiệm hương vị ba miền' trên Mytour.vn, phần 2.6 Ẩm thực Cần Thơ[cite: 1].",
+    "retrieved_contexts": [
+      "### **2.6 Ẩm thực Cần Thơ**\nMuốn tìm hiểu về văn hóa và ẩm thực miệt vườn dân dã của miền sông nước thì du lịch Cần Thơ chính là điểm đến lý tưởng nhất. Những nơi đã tạo nên thương hiệu cho ẩm thực Cần Thơ chính là: Bình Thủy, Cồn Sơn và Phong Điền. Trong khi huyện Bình Thủy nổi tiếng với bánh tét lá cẩm thơm ngon, đẹp mắt thì Cồn Sơn lại là nơi lưu giữ những nét ẩm thực truyền thống, dân dã như cơm gói mo cau, lẩu cá kèo, cá lóc nướng...\n_Ẩm thực Cần Thơ là những món ăn đời thường và dân dã_",
+      "Là thắng cảnh thuộc quần thể di tích quốc gia cố đô Hoa Lư, [động Am Tiên](https://vnexpress.net/tuyet-tinh-coc-phien-ban-viet-o-ninh-binh-3516575.html) nằm tại xã Trường Yên, huyện Hoa Lư, cách trung tâm thành phố Ninh Bình hơn 10 km. Bao quanh khu vực là núi đá vôi cao sừng sững như thành trì, ở giữa là hồ nước xanh mát. Nơi đây thường được du khách nhận xét mang vẻ đẹp nên thơ nhưng pha chút u buồn, bí hiểm",
+      "* 2.2 Du lịch ẩm thực Hà Nội\n* 2.3 Du lịch Huế\n* 2.4 Du lịch ẩm thực Hội An\n* 2.5 Du lịch ẩm thực Sài Gòn\n* 2.6 Ẩm thực Cần Thơ\nXem thêm\nXem thêm\nĐọc tóm tắt\nDu lịch ẩm thực là một trào lưu mới trên thế giới và ở Việt Nam, mang bạn khám phá những hương vị đặc trưng của từng vùng miền thông qua những món ăn đặc sản hấp dẫn.\n## Tìm hiểu về du lịch ẩm thực\n### **1.1 Ý nghĩa của du lịch ẩm thực là gì?**",
+      "_Bún bung_ là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. \"Bung\" là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)...",
+      "Du lịch ẩm thực miền núi phía Bắc mang đến những món ăn đặc sắc như thịt trâu gác bếp, thắng cố ngựa, khâu nhục. Mỗi địa phương có món ăn riêng biệt, chế biến theo phong cách độc đáo của người dân nơi đây, tạo nên trải nghiệm thú vị cho du khách.\n4.\n### Du khách đến Hà Nội nên thưởng thức những món ăn đặc sản nào?"
+    ],
+    "retrieved_ids": [
+      "news/am-thuc-ba-mien.md::chunk-21",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-26",
+      "news/am-thuc-ba-mien.md::chunk-3",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-47",
+      "news/am-thuc-ba-mien.md::chunk-25"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.3612
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 7,
+    "user_input": "Chợ hoa Quảng Bá ở Hà Nội hoạt động đông vui nhất vào khoảng thời gian nào?",
+    "response": "Chợ hoa Quảng Bá đông vui nhất vào khoảng **3–4 giờ sáng**. citeDocument 1",
+    "reference": "Chợ hoa Quảng Bá hoạt động đông vui nhất vào khoảng 3 - 4h sáng, khi người mua kẻ bán tấp nập[cite: 2].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch HÀ NỘI mới nhất 2026 từ A-Z' trên VnExpress, mục Đi chợ[cite: 2].",
+    "retrieved_contexts": [
+      "Nằm ngay dưới chân cầu Long Biên, chợ đầu mối Long Biên quanh năm nhộn nhịp, nổi tiếng nhất phải kể đến khu chợ trời bán buôn hoa quả. Từ 20h chợ bắt đầu rục rịch, càng về đêm càng nhộn nhịp. Còn chợ hoa Quảng Bá mở suốt đêm nhưng đông vui nhất là vào khoảng 3- 4h sáng, người mua kẻ bán tấp nập. Những bó hoa lớn nhỏ chất trên xe nườm nượp ra vào. \n[ ](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html)\n[ ](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html)",
+      "### **2.4 Du lịch ẩm thực Hội An**\nHội An là khu phố cổ nổi tiếng bậc nhất tại Việt Nam, thu hút khách du lịch cả trong và ngoài nước. Không gian tại đây mang đậm màu sắc hoài niệm, những ngôi nhà hàng trăm năm tuổi, khố phường tĩnh lặng trong ánh đèn lồng lung linh. Đến đây bạn cũng sẽ được thưởng thức những món ngon Hội An như cao lầu đậm đà, mì Quảng thanh ngọt, bánh ướt cuốn thịt nướng thơm lừng, bánh mì Phượng giòn tan…\n_Những quán ăn vỉa hè tại Hội An được rất nhiều du khách yêu thích_",
+      "Có dịp du lịch Hà Nội, bạn chắc chắn phải thưởng thức cốm Làng Vòng, bánh cuốn Thanh Trì, xôi nếp Phú Thượng, bún ngần Phú Đô, giò chả Ước Lễ... Ngoài ra tại đây còn vô số món đặc sản hấp dẫn mà giá thành thì cực kỳ bình dân như phở, bún chả, bún đậu mắm tôm, bún ốc…\n### **2.3 Du lịch Huế**",
+      "**Đi chợ:** Không phải chợ Đồng Xuân, chợ hoa Quảng Bá và chợ đầu mối Long Biên mới là hai địa chỉ khách Tây rỉ tai nhau phải ghé thăm một lần nếu có dịp đến thủ đô. Chợ chủ yếu buôn hoa và trái cây, nhưng \"yêu sách\" du khách phải thức khuya, dậy sớm mới thấy được hết cái không khí náo nhiệt, sầm uất của một Hà Nội rất khác khi màn đêm buông xuống.",
+      "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](https://vnexpress.net/thang-9-dac-san-mua-thu-cham-ngo-ha-noi-3464955.html) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng.."
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ha-noi.md::chunk-38",
+      "news/am-thuc-ba-mien.md::chunk-18",
+      "news/am-thuc-ba-mien.md::chunk-15",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-37",
+      "news/cam-nang-du-lich-ha-noi.md::chunk-3"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 4.3694
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 8,
+    "user_input": "Từ 'chá' trong tên gọi 'Rừng Rú Chá' ở Huế có ý nghĩa là gì?",
+    "response": "Từ “chá” là tên của cây chá ở vùng ngập mặn. citeDocument 1",
+    "reference": "Từ 'chá' có nghĩa là cây chá, một loại cây mọc ở vùng ngập mặn[cite: 3].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Huế 2026 từ A-Z' trên VnExpress, mục Khám phá - Rừng Rú Chá[cite: 3].",
+    "retrieved_contexts": [
+      "> Rừng Rú Chá\nRừng ngập mặn nguyên sinh thuộc phá Tam Giang, làng Thuận Hòa, xã Hương Phong, thị xã Hương Trà. \"Rú\" nghĩa là rừng, còn \"chá\" là cây chá ở vùng ngập mặn. Nếu đến đây vào mùa thu bạn còn được chiêm ngưỡng màu vàng rực của những bông chá nở khắp rừng.",
+      ". Là đặc sản của xứ Huế, món bún này có tên gọi đơn giản là 'bún bò' hoặc 'bún bò giò heo' tại địa phương, nhưng trên khắp cả nước và thế giới, nó nổi tiếng với cái tên quen thuộc - 'bún bò Huế'. Bún bò Huế có nguyên liệu chính từ bún, thịt bắp bò, giò heo, và nước dùng có màu đỏ đặc trưng, vị sả và ruốc đặc trưng. Thậm chí, có những phiên bản bún bò Huế còn thêm thịt bò tái, chả cua, tùy theo khẩu vị. Nước dùng của bún bò Huế được nêm nếm với mắm ruốc, tạo nên hương vị độc đáo khó cưỡng",
+      "# Khám phá ẩm thực và trải nghiệm hương vị ba miền\n**Buzz**\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\n[](https://news.google.com/publications/CAAqBwgKMIO8qgwwkLy3BA)\nNgày cập nhật gần nhất: 1/9/2026\nNội dung bài viết\n* Tìm hiểu về du lịch ẩm thực\n* 1.1 Ý nghĩa của du lịch ẩm thực là gì?\n* 1.2 Các loại hình du lịch ẩm thực phổ biến.\n* Các địa phương có tiềm năng phát triển du lịch ẩm thực tại Việt Nam\n* 2.1 Du lịch ẩm thực miền núi phía Bắc\n* 2.2 Du lịch ẩm thực Hà Nội",
+      "Chùa Bái Đính",
+      "Bắc qua sông Hương, [cầu Trường Tiền](https://vnexpress.net/cau-truong-tien-sau-vai-muoi-hai-nhip-2877988.html) vốn là hình ảnh mà nhắc tới Huế ai cũng nhớ. Nếu ban ngày chỉ trầm ngâm in bóng xuống dòng Hương thì chiều muộn và tối đến, cầu lại được tô điểm bằng ánh đèn màu lấp lánh rất nổi bật"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-hue.md::chunk-51",
+      "news/mon-an-ngon-viet-nam.md::chunk-37",
+      "news/am-thuc-ba-mien.md::chunk-2",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-22",
+      "news/cam-nang-du-lich-hue.md::chunk-20"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.601
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 9,
+    "user_input": "Động Am Tiên ở Ninh Bình còn được mệnh danh là gì do con đường duy nhất trước kia là leo núi?",
+    "response": "Động Am Tiên ở Ninh Bình được mệnh danh là **Tuyệt Tình Cốc**, vì trước kia con đường duy nhất đến đây là leo núi. [Document 1]",
+    "reference": "Động Am Tiên còn được mệnh danh là Tuyệt Tình Cốc[cite: 4].",
+    "expected_context": "Bài viết 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z' trên VnExpress, mục Điểm tham quan - Động Am Tiên[cite: 4].",
+    "retrieved_contexts": [
+      ". Trước kia, chỉ có con đường duy nhất tới đây là leo núi, vì vậy mà Am Tiên được mệnh danh Tuyệt Tình Cốc. Ngày nay, du khách có thể đi bằng đường hầm xuyên núi, sau đó leo núi thăm chùa dâng hương, ngắm động với các thạch nhũ kỳ ảo. Vé tham quan 20.000 đồng/ người.",
+      "**Lăng Khải Định** nằm ở triền núi Châu Chữ thuộc xã Thủy Bằng, thị xã Hương Thủy, là nơi an nghỉ của vua Khải Định (1885 - 1925). Lăng Khải Định là công trình có diện tích nhỏ nhất nhưng lại tốn công sức và tiền của nhất trong các lăng tẩm triều Nguyễn. Kiến trúc lăng có sự giao thoa của hai nền văn hoá Đông - Tây, phản ánh sở thích xa hoa của nhà vua lúc sinh thời.\nLăng Khải Định được xây trong 10 năm, từ 1920 đến 1930. Ảnh: Ngô Trần Hải An",
+      "Ngày 1: TP Ninh Bình - Hang Múa - Tràng An\nNgày 2: Chùa Bái Đính - Cố Đô Hoa Lư – Động Am Tiên\nHoặc\nNgày 1: TP Ninh Bình - Tam Cốc - Bích Động - Đồi dứa Tam Điệp\nNgày 2: Nhà thờ đá Phát Diệm - Vườn chim Thung Nham\nHoặc\nNgày 1: Hà Nội - Vườn Quốc gia Cúc Phương\nNgày 2: Vườn Quốc gia Cúc Phương - Đầm Vân Long\n**Ngân Dương**",
+      "So với lăng tẩm khác của các vua nhà Nguyễn, lăng Dục Đức có kiến trúc đơn giản và khiêm tốn. Lăng lấy đồi Phước Quả làm tiền án, núi Tam Thai sau lưng làm hậu chẩm và dòng khe chảy vòng qua trước mặt làm minh đường tụ thủy.",
+      "Nhắc đến ẩm thực Việt Nam không ai không biết đến món **bánh xèo**.**Bánh xèo** Việt Nam được mệnh danh là món pancake ngon nhất thế giới đồng thời đã từng được vinh danh tại lễ hội Đời sống dân gian Smithsonian Mỹ vào năm 2007. Bánh xèo là một trong những món ăn ngon nổi tiếng của Việt Nam, không chỉ là món ngon được người dân Việt ưa chuộng, đây còn là nét văn hóa ẩm thực được du khách nước ngoài yêu mến. Cách làm bánh xèo không quá khó"
+    ],
+    "retrieved_ids": [
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-27",
+      "news/cam-nang-du-lich-hue.md::chunk-35",
+      "news/cam-nang-du-lich-ninh-binh.md::chunk-36",
+      "news/cam-nang-du-lich-hue.md::chunk-38",
+      "news/mon-an-ngon-viet-nam.md::chunk-25"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.9337
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 10,
+    "user_input": "Theo Nghị định 348/2025/NĐ-CP, Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến mức tối đa là bao nhiêu trong lĩnh vực du lịch?",
+    "response": "Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến mức tối đa **25.000.000 đồng**. citeDocument 1",
+    "reference": "Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền phạt tiền đến 25.000.000 đồng[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 6 sửa đổi, bổ sung Điều 19 quy định về Thẩm quyền của Thanh tra Hàng hải Việt Nam[cite: 6].",
+    "retrieved_contexts": [
+      "10.000.000 đồng.\n\n2. Trưởng đoàn thanh tra Hàng hải Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;\n\nc) Tịch thu tang vật vi phạm hành chính;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n3. Chánh thanh tra Hàng hải Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến mức 40.000.000 đồng;\n\n\fCÔNG BÁO/Số 10/Ngày 11-01-2026\n\n35\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc\n\nđình chỉ hoạt động có thời hạn;",
+      "d) Tịch thu tang vật vi phạm hành chính;\n\nđ) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n2. Giám đốc các Sở Văn hóa, Thể thao và Du lịch, Sở Du lịch, Sở Công\nThương, Sở Xây dựng; Trưởng đoàn kiểm tra do Cục trưởng Cục Du lịch Quốc\ngia Việt Nam thành lập; Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ\nViệt Nam thành lập; Trưởng đoàn kiểm tra do Cục trưởng Cục Hàng hải và\nĐường thủy Việt Nam thành lập có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 40.000.000 đồng;",
+      "b) Phạt tiền đến 15.000.000 đồng;\n\n\fCÔNG BÁO/Số 10/Ngày 11-01-2026\n\n39\n\nc)  Tịch  thu  tang  vật  vi  phạm  hành  chính  có  giá  trị  không  vượt  quá\n\n30.000.000 đồng;\n\nd) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n5. Hải đoàn trưởng Hải đoàn Cảnh sát biển; Đoàn trưởng Đoàn trinh sát,\nĐoàn trưởng Đoàn đặc nhiệm phòng, chống tội phạm ma túy thuộc Cảnh sát\nbiển Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;",
+      "Điều 4. Thay thế cụm từ tại Điều 10\n\nThay thế cụm từ “điểm a và điểm b” thành cụm từ “điểm a hoặc điểm b”\n\ntại khoản 7.\n\nĐiều 5. Bãi bỏ khoản 5 của Điều 12\n\nĐiều 6. Sửa đổi, bổ sung Điều 19\n\n“Điều 19. Thẩm quyền của Thanh tra Hàng hải Việt Nam\n\n1. Thanh tra viên thanh tra Hàng hải Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 5.000.000 đồng;\n\nc)  Tịch  thu  tang  vật  vi  phạm  hành  chính  có  giá  trị  không  vượt  quá\n\n10.000.000 đồng.",
+      "b) Phạt tiền đến 25.000.000 đồng;\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc\n\nđình chỉ hoạt động có thời hạn;\n\nd) Tịch thu tang vật vi phạm hành chính;\n\nđ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n6. Tư lệnh Vùng Cảnh sát biển, Cục trưởng Cục Nghiệp vụ và Pháp luật\n\nthuộc Cảnh sát biển Việt Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 40.000.000 đồng;\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn;"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-7",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-36",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-20",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-6",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-21"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.9947
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 11,
+    "user_input": "Điều kiện để công nhận điểm du lịch theo Luật Du lịch 2017 bao gồm những gì?",
+    "response": "Theo Luật Du lịch 2017, điều kiện công nhận điểm du lịch gồm:\n\n1. Có tài nguyên du lịch và ranh giới xác định.  \n2. Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch.  \n3. Đáp ứng các điều kiện về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường theo quy định pháp luật. [Điều 23 khoản 1, Luật Du lịch 2017] citeDocument 1Document 2",
+    "reference": "Các điều kiện bao gồm: Có tài nguyên du lịch, có ranh giới xác định; Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch; Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 1 Điều 23 quy định về điều kiện công nhận điểm du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "2. Chính phủ quy định việc lập, quản lý và thực hiện quy hoạch về du lịch.\n\nChương IV\nĐIỂM DU LỊCH, KHU DU LỊCH\n\nĐiều 23. Điều kiện công nhận điểm du lịch\n\n1. Điều kiện công nhận điểm du lịch bao gồm:\n\na) Có tài nguyên du lịch, có ranh giới xác định;\n\nb) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;\n\n\f54\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nc) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường\n\ntheo quy định của pháp luật.",
+      "b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.\n\n\f72\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:\n\na) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ\n\nquan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;",
+      "theo quy định của pháp luật.\n\n2. Chính phủ quy định chi tiết Điều này.\n\nĐiều 24. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận điểm du lịch\n\n1. Hồ sơ đề nghị công nhận điểm du lịch bao gồm:\n\na) Đơn đề nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn hóa,\n\nThể thao và Du lịch quy định;\n\nb) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại khoản 1\n\nĐiều 23 của Luật này.\n\n2.  Trình  tự,  thủ  tục,  thẩm  quyền  đề  nghị  công  nhận  điểm  du  lịch  được  quy\n\nđịnh như sau:",
+      "b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn  về  du  lịch  cấp  tỉnh  thẩm  định  và  công  nhận;  trường  hợp  không  công  nhận,\nphải trả lời bằng văn bản và nêu rõ lý do.\n\n4.  Phí  thẩm  định  công  nhận  cơ  sở  kinh  doanh  dịch  vụ  du  lịch  khác  đạt  tiêu\nchuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí và\nlệ phí.",
+      "Điều  28.  Hồ  sơ,  trình  tự,  thủ  tục,  thẩm  quyền  công  nhận  khu  du  lịch\n\nquốc gia\n\n1. Hồ sơ đề nghị công nhận khu du lịch quốc gia bao gồm:\n\na) Đơn đề nghị công nhận khu du lịch quốc gia theo mẫu do Bộ trưởng Bộ Văn\n\nhóa, Thể thao và Du lịch quy định;\n\nb) Bản thuyết minh về điều kiện công nhận khu du lịch quốc gia quy định tại\n\nkhoản 2 Điều 26 của Luật này.\n\n2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia được quy định\n\nnhư sau:"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-51",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-134",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-52",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-135",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-63"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 5.0373
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 12,
+    "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài được quy định là bao nhiêu theo Nghị định 168/2017/NĐ-CP?",
+    "response": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là **500.000.000 đồng (năm trăm triệu đồng)** theo Nghị định 168/2017/NĐ-CP. citeDocument 4Document 5",
+    "reference": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là 500.000.000 (năm trăm triệu) đồng[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Điểm b Khoản 2 Điều 14 quy định về mức ký quỹ và phương thức ký quỹ[cite: 8].",
+    "retrieved_contexts": [
+      "4. Doanh nghiệp có vốn đầu tư nước ngoài chỉ được kinh doanh dịch vụ lữ hành\nquốc tế phục vụ khách du lịch quốc tế đến Việt Nam, trừ trường hợp điều ước quốc\ntế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.\n\nĐiều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;",
+      "500.000.000 (năm trăm triệu) đồng;\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và\nkhách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng.\n3. Doanh nghiệp thực hiện ký quỹ bằng đồng Việt Nam tại ngân hàng thương\nmại, ngân hàng hợp tác xã hoặc chi nhánh ngân hàng nước ngoài thành lập và hoạt\nđộng tại Việt Nam và được hưởng lãi suất theo thỏa thuận giữa doanh nghiệp và\nngân hàng nhận ký quỹ phù hợp với quy định của pháp luật. Tiền ký quỹ phải được",
+      "3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra\n\nnước ngoài có quyền và nghĩa vụ sau đây:\n\na)  Quyền  và  nghĩa  vụ  quy  định  tại  các điểm  a,  c,  d,  đ,  g,  h,  i  và  k  khoản  1,\n\nđiểm b và điểm c khoản 2 Điều này;\n\nb) Sử dụng hướng dẫn viên du lịch quốc tế để đưa khách du lịch ra nước ngoài\ntheo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch\ntrong thời gian đưa khách du lịch ra nước ngoài.\n\n\f64",
+      "10 CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018\nChương V\nKINH DOANH DU LỊCH\nMục 1\nKÝ QUỸ KINH DOANH DỊCH VỤ LỮ HÀNH\nĐiều 14. Mức ký quỹ và phương thức ký quỹ\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm\ntriệu) đồng.\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam:\n250.000.000 (hai trăm năm mươi triệu) đồng;\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài:",
+      "CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018 11\n3. Sau khi phong tỏa số tiền ký quỹ, ngân hàng nhận ký quỹ cấp Giấy chứng\nnhận tiền ký quỹ kinh doanh dịch vụ lữ hành cho doanh nghiệp theo Mẫu số 01\nquy định tại Phụ lục kèm theo Nghị định này.\nĐiều 16. Quản lý, sử dụng tiền ký quỹ\n1. Trong trường hợp khách du lịch bị chết, bị tai nạn, rủi ro, bị xâm hại tính\nmạng cần phải đưa về nơi cư trú hoặc điều trị khẩn cấp mà doanh nghiệp không có"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-69",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-31",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-98",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-30",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-34"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 5.1399
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 13,
+    "user_input": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn bao lâu?",
+    "response": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn **05 năm**. [Document 1]",
+    "reference": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 58 quy định về hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "c) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc\nvăn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng dẫn viên\ndu lịch tại điểm, phải có phân công của tổ chức, cá nhân quản lý khu du lịch, điểm\ndu lịch.\n\n4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ\n\nhướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.\n\nThẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có\n\nthời hạn 05 năm.",
+      "cơ quan chuyên môn về du lịch cấp tỉnh;\n\nc) Cơ quan chuyên môn về du lịch cấp tỉnh tổ chức kiểm tra và cấp thẻ hướng\ndẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm  tra nghiệp vụ trong\nthời hạn 10 ngày kể từ ngày có kết quả kiểm tra.\n\nĐiều 62. Cấp đổi thẻ hướng dẫn viên du lịch\n\n1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ tục\n\nđề nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ hết hạn sử dụng.",
+      "lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa\n\n1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên\n\ndu lịch nội địa bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn\n\nhóa, Thể thao và Du lịch quy định;\n\nb) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;\n\nc) Bản sao có chứng thực các văn bằng, chứng chỉ tương ứng với điều kiện quy\n\nđịnh tại điểm d khoản 1 hoặc điểm b và điểm c khoản 2 Điều 59 của Luật này;",
+      "2. Cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch quyết định\nthu hồi thẻ hướng dẫn viên du lịch và công bố công khai trên trang thông tin điện\ntử quản lý hướng dẫn viên du lịch của Tổng cục Du lịch và cơ quan thu hồi thẻ.\n\n3. Hướng dẫn viên du lịch đã bị thu hồi thẻ chỉ được đề nghị cơ quan nhà nước có\n\nthẩm quyền cấp thẻ hướng dẫn viên du lịch sau 12 tháng kể từ ngày bị thu hồi thẻ.\n\nĐiều 65. Quyền và nghĩa vụ của hướng dẫn viên du lịch",
+      "chuyên môn về du lịch cấp tỉnh;\n\nb) Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn về du lịch cấp tỉnh cấp thẻ hướng dẫn viên du lịch cho người đề nghị; trường\nhợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.\n\nĐiều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du\n\nlịch tại điểm\n\n1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-143",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-152",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-148",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-159",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-150"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 2.6144
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 14,
+    "user_input": "Theo Nghị định 168/2017/NĐ-CP, doanh nghiệp kinh doanh dịch vụ lữ hành có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn bao nhiêu ngày kể từ ngày rút khỏi tài khoản?",
+    "response": "Doanh nghiệp kinh doanh dịch vụ lữ hành phải bổ sung số tiền ký quỹ đã sử dụng **trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ**. citeDocument 1",
+    "reference": "Doanh nghiệp có trách nhiệm bổ sung số tiền ký quỹ đã sử dụng trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Khoản 2 Điều 16 quy định về việc quản lý, sử dụng tiền ký quỹ[cite: 8].",
+    "retrieved_contexts": [
+      "khả năng bố trí kinh phí để giải quyết kịp thời, doanh nghiệp gửi đề nghị giải tỏa\ntạm thời tiền ký quỹ đến cơ quan cấp giấy phép kinh doanh dịch vụ lữ hành. Trong\nthời hạn 48 giờ kể từ thời điểm nhận được đề nghị của doanh nghiệp, cơ quan cấp\ngiấy phép kinh doanh dịch vụ lữ hành xem xét và đề nghị ngân hàng cho doanh\nnghiệp trích tài khoản tiền ký quỹ để sử dụng hoặc từ chối.\n2. Trong thời hạn 30 ngày kể từ ngày tiền được rút khỏi tài khoản tiền ký quỹ,",
+      "doanh nghiệp kinh doanh dịch vụ lữ hành có trách nhiệm bổ sung số tiền ký quỹ đã\nsử dụng để bảo đảm mức ký quỹ theo quy định tại Điều 14 Nghị định này. Trường\nhợp doanh nghiệp không thực hiện, ngân hàng gửi văn bản thông báo cho cơ quan\ncấp phép để có biện pháp xử lý theo quy định của pháp luật.\n3. Doanh nghiệp gửi văn bản đề nghị hoàn trả tiền ký quỹ đến ngân hàng trong\nnhững trường hợp sau đây:\na) Có thông báo bằng văn bản của cơ quan cấp giấy phép kinh doanh dịch vụ",
+      "CÔNG BÁO/Số 429 + 430/Ngày 10-3-2018 11\n3. Sau khi phong tỏa số tiền ký quỹ, ngân hàng nhận ký quỹ cấp Giấy chứng\nnhận tiền ký quỹ kinh doanh dịch vụ lữ hành cho doanh nghiệp theo Mẫu số 01\nquy định tại Phụ lục kèm theo Nghị định này.\nĐiều 16. Quản lý, sử dụng tiền ký quỹ\n1. Trong trường hợp khách du lịch bị chết, bị tai nạn, rủi ro, bị xâm hại tính\nmạng cần phải đưa về nơi cư trú hoặc điều trị khẩn cấp mà doanh nghiệp không có",
+      "2. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo quy\nđịnh tại điểm b và điểm c khoản 1 Điều này chỉ được đề nghị cấp giấy phép kinh\ndoanh  dịch  vụ  lữ  hành sau 06 tháng  kể  từ  ngày  quyết  định thu  hồi giấy  phép  có\nhiệu lực. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo\nquy định tại các điểm d, đ, e, g và h khoản 1 Điều này chỉ được đề nghị cấp giấy\nphép kinh doanh dịch vụ lữ hành sau 12 tháng kể từ ngày quyết định thu hồi giấy",
+      "2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề nghị\ncấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng kể từ\nngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy phép thì\ndoanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.\n\n3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được cấp"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-35",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-36",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-34",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-89",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-194"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 3.943
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 15,
+    "user_input": "Lực lượng Quản lý thị trường cấp Chi cục trưởng có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn trong lĩnh vực du lịch không?",
+    "response": "Không thể xác minh chắc chắn từ context được cung cấp rằng **Chi cục trưởng lực lượng Quản lý thị trường** có quyền này trong lĩnh vực du lịch, vì đoạn trích chỉ nêu một chức danh thuộc **Cục Quản lý và Phát triển thị trường trong nước** có quyền “tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn”, nhưng không hiển thị đầy đủ chức danh cụ thể. citeDocument 4",
+    "reference": "Có, Chi cục trưởng Chi cục Quản lý thị trường có quyền tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn[cite: 6].",
+    "expected_context": "Nghị định 348/2025/NĐ-CP, Điều 8 sửa đổi, bổ sung Điều 21, tại điểm d khoản 3 quy định quyền hạn của Chi cục trưởng Chi cục Quản lý thị trường[cite: 6].",
+    "retrieved_contexts": [
+      "giấy phép;\n\nb)  Trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  nhận  được  hồ  sơ  hợp  lệ,  cơ\nquan  nhà  nước  có  thẩm  quyền  cấp  giấy  phép  có  trách  nhiệm  cấp  đổi  giấy  phép\nkinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo\nbằng văn bản và nêu rõ lý do.\n\nTổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi\n\ndoanh nghiệp có trụ sở khi cấp đổi Giấy phép kinh doanh dịch vụ lữ hành quốc tế.",
+      "quản lý nhà nước theo chuyên ngành, lĩnh vực\n\n1. Giám đốc Khu quản lý đường bộ thuộc Cục Đường bộ Việt Nam; Chi\ncục trưởng Chi cục Hàng hải và Đường thủy phía Bắc; Chi cục trưởng Chi cục\nHàng hải và Đường thủy phía Nam có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;\n\nc) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc\n\nđình chỉ hoạt động có thời hạn;\n\nd) Tịch thu tang vật vi phạm hành chính;",
+      "b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên\nmôn về du lịch cấp tỉnh thẩm định và cấp Giấy phép kinh doanh dịch vụ lữ hành\nnội địa cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu\nrõ lý do.\n\n3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh\n\ndoanh dịch vụ lữ hành nội địa.\n\nĐiều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh\n\ndịch vụ lữ hành quốc tế",
+      "lý thị trường thuộc Cục Quản lý và Phát triển thị trường trong nước có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 25.000.000 đồng;\n\nc) Tịch thu tang vật vi phạm hành chính;\n\nd) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có\n\nthời hạn;\n\nđ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Điều 4 Nghị định này.\n\n4. Cục trưởng Cục Quản lý và Phát triển thị trường trong nước có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 50.000.000 đồng;",
+      "2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề nghị\ncấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng kể từ\nngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy phép thì\ndoanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.\n\n3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được cấp"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-85",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-35",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-76",
+      "legal/nghi-dinh-348-2025-xu-phat-du-lich.md::chunk-12",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-194"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 5.673
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 16,
+    "user_input": "Quyết định công nhận hạng cơ sở lưu trú du lịch theo Luật Du lịch 2017 có hiệu lực trong thời gian bao nhiêu năm?",
+    "response": "Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn **05 năm**. Sau khi hết thời hạn, cơ sở có nhu cầu xếp hạng lại thì thực hiện theo quy định pháp luật. 【Document 1】",
+    "reference": "Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 6 Điều 50 quy định về xếp hạng cơ sở lưu trú du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "CÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n69\n\n6. Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm. Sau\nkhi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu cầu\nđăng ký xếp hạng lại cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5\nvà 7 Điều này.\n\n7. Phí thẩm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo quy\n\nđịnh của pháp luật về phí và lệ phí.\n\n8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính",
+      "phạm vi chức năng quản lý của Bộ Văn hóa, Thể thao và Du lịch hết hiệu lực kể từ\nngày Nghị định này có hiệu lực thi hành.\nĐiều 32. Điều khoản chuyển tiếp\n1. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan\nnhà nước có thẩm quyền trước ngày Nghị định này có hiệu lực được công nhận là\nđáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du\nlịch cho đến hết thời hạn theo quyết định công nhận hạng.",
+      "thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp tục\nhành nghề cho đến hết thời hạn ghi trên thẻ.\n\n\fCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n85\n\n4. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan\nnhà  nước  có thẩm  quyền  trước  ngày  Luật này  có  hiệu lực được  tiếp tục  sử dụng\nhạng đã được công nhận cho đến hết thời hạn theo quyết định.\n\nLuật  này  được  Quốc  hội  nước  Cộng  hòa  xã  hội  chủ  nghĩa  Việt  Nam",
+      "b)  Trong  thời  hạn  30  ngày  kể  từ  ngày  nhận  được  hồ  sơ  hợp  lệ,  cơ  quan  nhà\nnước có thẩm quyền chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch\nthẩm  định  và  ra  quyết  định  công  nhận  hạng  cơ  sở  lưu  trú  du  lịch;  trường  hợp\nkhông công nhận, phải thông báo bằng văn bản và nêu rõ lý do.\n\n\fCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n69",
+      "khách du lịch.\n\n2. Chính phủ quy định chi tiết điểm c khoản 1 Điều này.\n\n\f68\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nĐiều 50. Xếp hạng cơ sở lưu trú du lịch\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký\n\nxếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền."
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-122",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-67",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-195",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-121",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-116"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 3.4975
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 17,
+    "user_input": "Cơ quan nào có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch?",
+    "response": "Theo các đoạn trích được cung cấp, **Sở Giao thông vận tải** có thẩm quyền:\n\n- **Cấp biển hiệu** cho phương tiện vận tải khách du lịch đường thủy nội địa sau khi thẩm định hồ sơ hợp lệ. 【Document 3】\n- **Cấp lại biển hiệu** trong thời hạn 02 ngày làm việc kể từ khi nhận đơn đề nghị. 【Document 4】\n\nCác đoạn trích chưa nêu đầy đủ cơ quan có thẩm quyền **cấp đổi** và **thu hồi** biển hiệu, nên không đủ căn cứ để xác minh toàn bộ câu trả lời.",
+    "reference": "Sở Giao thông vận tải là cơ quan có thẩm quyền cấp, cấp đổi, cấp lại và thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8].",
+    "expected_context": "Nghị định 168/2017/NĐ-CP, Chương V Mục 2 (Điều 17 đến Điều 20) quy định về cấp, cấp đổi, cấp lại, thu hồi biển hiệu phương tiện vận tải khách du lịch[cite: 8].",
+    "retrieved_contexts": [
+      "3. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện của người điều khiển\nphương  tiện,  nhân  viên  phục  vụ,  trang  thiết  bị,  chất  lượng  dịch  vụ  trên  phương\ntiện vận tải khách du lịch sau khi có ý kiến của Bộ Văn hóa, Thể thao và Du lịch.\n\nĐiều 46. Cấp biển hiệu phương tiện vận tải khách du lịch\n\n1. Phương tiện vận tải khách du lịch được cấp biển hiệu khi đáp ứng các điều\n\nkiện quy định tại khoản 2 Điều 45 của Luật này.",
+      "CÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\n67\n\n3.  Chính  phủ  quy  định  trình  tự,  thủ  tục,  thẩm  quyền  cấp  biển  hiệu  phương\n\ntiện vận tải khách du lịch.\n\nĐiều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải khách\n\ndu lịch\n\n1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch vụ\n\nlữ hành, với khách du lịch theo hành trình, tuyến đường phù hợp.\n\n2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.",
+      "lữ hành về việc doanh nghiệp không được cấp giấy phép kinh doanh dịch vụ lữ\nhành hoặc thay đổi ngân hàng nhận ký quỹ;\nb) Có văn bản của cơ quan cấp giấy phép kinh doanh dịch vụ lữ hành về việc\nhoàn trả tiền ký quỹ sau khi thu hồi giấy phép kinh doanh dịch vụ lữ hành.\nMục 2\nCẤP, CẤP ĐỔI, CẤP LẠI, THU HỒI BIỂN HIỆU\nPHƯƠNG TIỆN VẬN TẢI KHÁCH DU LỊCH\nĐiều 17. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp biển hiệu phương tiện\nvận tải khách du lịch",
+      "phương tiện;\nb) Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị cấp lại\nbiển hiệu, Sở Giao thông vận tải xem xét, cấp lại biển hiệu cho phương tiện vận\ntải. Trường hợp từ chối, phải thông báo bằng văn bản hoặc qua địa chỉ giao dịch\nđiện tử của đơn vị và nêu rõ lý do.\n3. Thời hạn sử dụng biển hiệu cấp lại được tính theo thời hạn còn lại của biển\nhiệu đã bị mất hoặc hư hỏng.\nĐiều 20. Thu hồi biển hiệu\n1. Các trường hợp thu hồi biển hiệu phương tiện thủy nội địa vận tải khách",
+      "làm việc đối với phương tiện thủy nội địa kể từ ngày nhận được hồ sơ hợp lệ, Sở\nGiao thông vận tải tổ chức thẩm định, cấp biển hiệu cho phương tiện vận tải khách\ndu lịch. Trường hợp từ chối, phải thông báo bằng văn bản hoặc qua địa chỉ giao\ndịch điện tử của đơn vị và nêu rõ lý do;\nc) Trong quá trình thẩm định, Sở Giao thông vận tải kiểm tra thông tin về\ngiấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với"
+    ],
+    "retrieved_ids": [
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-111",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-113",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-37",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-45",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-41"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 7.6163
+  },
+  {
+    "config": "B",
+    "config_name": "hybrid + RRF",
+    "case_index": 18,
+    "user_input": "Tài nguyên du lịch theo Luật Du lịch 2017 được phân thành những loại nào?",
+    "response": "Theo context được cung cấp, Luật Du lịch 2017 xác định **tài nguyên du lịch tự nhiên**, gồm cảnh quan thiên nhiên, yếu tố địa chất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể sử dụng cho du lịch. [Điều 15 khoản 1, Luật Du lịch 2017]\n\nNgoài ra, tài nguyên du lịch được phân loại thành **tài nguyên du lịch cấp quốc gia** và **tài nguyên du lịch cấp tỉnh** căn cứ vào kết quả đánh giá. [Điều 5 khoản 2, Nghị định 168/2017/NĐ-CP]\n\nContext chưa cung cấp đầy đủ nội dung Điều 15 để xác minh toàn bộ các loại tài nguyên du lịch theo Luật Du lịch 2017.",
+    "reference": "Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa[cite: 7].",
+    "expected_context": "Luật Du lịch số 09/2017/QH14, Khoản 4 Điều 3 và Điều 15 quy định về các loại tài nguyên du lịch[cite: 7].",
+    "retrieved_contexts": [
+      "Điều 5. Đánh giá, phân loại tài nguyên du lịch\n1. Căn cứ kết quả điều tra, tài nguyên du lịch được đánh giá về giá trị, sức\nchứa, mức độ hấp dẫn, phạm vi ảnh hưởng và khả năng khai thác phục vụ phát\ntriển du lịch.\n2. Căn cứ kết quả đánh giá, tài nguyên du lịch quy định tại Điều 15 Luật Du\nlịch được phân loại thành tài nguyên du lịch cấp quốc gia và tài nguyên du lịch\ncấp tỉnh.\nĐiều 6. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh",
+      "trách nhiệm bảo vệ tài nguyên du lịch.\n\nMục 2\nPHÁT TRIỂN SẢN PHẨM DU LỊCH\n\nĐiều 18. Xây dựng, phát triển sản phẩm du lịch\n\n1. Tổ chức, cá nhân có quyền sáng tạo, phát triển, kinh doanh các sản phẩm du\n\nlịch đáp ứng nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.\n\n2. Chính phủ có chính sách hỗ trợ phát triển sản phẩm du lịch chủ đạo đối với\ntừng vùng và trong phạm vi toàn quốc theo từng giai đoạn, đáp ứng nhu cầu của thị\ntrường trên cơ sở đánh giá, phân loại tài nguyên du lịch.",
+      "Điều 15. Các loại tài nguyên du lịch\n\n1. Tài nguyên du lịch tự nhiên bao gồm cảnh quan thiên nhiên, các yếu tố địa\nchất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể\nđược sử dụng cho mục đích du lịch.",
+      "b) Lập quy hoạch về du lịch;\n\n\f46\n\nCÔNG BÁO/Số 515 + 516/Ngày 25-7-2017\n\nc) Xúc tiến du lịch, xây dựng thương hiệu du lịch quốc gia, địa phương;\n\nd) Xây dựng kết cấu hạ tầng phục vụ phát triển du lịch.\n\n4. Nhà nước có chính sách khuyến khích, hỗ trợ cho các hoạt động sau đây:\n\na) Đầu tư phát triển cơ sở vật chất kỹ thuật, dịch vụ du lịch chất lượng cao;\n\nb) Nghiên cứu, định hướng phát triển sản phẩm du lịch;\n\nc) Đào tạo và phát triển nguồn nhân lực du lịch;",
+      "nhiệm vụ của Ủy ban nhân dân cấp tỉnh.\nĐiều 7. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch\n1. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch được bố trí từ\nnguồn ngân sách nhà nước, nguồn đóng góp tự nguyện của tổ chức, cá nhân và\nnguồn huy động hợp pháp khác.\n2. Việc quản lý, sử dụng kinh phí điều tra, đánh giá, phân loại tài nguyên du\nlịch thực hiện theo quy định của pháp luật.\nChương III\nBIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH"
+    ],
+    "retrieved_ids": [
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-6",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-40",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-35",
+      "legal/luat-du-lich-09-2017-qh14.md::chunk-13",
+      "legal/nghi-dinh-168-2017-huong-dan-luat-du-lich.md::chunk-10"
+    ],
+    "retrieval_methods": [
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid",
+      "hybrid"
+    ],
+    "latency_seconds": 7.5119
+  }
+]
