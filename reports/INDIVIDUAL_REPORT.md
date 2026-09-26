@@ -16,6 +16,7 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 - Mã học viên: 2A202602737
 - Nhóm: Gradflow
 - Repository/branch: `K4-L3B-RAG-Pipeline` / `hien-feature`
+- Implementation/evaluation commit: `6ab42db088e2`
 
 ## Phần việc đã thực hiện
 
@@ -50,6 +51,7 @@ Mô tả tối đa hai quyết định mà bạn trực tiếp tham gia:
 
 - Test hoặc query tôi đã dùng: `python -m pytest -q`; các câu hỏi về quyền khách du lịch, điều kiện công nhận điểm du lịch, thời hạn thẻ hướng dẫn viên và cao lầu Hội An; một câu Bitcoin ngoài domain.
 - Kết quả trước/sau nếu có: 42 test đạt. Paired A/B trên 15 câu cho dense-only trung bình 0.920 và hybrid + RRF 0.839; dense-only nhanh hơn (4.46 giây so với 7.45 giây/câu).
+- Bằng chứng có thể tái lập: commit `6ab42db088e2`, `group_project/evaluation/evaluation_results.json` và `group_project/evaluation/RESULT.md`.
 - Lỗi đã phát hiện và cách xử lý: sửa BM25 loại nhầm kết quả score 0 trên corpus nhỏ; giữ Gemini client sống hết request để tránh `client has been closed`; chuyển khỏi model quá tải; chuẩn hóa citation gộp; thêm log provider và cache evaluation.
 
 ## Điều còn hạn chế

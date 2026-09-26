@@ -6,6 +6,7 @@
 - Mã học viên: 2A202602737
 - Nhóm: Gradflow
 - Repository/branch: `K4-L3B-RAG-Pipeline` / `hien-feature`
+- Implementation/evaluation commit: `6ab42db088e2`
 
 ## Phần việc đã thực hiện
 
@@ -32,6 +33,7 @@
 
 - Test/query: toàn bộ `pytest`; câu hỏi pháp luật, điểm đến, ẩm thực và câu Bitcoin ngoài domain.
 - Kết quả: 42 test đạt. Trên 15 golden cases, dense-only đạt 0.920; hybrid + RRF đạt 0.839. Latency trung bình tương ứng 4.46 và 7.45 giây/câu.
+- Bằng chứng có thể tái lập: commit `6ab42db088e2`, `group_project/evaluation/evaluation_results.json` và `group_project/evaluation/RESULT.md`.
 - Lỗi đã xử lý: BM25 score 0 trên corpus nhỏ; Gemini client bị đóng sớm; model quá tải; citation gộp; lỗi provider bị ẩn; evaluation bị gián đoạn.
 
 ## Điều còn hạn chế

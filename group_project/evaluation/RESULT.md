@@ -9,7 +9,7 @@
 | Evaluator model | `gemini-3.5-flash-lite` |
 | Generator model | `gemini-3.5-flash-lite` |
 | Embedding model | `BAAI/bge-m3` |
-| Corpus version/commit | `5d1076b`; 8 documents / 498 chunks |
+| Corpus version/commit | `6ab42db`; 8 documents / 498 chunks |
 | Golden dataset size | 15 |
 | `top_k` | 5 |
 | Fallback | Disabled during A/B so only the retrieval strategy changes |

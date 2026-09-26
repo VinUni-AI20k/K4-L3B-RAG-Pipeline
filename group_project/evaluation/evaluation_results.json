@@ -3,7 +3,7 @@
     "evaluation_date": "2026-09-26",
     "generator_model": "gemini-3.5-flash-lite",
     "evaluator_model": "gemini-3.5-flash-lite",
-    "commit": "5d1076b",
+    "commit": "6ab42db",
     "top_k": 5
   },
   "cases": [
