@@ -6,40 +6,38 @@ from streamlit.testing.v1 import AppTest
 APP_PATH = Path(__file__).parent.parent / "app.py"
 
 
-def test_app_renders_household_tax_portal():
-    """Màn hình ban đầu hiển thị luồng hỏi đáp thuế và các điều khiển cần thiết."""
+def test_app_places_a_real_query_form_inside_the_hero_workspace():
+    """Người dùng phải nhập và gửi câu hỏi ngay trong workspace, không ở đáy trang."""
     app = AppTest.from_file(str(APP_PATH)).run()
 
     assert not app.exception
-    assert app.title[0].value == "Thuế & Kê khai Hộ Kinh Doanh"
     assert app.slider[0].label == "Số nguồn tham khảo"
-    assert app.chat_input[0].placeholder == "Hãy nhập câu hỏi của bạn..."
-    assert len(app.button) == 6
+    assert app.text_input[0].label == "Hãy nhập câu hỏi của bạn"
+    assert any(button.label == "Gửi câu hỏi" for button in app.button)
+    assert not app.chat_input
 
 
-def test_app_renders_government_rag_portal_sections():
-    """Portal làm rõ nguồn chính thức, danh mục tri thức và năng lực RAG."""
+def test_compact_workspace_keeps_verified_rag_context_without_landing_sections():
+    """Màn hình đầu ưu tiên tra cứu, không thêm các section landing dài."""
     app = AppTest.from_file(str(APP_PATH)).run()
 
     rendered_copy = " ".join(element.value for element in app.markdown)
 
     assert not app.exception
-    assert "Trợ lý Tra cứu Thông tin Chính thức" in rendered_copy
+    assert "Không gian tra cứu có trích nguồn" in rendered_copy
     assert "Thủ tục hành chính" in rendered_copy
-    assert "Tra cứu chính xác theo tài liệu gốc" in rendered_copy
     assert "Nguồn chính thức" in rendered_copy
-    assert app.chat_input[0].placeholder == "Hãy nhập câu hỏi của bạn..."
-    assert len(app.button) == 6
+    assert "Năng lực của trợ lý" not in rendered_copy
+    assert "Thông tin có căn cứ, sử dụng có trách nhiệm" not in rendered_copy
 
 
-def test_hero_guides_people_to_the_real_chat_input():
-    """Hero không được giả làm ô nhập; người dùng phải thấy nơi nhập thật."""
+def test_suggested_question_prefills_the_hero_query_field():
+    """Một prompt gợi ý phải điền thẳng vào form chat trong hero."""
     app = AppTest.from_file(str(APP_PATH)).run()
 
-    rendered_copy = " ".join(element.value for element in app.markdown)
+    app.button[0].click().run()
 
-    assert "Nhập câu hỏi tại thanh tra cứu ở cuối trang" in rendered_copy
-    assert app.chat_input[0].placeholder == "Hãy nhập câu hỏi của bạn..."
+    assert app.text_input[0].value == "Hộ kinh doanh phải kê khai thuế khi nào?"
 
 
 def test_app_uses_compact_initial_portal_layout():
@@ -49,15 +47,15 @@ def test_app_uses_compact_initial_portal_layout():
     theme = app.markdown[0].value
 
     assert "min-height:420px" not in theme
-    assert "min-height:220px" in theme
-    assert "min-height:104px" in theme
+    assert "min-height:220px" not in theme
+    assert "hero-workspace" in theme
 
 
-def test_hero_copy_stays_inside_navy_panel():
-    """Nội dung hero không tràn sang vùng màu be ở desktop."""
+def test_hero_copy_stays_inside_navy_workspace():
+    """Nội dung hero không tràn khỏi workspace navy ở desktop."""
     app = AppTest.from_file(str(APP_PATH)).run()
 
     theme = app.markdown[0].value
 
     assert "box-sizing:border-box" in theme
-    assert "width:58%" in theme
+    assert "max-width:1180px" in theme
