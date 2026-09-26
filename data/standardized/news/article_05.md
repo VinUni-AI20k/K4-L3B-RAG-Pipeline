@@ -2,7 +2,7 @@
 
 **Source:** https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm
 
-**Crawled:** 2026-09-25T12:00:32.415171
+**Crawled:** 2026-09-26T09:20:12.655150
 
 ---
 
@@ -27,7 +27,7 @@ Báo Điện tử Chính phủ
 
 [ Mới Nhất ](https://baochinhphu.vn/tin-moi.htm "Mới Nhất") [ ](javascript:; "Tìm kiếm")
 [ ](https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm)
-[ Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm Liên bang Nga, Cộng hòa Pháp ](https://baochinhphu.vn/chu-de/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-lien-bang-nga-cong-hoa-phap-294.htm "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm Liên bang Nga, Cộng hòa Pháp")
+[ Tổng Bí thư, Chủ tịch nước Tô Lâm dự Phiên thảo luận cấp cao Đại hội đồng LHQ khóa 81, làm việc tại Hoa Kỳ, thăm Canada ](https://baochinhphu.vn/chu-de/tong-bi-thu-chu-tich-nuoc-to-lam-du-phien-thao-luan-cap-cao-dai-hoi-dong-lhq-khoa-81-lam-viec-tai-hoa-ky-tham-canada-298.htm "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Phiên thảo luận cấp cao Đại hội đồng LHQ khóa 81, làm việc tại Hoa Kỳ, thăm Canada ")
 [ Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ ](https://baochinhphu.vn/chu-de/chien-dich-500-ngay-dem-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si-291.htm "Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ")
 [ Bảo vệ nền tảng tư tưởng của Đảng trong kỷ nguyên phát triển mới ](https://baochinhphu.vn/chu-de/bao-ve-nen-tang-tu-tuong-cua-dang-trong-ky-nguyen-phat-trien-moi-290.htm "Bảo vệ nền tảng tư tưởng của Đảng trong kỷ nguyên phát triển mới")
 [ 100 ngày xử lý các điểm nghẽn về chuyển đổi số ](https://baochinhphu.vn/chu-de/100-ngay-xu-ly-cac-diem-nghen-ve-chuyen-doi-so-295.htm "100 ngày xử lý các điểm nghẽn về chuyển đổi số")

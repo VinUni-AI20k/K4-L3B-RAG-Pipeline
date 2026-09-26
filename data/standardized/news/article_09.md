@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-cua-nghi-dinh-254-2026-nd-cp-va-thong-tu-91-2026-tt-btc-ve-hoa-don-dien-tu-chung-tu-dien-tu-119260717143502375.htm
 
-**Crawled:** 2026-09-25T12:00:42.932302
+**Crawled:** 2026-09-26T09:20:20.817057
 
 ---
 
