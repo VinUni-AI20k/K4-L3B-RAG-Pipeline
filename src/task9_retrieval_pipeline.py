@@ -5,7 +5,7 @@ Luồng xử lý:
     1. Chạy semantic_search và lexical_search.
     2. Fuse hai danh sách bằng RRF đúng một lần.
     3. Lấy best cosine score gốc từ dense results.
-    4. Nếu score dưới threshold, thử PageIndex fallback.
+    4. Nếu score dưới threshold, thử Gemini vectorless fallback.
     5. Nếu fallback lỗi, trả hybrid results thay vì crash.
 
 Không so sánh threshold với RRF score vì hai thang đo khác nhau.
@@ -17,7 +17,7 @@ from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
-SCORE_THRESHOLD = 0.3
+SCORE_THRESHOLD = 0.55
 DEFAULT_TOP_K = 5
 
 
@@ -27,26 +27,40 @@ def retrieve(
     score_threshold: float = SCORE_THRESHOLD,
     use_reranking: bool = True,
 ) -> list[dict]:
-    """Trả về hybrid hoặc pageindex SearchResult."""
-    # TODO: Implement full retrieval pipeline.
-    #
-    # dense = semantic_search(query, top_k=top_k * 2)
-    # sparse = lexical_search(query, top_k=top_k * 2)
-    # hybrid = (
-    #     rerank_rrf([dense, sparse], top_k=top_k)
-    #     if use_reranking else dense[:top_k]
-    # )
-    #
-    # best_dense_score = dense[0]["score"] if dense else 0.0
-    # if best_dense_score < score_threshold:
-    #     try:
-    #         fallback = pageindex_search(query, top_k=top_k)
-    #         if fallback:
-    #             return fallback
-    #     except Exception:
-    #         pass
-    # return hybrid[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    """Trả về kết quả hybrid hoặc Gemini fallback."""
+
+    dense = semantic_search(query, top_k=top_k * 2)
+    sparse = lexical_search(query, top_k=top_k * 2)
+
+    hybrid = (
+        rerank_rrf(
+            [dense, sparse],
+            top_k=top_k,
+        )
+        if use_reranking
+        else dense[:top_k]
+    )
+
+    # Fallback quyết định dựa trên cosine score gốc
+    # của dense search, KHÔNG dùng RRF score.
+    best_dense_score = dense[0]["score"] if dense else 0.0
+
+    if best_dense_score < score_threshold:
+        try:
+            fallback = pageindex_search(
+                query,
+                top_k=top_k,
+            )
+
+            if fallback:
+                return fallback
+
+        except Exception:
+            # Gemini fallback là service ngoài:
+            # lỗi không được làm crash retrieval pipeline.
+            pass
+
+    return hybrid[:top_k]
 
 
 if __name__ == "__main__":
