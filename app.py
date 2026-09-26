@@ -104,11 +104,12 @@ def apply_theme() -> None:
         .st-key-knowledge-panel { background:#f3ede4; border:1px solid var(--line); border-radius:8px; padding:.8rem; } .category-panel h3 { color:var(--navy); font-family:Georgia, serif; font-size:1rem; margin:0 0 .2rem; } .category-panel p { color:var(--muted); font-size:.72rem; line-height:1.4; margin:.2rem 0; } .category-list { list-style:none; margin:.45rem 0 .65rem; padding:0; } .category-list li { border-bottom:1px solid #e3dbd0; color:var(--navy); font-size:.78rem; font-weight:700; padding:.48rem 0; }
         .st-key-chat-panel { background:var(--white); border-radius:8px; padding:.8rem; } .chat-panel-title { align-items:center; display:flex; justify-content:space-between; margin-bottom:.35rem; } .chat-panel-title h3 { color:var(--navy); font-family:Georgia, serif; margin:0; } .status-badge { border-radius:999px; display:inline-block; font-size:.64rem; font-weight:800; margin-right:.25rem; padding:.24rem .45rem; } .official { background:#f4e4d2; color:#8c531e; } .verified { background:#e3ebe4; color:#355540; } .latest { background:#e7eef3; color:#234d6d; }
         .assistant-empty { background:#f7f3ed; border-left:3px solid var(--saffron); color:var(--ink); font-size:.84rem; line-height:1.5; padding:.75rem; } .assistant-empty strong { color:var(--navy); display:block; margin-bottom:.2rem; }
-        [data-testid="stChatMessage"] { background:var(--white); border:1px solid var(--line); border-radius:8px; box-shadow:none; margin-bottom:.85rem; padding:.85rem; }
+        [data-testid="stChatMessage"] { background:var(--white)!important; border:1px solid var(--line); border-radius:8px; box-shadow:none; color:var(--ink)!important; margin-bottom:.85rem; padding:.85rem; } [data-testid="stChatMessage"] [data-testid="stMarkdownContainer"], [data-testid="stChatMessage"] [data-testid="stMarkdownContainer"] * { color:var(--ink)!important; }
         .citation-header { align-items:center; display:flex; gap:.3rem; margin-top:1rem; } .sources-heading { color:var(--navy); margin:0 .5rem 0 0; }
         [data-testid="stExpander"] { background:var(--ivory); border:1px solid var(--line); border-radius:7px; margin:.45rem 0; }
         .feedback-row { align-items:center; border-top:1px solid var(--line); display:flex; gap:.5rem; margin-top:.7rem; padding-top:.55rem; } .feedback-row span { color:var(--muted); font-size:.72rem; margin-right:auto; } .feedback-row .stButton > button { min-height:auto; padding:.32rem .55rem; }
-        .st-key-hero-query-form { background:#f7f3ed; border:1px solid var(--line); border-radius:8px; padding:.55rem .7rem .7rem; } .st-key-hero-query-form [data-testid="stTextInput"] input { background:var(--white); border-color:var(--line); color:var(--navy); } .st-key-hero-query-form [data-testid="stFormSubmitButton"] button { background:var(--saffron); color:var(--white); min-height:2.5rem; text-align:center; }
+        .st-key-suggestion-chips { margin:.05rem 0 .45rem; } .st-key-suggestion-chips .stButton > button { background:#f7f3ed; border-color:#e7ded2; font-size:.72rem; font-weight:600; min-height:2rem; padding:.32rem .55rem; width:auto; }
+        .st-key-hero-query-form { background:#f7f3ed; border:1px solid var(--line); border-radius:8px; padding:.55rem .7rem .7rem; } .st-key-hero-query-form [data-baseweb="input"] { background:var(--white)!important; } .st-key-hero-query-form input { color:var(--navy)!important; -webkit-text-fill-color:var(--navy)!important; } .st-key-hero-query-form input::placeholder { color:var(--muted)!important; -webkit-text-fill-color:var(--muted)!important; opacity:1; } [data-testid="stFormSubmitButton"] button { background:var(--saffron)!important; color:var(--white)!important; min-height:2.5rem; text-align:center; }
         @media (max-width:768px) { .main .block-container { padding-left:1rem; padding-right:1rem; } .st-key-hero-workspace { padding:.8rem; } .official-header { align-items:flex-start; flex-wrap:wrap; } }
         </style>
         """,
@@ -181,15 +182,16 @@ def main() -> None:
                 top_k = render_category_panel()
         with chat_column:
             st.markdown('<p class="hero-kicker">Cổng tri thức có căn cứ</p><h1 class="hero-heading" style="color:#fff!important">Không gian tra cứu có trích nguồn</h1><p class="hero-description">Hỏi về thuế, thủ tục và nghĩa vụ kê khai. Mỗi câu trả lời chỉ dựa trên tài liệu có thể kiểm chứng.</p>', unsafe_allow_html=True)
-            st.markdown('<p class="section-label">Câu hỏi gợi ý</p>', unsafe_allow_html=True)
-            question_columns = st.columns(2)
-            for index, question in enumerate(SUGGESTED_QUESTIONS):
-                if question_columns[index % 2].button(question, key=f"suggestion-{index}"):
-                    st.session_state.suggested_query = question
-                    st.session_state["hero-query"] = question
-                    st.rerun()
             with st.container(key="chat-panel"):
                 st.markdown('<div class="chat-panel-title"><h3>Trợ lý tra cứu</h3><span class="status-badge latest">Cập nhật mới nhất</span></div>', unsafe_allow_html=True)
+                if not st.session_state.messages:
+                    st.markdown('<p class="section-label">Câu hỏi gợi ý</p>', unsafe_allow_html=True)
+                    with st.container(key="suggestion-chips", horizontal=True, wrap=True, gap="xsmall"):
+                        for index, question in enumerate(SUGGESTED_QUESTIONS):
+                            if st.button(question, key=f"suggestion-{index}"):
+                                st.session_state.suggested_query = question
+                                st.session_state["hero-query"] = question
+                                st.rerun()
                 with st.container(height=150, key="conversation"):
                     conversation_slot = st.empty()
                     render_conversation(conversation_slot, st.session_state.messages)

@@ -56,6 +56,20 @@ def test_suggested_question_prefills_the_hero_query_field():
     assert app.text_input[0].value == "Hộ kinh doanh phải kê khai thuế khi nào?"
 
 
+def test_suggestion_chips_disappear_after_the_conversation_starts():
+    """Gợi ý chỉ phục vụ onboarding, không chiếm chỗ khi đã có hội thoại."""
+    app = AppTest.from_file(str(APP_PATH)).run()
+    app.session_state["messages"] = [
+        {"role": "user", "content": "Câu hỏi trước đó", "sources": []}
+    ]
+    app.run()
+
+    button_labels = [button.label for button in app.button]
+
+    assert "Hộ kinh doanh phải kê khai thuế khi nào?" not in button_labels
+    assert "Gửi câu hỏi" in button_labels
+
+
 def test_app_uses_compact_initial_portal_layout():
     """Màn hình ban đầu ưu tiên tra cứu, không giữ khoảng trống landing page lớn."""
     app = AppTest.from_file(str(APP_PATH)).run()
