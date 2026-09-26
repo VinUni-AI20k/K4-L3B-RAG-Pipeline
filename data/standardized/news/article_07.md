@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/luu-y-chinh-trong-ky-khai-thue-quy-i-2026-119260312174235595.htm
 
-**Crawled:** 2026-09-25T12:00:37.614414
+**Crawled:** 2026-09-26T09:20:16.812061
 
 ---
 
@@ -133,11 +133,11 @@ Từ khóa:
 (Chinhphu.vn) - Quốc hội đã thông qua Nghị quyết quy định ngày 24/11 hằng năm là “Ngày Văn hóa Việt Nam”, người lao động được nghỉ làm việc và hưởng nguyên lương. Bộ Nội vụ đề xuất 2 phương án nghỉ Ngày Văn hóa Việt Nam năm 2026.
 [ ![Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2026/6/29/tuyensinh-1782717198796128509659-0-0-428-684-crop-1782717211537240408280.jpg) ](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
 ###  [Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
-[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/huong-dan-thuc-hien-chinh-sach.htm "Hướng dẫn thực hiện chính sách")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/luu-y-chinh-trong-ky-khai-thue-quy-i-2026-119260312174235595.htm "Hướng dẫn thực hiện chính sách")
 (Chinhphu.vn) - Toàn văn Quyết định số 1826/QĐ-BGDĐT của Bộ GDĐT ban hành danh mục 111 đào tạo (thuộc 15 nhóm ngành) người học được nhận học bổng theo Nghị định số 179/2026/NĐ-CP của Chính phủ.
 [ ![Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2025/6/12/cover-2-1749718862944335083148.jpg) ](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
 ###  [Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
-[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/luu-y-chinh-trong-ky-khai-thue-quy-i-2026-119260312174235595.htm "Chính sách và cuộc sống")
 (Chinhphu.vn) - Kể từ ngày 12/6/2025, cả nước có 34 đơn vị hành chính cấp tỉnh, gồm 28 tỉnh và 6 thành phố. Trong đó có 19 tỉnh và 4 thành phố hình thành sau sắp xếp và 11 tỉnh, thành phố không thực hiện sắp xếp.
 [ ![Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2024/10/30/huu-1730262006262356742418-0-0-500-800-crop-1730262008638710542553.jpeg) ](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")
 ###  [Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")

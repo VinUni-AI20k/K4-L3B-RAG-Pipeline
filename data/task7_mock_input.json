@@ -1,0 +1,89 @@
+{
+  "query": "Hộ kinh doanh phải nộp thuế và sử dụng hóa đơn điện tử như thế nào?",
+  "top_k": 4,
+  "k": 60,
+  "ranked_lists": [
+    [
+      {
+        "id": "thong-tu-40::chunk-0",
+        "content": "Hộ kinh doanh, cá nhân kinh doanh có doanh thu trong năm dương lịch từ 100 triệu đồng trở xuống thuộc trường hợp không phải nộp thuế GTGT và thuế TNCN.",
+        "score": 0.91,
+        "metadata": {
+          "source": "thong-tu-40-2021.md",
+          "title": "Thông tư 40/2021/TT-BTC",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/thong-tu-40-2021",
+          "chunk_index": 0
+        },
+        "retrieval_method": "dense"
+      },
+      {
+        "id": "nghi-dinh-123::chunk-2",
+        "content": "Hộ kinh doanh thuộc trường hợp áp dụng hóa đơn điện tử khởi tạo từ máy tính tiền phải đăng ký sử dụng với cơ quan thuế.",
+        "score": 0.86,
+        "metadata": {
+          "source": "nghi-dinh-123-2020.md",
+          "title": "Nghị định 123/2020/NĐ-CP",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/nghi-dinh-123-2020",
+          "chunk_index": 2
+        },
+        "retrieval_method": "dense"
+      },
+      {
+        "id": "nghi-dinh-126::chunk-4",
+        "content": "Thời hạn nộp hồ sơ khai thuế được xác định theo kỳ khai thuế tháng, quý hoặc từng lần phát sinh.",
+        "score": 0.74,
+        "metadata": {
+          "source": "nghi-dinh-126-2020.md",
+          "title": "Nghị định 126/2020/NĐ-CP",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/nghi-dinh-126-2020",
+          "chunk_index": 4
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    [
+      {
+        "id": "nghi-dinh-123::chunk-2",
+        "content": "Hộ kinh doanh thuộc trường hợp áp dụng hóa đơn điện tử khởi tạo từ máy tính tiền phải đăng ký sử dụng với cơ quan thuế.",
+        "score": 8.4,
+        "metadata": {
+          "source": "nghi-dinh-123-2020.md",
+          "title": "Nghị định 123/2020/NĐ-CP",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/nghi-dinh-123-2020",
+          "chunk_index": 2
+        },
+        "retrieval_method": "bm25"
+      },
+      {
+        "id": "nghi-dinh-125::chunk-1",
+        "content": "Người nộp thuế nộp hồ sơ khai thuế quá thời hạn có thể bị xử phạt vi phạm hành chính tùy theo số ngày chậm nộp.",
+        "score": 6.7,
+        "metadata": {
+          "source": "nghi-dinh-125-2020.md",
+          "title": "Nghị định 125/2020/NĐ-CP",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/nghi-dinh-125-2020",
+          "chunk_index": 1
+        },
+        "retrieval_method": "bm25"
+      },
+      {
+        "id": "thong-tu-40::chunk-0",
+        "content": "Hộ kinh doanh, cá nhân kinh doanh có doanh thu trong năm dương lịch từ 100 triệu đồng trở xuống thuộc trường hợp không phải nộp thuế GTGT và thuế TNCN.",
+        "score": 5.9,
+        "metadata": {
+          "source": "thong-tu-40-2021.md",
+          "title": "Thông tư 40/2021/TT-BTC",
+          "doc_type": "legal",
+          "url": "https://example.gov.vn/thong-tu-40-2021",
+          "chunk_index": 0
+        },
+        "retrieval_method": "bm25"
+      }
+    ]
+  ]
+}

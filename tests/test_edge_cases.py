@@ -288,3 +288,36 @@ def test_chunk_documents_handles_tiny_content():
     assert chunks[0]["id"] == "tiny::chunk-0"
     assert chunks[0]["metadata"]["chunk_index"] == 0
     assert chunks[0]["content"].strip()
+
+
+def test_rerank_rrf_handles_empty_input():
+    from src.task7_reranking import rerank_rrf
+
+    assert rerank_rrf([], top_k=5) == []
+    assert rerank_rrf([[]], top_k=5) == []
+
+
+def test_pageindex_search_returns_empty_without_key(monkeypatch):
+    import src.task8_pageindex_vectorless as pageindex
+
+    monkeypatch.setattr(pageindex, "PAGEINDEX_API_KEY", "")
+    assert pageindex.pageindex_search("anything", top_k=5) == []
+
+
+def test_retrieve_does_not_crash_on_empty_dense(monkeypatch):
+    import src.task9_retrieval_pipeline as pipeline
+
+    monkeypatch.setattr(pipeline, "semantic_search", lambda query, top_k: [])
+    monkeypatch.setattr(pipeline, "lexical_search", lambda query, top_k: [])
+    monkeypatch.setattr(
+        pipeline,
+        "rerank_rrf",
+        lambda ranked_lists, top_k: [],
+    )
+    monkeypatch.setattr(
+        pipeline,
+        "pageindex_search",
+        lambda query, top_k: [],
+    )
+
+    assert pipeline.retrieve("x", top_k=3, score_threshold=0.5) == []
