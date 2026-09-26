@@ -94,7 +94,8 @@ def apply_theme() -> None:
         .feature-grid { margin-top:1.6rem; } .feature-title,.trust-title { text-align:center; } .feature-card { background:var(--white); border:1px solid var(--line); border-radius:7px; box-shadow:none; min-height:104px; padding:.75rem; } .feature-number { color:var(--saffron); font-family:Georgia, serif; font-size:1.2rem; } .feature-card h3 { color:var(--navy); font-family:Georgia, serif; font-size:.83rem; margin:.18rem 0; } .feature-card p { color:var(--muted); font-size:.7rem; line-height:1.35; margin:0; }
         .trust-panel { background:var(--navy); border-radius:8px; color:var(--white); margin:1.5rem 0 0; padding:1.2rem 1.35rem; text-align:center; } .trust-title h2 { color:var(--white); } .trust-title p { color:#d8e3e9; } .trust-items { display:grid; gap:.75rem; grid-template-columns:repeat(4,1fr); text-align:left; } .trust-items strong { color:#f7cf9b; display:block; font-size:.77rem; } .trust-items span { color:#d8e3e9; display:block; font-size:.68rem; line-height:1.35; margin-top:.18rem; }
         .portal-footer { background:var(--navy-deep); color:#d8e3e9; display:grid; gap:1rem; grid-template-columns:1.4fr 1fr 1fr; margin:1.5rem -2rem 0; padding:1.2rem 2.5rem; } .portal-footer strong { color:var(--white); font-family:Georgia, serif; font-size:.82rem; } .portal-footer span { display:block; font-size:.68rem; line-height:1.55; }
-        [data-testid="stChatInput"] { border-color:var(--line); }
+        [data-testid="stChatInput"] { background:var(--white); border:1px solid var(--line); border-radius:10px; box-shadow:0 -5px 18px rgba(16,38,56,.18); }
+        [data-testid="stChatInput"] textarea { color:var(--navy); }
         @media (max-width:768px) { .main .block-container { padding-left:1rem; padding-right:1rem; } .hero-panel { background:var(--navy); padding:2rem 1.35rem; } .hero-copy { width:100%; } .portal-nav { gap:1rem; } .trust-items,.portal-footer { grid-template-columns:1fr; } .portal-footer { margin-left:-1rem; margin-right:-1rem; padding:1.6rem; } .utility-bar { padding-right:1rem; } }
         </style>
         """,
@@ -117,7 +118,7 @@ def render_portal_header() -> None:
         <section class="hero-panel" id="trang-chu"><div class="hero-copy"><p class="hero-kicker">Cổng tri thức có căn cứ</p>
           <h1>Trợ lý Tra cứu Thông tin Chính thức</h1>
           <p>Hỗ trợ hỏi đáp về thuế, thủ tục và nghĩa vụ kê khai dựa trên tài liệu đã xác thực. Mỗi câu trả lời đều kèm nguồn để bạn kiểm chứng.</p>
-          <div class="hero-prompt" aria-label="Gợi ý cách đặt câu hỏi"><b>⌕</b> Hãy nhập câu hỏi của bạn...</div>
+          <div class="hero-prompt" aria-label="Hướng dẫn đặt câu hỏi"><b>⌕</b> Nhập câu hỏi tại thanh tra cứu ở cuối trang</div>
         </div></section>
         """,
         unsafe_allow_html=True,

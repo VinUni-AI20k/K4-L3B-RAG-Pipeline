@@ -32,6 +32,16 @@ def test_app_renders_government_rag_portal_sections():
     assert len(app.button) == 6
 
 
+def test_hero_guides_people_to_the_real_chat_input():
+    """Hero không được giả làm ô nhập; người dùng phải thấy nơi nhập thật."""
+    app = AppTest.from_file(str(APP_PATH)).run()
+
+    rendered_copy = " ".join(element.value for element in app.markdown)
+
+    assert "Nhập câu hỏi tại thanh tra cứu ở cuối trang" in rendered_copy
+    assert app.chat_input[0].placeholder == "Hãy nhập câu hỏi của bạn..."
+
+
 def test_app_uses_compact_initial_portal_layout():
     """Màn hình ban đầu ưu tiên tra cứu, không giữ khoảng trống landing page lớn."""
     app = AppTest.from_file(str(APP_PATH)).run()
