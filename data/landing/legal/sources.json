@@ -1,0 +1,41 @@
+{
+  "topic": "Du lịch và bảo tồn di sản văn hóa Việt Nam",
+  "documents": [
+    {
+      "filename": "luat_du_lich_09_2017_qh14.pdf",
+      "original_filename": "09.signed.pdf",
+      "title": "Luật Du lịch 09/2017/QH14",
+      "source_url": "https://vanban.chinhphu.vn/default.aspx?docid=190290&pageid=27160",
+      "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/07/09.signed.pdf",
+      "acquired_from": "D:\\AI thực chiến\\09.signed.pdf",
+      "collected_at": "2026-09-25T03:25:38.283910+00:00",
+      "sha256": "8707e9ced66e7664a49e2c4dd5b1df653933d41c6ef3a85bd4144cae68c7f225",
+      "size_bytes": 1566546,
+      "counts_toward_pdf_docx_minimum": true
+    },
+    {
+      "filename": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+      "original_filename": "168.signed.pdf",
+      "title": "Nghị định 168/2017/NĐ-CP hướng dẫn Luật Du lịch",
+      "source_url": "https://vanban.chinhphu.vn/default.aspx?docid=193059&pageid=27160",
+      "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/03/168.signed.pdf",
+      "acquired_from": "D:\\AI thực chiến\\168.signed.pdf",
+      "collected_at": "2026-09-25T03:25:38.289787+00:00",
+      "sha256": "3164505c3ffb2a7da52876a35793032213296439383a7357eb9b798c641279d5",
+      "size_bytes": 802370,
+      "counts_toward_pdf_docx_minimum": true
+    },
+    {
+      "filename": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+      "original_filename": "109.signed.pdf",
+      "title": "Nghị định 109/2017/NĐ-CP bảo vệ và quản lý di sản thế giới",
+      "source_url": "https://vanban.chinhphu.vn/default.aspx?docid=191224&pageid=27160",
+      "download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/09/109.signed.pdf",
+      "acquired_from": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/09/109.signed.pdf",
+      "collected_at": "2026-09-25T03:26:02.488638+00:00",
+      "sha256": "7f68d6c37d27aa94f94b468e5531ebd343f939ceb4838893287c701c6fb66171",
+      "size_bytes": 741595,
+      "counts_toward_pdf_docx_minimum": true
+    }
+  ]
+}

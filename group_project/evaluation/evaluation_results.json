@@ -1,0 +1,2799 @@
+{
+  "metadata": {
+    "evaluation_date": "2026-09-26",
+    "generator_model": "gemini-3.5-flash-lite",
+    "evaluator_model": "gemini-3.5-flash-lite",
+    "commit": "6ab42db",
+    "top_k": 5
+  },
+  "cases": [
+    {
+      "question": "Khách du lịch có những quyền cơ bản nào theo Luật Du lịch 2017?",
+      "expected_answer": "Khách du lịch được sử dụng dịch vụ hoặc tự đi du lịch, yêu cầu thông tin theo hợp đồng, được bảo đảm quyền lợi và an toàn, khiếu nại hoặc khởi kiện, kiến nghị và được bồi thường thiệt hại theo pháp luật.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 11, trang 6: Quyền của khách du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Theo Luật Du lịch 2017, khách du lịch có quyền sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-32",
+            "score": 0.6523353457450867,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 6,
+            "content": "6\n\n2. Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở\nViệt Nam đi du lịch trong lãnh thô Việt Nam.\n\n3. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt\nNam định cư ở nước ngoài vào Việt Nam du lịch.\n\n4. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài\ncư trú ở Việt Nam đi du lịch nước ngoài.\n\n### Điều 11. Quyền của khách du lịch\n\n1. Sử dụng dịch vụdu lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp\nhoặc tự đi du lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-36",
+            "score": 0.6494041681289673,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 6,
+            "content": "p luật.\n\n### Điều 12. Nghĩa vụ của khách du lịch\n\n1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ\nnơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn\nhóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch;\nkhông gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của\nViệt Nam.\n\n2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ\ndu lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-179",
+            "score": 0.6369643211364746,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 30,
+            "content": "à các\nquyền, lợi ích hợp pháp của khách du lịch;\n\nd) Hướng dẫn khách du lịch theo đúng chương trình du lịch, có thái độ văn\nminh, tận tình và chu đáo với khách du lịch; báo cáo người phụ trách kinh doanh\ndịch vụ lữ hành quyết định thay đổi chương trình du lịch trong trường hợp khách\ndu lịch có yêu câu;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-178",
+            "score": 0.6273541450500488,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 30,
+            "content": "nhiệm vụ được giao hoặc theo hợp đồng\nhướng dân;\n\nb) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp\nluật nơi đến du lịch, nội quy nơi đên tham quan; tôn trọng phong tục, tập quán\ncủa địa phương;\n\n.©) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các\nquyền, lợi ích hợp pháp của khách du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-125",
+            "score": 0.6250893473625183,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 21,
+            "content": "c điệm tham quan du lịch, cơ, sở lưu trú du lịch,\nđiểm cung ứng dịch vụ du lịch theo quy định của chính quyên địa phương.\n\n3. Chính phủ quy định trình tự, thủ tục, thầm quyền cấp biển hiệu phương\ntiện vận tải khách du lịch.\n\n### Điều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải\nkhách du lịch\n\n1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch\nvụ lữ hành, với khách du lịch theo hành trình, tuyên đường phù hợp."
+          }
+        ],
+        "latency_seconds": 14.834788,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.3,
+          "context_recall": 0.2,
+          "context_precision": 1.0,
+          "average": 0.625
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách du lịch có quyền sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch theo Luật Du lịch 2017.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khách du lịch được sử dụng dịch vụ hoặc tự đi du lịch",
+              "supported": true
+            },
+            {
+              "claim": "yêu cầu thông tin theo hợp đồng",
+              "supported": false
+            },
+            {
+              "claim": "được bảo đảm quyền lợi và an toàn",
+              "supported": false
+            },
+            {
+              "claim": "khiếu nại hoặc khởi kiện",
+              "supported": false
+            },
+            {
+              "claim": "kiến nghị và được bồi thường thiệt hại theo pháp luật",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 0.3,
+          "failure_stage": "generation",
+          "explanation": "The generated answer is incomplete and only covers a small portion of the tourist's rights mentioned in the law."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Theo Luật Du lịch 2017, khách du lịch có các quyền:\n- Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch [S4].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-125",
+            "score": 0.030309988518943745,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 21,
+            "content": "c điệm tham quan du lịch, cơ, sở lưu trú du lịch,\nđiểm cung ứng dịch vụ du lịch theo quy định của chính quyên địa phương.\n\n3. Chính phủ quy định trình tự, thủ tục, thầm quyền cấp biển hiệu phương\ntiện vận tải khách du lịch.\n\n### Điều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải\nkhách du lịch\n\n1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch\nvụ lữ hành, với khách du lịch theo hành trình, tuyên đường phù hợp."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-178",
+            "score": 0.029910714285714284,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 30,
+            "content": "nhiệm vụ được giao hoặc theo hợp đồng\nhướng dân;\n\nb) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp\nluật nơi đến du lịch, nội quy nơi đên tham quan; tôn trọng phong tục, tập quán\ncủa địa phương;\n\n.©) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các\nquyền, lợi ích hợp pháp của khách du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-139",
+            "score": 0.029857397504456328,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 24,
+            "content": "24\n\n### Điều 53. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh dịch vụ\nlưu trú du lịch\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có quyền sau đây:\n\na) Từ chối tiếp nhận khách du lịch có hành vi vi phạm pháp luật, vi phạm\nnội quy của cơ sở lưu trú du lịch hoặc khi cơ sở lưu trú du lịch không còn khả\nnăng đáp ứng yêu câu của khách du lịch;\n\nb) Hủy bỏ hợp đồng cung cấp dịch vụ đối với khách du lịch có hành vi vi\nphạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-32",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 6,
+            "content": "6\n\n2. Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở\nViệt Nam đi du lịch trong lãnh thô Việt Nam.\n\n3. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt\nNam định cư ở nước ngoài vào Việt Nam du lịch.\n\n4. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài\ncư trú ở Việt Nam đi du lịch nước ngoài.\n\n### Điều 11. Quyền của khách du lịch\n\n1. Sử dụng dịch vụdu lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp\nhoặc tự đi du lịch."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-1",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 1,
+            "content": "ật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n|\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017,\n\nTheo đề nghị của Bộ trưởng Bộ Văn hóa, Tỉ hể thao và Du lịch;\n\nChính phủ ban hành Nghị định quy định chỉ tiết một số điểu của Luật\n|\nDu lịch.\n\n## Chương I\nNHỮNG QUY ĐỊNH CHUNG\n\n### Điều 1. Phạm vi điều chỉnh"
+          }
+        ],
+        "latency_seconds": 14.329792,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.3,
+          "context_recall": 0.2,
+          "context_precision": 0.25,
+          "average": 0.4375
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách du lịch có quyền sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khách du lịch được sử dụng dịch vụ hoặc tự đi du lịch",
+              "supported": true
+            },
+            {
+              "claim": "yêu cầu thông tin theo hợp đồng",
+              "supported": false
+            },
+            {
+              "claim": "được bảo đảm quyền lợi và an toàn",
+              "supported": false
+            },
+            {
+              "claim": "khiếu nại hoặc khởi kiện",
+              "supported": false
+            },
+            {
+              "claim": "kiến nghị và được bồi thường thiệt hại theo pháp luật",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            false,
+            false,
+            false,
+            true,
+            false
+          ],
+          "answer_relevance": 0.3,
+          "failure_stage": "generation",
+          "explanation": "The generated answer is incomplete and only provides the first right mentioned in the law."
+        }
+      }
+    },
+    {
+      "question": "Khách du lịch có nghĩa vụ gì đối với văn hóa và môi trường tại nơi đến?",
+      "expected_answer": "Khách phải ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương, đồng thời bảo vệ tài nguyên và môi trường du lịch.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 12, trang 6: Nghĩa vụ của khách du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Khách du lịch có các nghĩa vụ đối với văn hóa và môi trường tại nơi đến như sau:\n\n* Ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương [S1].\n* Bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch [S1].\n* Không gây phương hại đến hình ảnh quốc gia và truyền thống văn hóa dân tộc của Việt Nam [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-36",
+            "score": 0.669423520565033,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 6,
+            "content": "p luật.\n\n### Điều 12. Nghĩa vụ của khách du lịch\n\n1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ\nnơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn\nhóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch;\nkhông gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của\nViệt Nam.\n\n2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ\ndu lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-19",
+            "score": 0.6422696709632874,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 4,
+            "content": "ia của cộng đồng dân cư trong phát triển du lịch\n\n1. Cộng đồng dân cư có quyền tham gia và hưởng lợi ích hợp pháp từ hoạt\nđộng du lịch; có trách nhiệm bảo vệ tài nguyên du lịch, bản sắc văn hóa địa\nphương; giữ gìn an ninh, trật tự, an toàn xã hội, bảo vệ môi trường."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-26",
+            "score": 0.6383500099182129,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 5,
+            "content": "nạn xã hội trong hoạt động kinh doanh của mình.\n\n5. Khách du lịch, cộng đồng dân cư và tổ chức, cá nhân khác có trách\nnhiệm bảo vệ, giữ gìn cảnh quan, môi trường, bản sắc văn hóa, phong tục, tập\nquán của dân tộc; có thái độ ứng xử văn minh, lịch sự nhằm nâng cao hình ảnh\nđât nước, con người và du lịch Việt Nam.\n\n### Điều 9. Các hành vi bị nghiêm cẩm trong hoạt động du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-178",
+            "score": 0.633732795715332,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 30,
+            "content": "nhiệm vụ được giao hoặc theo hợp đồng\nhướng dân;\n\nb) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp\nluật nơi đến du lịch, nội quy nơi đên tham quan; tôn trọng phong tục, tập quán\ncủa địa phương;\n\n.©) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các\nquyền, lợi ích hợp pháp của khách du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-25",
+            "score": 0.629387617111206,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 5,
+            "content": ":\n5\n\n4. Tô chức, cá nhân kinh doanh du lịch có trách nhiệm thu gom, xử lý các\nloại chất thải phát sinh trong hoạt động kinh doanh; khắc phục tác động tiêu cực\ndo hoạt động của mình gây ra đôi với môi trường; có biện pháp phòng, chống tệ\nnạn xã hội trong hoạt động kinh doanh của mình."
+          }
+        ],
+        "latency_seconds": 9.654303,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách du lịch ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương.",
+              "supported": true
+            },
+            {
+              "claim": "Khách du lịch bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Khách du lịch không gây phương hại đến hình ảnh quốc gia và truyền thống văn hóa dân tộc của Việt Nam.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khách phải ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương.",
+              "supported": true
+            },
+            {
+              "claim": "Khách phải bảo vệ tài nguyên và môi trường du lịch.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer completely and accurately reflects the statutory obligations of tourists retrieved from the context."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Khách du lịch có các nghĩa vụ đối với văn hóa và môi trường tại nơi đến như sau:\n- Ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn hóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch [S1].\n- Không gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của Việt Nam [S1].\n- Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-36",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 6,
+            "content": "p luật.\n\n### Điều 12. Nghĩa vụ của khách du lịch\n\n1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ\nnơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn\nhóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch;\nkhông gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của\nViệt Nam.\n\n2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ\ndu lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-208",
+            "score": 0.031054405392392875,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 35,
+            "content": "đoanh du lịch và hướng dẫn du lịch trên địa bàn;\n\nc) Bảo đảm an nĩnh, trật tự, an toàn xã hội, môi trường, an toàn thực phẩm\ntại khu du lịch, điểm du lịch, nơi tập trung nhiêu khách du lịch;\n\nđ) Tuyên truyền, nâng cao nhận thức của người dân để bảo đảm môi trường\ndu lịch thân thiện, lành mạnh và văn minh;\n\nđ) Tổ chức bế trí nơi dừng, đỗ cho các phương tiện giao thông đã được cấp"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-51",
+            "score": 0.029437229437229435,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 9,
+            "content": "9\n\ncủa cộng đồng nhằm giữ gìn bản sắc văn hóa, bảo vệ môi trường, ứng xử văn\nminh đôi với khách du lịch.\n\n4. Tô chức, cánhân khai thác, phát triển du lịch cộng đồng có trách nhiệm tôn\ntrọng văn hóa, nêp sông và chia sẻ lợi ích từ hoạt động du lịch với cộng đồng.\n\nMục 3\nQUY HOẠCH VẺ DU LỊCH\n\n### Điều 20. Nguyên tắc lập quy hoạch về du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-63",
+            "score": 0.029411764705882353,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 11,
+            "content": "ng hướng dẫn\nviên du lịch trong phạm vi quản lý;\n\nd) Được thu phí theo quy định của pháp luật.\n\n2. Tổ chức, cá nhân quản lý điểm du lịch có nghĩa vụ sau đây:\n\na) Bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này;\n\nb) Tạo điều kiện thuận lợi cho khách du lịch đến tham quan;\n\nc) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi\nquản lý;\n\nd) Bảo đảm an toàn cho khách du lịch, trật tự, an toàn xã hội, bảo vệ môi\ntrường tại điêm du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-19",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 4,
+            "content": "ia của cộng đồng dân cư trong phát triển du lịch\n\n1. Cộng đồng dân cư có quyền tham gia và hưởng lợi ích hợp pháp từ hoạt\nđộng du lịch; có trách nhiệm bảo vệ tài nguyên du lịch, bản sắc văn hóa địa\nphương; giữ gìn an ninh, trật tự, an toàn xã hội, bảo vệ môi trường."
+          }
+        ],
+        "latency_seconds": 9.601917,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách du lịch có nghĩa vụ ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn hóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Khách du lịch có nghĩa vụ không gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của Việt Nam.",
+              "supported": true
+            },
+            {
+              "claim": "Khách du lịch có nghĩa vụ tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khách phải ứng xử văn minh, tôn trọng phong tục, tập quán và bản sắc văn hóa địa phương.",
+              "supported": true
+            },
+            {
+              "claim": "Khách phải bảo vệ tài nguyên và môi trường du lịch.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The retrieved contexts successfully provide the necessary legal information, and the generated answer accurately reflects all required tourist obligations regarding culture and environment."
+        }
+      }
+    },
+    {
+      "question": "Ai có trách nhiệm cảnh báo nguy cơ và cứu hộ khách du lịch khi khẩn cấp?",
+      "expected_answer": "Tổ chức, cá nhân kinh doanh du lịch phải cảnh báo nguy cơ, thông báo và chỉ dẫn kịp thời, áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 13, trang 7: Bảo đảm an toàn cho khách du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm cho khách du lịch và phối hợp trong việc cứu hộ, cứu nạn trong trường hợp khẩn cấp [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-39",
+            "score": 0.6826602816581726,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 7,
+            "content": "phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch.\n\n3. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ\ngây nguy hiệm cho khách du lịch; thông báo, chỉ dân kịp thời cho khách du lịch\ntrong trường hợp khân cập; áp dụng biện pháp cân thiệt, phôi hợp với cơ quan,\ntô chức, cá nhân có liên quan trong việc cứu hộ, cứu nạn cho khách du lịch.\n\n### Điều 14. Giải quyết kiến nghị của khách du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-106",
+            "score": 0.6354833841323853,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 18,
+            "content": "và nơi đến du lịch; phôi hợp với cơ quan nhà nước\ncó thẩm quyền xử lý kịp thời các hành vi vi phạm pháp luật của khách du lịch\ntrong thời gian tham gia chương trình du lịch;\n\nh) Thực hiện chế độ báo cáo, thống kê, kế toán, lưu giữ hỗ sơ theo quy định\ncủa pháp luật;\n\n¡) Áp dụng biện pháp bảo đảm an toàn tính mạng, sức khỏe, tài sản của\nkhách du lịch; kịp thời thông báo cho cơ quan nhà nước có thâm quyên về tai\nnạn, rủi ro xảy ra với khách du lịch và có biện pháp khắc phục hậu quả;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-38",
+            "score": 0.6264028549194336,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 7,
+            "content": "l\n7\n\n### Điều 13. Bảo đảm an toàn cho khách du lịch\n\n1, Cơ quan nhà nước có thẩm quyên, trong phạm vi nhiệm vụ, quyền hạn\ncủa mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch,\nđiểm du lịch.\n\n2. Tổ chức, cá nhân quản lý khu du lịch, điểm du lịch có biện pháp phòng,\ntránh rủi ro và tô chức bộ phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-17",
+            "score": 0.6071702241897583,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 4,
+            "content": "uấn luyện viên, kỹ thuật viên, hướng dẫn viên có\n\n:\nchuyên môn phù hợp.\n\nì\n4. Phổ biến các quy định về bảo đảm an toàn cho khách du lịch; hướng dẫn\n_\n\n:\ncác thao tác kỹ thuật cho khách du lịch trước khi cung cập sản phẩm du lịch.\n\n|\n\n5. Cung cấp, hướng dẫn sử dụng và giám sát việc sử dụng trang thiết bị,\ndụng cụ hỗ trợ theo quy chuân, tiêu chuẩn, bảo đảm an toàn cho khách\n\n:\ndu lịch.\n\n:\n### Điều 10. Trách nhiệm của cơ quan, tổ chức, cá nhân"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-16",
+            "score": 0.6032896041870117,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 4,
+            "content": "về điều kiện khí hậu, thời tiết, sức khỏe và các\n\n|\nyêu tô liên quan khi cung câp các sản phẩm du lịch có nguy cơ ảnh hưởng đến\n\n|\ntính mạng, sức khỏe của khách du lịch.\n\n2. Có phương án cứu hộ, cứu nạn; bố trí lực lượng cứu hộ khách du lịch\nvà can thiệp, xử lý, ứng cứu kịp thời các sự cô, tai nạn, Tủi ro xảy ra; duy trì,\n\n:\nbảo đảm thông tin liên lạc với khách du lịch trong suôt thời gian cung cấp\n\nị\nsản phâm.\n:\n\n:\n3. Bố trí, sử dụng huấn luyện viên, kỹ thuật viên, hướng dẫn viên có"
+          }
+        ],
+        "latency_seconds": 1.843273,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.9,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 0.975
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm cho khách du lịch và phối hợp trong việc cứu hộ, cứu nạn trong trường hợp khẩn cấp",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Tổ chức, cá nhân kinh doanh du lịch phải cảnh báo nguy cơ",
+              "supported": true
+            },
+            {
+              "claim": "thông báo và chỉ dẫn kịp thời",
+              "supported": true
+            },
+            {
+              "claim": "áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 0.9,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately reflects the retrieved context and correctly answers the question."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm, thông báo và chỉ dẫn kịp thời trong trường hợp khẩn cấp, cũng như áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn cho khách du lịch [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-39",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 7,
+            "content": "phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch.\n\n3. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ\ngây nguy hiệm cho khách du lịch; thông báo, chỉ dân kịp thời cho khách du lịch\ntrong trường hợp khân cập; áp dụng biện pháp cân thiệt, phôi hợp với cơ quan,\ntô chức, cá nhân có liên quan trong việc cứu hộ, cứu nạn cho khách du lịch.\n\n### Điều 14. Giải quyết kiến nghị của khách du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-38",
+            "score": 0.031746031746031744,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 7,
+            "content": "l\n7\n\n### Điều 13. Bảo đảm an toàn cho khách du lịch\n\n1, Cơ quan nhà nước có thẩm quyên, trong phạm vi nhiệm vụ, quyền hạn\ncủa mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch,\nđiểm du lịch.\n\n2. Tổ chức, cá nhân quản lý khu du lịch, điểm du lịch có biện pháp phòng,\ntránh rủi ro và tô chức bộ phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-16",
+            "score": 0.0315136476426799,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 4,
+            "content": "về điều kiện khí hậu, thời tiết, sức khỏe và các\n\n|\nyêu tô liên quan khi cung câp các sản phẩm du lịch có nguy cơ ảnh hưởng đến\n\n|\ntính mạng, sức khỏe của khách du lịch.\n\n2. Có phương án cứu hộ, cứu nạn; bố trí lực lượng cứu hộ khách du lịch\nvà can thiệp, xử lý, ứng cứu kịp thời các sự cô, tai nạn, Tủi ro xảy ra; duy trì,\n\n:\nbảo đảm thông tin liên lạc với khách du lịch trong suôt thời gian cung cấp\n\nị\nsản phâm.\n:\n\n:\n3. Bố trí, sử dụng huấn luyện viên, kỹ thuật viên, hướng dẫn viên có"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-21",
+            "score": 0.029437229437229435,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 5,
+            "content": "chức, cá nhân quản lý khu du lịch, điểm du lịch:\n\na) Kiểm tra, giám sát việc tuân thủ các quy định tại Điều 9 Nghị định này\ncủa các tổ chức, cá nhân kinh doanh sản phẩm du lịch trong phạm vi quản lý;\n\nb) Tuân thủ quy định tại khoản 1 Điều này trong trường hợp trực tiếp\nkinh doanh các sản phâm du lịch;\n\nc) Phối hợp với tổ chức, cá nhân có liên quan tổ chức cứu hộ, cứu nạn\ntrong trường hợp xảy ra rủi ro đôi với khách du lịch.\n\n4. Trách nhiệm của doanh nghiệp kinh doanh dịch vụ lữ hành:"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-106",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 18,
+            "content": "và nơi đến du lịch; phôi hợp với cơ quan nhà nước\ncó thẩm quyền xử lý kịp thời các hành vi vi phạm pháp luật của khách du lịch\ntrong thời gian tham gia chương trình du lịch;\n\nh) Thực hiện chế độ báo cáo, thống kê, kế toán, lưu giữ hỗ sơ theo quy định\ncủa pháp luật;\n\n¡) Áp dụng biện pháp bảo đảm an toàn tính mạng, sức khỏe, tài sản của\nkhách du lịch; kịp thời thông báo cho cơ quan nhà nước có thâm quyên về tai\nnạn, rủi ro xảy ra với khách du lịch và có biện pháp khắc phục hậu quả;"
+          }
+        ],
+        "latency_seconds": 2.214819,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm cho khách du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Thông báo và chỉ dẫn kịp thời trong trường hợp khẩn cấp cho khách du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn cho khách du lịch.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Tổ chức, cá nhân kinh doanh du lịch phải cảnh báo nguy cơ, thông báo và chỉ dẫn kịp thời.",
+              "supported": true
+            },
+            {
+              "claim": "Tổ chức, cá nhân kinh doanh du lịch phải áp dụng biện pháp cần thiết và phối hợp cứu hộ, cứu nạn.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The system successfully retrieved the relevant context and generated an accurate answer fully supported by the retrieved text."
+        }
+      }
+    },
+    {
+      "question": "Điểm du lịch cần đáp ứng những điều kiện chung nào để được công nhận?",
+      "expected_answer": "Điểm du lịch phải có tài nguyên và ranh giới xác định; có hạ tầng, dịch vụ cần thiết; và đáp ứng yêu cầu về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 23, trang 10: Điều kiện công nhận điểm du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Các điều kiện để được công nhận điểm du lịch bao gồm:\n\n* Có tài nguyên du lịch, có ranh giới xác định [S1].\n* Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch [S1].\n* Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-58",
+            "score": 0.7718507647514343,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "lập, quản lý và thực hiện quy hoạch về du lịch.\n\n## Chương IV\nĐIÊM DU LỊCH, KHU DU LỊCH\n\n### Điều 23. Điều kiện công nhận điểm du lịch\n\n1. Điều kiện công nhận điểm du lịch bao gồm:\n\na) Có tài nguyên du lịch, có ranh giới xác định;\n\nb) Có kết cấu hạ tằng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;\n\nc) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường\ntheo quy định của pháp luật."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-23",
+            "score": 0.7428821921348572,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 5,
+            "content": "_\n### Điều 11. Điều kiện công nhận điểm du lịch\n\n1. Có tài nguyên du lịch, có ranh giới xác định trên bản đồ địa hình do cơ\nquan có thâm quyên xác nhận. Tỷ lệ bản đô phụ thuộc vào yêu câu quản lý và\nđịa hình khu vực.\n\n2. Có kết cấu hạ tằng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch,\nbao gôm:\n\na) Có kết nối giao thông, thông tin liên lạc thuận lợi;\n\nb) Có điện, nước sạch;\n\ne) Có biển chỉ dẫn, thuyết minh về điểm du lịch;\n\nđ) Có dịch vụ ăn uống, mua sắm."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-59",
+            "score": 0.7201100587844849,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": ", bảo vệ môi trường\ntheo quy định của pháp luật.\n\n2. Chính phủ quy định chỉ tiết Điều này.\n### Điều 24. Hồ sơ, trình tự, thủ tục, thắm quyền công nhận điểm du lịch\n\n1. Hồ sơ đề nghị công nhận điểm du lịch bao gồm:\n\na) Đơn đề nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn\nhóa, Thê thao và Du lịch quy định;\n\nb) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại\nkhoản 1 Điêu 23 của Luật này."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-64",
+            "score": 0.7011103630065918,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 11,
+            "content": "toàn xã hội, bảo vệ môi\ntrường tại điêm du lịch;\n\nđ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch\ntrong phạm vi quản lý.\n\n### Điều 26. Điều kiện công nhận khu du lịch\n\n1. Điều kiện công nhận khu du lịch cấp tỉnh bao gồm:\n\na) Có tài nguyên du lịch với ưu thế về cảnh quan thiên nhiên hoặc giá trị\nvăn hóa, có ranh giới xác định;\n\nb) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu\ntrú, ăn uỗng và các nhu câu khác của khách du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-60",
+            "score": 0.6943919658660889,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "lịch quy định tại\nkhoản 1 Điêu 23 của Luật này.\n\n2. Trình tự, thủ tục, thẩm quyền đề nghị công nhận điểm du lịch được quy\nđịnh như sau:\n\na) Tổ chức, cá nhân sở hữu, quản lý điểm du lịch nộp 01 bộhồ sơ đến cơ\nquan chuyên môn thuộc Ủy ban nhân dân câp tỉnh thực hiện quản lý nhà nước\nvề du lịch (sau đây gọi chung là cơ quan chuyên môn về du lịch cầp tỉnh) nơi\ncó điểm du lịch;"
+          }
+        ],
+        "latency_seconds": 2.897016,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Có tài nguyên du lịch, có ranh giới xác định",
+              "supported": true
+            },
+            {
+              "claim": "Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Điểm du lịch phải có tài nguyên và ranh giới xác định",
+              "supported": true
+            },
+            {
+              "claim": "Điểm du lịch phải có hạ tầng, dịch vụ cần thiết",
+              "supported": true
+            },
+            {
+              "claim": "Điểm du lịch phải đáp ứng yêu cầu về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            true,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately lists all required conditions for recognizing a tourist spot based on the retrieved legal context."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Các điều kiện công nhận điểm du lịch bao gồm:\n\n* Có tài nguyên du lịch, có ranh giới xác định [S1].\n* Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch [S1].\n* Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-58",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "lập, quản lý và thực hiện quy hoạch về du lịch.\n\n## Chương IV\nĐIÊM DU LỊCH, KHU DU LỊCH\n\n### Điều 23. Điều kiện công nhận điểm du lịch\n\n1. Điều kiện công nhận điểm du lịch bao gồm:\n\na) Có tài nguyên du lịch, có ranh giới xác định;\n\nb) Có kết cấu hạ tằng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;\n\nc) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường\ntheo quy định của pháp luật."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-23",
+            "score": 0.030621785881252923,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 5,
+            "content": "_\n### Điều 11. Điều kiện công nhận điểm du lịch\n\n1. Có tài nguyên du lịch, có ranh giới xác định trên bản đồ địa hình do cơ\nquan có thâm quyên xác nhận. Tỷ lệ bản đô phụ thuộc vào yêu câu quản lý và\nđịa hình khu vực.\n\n2. Có kết cấu hạ tằng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch,\nbao gôm:\n\na) Có kết nối giao thông, thông tin liên lạc thuận lợi;\n\nb) Có điện, nước sạch;\n\ne) Có biển chỉ dẫn, thuyết minh về điểm du lịch;\n\nđ) Có dịch vụ ăn uống, mua sắm."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-64",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 11,
+            "content": "toàn xã hội, bảo vệ môi\ntrường tại điêm du lịch;\n\nđ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch\ntrong phạm vi quản lý.\n\n### Điều 26. Điều kiện công nhận khu du lịch\n\n1. Điều kiện công nhận khu du lịch cấp tỉnh bao gồm:\n\na) Có tài nguyên du lịch với ưu thế về cảnh quan thiên nhiên hoặc giá trị\nvăn hóa, có ranh giới xác định;\n\nb) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu\ntrú, ăn uỗng và các nhu câu khác của khách du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-59",
+            "score": 0.030158730158730156,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": ", bảo vệ môi trường\ntheo quy định của pháp luật.\n\n2. Chính phủ quy định chỉ tiết Điều này.\n### Điều 24. Hồ sơ, trình tự, thủ tục, thắm quyền công nhận điểm du lịch\n\n1. Hồ sơ đề nghị công nhận điểm du lịch bao gồm:\n\na) Đơn đề nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn\nhóa, Thê thao và Du lịch quy định;\n\nb) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại\nkhoản 1 Điêu 23 của Luật này."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-22",
+            "score": 0.030090497737556562,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 5,
+            "content": "iệm của doanh nghiệp kinh doanh dịch vụ lữ hành:\n\na) Tuân thủ quy định tại khoản 1 Điều này trong trường hợp trực tiếp\nkinh doanh các sản phâm du lịch;\n\nb) Sử dụng dịch vụ do tô chức, cá nhân thuộc Danh mục tổ chức, cá nhân\nđáp ứng đây đủ các biện pháp bảo đảm an toàn cho khách du lịch cung câp\ntrong trường hợp không trực tiệp kinh doanh các sản phâm du lịch này.\n\n-\nR\nChương TV\nĐIÊU KIỆN CÔNG NHẠN ĐIM DU LỊCH, KHU DU LỊCH\n\n_\n### Điều 11. Điều kiện công nhận điểm du lịch"
+          }
+        ],
+        "latency_seconds": 8.333964,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Có tài nguyên du lịch, có ranh giới xác định",
+              "supported": true
+            },
+            {
+              "claim": "Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Điểm du lịch phải có tài nguyên và ranh giới xác định",
+              "supported": true
+            },
+            {
+              "claim": "Có hạ tầng, dịch vụ cần thiết",
+              "supported": true
+            },
+            {
+              "claim": "Đáp ứng yêu cầu về an ninh, trật tự, an toàn xã hội và bảo vệ môi trường",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately captures all required conditions for recognizing a tourist spot using the retrieved context."
+        }
+      }
+    },
+    {
+      "question": "Thời hạn thẩm định và quyết định công nhận điểm du lịch là bao lâu?",
+      "expected_answer": "Cơ quan chuyên môn cấp tỉnh thẩm định trong 20 ngày kể từ khi nhận hồ sơ hợp lệ; Ủy ban nhân dân cấp tỉnh quyết định trong 10 ngày kể từ khi nhận kết quả thẩm định.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 24, trang 10: Trình tự công nhận điểm du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Thời hạn thẩm định và quyết định công nhận điểm du lịch được quy định như sau:\n* Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và trình Ủy ban nhân dân cấp tỉnh trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ [S1].\n* Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-61",
+            "score": 0.7389833331108093,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "ên môn về du lịch cầp tỉnh) nơi\ncó điểm du lịch;\n\nb) Trong thời hạn 20 ngày kế từ ngày nhận được hồ sơ hợp lệ, cơ quan\nchuyên môn về du lịch câp tỉnh thâm định, trình Ủy ban nhân dân cập tỉnh;\n\nc) Trong thời hạn 10 ngày kế từ ngày nhận được kết quả thâm định, Ủy\nban nhân dân câp tỉnh quyết định công nhận điêm du lịch; trường hợp từ chối,\nphải trả lời băng văn bản và nêu rõ lý do.\n\n3. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận điểm du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-133",
+            "score": 0.6927659511566162,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "băng văn bản và nêu rõ yêu cầu\nsửa đôi, bô sung;\n\nb) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà\nnước có thầm quyên chủ trì, phôi hợp với tô chức xã hội - nghê nghiệp về du\nlịch thâm định và ra quyệt định công nhận hạng cơ sở lưu trú du lịch; trường hợp\nkhông công nhận, phải thông báo băng văn bản và nêu rõ lý do."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-150",
+            "score": 0.6822308897972107,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 26,
+            "content": "26\n\nl\n\nvà lệ phí.\n\n5. Quyết định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu\nchuẩn phục vụ khách du lịch có thời hạn 03 năm. Sau khi hết thời hạn, tô chức,\ncá nhân kinh doanh dịch vụ du lịch khác có nhu cầu đăng ký công nhận lại cơ SỞ\nkinh doanh dịch vụ du lịch đạt tiêu chuẩn phục vụ khách du lịch thực hiện theo\nquy định tại các khoản 2, 3 và 4 Điêu này."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-149",
+            "score": 0.6806280612945557,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 25,
+            "content": "môn vềdu lịch cầp tỉnh nơi đặt cơ sởkinh doanh;\n\nb) Trong thời hạn 20 ngày kế từ ngày nhận được hồ sơ hợp lệ, cơ quan\nchuyên môn về du lịch cấp tỉnh thâm định và công nhận; trường hợp không công\nnhận, phải trả lời bằng văn bản và nêu rõ lý do.\n\n4. Phí thâm định công nhận cơ sởkinh doanh dịch vụ du lịch khác đạt tiêu\nchuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-72",
+            "score": 0.6806179881095886,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 12,
+            "content": "n cấp tỉnh nộp 01 bộ hồ sơ đến Tổng cục Du lịch;\n\nb) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du\nlịch thâm định, trình Bộ trưởng Bộ Văn hóa, Thê thao và Du lịch;\n\nc) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Bộ\ntrưởng BộVăn hóa, Thê thao và Du lịch quyết định công nhận và phôi hợp với"
+          }
+        ],
+        "latency_seconds": 3.886752,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và trình Ủy ban nhân dân cấp tỉnh trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ.",
+              "supported": true
+            },
+            {
+              "claim": "Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Cơ quan chuyên môn cấp tỉnh thẩm định trong 20 ngày kể từ khi nhận hồ sơ hợp lệ.",
+              "supported": true
+            },
+            {
+              "claim": "Ủy ban nhân dân cấp tỉnh quyết định trong 10 ngày kể từ khi nhận kết quả thẩm định.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately reflects the statutory timelines using fully relevant retrieved context."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Thời hạn thẩm định và quyết định công nhận điểm du lịch được quy định như sau:\n- Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và trình Ủy ban nhân dân cấp tỉnh trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ [S1].\n- Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-61",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "ên môn về du lịch cầp tỉnh) nơi\ncó điểm du lịch;\n\nb) Trong thời hạn 20 ngày kế từ ngày nhận được hồ sơ hợp lệ, cơ quan\nchuyên môn về du lịch câp tỉnh thâm định, trình Ủy ban nhân dân cập tỉnh;\n\nc) Trong thời hạn 10 ngày kế từ ngày nhận được kết quả thâm định, Ủy\nban nhân dân câp tỉnh quyết định công nhận điêm du lịch; trường hợp từ chối,\nphải trả lời băng văn bản và nêu rõ lý do.\n\n3. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận điểm du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-72",
+            "score": 0.03177805800756621,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 12,
+            "content": "n cấp tỉnh nộp 01 bộ hồ sơ đến Tổng cục Du lịch;\n\nb) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du\nlịch thâm định, trình Bộ trưởng Bộ Văn hóa, Thê thao và Du lịch;\n\nc) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Bộ\ntrưởng BộVăn hóa, Thê thao và Du lịch quyết định công nhận và phôi hợp với"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-150",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 26,
+            "content": "26\n\nl\n\nvà lệ phí.\n\n5. Quyết định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu\nchuẩn phục vụ khách du lịch có thời hạn 03 năm. Sau khi hết thời hạn, tô chức,\ncá nhân kinh doanh dịch vụ du lịch khác có nhu cầu đăng ký công nhận lại cơ SỞ\nkinh doanh dịch vụ du lịch đạt tiêu chuẩn phục vụ khách du lịch thực hiện theo\nquy định tại các khoản 2, 3 và 4 Điêu này."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-134",
+            "score": 0.029631255487269532,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "ận, phải thông báo băng văn bản và nêu rõ lý do.\n\n6. Quyết định công nhận hạng cơ sởlưu trú du lịch có thời hạn 05 năm.\nSau khi hết thời hạn, tô chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu\ncâu đăng ký xếp hạng lại cơ sởlưu trú du lịch thực hiện theo quy định tại các\nkhoản 4, 5 và 7 Điều này.\n\n7. Phí thâm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo\nquy định của pháp luật về phí và lệ phí."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-69",
+            "score": 0.029437229437229435,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 12,
+            "content": "tỉnh thâm định, trình Ủy ban nhân dân cấp tỉnh;\n\nc) Trong thời hạn I5 ngày kế từ ngày nhận được kết quả thẩm định, Ủy ban\nnhân dân cập tỉnh quyết định công nhận khu du lịch câp tỉnh; trường hợp từ\nchối, phải trả lời bằng văn bản và nêu rõ lý do.\n\n3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp huyện\ntrở lên, cơ quan chuyên môn vệ du lịch câp tỉnh lập hô sơ đê nghị công nhận khu\ndu lịch cấp tỉnh. Ủy ban nhân dân cấp tỉnh thành lập hội đông thâm định, quyêt"
+          }
+        ],
+        "latency_seconds": 2.005723,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và trình Ủy ban nhân dân cấp tỉnh trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ.",
+              "supported": true
+            },
+            {
+              "claim": "Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Cơ quan chuyên môn cấp tỉnh thẩm định trong 20 ngày kể từ khi nhận hồ sơ hợp lệ.",
+              "supported": true
+            },
+            {
+              "claim": "Ủy ban nhân dân cấp tỉnh quyết định trong 10 ngày kể từ khi nhận kết quả thẩm định.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The RAG system accurately retrieved the relevant context and generated an answer that fully matches both the reference and the source document."
+        }
+      }
+    },
+    {
+      "question": "Điều kiện về trình độ của người phụ trách kinh doanh lữ hành nội địa và quốc tế khác nhau thế nào?",
+      "expected_answer": "Lữ hành nội địa yêu cầu tốt nghiệp trung cấp trở lên chuyên ngành lữ hành hoặc có chứng chỉ nghiệp vụ nội địa; lữ hành quốc tế yêu cầu cao đẳng trở lên hoặc chứng chỉ nghiệp vụ quốc tế.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 31, trang 14: Điều kiện kinh doanh dịch vụ lữ hành.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Điều kiện về trình độ của người phụ trách kinh doanh dịch vụ lữ hành khác nhau như sau:\n\n* **Đối với lữ hành nội địa:** Người phụ trách phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa [S2].\n* **Đối với lữ hành quốc tế:** Người phụ trách phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-79",
+            "score": 0.7056645750999451,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "chứng chỉ nghiệp vụ điêu hành du lịch nội địa.\n.\n2. Điều kiện kinh doanh dịch vụ lữ bành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở\nlên chuyên ngành về lữ hành; trường hợp tôt nghiệp cao đăng trở lên chuyên\nngành khác phải có chứng chỉ nghiệp vụ điêu hành du lịch quôc tê."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-78",
+            "score": 0.6941598653793335,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "14\n\n### Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật vềdoanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp\ntrở lên chuyên ngành về lữ hành; trường hợp tôt nghiệp trung câp trở lên chuyên\nngành khác phải có chứng chỉ nghiệp vụ điêu hành du lịch nội địa.\n."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-80",
+            "score": 0.6615537405014038,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "ó chứng chỉ nghiệp vụ điêu hành du lịch quôc tê.\n\n-\n3. Doanh nghiệp đáp Ứng các điều kiện kinh doanh quy định tại khoản 1\nĐiêu này được cấp Giây phép kinh doanh dịch\nvụ lữ hành nội địa; đáp ứng các\nđiều kiện kinh doanh quy định tại khoản 2 Điều này được cập Giây phép kinh\ndoanh dịch vụ lữ hành quôc tê.\n\nPhí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy\nphép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp\n\nluật về phí và lệ phí."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-76",
+            "score": 0.659628689289093,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 13,
+            "content": ") Các nội dung khác theo quy định của pháp luật.\n\n2. Chính phủ quy định mô hình quản lý khu du lịch quốc gia; Ủy ban nhân\ndân cấp tỉnh quy định mô hình quản lý khu du lịch câp tỉnh.\n\n## Chương V\nKINH DOANH DU LỊCH\n\nMục 1\nDỊCH VỤ LỮ HÀNH\n\n### Điều 30. Phạm vi kinh doanh dịch vụ lữ hành\n\n1. Kinh doanh dịch vụ lữ hành nội địa phục vụ khách du lịch nội địa.\n\n2. Kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến\nViệt Nam và khách du lịch ra nước ngoài."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-81",
+            "score": 0.645821213722229,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "n theo quy định của pháp\n\nluật về phí và lệ phí.\n\n4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành\nquy định tại điểm b khoản 1 và điêm b khoản 2 Điều này.\n\n5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chị tiết về người\nphụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bôi dưỡng, tổ chức thị,\ncâp chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điêu hành du\nlịch quốc tê."
+          }
+        ],
+        "latency_seconds": 1.76476,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.866667,
+          "average": 0.966667
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Đối với lữ hành nội địa, người phụ trách phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành hoặc chuyên ngành khác kèm chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+              "supported": true
+            },
+            {
+              "claim": "Đối với lữ hành quốc tế, người phụ trách phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành hoặc chuyên ngành khác kèm chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Lữ hành nội địa yêu cầu tốt nghiệp trung cấp trở lên chuyên ngành lữ hành hoặc có chứng chỉ nghiệp vụ nội địa.",
+              "supported": true
+            },
+            {
+              "claim": "Lữ hành quốc tế yêu cầu cao đẳng trở lên hoặc chứng chỉ nghiệp vụ quốc tế.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            true
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The RAG system successfully retrieved the relevant legal provisions and accurately answered the question based on the context."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Sự khác nhau về điều kiện trình độ của người phụ trách kinh doanh dịch vụ lữ hành bao gồm:\n\n* **Người phụ trách kinh doanh dịch vụ lữ hành nội địa:** Phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa [S2].\n* **Người phụ trách kinh doanh dịch vụ lữ hành quốc tế:** Phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-79",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "chứng chỉ nghiệp vụ điêu hành du lịch nội địa.\n.\n2. Điều kiện kinh doanh dịch vụ lữ bành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở\nlên chuyên ngành về lữ hành; trường hợp tôt nghiệp cao đăng trở lên chuyên\nngành khác phải có chứng chỉ nghiệp vụ điêu hành du lịch quôc tê."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-78",
+            "score": 0.03225806451612903,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "14\n\n### Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật vềdoanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp\ntrở lên chuyên ngành về lữ hành; trường hợp tôt nghiệp trung câp trở lên chuyên\nngành khác phải có chứng chỉ nghiệp vụ điêu hành du lịch nội địa.\n."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-81",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "n theo quy định của pháp\n\nluật về phí và lệ phí.\n\n4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành\nquy định tại điểm b khoản 1 và điêm b khoản 2 Điều này.\n\n5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chị tiết về người\nphụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bôi dưỡng, tổ chức thị,\ncâp chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điêu hành du\nlịch quốc tê."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-80",
+            "score": 0.03057889822595705,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 14,
+            "content": "ó chứng chỉ nghiệp vụ điêu hành du lịch quôc tê.\n\n-\n3. Doanh nghiệp đáp Ứng các điều kiện kinh doanh quy định tại khoản 1\nĐiêu này được cấp Giây phép kinh doanh dịch\nvụ lữ hành nội địa; đáp ứng các\nđiều kiện kinh doanh quy định tại khoản 2 Điều này được cập Giây phép kinh\ndoanh dịch vụ lữ hành quôc tê.\n\nPhí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy\nphép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp\n\nluật về phí và lệ phí."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-76",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 13,
+            "content": ") Các nội dung khác theo quy định của pháp luật.\n\n2. Chính phủ quy định mô hình quản lý khu du lịch quốc gia; Ủy ban nhân\ndân cấp tỉnh quy định mô hình quản lý khu du lịch câp tỉnh.\n\n## Chương V\nKINH DOANH DU LỊCH\n\nMục 1\nDỊCH VỤ LỮ HÀNH\n\n### Điều 30. Phạm vi kinh doanh dịch vụ lữ hành\n\n1. Kinh doanh dịch vụ lữ hành nội địa phục vụ khách du lịch nội địa.\n\n2. Kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến\nViệt Nam và khách du lịch ra nước ngoài."
+          }
+        ],
+        "latency_seconds": 1.98565,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Người phụ trách kinh doanh dịch vụ lữ hành nội địa phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành, hoặc chuyên ngành khác kèm chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+              "supported": true
+            },
+            {
+              "claim": "Người phụ trách kinh doanh dịch vụ lữ hành quốc tế phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành, hoặc chuyên ngành khác kèm chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Lữ hành nội địa yêu cầu tốt nghiệp trung cấp trở lên chuyên ngành lữ hành hoặc có chứng chỉ nghiệp vụ nội địa.",
+              "supported": true
+            },
+            {
+              "claim": "Lữ hành quốc tế yêu cầu cao đẳng trở lên hoặc chứng chỉ nghiệp vụ quốc tế.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately and comprehensively compares the qualification requirements based on the retrieved contexts."
+        }
+      }
+    },
+    {
+      "question": "Luật Du lịch liệt kê những loại cơ sở lưu trú nào?",
+      "expected_answer": "Gồm khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch, nhà nghỉ du lịch, nhà ở có phòng cho khách thuê, bãi cắm trại và các cơ sở lưu trú khác.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 48, trang 21-22: Các loại cơ sở lưu trú du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Theo Luật Du lịch, các loại cơ sở lưu trú du lịch bao gồm:\n- Khách sạn [S2]\n- Biệt thự du lịch [S2]\n- Căn hộ du lịch [S2]\n- Tàu thủy lưu trú du lịch [S4]\n- Nhà nghỉ du lịch [S4]\n- Nhà ở có phòng cho khách du lịch thuê [S4]\n- Bãi cắm trại du lịch [S4]\n- Các cơ sở lưu trú du lịch khác [S4]",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-55",
+            "score": 0.7437857985496521,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 11,
+            "content": "### Điều 21. Các loại hình cơ sở lưu trú du lịch\n\n1. Khách sạn: Cơ sở lưu trú du lịch bảo đảm chất lượng về CƠ SỞ Vật chất,\ntrang thiệt bị và dịch vụ cân thiết phục vụ khách du lịch; bao gôm: Khách sạn\nnghỉ dưỡng, khách sạn bên đường, khách sạn nôi và khách sạn thành phô.\n\nl a) Khách sạn nghỉ dưỡng: Cơ sở lưu trú du lịch được xây dựng thành\nkhôi hoặc thành quân thê các biệt thự, nhà thâp tâng, căn hộ, ở khu vực có\ncảnh quan thiên nhiên đẹp;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-126",
+            "score": 0.7322965264320374,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 21,
+            "content": "ch du lịch theo hành trình, tuyên đường phù hợp.\n\n2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.\n\n3. Báo đảm các tiêu chuẩn, điều kiện theo quy định trong suốt quá trình\nkhai thác, sử dụng phương tiện vận tải.\n\n4. Gắn biển hiệu vận tải khách du lịch ở nơi dễ nhận biết trên phương tiện\nvận tải.\n\nMục 3\nLƯU TRÚ DU LỊCH\n\n### Điều 48. Các loại cơ sở lưu trú du lịch\n\n1. Khách sạn.\n\n2. Biệt thự du lịch.\n\n3. Căn hộdu lịch."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-128",
+            "score": 0.6921314597129822,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": ", an toàn thực phẩm theo quy định của pháp luật;\n\nc) Đáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ\nkhách du lịch.\n\n2. Chính phủ quy định chỉ tiết điểm c khoản 1 Điều này.\n### Điều 50. Xếp hạng cơ sở lưu trú du lịch\n\n1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện\nđăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thâm quyên.\n2 Khách sạn, biệt thự du lịch, căn hộdu lịch, tàu thủy lưu trú du lịch được"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-127",
+            "score": 0.6873812675476074,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "22\n\n4. Tàu thủy lưu trú du lịch.\n\n5, Nhà nghỉ du lịch.\n\n6. Nhà ở có phòng cho khách du lịch thuê.\n\n7. Bãi cắm trại du lịch.\n\n§. Các cơ sở lưu trú du lịch khác.\n\n### Điều 49. Điều kiện kinh doanh dịch vụ lưu trú du lịch\n\n1. Điều kiện kinh doanh địch vụ lưu trú du lịch bao gồm:\n\na) Có đăng ký kinh doanh theo quy định của pháp luật;\nb) Đáp ứng điều kiện về an ninh, trật tự, an toàn về phòng cháy và chữa\ncháy, bảo vệ môi trường, an toàn thực phẩm theo quy định của pháp luật;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-129",
+            "score": 0.6785378456115723,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "ịch, căn hộdu lịch, tàu thủy lưu trú du lịch được\nxếp hạng theo tiêu chuân quôc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ SỞ\nlưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.\n\n3. Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy\nđịnh như sau:\n\na) Tổng cục Du lịch thâm định, công nhận cơ sở lưu trú du lịch hạng 04 sao\nvà hạng 05 sao;"
+          }
+        ],
+        "latency_seconds": 1.876278,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách sạn là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Biệt thự du lịch là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Căn hộ du lịch là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Tàu thủy lưu trú du lịch là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Nhà nghỉ du lịch là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Nhà ở có phòng cho khách du lịch thuê là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Bãi cắm trại du lịch là cơ sở lưu trú du lịch theo Luật Du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Các cơ sở lưu trú du lịch khác nằm trong danh sách theo Luật Du lịch.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm khách sạn.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm biệt thự du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm căn hộ du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm tàu thủy lưu trú du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm nhà nghỉ du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm nhà ở có phòng cho khách thuê.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ sở lưu trú du lịch gồm bãi cắm trại và các cơ sở lưu trú khác.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The RAG system successfully retrieved the correct legal provisions and accurately generated a complete list of tourist accommodation types matching the reference answer."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Theo Luật Du lịch, các loại cơ sở lưu trú du lịch bao gồm:\n1. Khách sạn [S5].\n2. Biệt thự du lịch [S5].\n3. Căn hộ du lịch [S5].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-70",
+            "score": 0.030886196246139225,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 14,
+            "content": "n về kêt quả\nkiêm tra đên cơ sở lưu trú du lịch.\n\nTrường hợp cơ sở lưu trú du lịch không đáp ứng điều kiện tối thiểu\ntương ứng với loại hình cơ Sở lưu trú du lịch theo quy định tại Nghị định này,\n\nSở Du lịch, Sở Văn hóa, Thê thao và Du lịch yêu cầu cơ sở lưu trú du lịch\nbô sung, hoàn thiện, đáp ứng điêu kiện tôi thiêu hoặc thay đôi loại hình cơ sở\nlưu trú du lịch phù hợp. Cơ sở lưu trú có trách nhiệm thông báo băng văn bản"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-68",
+            "score": 0.030776515151515152,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 14,
+            "content": "a) Tên, loại hình, quy mô cơ sở lưu trú du lịch;\n\nb) Địa chỉ cơ sở lưu trú du lịch, thông tin về người đại diện theo pháp luật;\n\n_\n©) Cam kết đủ điều kiện kinh doanh dịch vụ lưu trú du lịch quy định tại\nĐiêu 49 Luật Du lịch và Nghị định này.\n\n_ 2. Căn cứ kế hoạch công tác được phê duyệt hoặc trong trường hợp đột\nxuât\n\ntheo quy định của pháp luật, Sở Du lịch, SỞ Văn hóa, Thê thao và\nDu"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-55",
+            "score": 0.030679156908665108,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 11,
+            "content": "### Điều 21. Các loại hình cơ sở lưu trú du lịch\n\n1. Khách sạn: Cơ sở lưu trú du lịch bảo đảm chất lượng về CƠ SỞ Vật chất,\ntrang thiệt bị và dịch vụ cân thiết phục vụ khách du lịch; bao gôm: Khách sạn\nnghỉ dưỡng, khách sạn bên đường, khách sạn nôi và khách sạn thành phô.\n\nl a) Khách sạn nghỉ dưỡng: Cơ sở lưu trú du lịch được xây dựng thành\nkhôi hoặc thành quân thê các biệt thự, nhà thâp tâng, căn hộ, ở khu vực có\ncảnh quan thiên nhiên đẹp;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-135",
+            "score": 0.028991596638655463,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "ện theo\nquy định của pháp luật về phí và lệ phí.\n\n8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính\ncủa cơ sở lưu trú du lịch.\n\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận\nhạng cơ sở lưu trú du lịch.\n\n### Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch\n\n1. Tổng cục Du lịch công bốdanh sách cơ sở lưu trú du lịch đã được xếp\nhạng theo thâm quyên; hướng dẫn, kiêm tra việc xếp hạng cơ sở lưu trú du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-126",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 21,
+            "content": "ch du lịch theo hành trình, tuyên đường phù hợp.\n\n2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.\n\n3. Báo đảm các tiêu chuẩn, điều kiện theo quy định trong suốt quá trình\nkhai thác, sử dụng phương tiện vận tải.\n\n4. Gắn biển hiệu vận tải khách du lịch ở nơi dễ nhận biết trên phương tiện\nvận tải.\n\nMục 3\nLƯU TRÚ DU LỊCH\n\n### Điều 48. Các loại cơ sở lưu trú du lịch\n\n1. Khách sạn.\n\n2. Biệt thự du lịch.\n\n3. Căn hộdu lịch."
+          }
+        ],
+        "latency_seconds": 2.057598,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.5,
+          "context_recall": 0.428571,
+          "context_precision": 0.366667,
+          "average": 0.57381
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khách sạn là một trong các loại cơ sở lưu trú du lịch theo Luật Du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Biệt thự du lịch là một trong các loại cơ sở lưu trú du lịch theo Luật Du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Căn hộ du lịch là một trong các loại cơ sở lưu trú du lịch theo Luật Du lịch",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khách sạn là cơ sở lưu trú du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Biệt thự du lịch là cơ sở lưu trú du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Căn hộ du lịch là cơ sở lưu trú du lịch",
+              "supported": true
+            },
+            {
+              "claim": "Tàu thủy lưu trú du lịch là cơ sở lưu trú du lịch",
+              "supported": false
+            },
+            {
+              "claim": "Nhà nghỉ du lịch là cơ sở lưu trú du lịch",
+              "supported": false
+            },
+            {
+              "claim": "Nhà ở có phòng cho khách thuê là cơ sở lưu trú du lịch",
+              "supported": false
+            },
+            {
+              "claim": "Bãi cắm trại và các cơ sở lưu trú khác là cơ sở lưu trú du lịch",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            false,
+            false,
+            true,
+            false,
+            true
+          ],
+          "answer_relevance": 0.5,
+          "failure_stage": "generation",
+          "explanation": "The system retrieved the correct legal clause but generated an incomplete list of accommodation types."
+        }
+      }
+    },
+    {
+      "question": "Cơ quan nào công nhận hạng sao cho cơ sở lưu trú du lịch?",
+      "expected_answer": "Tổng cục Du lịch công nhận hạng 4 và 5 sao; cơ quan chuyên môn về du lịch cấp tỉnh công nhận hạng 1, 2 và 3 sao.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 50, trang 22: Thẩm quyền công nhận hạng cơ sở lưu trú.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy định như sau:\n\n* **Tổng cục Du lịch** thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao [S1].\n* **Cơ quan chuyên môn về du lịch cấp tỉnh** thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao [S2].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-129",
+            "score": 0.7292541265487671,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "ịch, căn hộdu lịch, tàu thủy lưu trú du lịch được\nxếp hạng theo tiêu chuân quôc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ SỞ\nlưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.\n\n3. Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy\nđịnh như sau:\n\na) Tổng cục Du lịch thâm định, công nhận cơ sở lưu trú du lịch hạng 04 sao\nvà hạng 05 sao;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-130",
+            "score": 0.721192479133606,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "ơ sở lưu trú du lịch hạng 04 sao\nvà hạng 05 sao;\n\nb) Cơ quan chuyên môn về du lịch cấp tỉnh thâm định, công nhận cơ sở lưu\ntrú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.\n\n4. Hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch bao gồm:\n\na) Đơn đềnghị công nhận hạng cơ sở lưu trú du lịch theo mẫu do Bộ\ntrưởng BộVăn hóa, Thê thao và Du lịch quy định;\n\nb) Bản tự đánh giá chất lượng của cơ sở lưu trú du lịch theo quy định trong\ntiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-135",
+            "score": 0.7052856683731079,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "ện theo\nquy định của pháp luật về phí và lệ phí.\n\n8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính\ncủa cơ sở lưu trú du lịch.\n\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận\nhạng cơ sở lưu trú du lịch.\n\n### Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch\n\n1. Tổng cục Du lịch công bốdanh sách cơ sở lưu trú du lịch đã được xếp\nhạng theo thâm quyên; hướng dẫn, kiêm tra việc xếp hạng cơ sở lưu trú du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-215",
+            "score": 0.6731833815574646,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 37,
+            "content": "+ — 4. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyêt định của cơ\nị\nquan nhà nước có thấm quyền trước ngày Luật này có hiệu lực được tiếp tục sử\ndụng hạng đã được công nhận cho đến hết thời hạn theo quyết định.\n\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa\n|\n\n|\nM1, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017.\n\n¬\nCHỦ TỊCH QUỐC HỘI\n\n: _ VĂN PHÒNG\n—\nSAO-Y BẢN CHÍNH\n\"\n__.. CHỦ TỊCH NƯỚC\n__ Hà Nội, ngày/⁄ thắng Z năm 2017\n|"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-33",
+            "score": 0.6723045110702515,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 7,
+            "content": "năm; hệ thông cơ sở lưu trú du lịch đáp ứng tôi\n\nthiểu 300.000 lượt khách lưu trú môi năm, trong đó có cơ sở lưu trú du lịch\nđược công nhận hạng từ 4 sao trở lên;\n\nb) Các điều kiện quy định tại các điểm a, c, và d khoản 2 Điều 12 Nghị\nđịnh này.\n\n4. Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia.\n\n5. Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi\ntrường, bao gôm:"
+          }
+        ],
+        "latency_seconds": 4.67196,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Tổng cục Du lịch công nhận hạng 4 và 5 sao.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh công nhận hạng 1, 2 và 3 sao.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately and completely reflects the retrieved contexts and reference answer."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy định như sau:\n\n* Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao [S1].\n* Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao [S2].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-129",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "ịch, căn hộdu lịch, tàu thủy lưu trú du lịch được\nxếp hạng theo tiêu chuân quôc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ SỞ\nlưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.\n\n3. Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy\nđịnh như sau:\n\na) Tổng cục Du lịch thâm định, công nhận cơ sở lưu trú du lịch hạng 04 sao\nvà hạng 05 sao;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-130",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "ơ sở lưu trú du lịch hạng 04 sao\nvà hạng 05 sao;\n\nb) Cơ quan chuyên môn về du lịch cấp tỉnh thâm định, công nhận cơ sở lưu\ntrú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.\n\n4. Hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch bao gồm:\n\na) Đơn đềnghị công nhận hạng cơ sở lưu trú du lịch theo mẫu do Bộ\ntrưởng BộVăn hóa, Thê thao và Du lịch quy định;\n\nb) Bản tự đánh giá chất lượng của cơ sở lưu trú du lịch theo quy định trong\ntiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-135",
+            "score": 0.031024531024531024,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "ện theo\nquy định của pháp luật về phí và lệ phí.\n\n8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính\ncủa cơ sở lưu trú du lịch.\n\nBộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận\nhạng cơ sở lưu trú du lịch.\n\n### Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch\n\n1. Tổng cục Du lịch công bốdanh sách cơ sở lưu trú du lịch đã được xếp\nhạng theo thâm quyên; hướng dẫn, kiêm tra việc xếp hạng cơ sở lưu trú du lịch"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-131",
+            "score": 0.030776515151515152,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 22,
+            "content": "huẩn quốc gia về xếp hạng cơ sở lưu trú du lịch;\n\nc) Danh sách người quản lý và nhân viên trong cơ sở lưu trú du lịch;\n\nd) Bản sao có chứng thực văn bằng, chứng chỉ, giấy chứng nhận bồi dưỡng\nnghiệp vụ và giây chứng nhận thời gian làm việc trong lĩnh vực du lịch của\nngười quản lý, trưởng bộ phận trong cơ sở lưu trú du lịch.\n\n5. Trình tự, thủ tục công nhận hạng cơ sở lưu trú du lịch được quy định\nnhư sau:"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-137",
+            "score": 0.02967032967032967,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 23,
+            "content": "g nhận hạng, thay đỗi hạng cơ sở lưu\ntrú du lịch\n\n1. Cơ quan nhà nước có thâm quyền công nhận hạng cơ sở lưu trú du lịch\nthu hồi quyết định công nhận hạng đôi với cơ sở lưu trú du lịch không duy trì\nchất lượng theo tiêu chuân đã được công nhận.\n\n2. Khi có sự thay đổi về cơ sở vật chất kỹ thuật, dịch vụ, tô chức, cá nhân\nkinh doanh cơ sở lưu trú du lịch đề nghị cơ quan nhà nước có thâm quyên thâm"
+          }
+        ],
+        "latency_seconds": 13.708715,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Tổng cục Du lịch công nhận hạng 4 và 5 sao.",
+              "supported": true
+            },
+            {
+              "claim": "Cơ quan chuyên môn về du lịch cấp tỉnh công nhận hạng 1, 2 và 3 sao.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately reflects the reference answer using fully supported retrieved contexts."
+        }
+      }
+    },
+    {
+      "question": "Thẻ hướng dẫn viên du lịch quốc tế và nội địa có thời hạn bao lâu?",
+      "expected_answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 5 năm.",
+      "expected_context": "Luật Du lịch 09/2017/QH14, Điều 58, trang 27: Thẻ hướng dẫn viên du lịch.",
+      "expected_source": "luat_du_lich_09_2017_qh14.pdf",
+      "dense_only": {
+        "answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-158",
+            "score": 0.7515180706977844,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 27,
+            "content": "nội địa và thẻ hướng dẫn viên du lịch tại điểm.\n\nThẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa\ncó thời hạn 05 năm.\n\n5. Phí thâm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy\nđịnh của pháp luật về phí và lệ phí.\n\n### Điều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch\n\n1. Điều kiện cấp thẻ hướng dẫn viên du lịch nội địa bao gồm:\n\na) Có quốc tịch Việt Nam, thường trú tại Việt Nam;\nb) Có năng lực hành vi dân sự đầy đủ;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-170",
+            "score": 0.7084375619888306,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 29,
+            "content": "ồ sơ đến\ncơ quan nhà nước có thầm quyền cấp thẻ;\n\nb) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà\nnước có thâm quyền cấp thẻ có trách nhiệm cấp đổi thẻ hướng dẫn viên du lịch\n\ncho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.\n\n4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chỉ tiết về khóa\ncập nhật kiến thức, giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn\nviên du lịch quốc tế, hướng dẫn viên du lịch nội địa."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-164",
+            "score": 0.7059407234191895,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 28,
+            "content": "không quá 06 tháng tính đên thời điêm nộp hồ sơ;\n\nđ) 02 ảnh chân dung màu cỡ 3 cm x 4 cm.\n2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ\nhướng dẫn viên du lịch nội địa được quy định như sau:\n\na) Người đề nghị cấp thẻ hướng dẫn viên du lịch nộp 01 bộhồ sơ đến cơ\nquan chuyên môn về du lịch cập tỉnh;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-214",
+            "score": 0.6947709321975708,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 36,
+            "content": "p không được kinh doanh dịch vụ lữ hành nội địa.\n\n3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được\ncâp thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp\ntục hành nghề cho đến hết thời hạn ghi trên thẻ."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-162",
+            "score": 0.682299017906189,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 28,
+            "content": "28\n\nmm\"\n\nlịch; nội dung kiểm tra nghiệp vụhướng dẫn du lịch tại điểm; tiêu chuẩn thành\nthạo ngoại ngữ.\n\n### Điều 60. Hồ sơ, trình tự, thú tục, thẩm quyền cấp thể hướng dẫn viên\ndu lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa\n\n1. Hồ sơ đề nghịcấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn\nviên du lịch nội địa bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ\nVăn hóa, Thể thao và Du lịch quy định;"
+          }
+        ],
+        "latency_seconds": 2.721823,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 5 năm.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The system successfully retrieved the relevant context and generated an answer completely supported by the source text."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm [S1].",
+        "chunks": [
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-158",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 27,
+            "content": "nội địa và thẻ hướng dẫn viên du lịch tại điểm.\n\nThẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa\ncó thời hạn 05 năm.\n\n5. Phí thâm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy\nđịnh của pháp luật về phí và lệ phí.\n\n### Điều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch\n\n1. Điều kiện cấp thẻ hướng dẫn viên du lịch nội địa bao gồm:\n\na) Có quốc tịch Việt Nam, thường trú tại Việt Nam;\nb) Có năng lực hành vi dân sự đầy đủ;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-171",
+            "score": 0.03128054740957967,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 29,
+            "content": "du lịch quốc tế, hướng dẫn viên du lịch nội địa.\n\n### Điều 63. Cấp lại thẻ hướng dẫn viên du lịch\n\n1. Thẻ hướng dẫn viên du lịch được cấp lại trong trường hợp bị mắt, bị hư\nhỏng hoặc thay đổi thông tin trên thẻ. Thời hạn của thẻ hướng dẫn viên du lịch\n\nđược cấp lại bằng thời hạn còn lại của thẻ đã được cấp.\n\n2. Hồ sơ đề nghịcấp lại thẻ hướng dẫn viên du lịch bao gồm:\n\na) Đơn đề nghị cấp lại thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng\nBộVăn hóa, Thê thao và Du lịch quy định;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-214",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 36,
+            "content": "p không được kinh doanh dịch vụ lữ hành nội địa.\n\n3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được\ncâp thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp\ntục hành nghề cho đến hết thời hạn ghi trên thẻ."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-162",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 28,
+            "content": "28\n\nmm\"\n\nlịch; nội dung kiểm tra nghiệp vụhướng dẫn du lịch tại điểm; tiêu chuẩn thành\nthạo ngoại ngữ.\n\n### Điều 60. Hồ sơ, trình tự, thú tục, thẩm quyền cấp thể hướng dẫn viên\ndu lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa\n\n1. Hồ sơ đề nghịcấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn\nviên du lịch nội địa bao gồm:\n\na) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ\nVăn hóa, Thể thao và Du lịch quy định;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-170",
+            "score": 0.030621785881252923,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 29,
+            "content": "ồ sơ đến\ncơ quan nhà nước có thầm quyền cấp thẻ;\n\nb) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà\nnước có thâm quyền cấp thẻ có trách nhiệm cấp đổi thẻ hướng dẫn viên du lịch\n\ncho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.\n\n4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chỉ tiết về khóa\ncập nhật kiến thức, giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn\nviên du lịch quốc tế, hướng dẫn viên du lịch nội địa."
+          }
+        ],
+        "latency_seconds": 3.096056,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 5 năm.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer is fully correct and supported by the retrieved context."
+        }
+      }
+    },
+    {
+      "question": "Một điểm du lịch phải có những dịch vụ và hạ tầng cụ thể nào theo Nghị định 168?",
+      "expected_answer": "Phải có kết nối giao thông và thông tin liên lạc thuận lợi, điện, nước sạch, biển chỉ dẫn và thuyết minh, cùng dịch vụ ăn uống và mua sắm.",
+      "expected_context": "Nghị định 168/2017/NĐ-CP, Điều 11, trang 5-6: Điều kiện công nhận điểm du lịch.",
+      "expected_source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+      "dense_only": {
+        "answer": "Theo Nghị định 168, các điều kiện về hạ tầng và dịch vụ bao gồm:\n\n* Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia [S1].\n* Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng bộ, đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch, bao gồm:\n  - Có cơ sở kinh doanh dịch vụ ăn uống, mua sắm, thể thao, vui chơi, giải trí, chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch, đáp ứng tối thiểu 500.000 lượt khách mỗi năm [S2].\n  - Hệ thống cơ sở lưu trú du lịch đáp ứng tối thiểu 300.000 lượt khách lưu trú mỗi năm, trong đó có cơ sở lưu trú du lịch được công nhận hạng từ 4 sao trở lên [S1].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-33",
+            "score": 0.5981003046035767,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 7,
+            "content": "năm; hệ thông cơ sở lưu trú du lịch đáp ứng tôi\n\nthiểu 300.000 lượt khách lưu trú môi năm, trong đó có cơ sở lưu trú du lịch\nđược công nhận hạng từ 4 sao trở lên;\n\nb) Các điều kiện quy định tại các điểm a, c, và d khoản 2 Điều 12 Nghị\nđịnh này.\n\n4. Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia.\n\n5. Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi\ntrường, bao gôm:"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-32",
+            "score": 0.5888931751251221,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 7,
+            "content": "ịch quốc\ngia được Thủ tướng Chính phủ phê duyệt.\n\n—\n3, Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao,\nđông bộ, đáp ứng nhu câu lưu trú, ăn uống và các nhu câu khác của khách du\nlịch, bao gôm:\n\na) Có cơ sở kinh doanh dịch vụ ăn uống, mua sắm, thê thao, vui chơi,\ngiải trí, chăm sóc sức khỏe đạt tiêu chuân phục vụ khách du lịch, đáp ứng tôi\nthiêu 500.000 lượt khách mỗi năm; hệ thông cơ sở lưu trú du lịch đáp ứng tôi"
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-63",
+            "score": 0.5818618535995483,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 13,
+            "content": "sinh, bêp, phòng ăn và dịch vụ phục vụ ăn uông.\n\n4. Điều kiện quy định tại khoản 5 và khoản 7 Điều 22 Nghị định này.\n\n5. Người quản lý, nhân viên phục vụ được tập huấn về nghiệp vụdu lịch,\nkỹ năng cứu hộ trên sông, biên.\n\n### Điều 26. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối\nvới nhà nghỉ du lịch\n\n1. Có điện, nước sạch và hệ thống thoát nước."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-24",
+            "score": 0.5713335871696472,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 6,
+            "content": "6\n\n`\n\n+\n\n3. Đáp ứng điều kiện vềan ninh, trật tự, an toàn xã hội, bảo vệ môi\n-\ntrường, bao gôm:\n\na) Có bộ phận bảo vệ trực 24 giờ mỗi ngày;\n|\n\n-\nb) Công khai số điện thoại, địa chỉ của tổ chức, cá nhân quản lý điểm du lịch;\n\n,\nc) Có hình thức tiếp nhận và giải quyết kịp thời phản ánh, kiến nghị của\n\n:\nkhách du lịch;\n\n¡\n\n,_\nđ) Nhà vệ sinh công cộng sạch sẽ, được thông gió và đủ ánh sáng, được\n\n:\nbô trí đủ, tương ứng với sô lượng khách du lịch vào thời kỳ cao điểm;"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-18",
+            "score": 0.5691912174224854,
+            "retrieval_method": "dense",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 4,
+            "content": "4\n\ng) Đầu tư hình thành khu dịch vụ du lịch phức hợp, có quy mô lớn; hệ\nthống cửa hàng miễn thuế, trung tâm mua săm phục vụ khách du lịch.\n\n5. Nhà nước có chính sách tạo điều kiện thuận lợi về đi lại, cư trú, thủ tục\nxuất cảnh, nhập cảnh, hải quan, hoàn thuê giá trị gia tăng và bảo đảm quyền, lợi\n\ních hợp pháp khác cho khách du lịch.\n\n### Điều 6. Sự tham gia của cộng đồng dân cư trong phát triển du lịch"
+          }
+        ],
+        "latency_seconds": 3.425123,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.6,
+          "context_recall": 0.75,
+          "context_precision": 1.0,
+          "average": 0.8375
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Theo Nghị định 168, các điều kiện về hạ tầng và dịch vụ bao gồm có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia.",
+              "supported": true
+            },
+            {
+              "claim": "Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng bộ, đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch.",
+              "supported": true
+            },
+            {
+              "claim": "Có cơ sở kinh doanh dịch vụ ăn uống, mua sắm, thể thao, vui chơi, giải trí, chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch, đáp ứng tối thiểu 500.000 lượt khách mỗi năm.",
+              "supported": true
+            },
+            {
+              "claim": "Hệ thống cơ sở lưu trú du lịch đáp ứng tối thiểu 300.000 lượt khách lưu trú mỗi năm, trong đó có cơ sở lưu trú du lịch được công nhận hạng từ 4 sao trở lên.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Phải có kết nối giao thông và thông tin liên lạc thuận lợi",
+              "supported": true
+            },
+            {
+              "claim": "Phải có điện, nước sạch",
+              "supported": true
+            },
+            {
+              "claim": "Phải có biển chỉ dẫn và thuyết minh",
+              "supported": false
+            },
+            {
+              "claim": "Phải có dịch vụ ăn uống và mua sắm",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            true,
+            true,
+            false
+          ],
+          "answer_relevance": 0.6,
+          "failure_stage": "generation",
+          "explanation": "The generated answer provides details for a tourist resort area instead of addressing the specific infrastructure and services for a regular tourist spot required by the question and reference."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-33",
+            "score": 0.03177805800756621,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 7,
+            "content": "năm; hệ thông cơ sở lưu trú du lịch đáp ứng tôi\n\nthiểu 300.000 lượt khách lưu trú môi năm, trong đó có cơ sở lưu trú du lịch\nđược công nhận hạng từ 4 sao trở lên;\n\nb) Các điều kiện quy định tại các điểm a, c, và d khoản 2 Điều 12 Nghị\nđịnh này.\n\n4. Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia.\n\n5. Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi\ntrường, bao gôm:"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-66",
+            "score": 0.03131881575727918,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 11,
+            "content": "iên hoặc giá trị văn hóa, có ranh giới xác định;\n\nb) Có trong danh mục các khu vực tiềm năng phát triển khu du lịch quốc\ngia được cơ quan nhà nước có thâm quyền phê duyệt;\n\nc) Có kết cầu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng\nbộ, đáp ứng nhu câu lưu trú, ăn uông và các nhu câu khác của khách du lịch;\n\nd) Các điều kiện quy định tại điểm c và điểm d khoản 1 Điều này."
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-58",
+            "score": 0.03007688828584351,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 10,
+            "content": "lập, quản lý và thực hiện quy hoạch về du lịch.\n\n## Chương IV\nĐIÊM DU LỊCH, KHU DU LỊCH\n\n### Điều 23. Điều kiện công nhận điểm du lịch\n\n1. Điều kiện công nhận điểm du lịch bao gồm:\n\na) Có tài nguyên du lịch, có ranh giới xác định;\n\nb) Có kết cấu hạ tằng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;\n\nc) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường\ntheo quy định của pháp luật."
+          },
+          {
+            "id": "legal/nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.md::chunk-32",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich.pdf",
+            "page": 7,
+            "content": "ịch quốc\ngia được Thủ tướng Chính phủ phê duyệt.\n\n—\n3, Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao,\nđông bộ, đáp ứng nhu câu lưu trú, ăn uống và các nhu câu khác của khách du\nlịch, bao gôm:\n\na) Có cơ sở kinh doanh dịch vụ ăn uống, mua sắm, thê thao, vui chơi,\ngiải trí, chăm sóc sức khỏe đạt tiêu chuân phục vụ khách du lịch, đáp ứng tôi\nthiêu 500.000 lượt khách mỗi năm; hệ thông cơ sở lưu trú du lịch đáp ứng tôi"
+          },
+          {
+            "id": "legal/luat_du_lich_09_2017_qh14.md::chunk-64",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "luat_du_lich_09_2017_qh14.pdf",
+            "page": 11,
+            "content": "toàn xã hội, bảo vệ môi\ntrường tại điêm du lịch;\n\nđ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch\ntrong phạm vi quản lý.\n\n### Điều 26. Điều kiện công nhận khu du lịch\n\n1. Điều kiện công nhận khu du lịch cấp tỉnh bao gồm:\n\na) Có tài nguyên du lịch với ưu thế về cảnh quan thiên nhiên hoặc giá trị\nvăn hóa, có ranh giới xác định;\n\nb) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu\ntrú, ăn uỗng và các nhu câu khác của khách du lịch;"
+          }
+        ],
+        "latency_seconds": 25.726576,
+        "metrics": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.666667,
+          "context_precision": 0.805556,
+          "average": 0.368056
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+              "supported": false
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Phải có kết nối giao thông và thông tin liên lạc thuận lợi",
+              "supported": true
+            },
+            {
+              "claim": "điện, nước sạch, biển chỉ dẫn và thuyết minh",
+              "supported": false
+            },
+            {
+              "claim": "cùng dịch vụ ăn uống và mua sắm",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            true,
+            true,
+            false
+          ],
+          "answer_relevance": 0.0,
+          "failure_stage": "generation",
+          "explanation": "Hệ thống từ chối trả lời dù ngữ cảnh chứa thông tin một phần."
+        }
+      }
+    },
+    {
+      "question": "Vùng đệm của khu vực di sản thế giới có vai trò gì?",
+      "expected_answer": "Vùng đệm bao quanh hoặc tiếp giáp khu vực di sản, tạo thêm một lớp bảo vệ và là nơi tổ chức hoạt động phát huy giá trị di sản thế giới.",
+      "expected_context": "Nghị định 109/2017/NĐ-CP, Điều 3 khoản 10, trang 2: Khái niệm vùng đệm.",
+      "expected_source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+      "dense_only": {
+        "answer": "Vùng đệm của khu vực di sản thế giới có tác dụng tạo thêm một lớp bảo vệ cho di sản thế giới và là nơi tổ chức các hoạt động phát huy giá trị di sản thế giới [S1].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-9",
+            "score": 0.6546279191970825,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 2,
+            "content": "iới là vùng chứa đựng các yếu tố gốc tạo nên giá\n\ntrị nỗi bật toàn câu của di sản thê giới.\n\n10. Vùng đệm của khu vực di sản thế giới là vùng bao quanh hoặc tiếp\ngiáp khu vực di sản thê giới, có tác dụng tạo thêm một lớp bảo vệ cho di sản\nthê giới và là nơi tô chức các hoạt động phát huy giá trị di sản thê giới.\n\n11. Cộng đồng là tập hợp những người đang sinh sống ổn định và lâu dài\ntrong khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-22",
+            "score": 0.6022377014160156,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "ới và vùng đệm của khu vực di sản\n\n.\nthê giới;\n:\n\nc) Cộng đồng sinh sống trong khu vực di sản thế giới và vùng đệm của\nkhu vực di sản thê giới;\n."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-13",
+            "score": 0.5890365242958069,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "quan đên việc quản lý và bảo vệ di sản thê giới.\n\n-\n## Chương II\nBẢO VẸ VÀ QUAN LY DI SÁN THỂ GIỚI\n\n### Điều 4. Bảo vệ khu vực di sản thế giới và vùng đệm của khu vực di\nsản thế giới\n\n1. Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của\nđi tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định của pháp luật vê\nđi sản văn hóa."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-14",
+            "score": 0.5698837041854858,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "h theo quy định của pháp luật vê\nđi sản văn hóa.\n\n.\n2. Vùng đệm của khu vực đi sản thế giới được bảo vệ như đối với khu\nvực bảo vệ II của di tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định\n\nl\ncủa pháp luật về di sản văn hóa.\n\n### Điều 5. Chỉ số giám sát định kỳ tình trạng bảo tồn yếu tổ gốc của di\nsản thê giới\n\n1. Tính toàn vẹn và tính xác thực.\n\n2. Tính bền vững của công trình kiến trúc và địa điểm khảo cổ."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-17",
+            "score": 0.5670885443687439,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "2. Trường hợp di sản thế giới đồng thời có khu vực đi sản thế giới và\nvùng đệm của khu vực đi sản thê giới là một phân hoặc toàn bộ diện tích của\nkhu đu lịch quốc gia, rừng đặc dụng, khu bảo tôn thiên nhiên, khu bảo tôn\nbiển thì chỉ lập 01 quy hoạch tông thê di sản thê giới, trong đó lông ghép nội\ndung giữa bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh với bảo vệ tài\n\n|\nnguyên du lịch, tài nguyên rừng, đa dạng sinh học, nguôn lợi thủy sản, tài"
+          }
+        ],
+        "latency_seconds": 3.034867,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.75,
+          "average": 0.9375
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Vùng đệm của khu vực di sản thế giới có tác dụng tạo thêm một lớp bảo vệ cho di sản thế giới.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm là nơi tổ chức các hoạt động phát huy giá trị di sản thế giới.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Vùng đệm bao quanh hoặc tiếp giáp khu vực di sản.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm tạo thêm một lớp bảo vệ.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm là nơi tổ chức hoạt động phát huy giá trị di sản thế giới.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            true,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The RAG system successfully retrieved the relevant context and generated a fully accurate and supported answer."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Vùng đệm của khu vực di sản thế giới có tác dụng:\n- Tạo thêm một lớp bảo vệ cho di sản thế giới [S1].\n- Là nơi tổ chức các hoạt động phát huy giá trị di sản thế giới [S1].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-9",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 2,
+            "content": "iới là vùng chứa đựng các yếu tố gốc tạo nên giá\n\ntrị nỗi bật toàn câu của di sản thê giới.\n\n10. Vùng đệm của khu vực di sản thế giới là vùng bao quanh hoặc tiếp\ngiáp khu vực di sản thê giới, có tác dụng tạo thêm một lớp bảo vệ cho di sản\nthê giới và là nơi tô chức các hoạt động phát huy giá trị di sản thê giới.\n\n11. Cộng đồng là tập hợp những người đang sinh sống ổn định và lâu dài\ntrong khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-22",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "ới và vùng đệm của khu vực di sản\n\n.\nthê giới;\n:\n\nc) Cộng đồng sinh sống trong khu vực di sản thế giới và vùng đệm của\nkhu vực di sản thê giới;\n."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-13",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "quan đên việc quản lý và bảo vệ di sản thê giới.\n\n-\n## Chương II\nBẢO VẸ VÀ QUAN LY DI SÁN THỂ GIỚI\n\n### Điều 4. Bảo vệ khu vực di sản thế giới và vùng đệm của khu vực di\nsản thế giới\n\n1. Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của\nđi tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định của pháp luật vê\nđi sản văn hóa."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-63",
+            "score": 0.031024531024531024,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 11,
+            "content": "đồng vào\nviệc bảo vệ và quản lý di sản thê giới.\n\n10. Tham gia quản lý, liên kết và giám sát các hoạt động đầu tư, bảo vệ\nmôi trường, bảo tôn và phát triên sinh vật trong khu vực đi sản thê giới và\nvùng đệm của khu vực di sản thê giới; phôi hợp với các cập, các ngành có liên\nquan kiểm tra, giám sát hoạt động kinh tế - xã hội trong khu vực di sản thế\ngiới và vùng đệm của khu vực di sản thê giới."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-75",
+            "score": 0.030309988518943745,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 13,
+            "content": "di sản thê giới trong trường hợp di sản thê giới\n\ncó khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới là một\nphân hoặc toàn bộ diện tích của rừng đặc dụng, khu bảo tôn biên.\n\n2. Bộ Tài nguyên và Môi trường\n\na) Chỉ đạo tổ chức thực hiện việc quản lý nhà nước đối với lĩnh vực bảo\nvệ môi trường, đa dạng sinh học, địa chât, khoáng sản tại khu vực di sản thê\ngiới và vùng đệm của khu vực di sản thê giới theo quy định của pháp luật có\nliên quan;"
+          }
+        ],
+        "latency_seconds": 3.153728,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Vùng đệm tạo thêm một lớp bảo vệ cho di sản thế giới.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm là nơi tổ chức các hoạt động phát huy giá trị di sản thế giới.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Vùng đệm bao quanh hoặc tiếp giáp khu vực di sản.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm tạo thêm một lớp bảo vệ.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm là nơi tổ chức hoạt động phát huy giá trị di sản thế giới.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately captures all necessary facts from the retrieved context and directly addresses the question."
+        }
+      }
+    },
+    {
+      "question": "Khu vực di sản thế giới và vùng đệm được bảo vệ tương ứng như khu vực nào của di tích?",
+      "expected_answer": "Khu vực di sản thế giới được bảo vệ như khu vực bảo vệ I; vùng đệm được bảo vệ như khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+      "expected_context": "Nghị định 109/2017/NĐ-CP, Điều 4, trang 3: Bảo vệ khu vực di sản và vùng đệm.",
+      "expected_source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+      "dense_only": {
+        "answer": "Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh [S1]. \n\nVùng đệm của khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh [S5].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-13",
+            "score": 0.7172447443008423,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "quan đên việc quản lý và bảo vệ di sản thê giới.\n\n-\n## Chương II\nBẢO VẸ VÀ QUAN LY DI SÁN THỂ GIỚI\n\n### Điều 4. Bảo vệ khu vực di sản thế giới và vùng đệm của khu vực di\nsản thế giới\n\n1. Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của\nđi tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định của pháp luật vê\nđi sản văn hóa."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-22",
+            "score": 0.6523423194885254,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "ới và vùng đệm của khu vực di sản\n\n.\nthê giới;\n:\n\nc) Cộng đồng sinh sống trong khu vực di sản thế giới và vùng đệm của\nkhu vực di sản thê giới;\n."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-17",
+            "score": 0.6481049656867981,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "2. Trường hợp di sản thế giới đồng thời có khu vực đi sản thế giới và\nvùng đệm của khu vực đi sản thê giới là một phân hoặc toàn bộ diện tích của\nkhu đu lịch quốc gia, rừng đặc dụng, khu bảo tôn thiên nhiên, khu bảo tôn\nbiển thì chỉ lập 01 quy hoạch tông thê di sản thê giới, trong đó lông ghép nội\ndung giữa bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh với bảo vệ tài\n\n|\nnguyên du lịch, tài nguyên rừng, đa dạng sinh học, nguôn lợi thủy sản, tài"
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-9",
+            "score": 0.6445721387863159,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 2,
+            "content": "iới là vùng chứa đựng các yếu tố gốc tạo nên giá\n\ntrị nỗi bật toàn câu của di sản thê giới.\n\n10. Vùng đệm của khu vực di sản thế giới là vùng bao quanh hoặc tiếp\ngiáp khu vực di sản thê giới, có tác dụng tạo thêm một lớp bảo vệ cho di sản\nthê giới và là nơi tô chức các hoạt động phát huy giá trị di sản thê giới.\n\n11. Cộng đồng là tập hợp những người đang sinh sống ổn định và lâu dài\ntrong khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-14",
+            "score": 0.6395314335823059,
+            "retrieval_method": "dense",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "h theo quy định của pháp luật vê\nđi sản văn hóa.\n\n.\n2. Vùng đệm của khu vực đi sản thế giới được bảo vệ như đối với khu\nvực bảo vệ II của di tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định\n\nl\ncủa pháp luật về di sản văn hóa.\n\n### Điều 5. Chỉ số giám sát định kỳ tình trạng bảo tồn yếu tổ gốc của di\nsản thê giới\n\n1. Tính toàn vẹn và tính xác thực.\n\n2. Tính bền vững của công trình kiến trúc và địa điểm khảo cổ."
+          }
+        ],
+        "latency_seconds": 3.312219,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.7,
+          "average": 0.925
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm của khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khu vực di sản thế giới được bảo vệ như khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm được bảo vệ như khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            true
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately and completely answers the question based on the retrieved contexts."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh theo quy định của pháp luật về di sản văn hóa [S1].",
+        "chunks": [
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-13",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 3,
+            "content": "quan đên việc quản lý và bảo vệ di sản thê giới.\n\n-\n## Chương II\nBẢO VẸ VÀ QUAN LY DI SÁN THỂ GIỚI\n\n### Điều 4. Bảo vệ khu vực di sản thế giới và vùng đệm của khu vực di\nsản thế giới\n\n1. Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của\nđi tích lịch sử - văn hóa, danh lam thăng cảnh theo quy định của pháp luật vê\nđi sản văn hóa."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-22",
+            "score": 0.03225806451612903,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "ới và vùng đệm của khu vực di sản\n\n.\nthê giới;\n:\n\nc) Cộng đồng sinh sống trong khu vực di sản thế giới và vùng đệm của\nkhu vực di sản thê giới;\n."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-9",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 2,
+            "content": "iới là vùng chứa đựng các yếu tố gốc tạo nên giá\n\ntrị nỗi bật toàn câu của di sản thê giới.\n\n10. Vùng đệm của khu vực di sản thế giới là vùng bao quanh hoặc tiếp\ngiáp khu vực di sản thê giới, có tác dụng tạo thêm một lớp bảo vệ cho di sản\nthê giới và là nơi tô chức các hoạt động phát huy giá trị di sản thê giới.\n\n11. Cộng đồng là tập hợp những người đang sinh sống ổn định và lâu dài\ntrong khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới."
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-17",
+            "score": 0.030798389007344232,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 4,
+            "content": "2. Trường hợp di sản thế giới đồng thời có khu vực đi sản thế giới và\nvùng đệm của khu vực đi sản thê giới là một phân hoặc toàn bộ diện tích của\nkhu đu lịch quốc gia, rừng đặc dụng, khu bảo tôn thiên nhiên, khu bảo tôn\nbiển thì chỉ lập 01 quy hoạch tông thê di sản thê giới, trong đó lông ghép nội\ndung giữa bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh với bảo vệ tài\n\n|\nnguyên du lịch, tài nguyên rừng, đa dạng sinh học, nguôn lợi thủy sản, tài"
+          },
+          {
+            "id": "legal/nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.md::chunk-75",
+            "score": 0.03057889822595705,
+            "retrieval_method": "hybrid",
+            "source": "nghi_dinh_109_2017_nd_cp_bao_ve_quan_ly_di_san.pdf",
+            "page": 13,
+            "content": "di sản thê giới trong trường hợp di sản thê giới\n\ncó khu vực di sản thê giới và vùng đệm của khu vực di sản thê giới là một\nphân hoặc toàn bộ diện tích của rừng đặc dụng, khu bảo tôn biên.\n\n2. Bộ Tài nguyên và Môi trường\n\na) Chỉ đạo tổ chức thực hiện việc quản lý nhà nước đối với lĩnh vực bảo\nvệ môi trường, đa dạng sinh học, địa chât, khoáng sản tại khu vực di sản thê\ngiới và vùng đệm của khu vực di sản thê giới theo quy định của pháp luật có\nliên quan;"
+          }
+        ],
+        "latency_seconds": 17.669393,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.5,
+          "context_recall": 0.5,
+          "context_precision": 0.833333,
+          "average": 0.708333
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Khu vực di sản thế giới được bảo vệ như đối với khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh theo quy định của pháp luật về di sản văn hóa.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Khu vực di sản thế giới được bảo vệ như khu vực bảo vệ I của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng đệm được bảo vệ như khu vực bảo vệ II của di tích lịch sử - văn hóa, danh lam thắng cảnh.",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            true,
+            false,
+            false
+          ],
+          "answer_relevance": 0.5,
+          "failure_stage": "generation",
+          "explanation": "The generated answer correctly covers the heritage area protection but omits the buffer zone protection mentioned in the reference answer."
+        }
+      }
+    },
+    {
+      "question": "Vietnam Tourism mô tả Hà Nội và Đồng bằng sông Cửu Long như thế nào?",
+      "expected_answer": "Hà Nội là cửa ngõ tới các kho báu miền Bắc; Đồng bằng sông Cửu Long có các làng nổi và rừng ngập mặn trên đường đổ ra biển.",
+      "expected_context": "Điểm đến | Vietnam Tourism: phần giới thiệu các vùng và điểm đến Việt Nam.",
+      "expected_source": "article_01.json",
+      "dense_only": {
+        "answer": "Vietnam Tourism mô tả:\n- Thủ đô Hà Nội là cửa ngõ đưa bạn đến với những kho báu của miền Bắc, bao gồm những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi [S5].\n- Vùng Đồng bằng sông Cửu Long đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn [S4].",
+        "chunks": [
+          {
+            "id": "news/article_02.md::chunk-7",
+            "score": 0.5672544240951538,
+            "retrieval_method": "dense",
+            "source": "article_02.json",
+            "page": null,
+            "content": "nam.travel/vi/things-to-do/perfect-weekend-hcmc)\n\n[3 ngày ở Huế dành cho người yêu văn hóa](https://vietnam.travel/vi/things-to-do/3-days-hue-culture-seekers)\n\n[4 ngày đáng nhớ ở Đồng bằng sông Cửu Long](https://vietnam.travel/vi/things-to-do/4-memorable-days-mekong-delta)\n\n[Cẩm nang cuối tuần tại Hội An dành cho các cô gái](https://vietnam.travel/vi/things-to-do/girls-guide-weekend-hoi-an)\n\n[3 ngày hoàn hảo ở Đà Nẵng](https://vietnam.travel/vi/things-to-do/3-perfect-days-danang)"
+          },
+          {
+            "id": "news/article_01.md::chunk-12",
+            "score": 0.5660545825958252,
+            "retrieval_method": "dense",
+            "source": "article_01.json",
+            "page": null,
+            "content": "ravel/vi/places-to-go/central-vietnam/phong-nha)\n\n[Đồng bằng sông Cửu Long](https://vietnam.travel/vi/places-to-go/southern-vietnam/mekong-delta) [Phú Quốc](https://vietnam.travel/vi/places-to-go/southern-vietnam/phu-quoc) [Côn Đảo](https://vietnam.travel/vi/places-to-go/southern-vietnam/con-dao)\n\n## hành trình\n\n[Việt Nam cho Gia đình](https://vietnam.travel/vi/plan-your-trip/recommended-trip/vietnam-families)"
+          },
+          {
+            "id": "news/article_01.md::chunk-10",
+            "score": 0.5573727488517761,
+            "retrieval_method": "dense",
+            "source": "article_01.json",
+            "page": null,
+            "content": "vietnam.travel/vi/places-to-go/southern-vietnam)\n\n[Hà Nội](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-noi) [Hạ Long](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-long) [Hà Giang](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-giang) [Ninh Bình](https://vietnam.travel/vi/places-to-go/northern-vietnam/ninh-binh) [Sa Pa](https://vietnam.travel/vi/places-to-go/northern-vietnam/sapa)"
+          },
+          {
+            "id": "news/article_01.md::chunk-2",
+            "score": 0.5548647046089172,
+            "retrieval_method": "dense",
+            "source": "article_01.json",
+            "page": null,
+            "content": "ờn quốc gia và những bãi biển cát trắng trải dài. Thành phố Hồ Chí Minh, đô thị sôi động ở phía Nam, sẽ lôi cuốn bạn bởi nét văn hóa phóng khoáng và những con phố quyến rũ (nhưng nhớ chú ý xe máy nhé.) Gần đó, vùng Đồng bằng sông Cửu Long đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn. Dọc theo dải đất ven biển hình chữ S của Việt Nam, bạn sẽ tìm thấy vô số hòn đảo lớn nhỏ đang chờ được khám phá.\n\nBấm vào một thành phố hoặc khu vực để tìm hiểu thêm."
+          },
+          {
+            "id": "news/article_01.md::chunk-1",
+            "score": 0.5536547303199768,
+            "retrieval_method": "dense",
+            "source": "article_01.json",
+            "page": null,
+            "content": "dạng của vẻ đẹp tự nhiên và danh lam thắng cảnh.\n\nThủ đô Hà Nội là cửa ngõ đưa bạn đến với những kho báu của miền Bắc: những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi. Ngay tại miền Trung, Đà Nẵng đang trên đà phát triển là một trong những thành phố tiến bộ nhất Việt Nam. Từ đây, bạn có thể dễ dàng ghé thăm các thị trấn ven sông thơ mộng, các vườn quốc gia và những bãi biển cát trắng trải dài."
+          }
+        ],
+        "latency_seconds": 3.080944,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.325,
+          "average": 0.83125
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Thủ đô Hà Nội là cửa ngõ đưa bạn đến với những kho báu của miền Bắc, bao gồm những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi.",
+              "supported": true
+            },
+            {
+              "claim": "Vùng Đồng bằng sông Cửu Long đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Hà Nội là cửa ngõ tới các kho báu miền Bắc.",
+              "supported": true
+            },
+            {
+              "claim": "Đồng bằng sông Cửu Long có các làng nổi và rừng ngập mặn trên đường đổ ra biển.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The RAG system successfully retrieved the relevant contexts and generated an accurate, fully supported answer."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Vietnam Tourism mô tả:\n* **Hà Nội**: Là thủ đô và là cửa ngõ đưa du khách đến với những kho báu của miền Bắc, bao gồm những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi [S5].\n* **Đồng bằng sông Cửu Long**: Là vùng đất ở phía Nam đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn [S4].",
+        "chunks": [
+          {
+            "id": "news/article_01.md::chunk-12",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "article_01.json",
+            "page": null,
+            "content": "ravel/vi/places-to-go/central-vietnam/phong-nha)\n\n[Đồng bằng sông Cửu Long](https://vietnam.travel/vi/places-to-go/southern-vietnam/mekong-delta) [Phú Quốc](https://vietnam.travel/vi/places-to-go/southern-vietnam/phu-quoc) [Côn Đảo](https://vietnam.travel/vi/places-to-go/southern-vietnam/con-dao)\n\n## hành trình\n\n[Việt Nam cho Gia đình](https://vietnam.travel/vi/plan-your-trip/recommended-trip/vietnam-families)"
+          },
+          {
+            "id": "news/article_02.md::chunk-7",
+            "score": 0.032266458495966696,
+            "retrieval_method": "hybrid",
+            "source": "article_02.json",
+            "page": null,
+            "content": "nam.travel/vi/things-to-do/perfect-weekend-hcmc)\n\n[3 ngày ở Huế dành cho người yêu văn hóa](https://vietnam.travel/vi/things-to-do/3-days-hue-culture-seekers)\n\n[4 ngày đáng nhớ ở Đồng bằng sông Cửu Long](https://vietnam.travel/vi/things-to-do/4-memorable-days-mekong-delta)\n\n[Cẩm nang cuối tuần tại Hội An dành cho các cô gái](https://vietnam.travel/vi/things-to-do/girls-guide-weekend-hoi-an)\n\n[3 ngày hoàn hảo ở Đà Nẵng](https://vietnam.travel/vi/things-to-do/3-perfect-days-danang)"
+          },
+          {
+            "id": "news/article_01.md::chunk-10",
+            "score": 0.03125763125763126,
+            "retrieval_method": "hybrid",
+            "source": "article_01.json",
+            "page": null,
+            "content": "vietnam.travel/vi/places-to-go/southern-vietnam)\n\n[Hà Nội](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-noi) [Hạ Long](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-long) [Hà Giang](https://vietnam.travel/vi/places-to-go/northern-vietnam/ha-giang) [Ninh Bình](https://vietnam.travel/vi/places-to-go/northern-vietnam/ninh-binh) [Sa Pa](https://vietnam.travel/vi/places-to-go/northern-vietnam/sapa)"
+          },
+          {
+            "id": "news/article_01.md::chunk-2",
+            "score": 0.03125,
+            "retrieval_method": "hybrid",
+            "source": "article_01.json",
+            "page": null,
+            "content": "ờn quốc gia và những bãi biển cát trắng trải dài. Thành phố Hồ Chí Minh, đô thị sôi động ở phía Nam, sẽ lôi cuốn bạn bởi nét văn hóa phóng khoáng và những con phố quyến rũ (nhưng nhớ chú ý xe máy nhé.) Gần đó, vùng Đồng bằng sông Cửu Long đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn. Dọc theo dải đất ven biển hình chữ S của Việt Nam, bạn sẽ tìm thấy vô số hòn đảo lớn nhỏ đang chờ được khám phá.\n\nBấm vào một thành phố hoặc khu vực để tìm hiểu thêm."
+          },
+          {
+            "id": "news/article_01.md::chunk-1",
+            "score": 0.02967032967032967,
+            "retrieval_method": "hybrid",
+            "source": "article_01.json",
+            "page": null,
+            "content": "dạng của vẻ đẹp tự nhiên và danh lam thắng cảnh.\n\nThủ đô Hà Nội là cửa ngõ đưa bạn đến với những kho báu của miền Bắc: những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi. Ngay tại miền Trung, Đà Nẵng đang trên đà phát triển là một trong những thành phố tiến bộ nhất Việt Nam. Từ đây, bạn có thể dễ dàng ghé thăm các thị trấn ven sông thơ mộng, các vườn quốc gia và những bãi biển cát trắng trải dài."
+          }
+        ],
+        "latency_seconds": 2.756108,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.804167,
+          "average": 0.951042
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Hà Nội là thủ đô và là cửa ngõ đưa du khách đến với những kho báu của miền Bắc, bao gồm những dãy núi kỳ vĩ, những thung lũng và vịnh biển điểm xuyết bởi các núi đá vôi.",
+              "supported": true
+            },
+            {
+              "claim": "Đồng bằng sông Cửu Long là vùng đất ở phía Nam đổ ra biển lớn, len lỏi qua các ngôi làng nổi trên nước và những cánh rừng ngập mặn.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Hà Nội là cửa ngõ tới các kho báu miền Bắc",
+              "supported": true
+            },
+            {
+              "claim": "Đồng bằng sông Cửu Long có các làng nổi và rừng ngập mặn trên đường đổ ra biển.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            true,
+            true,
+            true
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The retrieved contexts successfully provided all necessary information to fully support both the reference and generated answers."
+        }
+      }
+    },
+    {
+      "question": "Bún thang và bánh chưng thể hiện điều gì về ẩm thực miền Bắc?",
+      "expected_answer": "Bún thang cho thấy sự cầu kỳ nhưng tinh tế của công thức Hà Nội; bánh chưng thể hiện truyền thống lâu đời và được các gia đình làm vào dịp Tết để nhớ về cội nguồn.",
+      "expected_context": "Vietnam: A foodie guide by region, mục North — Subtle sophistication và Long traditions.",
+      "expected_source": "article_04.json",
+      "dense_only": {
+        "answer": "Bún thang và bánh chưng thể hiện những điều sau về ẩm thực miền Bắc:\n\n* **Bánh chưng:** Món bánh này mang truyền thống lâu đời có từ hàng trăm năm trước, gắn liền với truyền thuyết về một vị hoàng tử đã sáng tạo nên món ăn từ gạo, đậu xanh gói trong lá dong để tượng trưng cho đất trời và được nhà vua truyền ngôi [S1]. Đến nay, các gia đình Việt Nam vẫn quây quần làm bánh chưng vào dịp Tết (Tết Nguyên Đán) như một cách để nhắc nhở về cội nguồn [S3].\n* **Bún thang:** Một bát bún thang nóng hổi tuy phải mất hàng giờ để chuẩn bị nhưng khi được phục vụ lại mang lại cảm giác nhẹ nhàng, tinh tế với vị thanh của nước dùng trong, thoảng hương mắm tôm và mộc nhĩ, làm nổi bật hương vị từ các nguyên liệu tươi ngon [S2].",
+        "chunks": [
+          {
+            "id": "news/article_04.md::chunk-4",
+            "score": 0.5458765029907227,
+            "retrieval_method": "dense",
+            "source": "article_04.json",
+            "page": null,
+            "content": "feels light and effortless.\n\n### Long traditions\n\nMany Northern Vietnamese recipes date back hundreds of years. The food here is heavily influenced by age-old traditions and practices. Bánh chưng, a speciality steamed rice cake prepared on Lunar New Year, comes with its own legend. Inspired by what his land has to offer, a prince created a dish of mung bean and rice wrapped in dong leaves. This dish was so representative of the land that the king rewarded his son with the throne."
+          },
+          {
+            "id": "news/article_04.md::chunk-3",
+            "score": 0.520632266998291,
+            "retrieval_method": "dense",
+            "source": "article_04.json",
+            "page": null,
+            "content": "t bring out flavours from farm-fresh ingredients. For example, a bowl of steaming bún thang (rice noodles in chicken stock) may take hours to prepare, but when it’s served, the subtle hints of shrimp paste and wood ear mushrooms in the clear broth feels light and effortless.\n\n### Long traditions"
+          },
+          {
+            "id": "news/article_04.md::chunk-5",
+            "score": 0.5187106132507324,
+            "retrieval_method": "dense",
+            "source": "article_04.json",
+            "page": null,
+            "content": "d that the king rewarded his son with the throne. Vietnamese families still gather every Tết (Lunar New Year) to make bánh chưng as a reminder of our roots.\n\n### Street food heaven\n\nFood from the North tends to have mild flavours and highlights the natural taste of ingredients, and served with lots of herbs and condiments. Don’t be intimidated by the options that come with your phở. Fresh chillies, limes, and vinegar garlic are all here to help."
+          },
+          {
+            "id": "news/article_04.md::chunk-10",
+            "score": 0.4839365482330322,
+            "retrieval_method": "dense",
+            "source": "article_04.json",
+            "page": null,
+            "content": "or its imperial legacy as well as its spicy food. No trip to Huế is complete without sitting on a sidewalk, slurping up every last drop of the rich, red spicy broth of a bún bò Huế (Huế beef noodles.) From chili oil, chili flakes, to chili jam, Huế is a gem for travellers who love a fiery meal. Not a fan of spicy food? You can explore the wonderful world of Huế cuisine through its delicious dumplings."
+          },
+          {
+            "id": "news/article_04.md::chunk-6",
+            "score": 0.47682541608810425,
+            "retrieval_method": "dense",
+            "source": "article_04.json",
+            "page": null,
+            "content": ", limes, and vinegar garlic are all here to help. Before adding anything though, take a sip of the pure bone broth flavoured with star anise, cardamom, and cinnamon. It’s a way to show your respect to the cook, and appreciate the finesse of Northern Vietnamese cuisine.\n\nTRY IT:\n\nBún thang Thuận Lý, 33 Hàng Hòm, Hoàn Kiếm District, Hanoi\nPhở bò Khôi Hói, 50 Hàng Vải, Hoàn Kiếm District, Hanoi\n\n## Central\n\n### Sauces and seafood"
+          }
+        ],
+        "latency_seconds": 3.509778,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 1.0,
+          "average": 1.0
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Bánh chưng mang truyền thống lâu đời có từ hàng trăm năm trước.",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng gắn liền với truyền thuyết về một vị hoàng tử sáng tạo món ăn từ gạo, đậu xanh gói trong lá dong tượng trưng cho đất trời và được nhà vua truyền ngôi.",
+              "supported": true
+            },
+            {
+              "claim": "Các gia đình Việt Nam quây quần làm bánh chưng vào dịp Tết để nhắc nhở về cội nguồn.",
+              "supported": true
+            },
+            {
+              "claim": "Bún thang phải mất hàng giờ để chuẩn bị nhưng khi phục vụ mang lại cảm giác nhẹ nhàng, tinh tế với vị thanh của nước dùng trong, thoảng hương mắm tôm và mộc nhĩ.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Bún thang cho thấy sự cầu kỳ nhưng tinh tế của công thức Hà Nội.",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng thể hiện truyền thống lâu đời và được các gia đình làm vào dịp Tết để nhớ về cội nguồn.",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            true,
+            false,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately captures both dishes and is fully supported by the retrieved contexts."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Bún thang thể hiện sự tinh tế trong việc làm nổi bật hương vị từ các nguyên liệu tươi ngon từ nông trại, với nước dùng trong mang hương vị nhẹ nhàng từ mắm tôm và mộc nhĩ dù phải chuẩn bị mất nhiều giờ [S1]. \n\nBánh chưng thể hiện truyền thống lâu đời có từ hàng trăm năm của ẩm thực miền Bắc, gắn liền với các tập quán và câu chuyện truyền thuyết, đồng thời là món ăn được các gia đình quây quần gói vào dịp Tết Nguyên Đán để nhắc nhở về cội nguồn [S4][S2].",
+        "chunks": [
+          {
+            "id": "news/article_04.md::chunk-3",
+            "score": 0.0315136476426799,
+            "retrieval_method": "hybrid",
+            "source": "article_04.json",
+            "page": null,
+            "content": "t bring out flavours from farm-fresh ingredients. For example, a bowl of steaming bún thang (rice noodles in chicken stock) may take hours to prepare, but when it’s served, the subtle hints of shrimp paste and wood ear mushrooms in the clear broth feels light and effortless.\n\n### Long traditions"
+          },
+          {
+            "id": "news/article_04.md::chunk-5",
+            "score": 0.030158730158730156,
+            "retrieval_method": "hybrid",
+            "source": "article_04.json",
+            "page": null,
+            "content": "d that the king rewarded his son with the throne. Vietnamese families still gather every Tết (Lunar New Year) to make bánh chưng as a reminder of our roots.\n\n### Street food heaven\n\nFood from the North tends to have mild flavours and highlights the natural taste of ingredients, and served with lots of herbs and condiments. Don’t be intimidated by the options that come with your phở. Fresh chillies, limes, and vinegar garlic are all here to help."
+          },
+          {
+            "id": "news/article_04.md::chunk-6",
+            "score": 0.029877369007803793,
+            "retrieval_method": "hybrid",
+            "source": "article_04.json",
+            "page": null,
+            "content": ", limes, and vinegar garlic are all here to help. Before adding anything though, take a sip of the pure bone broth flavoured with star anise, cardamom, and cinnamon. It’s a way to show your respect to the cook, and appreciate the finesse of Northern Vietnamese cuisine.\n\nTRY IT:\n\nBún thang Thuận Lý, 33 Hàng Hòm, Hoàn Kiếm District, Hanoi\nPhở bò Khôi Hói, 50 Hàng Vải, Hoàn Kiếm District, Hanoi\n\n## Central\n\n### Sauces and seafood"
+          },
+          {
+            "id": "news/article_04.md::chunk-4",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_04.json",
+            "page": null,
+            "content": "feels light and effortless.\n\n### Long traditions\n\nMany Northern Vietnamese recipes date back hundreds of years. The food here is heavily influenced by age-old traditions and practices. Bánh chưng, a speciality steamed rice cake prepared on Lunar New Year, comes with its own legend. Inspired by what his land has to offer, a prince created a dish of mung bean and rice wrapped in dong leaves. This dish was so representative of the land that the king rewarded his son with the throne."
+          },
+          {
+            "id": "news/article_01.md::chunk-3",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_01.json",
+            "page": null,
+            "content": "vào một thành phố hoặc khu vực để tìm hiểu thêm.\n\n### [Miền Bắc Việt Nam](https://vietnam.travel/vi/places-to-go/northern-vietnam)\n\nMiền Bắc Việt Nam gây ấn tượng mạnh mẽ với những dãy núi hùng vĩ, những thửa ruộng bậc thang trăm tuổi và các nhóm dân tộc đặc sắc. [Xem thêm](https://vietnam.travel/vi/places-to-go/northern-vietnam)\n\n##### Điểm đến hàng đầu"
+          }
+        ],
+        "latency_seconds": 3.163409,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.916667,
+          "average": 0.979167
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Bún thang thể hiện sự tinh tế trong việc làm nổi bật hương vị từ các nguyên liệu tươi ngon từ nông trại",
+              "supported": true
+            },
+            {
+              "claim": "Bún thang có nước dùng trong mang hương vị nhẹ nhàng từ mắm tôm và mộc nhĩ dù phải chuẩn bị mất nhiều giờ",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng thể hiện truyền thống lâu đời có từ hàng trăm năm của ẩm thực miền Bắc",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng gắn liền với các tập quán và câu chuyện truyền thuyết",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng là món ăn được các gia đình quây quần gói vào dịp Tết Nguyên Đán để nhắc nhở về cội nguồn",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Bún thang cho thấy sự cầu kỳ nhưng tinh tế của công thức Hà Nội",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng thể hiện truyền thống lâu đời",
+              "supported": true
+            },
+            {
+              "claim": "Bánh chưng được các gia đình làm vào dịp Tết để nhớ về cội nguồn",
+              "supported": true
+            }
+          ],
+          "context_relevance": [
+            true,
+            true,
+            false,
+            true,
+            false
+          ],
+          "answer_relevance": 1.0,
+          "failure_stage": "none",
+          "explanation": "The generated answer accurately captures both dishes based on the retrieved context with complete relevance."
+        }
+      }
+    },
+    {
+      "question": "Điều gì làm sợi cao lầu Hội An trở nên đặc biệt theo bài viết?",
+      "expected_answer": "Sợi được cho là làm bằng nước giàu canxi từ giếng Bá Lễ, pha tro cây tràm từ Cù Lao Chàm, tạo độ to, chắc và kết cấu giống udon.",
+      "expected_context": "Explore the food of Hoi An, mục Cao lầu (pork rice noodles).",
+      "expected_source": "article_05.json",
+      "dense_only": {
+        "answer": "Sợi cao lầu trở nên đặc biệt vì chúng được cho là làm từ nguồn nước giàu canxi lấy từ giếng Bá Lệ có từ thế kỷ 10 [S1].",
+        "chunks": [
+          {
+            "id": "news/article_05.md::chunk-6",
+            "score": 0.519040584564209,
+            "retrieval_method": "dense",
+            "source": "article_05.json",
+            "page": null,
+            "content": "go to try them.\n\n### Cao lầu (pork rice noodles)\n\nIf you’re going to try just one dish, this is ‘Hoi An in a bowl’. It’s unique to the town and made from local ingredients according to a secret recipe. The name (“high storey’) apparently harks back to the 17th century, when it was served to wealthy people who ate upstairs at restaurants. What’s special about it? Firstly, the noodles. They’re said to be made with calcium-rich water from the 10th-century Ba Le well."
+          },
+          {
+            "id": "news/article_03.md::chunk-12",
+            "score": 0.484474778175354,
+            "retrieval_method": "dense",
+            "source": "article_03.json",
+            "page": null,
+            "content": "sành điệu và những cửa hàng thời trang gọn gàng. Ít nhất một lần trong chuyến đi của bạn, hãy làm như người dân địa phương và tận hưởng một buổi tối tiệc nướng và bia trên vỉa hè, hoặc trò chuyện bên tách trà dưới bóng cây trong một công viên thành phố.\n\n[Hội An - Thành phố “Viên ngọc ẩn” hàng đầu thế giới](https://vietnam.travel/vi/things-to-do/hoi-an-world’s-top-“hidden-gem”-city)"
+          },
+          {
+            "id": "news/article_05.md::chunk-1",
+            "score": 0.4658186435699463,
+            "retrieval_method": "dense",
+            "source": "article_05.json",
+            "page": null,
+            "content": "eing recognized for its culinary treasures, too.\n\nThink of Hoi An and vivid images come to mind. Yellow heritage buildings. Quirky cobbled streets. Rows of multi-colored lanterns. But to fully explore Hoi An, indulge senses other than that of sight. In particular, you should sample Hoi An’s food to truly get a ‘taste’ of the place."
+          },
+          {
+            "id": "news/article_05.md::chunk-19",
+            "score": 0.4549916982650757,
+            "retrieval_method": "dense",
+            "source": "article_05.json",
+            "page": null,
+            "content": "ánh Bao Bánh Vạc (‘white rose’ savoury dumpling)\n\nThe name of this dumpling, unique to Hoi An, comes from its rose-like shape. Its recipe is apparently guarded by the third generation of the same family that has long provided these dumplings across Hoi An. The steamed dumpling is made from rice flour and the same well water used in cao lầu. It’s filled with minced pork, shrimp, and mushrooms. And topped with crispy spring onion and shallots.\n\nTRY:"
+          },
+          {
+            "id": "news/article_05.md::chunk-4",
+            "score": 0.4495232105255127,
+            "retrieval_method": "dense",
+            "source": "article_05.json",
+            "page": null,
+            "content": "reens from the nearby Tra Que Vegetable Village.\n\nThe diversity and distinctiveness of Hoi An’s food have caught the attention of Lonely Planet (who dubbed Hoi An a ‘global food paradise’; TripAdvisor (who ranked it among the ‘Top 25 best culinary destinations in the world’; and the World Association of Chefs (who recognized Hoi An as Vietnam’s food capital)."
+          }
+        ],
+        "latency_seconds": 6.43403,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.5,
+          "context_recall": 0.333333,
+          "context_precision": 1.0,
+          "average": 0.708333
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Sợi cao lầu trở nên đặc biệt vì chúng được cho là làm từ nguồn nước giàu canxi lấy từ giếng Bá Lệ",
+              "supported": true
+            },
+            {
+              "claim": "Giếng Bá Lệ có từ thế kỷ 10",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Sợi được cho là làm bằng nước giàu canxi từ giếng Bá Lễ",
+              "supported": true
+            },
+            {
+              "claim": "Sợi được pha tro cây tràm từ Cù Lao Chàm",
+              "supported": false
+            },
+            {
+              "claim": "Sợi tạo độ to, chắc và kết cấu giống udon",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          "answer_relevance": 0.5,
+          "failure_stage": "generation",
+          "explanation": "The generated answer is partially supported by the context but misses key details about the ash and texture mentioned in the reference answer."
+        }
+      },
+      "hybrid_rrf": {
+        "answer": "Sợi cao lầu được cho là làm từ nguồn nước giàu canxi lấy từ giếng Bá Lễ có từ thế kỷ 10 [S3].",
+        "chunks": [
+          {
+            "id": "news/article_05.md::chunk-8",
+            "score": 0.03131881575727918,
+            "retrieval_method": "hybrid",
+            "source": "article_05.json",
+            "page": null,
+            "content": "poonful of broth, chili, and lime. Superb!\n\nTRY:\n\n- Cao Lầu bà Bé: 1 Trần Phú, Cẩm Châu\n- Quán Cao Lầu Thanh: 26 Thái Phiên, Phường Minh An\n- Morning Glory Original: 106 Nguyễn Thái Học, Phường Minh An\n- Ong Hai (Mr. Hai Restaurant): 6A Trương Minh Lượng, Cẩm Châu\n\n### Bánh ướt thịt nướng (grilled pork spring rolls)\n\nsource: IG: @FinOneder"
+          },
+          {
+            "id": "news/article_05.md::chunk-19",
+            "score": 0.030776515151515152,
+            "retrieval_method": "hybrid",
+            "source": "article_05.json",
+            "page": null,
+            "content": "ánh Bao Bánh Vạc (‘white rose’ savoury dumpling)\n\nThe name of this dumpling, unique to Hoi An, comes from its rose-like shape. Its recipe is apparently guarded by the third generation of the same family that has long provided these dumplings across Hoi An. The steamed dumpling is made from rice flour and the same well water used in cao lầu. It’s filled with minced pork, shrimp, and mushrooms. And topped with crispy spring onion and shallots.\n\nTRY:"
+          },
+          {
+            "id": "news/article_05.md::chunk-6",
+            "score": 0.030679156908665108,
+            "retrieval_method": "hybrid",
+            "source": "article_05.json",
+            "page": null,
+            "content": "go to try them.\n\n### Cao lầu (pork rice noodles)\n\nIf you’re going to try just one dish, this is ‘Hoi An in a bowl’. It’s unique to the town and made from local ingredients according to a secret recipe. The name (“high storey’) apparently harks back to the 17th century, when it was served to wealthy people who ate upstairs at restaurants. What’s special about it? Firstly, the noodles. They’re said to be made with calcium-rich water from the 10th-century Ba Le well."
+          },
+          {
+            "id": "news/article_05.md::chunk-5",
+            "score": 0.030117753623188408,
+            "retrieval_method": "hybrid",
+            "source": "article_05.json",
+            "page": null,
+            "content": "ho recognized Hoi An as Vietnam’s food capital).\n\nIf you appreciate food as a culture, why not book a foodie tour or cooking class while you’re in Hoi An? Or you can simply plan a gastronomic itinerary of your own. Here are the top 10 delicacies, and where to go to try them.\n\n### Cao lầu (pork rice noodles)"
+          },
+          {
+            "id": "news/article_03.md::chunk-12",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "article_03.json",
+            "page": null,
+            "content": "sành điệu và những cửa hàng thời trang gọn gàng. Ít nhất một lần trong chuyến đi của bạn, hãy làm như người dân địa phương và tận hưởng một buổi tối tiệc nướng và bia trên vỉa hè, hoặc trò chuyện bên tách trà dưới bóng cây trong một công viên thành phố.\n\n[Hội An - Thành phố “Viên ngọc ẩn” hàng đầu thế giới](https://vietnam.travel/vi/things-to-do/hoi-an-world’s-top-“hidden-gem”-city)"
+          }
+        ],
+        "latency_seconds": 1.954298,
+        "metrics": {
+          "faithfulness": 1.0,
+          "answer_relevance": 0.6,
+          "context_recall": 0.333333,
+          "context_precision": 0.333333,
+          "average": 0.566667
+        },
+        "evaluation": {
+          "answer_claims": [
+            {
+              "claim": "Sợi cao lầu được làm từ nguồn nước giàu canxi lấy từ giếng Bá Lễ.",
+              "supported": true
+            },
+            {
+              "claim": "Giếng Bá Lễ có từ thế kỷ 10.",
+              "supported": true
+            }
+          ],
+          "reference_claims": [
+            {
+              "claim": "Sợi được làm bằng nước giàu canxi từ giếng Bá Lễ.",
+              "supported": true
+            },
+            {
+              "claim": "Sợi được pha tro cây tràm từ Cù Lao Chàm.",
+              "supported": false
+            },
+            {
+              "claim": "Sợi cao lầu có độ to, chắc và kết cấu giống udon.",
+              "supported": false
+            }
+          ],
+          "context_relevance": [
+            false,
+            false,
+            true,
+            false,
+            false
+          ],
+          "answer_relevance": 0.6,
+          "failure_stage": "generation",
+          "explanation": "The generated answer is partially correct based on the context, but misses details mentioned in the reference answer such as the wood ash and udon-like texture."
+        }
+      }
+    }
+  ]
+}
