@@ -1,9 +1,25 @@
 from pathlib import Path
 
+from app import assistant_message_from_result
 from streamlit.testing.v1 import AppTest
 
 
 APP_PATH = Path(__file__).parent.parent / "app.py"
+
+
+def test_assistant_message_from_result_preserves_generated_answer_and_sources():
+    """Kết quả generation phải sẵn sàng để render ngay trong lịch sử hội thoại."""
+    result = {
+        "answer": "Câu trả lời có căn cứ.",
+        "sources": [{"content": "Đoạn nguồn", "metadata": {}}],
+        "retrieval_source": "hybrid",
+    }
+
+    assert assistant_message_from_result(result) == {
+        "role": "assistant",
+        "content": "Câu trả lời có căn cứ.",
+        "sources": [{"content": "Đoạn nguồn", "metadata": {}}],
+    }
 
 
 def test_app_places_a_real_query_form_inside_the_hero_workspace():

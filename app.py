@@ -54,6 +54,31 @@ def render_sources(sources: list[dict]) -> None:
             st.markdown(source["content"])
 
 
+def assistant_message_from_result(result: dict) -> dict:
+    """Chuẩn hóa kết quả generation để render và lưu lịch sử trong cùng lượt submit."""
+    return {
+        "role": "assistant",
+        "content": result["answer"],
+        "sources": result["sources"],
+    }
+
+
+def render_conversation(slot, messages: list[dict]) -> None:
+    """Thay nội dung vùng hội thoại bằng lịch sử hiện tại mà không cần rerun."""
+    slot.empty()
+    with slot.container():
+        if not messages:
+            st.markdown(
+                '<div class="assistant-empty"><strong>Nguồn chính thức · Đã xác thực</strong>'
+                "Tôi chỉ trả lời dựa trên tài liệu có thể kiểm chứng. Hãy đặt câu hỏi để bắt đầu tra cứu.</div>",
+                unsafe_allow_html=True,
+            )
+        for message in messages:
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
+                render_sources(message.get("sources", []))
+
+
 def apply_theme() -> None:
     """Áp dụng ngôn ngữ thị giác cho cổng thông tin RAG chính thức."""
     st.markdown(
@@ -166,12 +191,8 @@ def main() -> None:
             with st.container(key="chat-panel"):
                 st.markdown('<div class="chat-panel-title"><h3>Trợ lý tra cứu</h3><span class="status-badge latest">Cập nhật mới nhất</span></div>', unsafe_allow_html=True)
                 with st.container(height=150, key="conversation"):
-                    if not st.session_state.messages:
-                        st.markdown('<div class="assistant-empty"><strong>Nguồn chính thức · Đã xác thực</strong>Tôi chỉ trả lời dựa trên tài liệu có thể kiểm chứng. Hãy đặt câu hỏi để bắt đầu tra cứu.</div>', unsafe_allow_html=True)
-                    for message in st.session_state.messages:
-                        with st.chat_message(message["role"]):
-                            st.markdown(message["content"])
-                            render_sources(message.get("sources", []))
+                    conversation_slot = st.empty()
+                    render_conversation(conversation_slot, st.session_state.messages)
                 with st.form("hero-query-form", border=False, clear_on_submit=True):
                     query = st.text_input(
                         "Hãy nhập câu hỏi của bạn",
@@ -194,8 +215,8 @@ def main() -> None:
     st.session_state.messages.append({"role": "user", "content": query, "sources": []})
     with st.spinner("Đang tra cứu nguồn liên quan..."):
         result = generate_with_citation(query, top_k=top_k)
-    st.session_state.messages.append({"role": "assistant", "content": result["answer"], "sources": result["sources"]})
-    st.rerun()
+    st.session_state.messages.append(assistant_message_from_result(result))
+    render_conversation(conversation_slot, st.session_state.messages)
 
 
 if __name__ == "__main__":
