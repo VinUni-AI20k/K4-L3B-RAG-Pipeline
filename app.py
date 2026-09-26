@@ -192,7 +192,7 @@ def main() -> None:
                                 st.session_state.suggested_query = question
                                 st.session_state["hero-query"] = question
                                 st.rerun()
-                with st.container(height=150, key="conversation"):
+                with st.container(height=300, key="conversation"):
                     conversation_slot = st.empty()
                     render_conversation(conversation_slot, st.session_state.messages)
                 with st.form("hero-query-form", border=False, clear_on_submit=True):
