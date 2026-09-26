@@ -1,129 +1,145 @@
-"""Task 10 — Tạo câu trả lời có citation từ kết quả retrieval."""
+"""
+Task 10 — Generation có citation.
+
+Hướng dẫn:
+    1. Retrieve top-k chunks.
+    2. Reorder để giảm lost-in-the-middle.
+    3. Format context kèm title và source.
+    4. Gọi provider được chọn trong .env.
+    5. Trả answer, sources và retrieval_source.
+
+Nếu context không đủ hoặc provider lỗi, trả safe refusal; không bịa thông tin.
+"""
 
 import os
-import re
 
 from dotenv import load_dotenv
 
 from .task9_retrieval_pipeline import retrieve
 
+
 load_dotenv()
 
 TOP_K = 5
-REFUSAL = "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+TOP_P = 0.9
+TEMPERATURE = 0.3
 
-SYSTEM_PROMPT = f"""Bạn là trợ lý hỏi đáp du lịch Ninh Bình.
-Chỉ dùng thông tin trong CONTEXT để trả lời.
-Gắn số nguồn dạng [1], [2] ngay sau mỗi thông tin thực tế.
-Chỉ dùng số nguồn có trong CONTEXT. Không tự suy đoán giá vé, lịch trình hay quy định.
-Chỉ gắn số của đoạn trực tiếp chứa thông tin dùng để trả lời.
-Không gắn thêm nguồn chỉ vì đoạn đó cùng chủ đề.
-Nếu CONTEXT không đủ bằng chứng, chỉ trả lời: {REFUSAL}"""
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai")
+LLM_MODEL = os.getenv("LLM_MODEL", "")
+
+SYSTEM_PROMPT = """Trả lời chỉ từ context được cung cấp.
+Mỗi khẳng định phải có citation dạng [Document N]. Nếu thiếu evidence, hãy từ chối xác minh."""
 
 
 def reorder_for_llm(chunks: list[dict]) -> list[dict]:
-    """Đưa các đoạn được xếp hạng cao về đầu và cuối context."""
-    items = list(chunks)
-    if len(items) <= 2:
-        return items
-    return items[::2] + items[1::2][::-1]
+    """Đưa chunks quan trọng về đầu và cuối context (lost-in-the-middle)."""
+    if len(chunks) <= 2:
+        return list(chunks)
+    front = chunks[::2]
+    back = chunks[1::2]
+    return front + back[::-1]
 
 
 def format_context(chunks: list[dict]) -> str:
-    """Hiển thị nội dung cùng tên tài liệu và nguồn."""
+    """Tạo context có title và source label."""
     parts = []
-    for number, chunk in enumerate(chunks, start=1):
+    for index, chunk in enumerate(chunks, 1):
         metadata = chunk["metadata"]
         parts.append(
-            f"[{number}] Tiêu đề: {metadata['title']}\n"
-            f"Nguồn: {metadata['source']}\n"
-            f"URL: {metadata.get('url') or 'Không có URL'}\n"
-            f"Nội dung: {chunk['content']}"
+            f"[Document {index} | Title: {metadata['title']} | "
+            f"Source: {metadata['source']}]\n{chunk['content']}"
         )
     return "\n\n---\n\n".join(parts)
 
 
 def call_llm(system_prompt: str, user_message: str) -> str:
-    """Gọi OpenAI bằng cấu hình trong .env."""
-    if os.getenv("LLM_PROVIDER", "openai").lower() != "openai":
-        raise ValueError("Task 10 hiện được cấu hình cho OpenAI.")
+    """Gọi OpenAI, Gemini hoặc Anthropic theo cấu hình."""
+    if LLM_PROVIDER == "openai":
+        from openai import OpenAI
 
-    model = os.getenv("LLM_MODEL", "").strip()
-    if not model or not os.getenv("OPENAI_API_KEY"):
-        raise ValueError("Cần điền LLM_MODEL và OPENAI_API_KEY trong .env.")
+        client = OpenAI()
+        response = client.chat.completions.create(
+            model=LLM_MODEL or "gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_message},
+            ],
+            temperature=TEMPERATURE,
+            top_p=TOP_P,
+        )
+        return response.choices[0].message.content
 
-    from openai import OpenAI
+    elif LLM_PROVIDER == "gemini":
+        from google import genai
 
-    response = OpenAI().chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_message},
-        ],
-        temperature=0.3,
-    )
-    return response.choices[0].message.content or ""
+        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY", ""))
+        response = client.models.generate_content(
+            model=LLM_MODEL or "gemini-2.0-flash",
+            contents=f"{system_prompt}\n\n{user_message}",
+        )
+        return response.text
+
+    elif LLM_PROVIDER == "anthropic":
+        import anthropic
+
+        client = anthropic.Anthropic()
+        response = client.messages.create(
+            model=LLM_MODEL or "claude-sonnet-4-20250514",
+            max_tokens=2048,
+            system=system_prompt,
+            messages=[
+                {"role": "user", "content": user_message},
+            ],
+            temperature=TEMPERATURE,
+            top_p=TOP_P,
+        )
+        return response.content[0].text
+
+    else:
+        raise ValueError(f"Unsupported LLM provider: {LLM_PROVIDER}")
 
 
 def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
-    """Trả lời câu hỏi và giữ các nguồn để đối chiếu citation."""
-    refusal = {
-        "answer": REFUSAL,
-        "sources": [],
-        "retrieval_source": "none",
-    }
+    """Trả về GenerationResult."""
+    try:
+        chunks = retrieve(query, top_k=top_k)
+    except Exception:
+        chunks = []
 
-    if not query.strip() or top_k <= 0:
-        return refusal
+    if not chunks:
+        return {
+            "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+            "sources": [],
+            "retrieval_source": "none",
+        }
+
+    reordered = reorder_for_llm(chunks)
+    context = format_context(reordered)
+    user_message = f"Context:\n{context}\n\nQuestion: {query}"
 
     try:
-        sources = retrieve(query, top_k=top_k)
-        if not sources:
-            return refusal
-
-        # Số [1], [2] luôn theo thứ tự sources gốc, kể cả khi
-        # đổi vị trí trình bày các đoạn trong context.
-        source_numbers = {item["id"]: i for i, item in enumerate(sources, 1)}
-        reordered = reorder_for_llm(sources)
-        context_parts = []
-
-        for item in reordered:
-            number = source_numbers[item["id"]]
-            metadata = item["metadata"]
-            context_parts.append(
-                f"[{number}] Tiêu đề: {metadata['title']}\n"
-                f"Nguồn: {metadata['source']}\n"
-                f"URL: {metadata.get('url') or 'Không có URL'}\n"
-                f"Nội dung: {item['content']}"
-            )
-
-        answer = call_llm(
-            SYSTEM_PROMPT,
-            "CONTEXT:\n"
-            + "\n\n---\n\n".join(context_parts)
-            + f"\n\nCÂU HỎI: {query}"
-        ).strip()
-
-        cited_numbers = {
-            int(number) for number in re.findall(r"\[(\d+)\]", answer)
-        }
-        if (
-            not answer
-            or answer == REFUSAL
-            or not cited_numbers
-            or any(number < 1 or number > len(sources) for number in cited_numbers)
-        ):
-            return refusal
-
+        answer = call_llm(SYSTEM_PROMPT, user_message)
+    except Exception as e:
+        answer = f"Tôi không thể xác minh thông tin này từ nguồn hiện có. (Lỗi: {e})"
         return {
             "answer": answer,
-            "sources": sources,
-            "retrieval_source": (
-                "pageindex"
-                if sources[0]["retrieval_method"] == "pageindex"
-                else "hybrid"
-            ),
+            "sources": [],
+            "retrieval_source": "none",
         }
-    except Exception as error:
-        print(f"Generation failed: {error}")
-        return refusal
+
+    # Xác định retrieval_source từ method của chunks
+    first_method = chunks[0].get("retrieval_method", "hybrid")
+    if first_method == "pageindex":
+        retrieval_source = "pageindex"
+    else:
+        retrieval_source = "hybrid"
+
+    return {
+        "answer": answer,
+        "sources": chunks,
+        "retrieval_source": retrieval_source,
+    }
+
+
+if __name__ == "__main__":
+    print(generate_with_citation("test query"))

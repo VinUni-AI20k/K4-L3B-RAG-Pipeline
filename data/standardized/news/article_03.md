@@ -1,30 +1,24 @@
-**Source:** https://dulichninhbinh.com.vn/item/3021
-
-**Crawled:** 2026-09-25T06:02:00.688356+00:00
-
+---
+title: Lễ hội sắc vàng Tam Cốc - Tràng An
+url: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/le-hoi-sac-vang-tam-coc-trang-an-1685.html
+doc_type: news
+date_published: 03/06/2024
+date_crawled: 2026-09-25T12:11:26
+source_site: Sở Du lịch tỉnh Ninh Bình
+source_file: article_03.json
 ---
 
-# Quần thể Danh thắng Tràng An - “Bảo tàng địa chất ngoài trời”
-Cập nhật: 27/03/2025
+# Lễ hội sắc vàng Tam Cốc - Tràng An
 
+* Đánh giá cho bài viết:
+  * **5** điểm ( **1** đánh giá )
 
-Quần thể danh thắng Tràng An bao gồm 3 khu vực bảo tồn: Khu di tích lịch sử văn hóa Cố đô Hoa Lư; Khu danh thắng Tràng An - Tam Cốc - Bích Động và Rừng nguyên sinh đặc dụng Hoa Lư, với tổng diện tích 12.251 ha. Nổi tiếng với các giá trị về cảnh quan, địa chất, địa mạo, đa dạng sinh học, văn hoá - xã hội, lịch sử, Quần thể Danh thắng Tràng An được coi là “Bảo tàng địa chất ngoài trời”. 
-Cách ngày nay khoảng 250 triệu năm, qua thời gian dài phong hoá bởi sự biến đổi của trái đất, khí hậu, biển tiến, biển thoái, Quần thể Danh thắng Tràng An đã mang trong mình hàng trăm thung lũng, hang động… cùng nhiều loại động, thực vật quý hiếm. Môi trường thiên nhiên đa dạng và hài hoà giữa sinh vật, hang động, thuỷ vực tạo nên cảnh sắc “non xanh nước biếc” hoà quyện hữu tình, thơ mộng như một bức tranh thiên nhiên kỳ vĩ khổng lồ, nơi mà di sản của thiên nhiên và của con người không thể tách rời. Giá trị cảnh quan và thẩm mỹ của Tràng An được đánh giá là quý hiếm trên thế giới.
-Về thực vật, đến nay đã thống kê được 134 họ với 384 chi, 577 loài, trong đó có tới 10 loài nằm trong Sách đỏ Việt Nam cần được bảo vệ và 7 loài lần đầu tiên ghi nhận cho hệ thực vật Việt Nam. Ngoài ra, còn có 311 loài thuộc 240 chi, 105 họ thực vật bậc cao có mạch, có thể dùng làm thuốc như Bình Vôi, Vương Tùng, Kim Ngân, Hoàng Nàn, Mài Núi, Huyết Giác, Bách Bộ… Bên cạnh hệ thực vật phong phú, Tràng An cũng rất đa dạng về các loài động vật, trong đó, động vật thủy sinh gồm 30 loài nổi, 40 loài đáy; Động vật trên cạn chưa có thống kê đầy đủ nhưng hiện nay, địa phương cũng như khách du lịch vẫn còn gặp nhiều loài động vật quý, hiếm như khỉ, sơn dương, cầy đổi màu, tê tê, tắc kè, rái cá, mèo rừng, sáo, vẹt, le le… Đặc biệt, Tràng An có loài rắn mào đầu, phượng hoàng đất và rùa cổ sọc được coi là những loài động vật rất quý, hiếm cần được bảo vệ.
-Không những thế, Quần thể Danh thắng Tràng An còn có giá trị nổi trội về địa mạo Karst quyến rũ nhất trên thế giới, là kết quả từ các hoạt động địa chất liên tục qua hàng trăm triệu năm. Phủ lên cảnh quan là thảm rừng và các tháp dạng nón hùng vĩ cao tới 200m, với các hố trũng hẹp khép kín, bao quanh bởi sông, núi nối liền nhau, các đầm lầy thông nhau qua hệ thống suối xuyên ngầm có chiều dài lên tới 1km. Vẻ hài hòa của đá, sông nước, rừng cây và bầu trời ở Tràng An tạo nên một thế giới tự nhiên sống động, đẹp và nên thơ. Theo nghiên cứu của các chuyên gia Viện Khoa học Địa chất và Khoáng sản, vùng Karst Tràng An là phần tận cùng về phía Đông Nam của các dải đá vôi thuộc nhánh đại dương Tethys cổ từ Trung Quốc kéo vào Việt Nam, tạo thành một loạt cao nguyên đá vôi Tây Bắc độc đáo, sau khi qua Vườn quốc gia Cúc Phương về tới Tràng An chuyển thành các khối núi, dãy núi hẹp xen các thung lũng. Có thể nói, không nơi nào trên thế giới có được cảnh “hóa thạch nổi lên trên cạn” như ở đây. Chính sự đa dạng của môi trường thiên nhiên và sự hài hòa giữa sinh vật, hang động, thủy vực, tạo nên cảnh sắc “non xanh nước biếc” hữu tình, thơ mộng như một bức tranh thiên nhiên kỳ vĩ, khổng lồ. Các nhà địa chất quốc tế khẳng định, đây là một ví dụ điển hình cho tháp đá vôi nhiệt đới ẩm ở giai đoạn cuối của quá trình phát triển địa mạo và là mô hình để nhận biết, so sánh với các khu vực khác trên thế giới.
-Hòa quyện với cấu trúc và vẻ đẹp của cảnh quan Karst là thảm rừng nhiệt đới nguyên sinh, quanh năm có sương sớm, mây chiều, tạo ra phong cảnh mê hoặc lòng người. Khu rừng văn hóa lịch sử môi trường Hoa Lư điển hình là một vùng cát-tơ đá vôi trồi lên giữa vùng đồng bằng ven biển tương đối bằng phẳng của miền Bắc Việt Nam, với rừng trên núi đá vôi đan xen với nhiều hang động đẹp như Thiên Hà, Vái Giời, Tiên Cá, Ba Cô, Thủy Cung, hang Bụt, hang Sinh Dược... tạo nên những tuyến du lịch nổi tiếng như Tràng An, Tam Cốc - Bích Động. Môi trường thiên nhiên đẹp tuyệt mỹ của Di sản pha trộn hoàn hảo với bức tranh cuộc sống nông thôn, vườn tược và ruộng đồng bát ngát, xen lẫn những ngôi làng nhỏ nối nhau bởi các con đường mòn, cùng mạng lưới sông, suối, kênh rạch tạo ra bức tranh thủy mặc đẹp lung linh, huyền ảo. Những ngôi Chùa, Đền, Phủ tựa mình bên vách đá với mái ngói cổ kính, rêu phong, thâm trầm, tạo nên một yếu tố văn hóa kín đáo, gợi đến sự thầm kín, vĩnh hằng của tín ngưỡng tâm linh chứa đựng những giá trị bản địa đồng điệu với cảnh quan. Có thể nói, Tràng An là nơi rất đặc biệt, nơi văn hóa tiếp xúc với kỳ quan, bí ẩn và hùng vĩ trong sự hài hòa của thế giới tự nhiên và văn hóa cũng như lịch sử của vùng đất Cố đô.
-Ẩn chứa những giá trị nổi bật toàn cầu, quần thể Danh thắng Tràng An là sự kết hợp giữa các giá trị tự nhiên - tâm linh và lịch sử đã được Unesco vinh danh là Di sản Văn hóa và Thiên nhiên thế giới. Với những giá trị nổi bật về cảnh quan thiên nhiên, đa dạng sinh thái và kiến tạo địa chất, nơi đây chắc chắn là một điểm du lịch tuyệt vời không thể bỏ qua với lữ khách bốn phương.
-Hiện nay Khu du lịch sinh thái Tràng An đang khai thác 04 tuyến tham quan:
-_Tuyến 1:_ Bến thuyền - Đền Trình - Hang Tối - Hang Sáng - Hang Nấu Rượu - Đền Trần - Hang Nấu Rượu - Hang Ba Giọt - Hang Seo - Hang Sơn Dương - Hang Khống - Phủ Khống - Hang Trần - Hang Quy Hậu.
-_Tuyến 2:_ Bến thuyền - Hang Lấm - Đền Thánh Cao Sơn - Hang Vạng - Hang Thánh Trượt - Đền Suối Tiên - Thung Vối - Núi Địa Linh - Núi Kim Quy - Hang Đại - Hành cung Vũ Lâm.
-_Tuyến 3:_ Bến thuyền - Đền Trình - Hang Đột - Hang Vân - Đền Suối Tiên - Thung Vối - Núi Địa Linh - Núi Kim Quy - Hang Đại - Hành cung Vũ Lâm.
-_Tuyến Phượng Hoàng:_ Bến thuyền - Hang Lấm - Đền Thánh Cao Sơn - Hang Vạng - Hang Thánh Trượt - Gốc Gáo - Hang Đại - Hành cung Vũ Lâm.
-**Khu du lịch sinh thái Tràng An:**
-**Địa chỉ:** Phường Hoa Lư, tỉnh Ninh Bình
-**SĐT:** 0229.3620.335
-**Vé tham quan:**
-- Người > 1,3m: 300.000vnđ/người
-- Trẻ em 1-1,3m: 150.000vnđ/người
-+ Người cao tuổi (trên 60 tuổi): 150.000đ/người
-+ Trẻ em <1m: miễn phí
-Nguồn: Trung tâm Thông tin xúc tiến Du lịch
+Chiều 1/6, tại Khu Du lịch Tam Cốc-Bích Động đã diễn ra Lễ hội sắc vàng Tam Cốc-Tràng An. Đây là sự kiện mở đầu cho Tuần Du lịch Ninh Bình năm 2024.
+Dự chương trình có các đồng chí: Đoàn Minh Huấn, Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy; Phạm Quang Ngọc, Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh; Trần Song Tùng, Ủy viên Ban Thường vụ Tỉnh ủy, Phó Chủ tịch UBND tỉnh, Trưởng Ban Tổ chức Tuần Du lịch Ninh Bình năm 2024. Cùng dự có lãnh đạo một số sở, ngành của tỉnh; Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch, Hiệp Hội du lịch một số tỉnh, thành phố; lãnh đạo huyện Hoa Lư; Doanh nghiệp Xây dựng Xuân Trường; đông đảo nhân dân, du khách trong nước và quốc tế.
+Tuần Du lịch Ninh Bình năm 2024 với chủ đề "Sắc vàng Tam Cốc-Tràng An" là sự kiện du lịch đặc sắc, thường niên của tỉnh Ninh Bình. Đây là một trong các hoạt động hấp dẫn và ý nghĩa trong chuỗi sự kiện hưởng ứng Kỷ niệm 10 năm Quần thể danh thắng Tràng An được UNESCO ghi danh là Di sản Văn hóa và Thiên nhiên thế giới (2014-2024).
+Điểm đặc sắc của Lễ hội sắc vàng Tam Cốc-Tràng An là nghi lễ rước trên sông với sự tham gia của 63 thuyền chở sản vật đặc trưng của các vùng miền trong cả nước làm lễ vật để dâng lên Thần Nông, đồng thời tôn vinh nét đẹp nghề nông của người nông dân vùng đồng bằng Bắc Bộ nói chung và người dân Ninh Bình nói riêng.
+Theo truyền thuyết, Thần Nông là vị vua huyền thoại của nhà nông, là ông tổ nghề trồng lúa nước, người đã sáng chế ra các loại công cụ cày cấy và dạy cho dân vùng đồng bằng biết cách trồng trọt. Tín ngưỡng thờ cúng Thần Nông cũng vì thế trở thành một nét văn hóa đặc sắc của các cư dân nền văn minh lúa nước từ bao đời nay. Những cư dân nông nghiệp tin rằng thờ cúng Thần Nông là cách để bày tỏ lòng biết ơn đối với ông tổ nghề nông, đồng thời cầu xin Thần ban cho mưa thuận gió hòa, mùa màng tươi tốt.
+Chương trình Lễ hội sắc vàng Tam Cốc-Tràng An bắt đầu hành trình từ Bến thuyền Tam Cốc vào hang Ba, ngược dòng sông Ngô Đồng, dẫn dắt về nơi khởi thủy nghề nông. Tiếp đó, du khách được hòa mình vào không khí vui tươi, tấp nập, được mùa của người nông dân, trải nghiệm gặt lúa trên cánh đồng vàng, ngắm cánh đồng nghệ thuật thể hiện bức tranh dân gian "Mục đồng thổi sáo". Du khách cũng được tham quan không gian tái hiện cách thức làm nông sơ khai, quá trình sản xuất lúa, gạo của người Việt.
+Tại khu vực hang Ba suối Tiên, các đồng chí lãnh đạo tỉnh, đại biểu và nhân dân đã thực hiện nghi thức dâng hương và dâng tiến những sản phẩm nông nghiệp đặc trưng của Ninh Bình và của các vùng miền trong cả nước vào không gian thờ cúng Thần Nông.
+Thông qua Lễ hội, Nhân dân và du khách sẽ hiểu thêm phần nào về lịch sử nền nông nghiệp xa xưa ở nơi đây, nét văn hóa truyền thống của dân tộc, qua đó góp phần gìn giữ phát huy những giá trị nhân văn sâu sắc được lưu giữ từ ngàn đời.
+**Nguồn:baoninhbinh.org.vn**

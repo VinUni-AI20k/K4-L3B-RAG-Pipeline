@@ -1,17 +1,92 @@
 [
-  {"question":"Lúa ở Tam Cốc bắt đầu chín rộ vào tháng nào?","expected_answer":"Khoảng tháng 5 đến tháng 6.","expected_context":"news/article_01.md: Lúa ở Tam Cốc chỉ cấy một vụ duy nhất vào dịp đầu xuân và bắt đầu chín rộ vào khoảng tháng 5 đến tháng 6."},
-  {"question":"Đi thuyền khám phá Tam Cốc trên con sông nào?","expected_answer":"Sông Ngô Đồng.","expected_context":"news/article_01.md: Con đường thủy duy nhất để khám phá Tam Cốc chính là dòng sông Ngô Đồng."},
-  {"question":"Ba hang động ở Tam Cốc được bài viết nêu tên là gì?","expected_answer":"Hang Cả, Hang Hai và Hang Ba.","expected_context":"news/article_01.md: Dòng sông Ngô Đồng đưa du khách xuyên qua ba hang động: Hang Cả, Hang Hai và Hang Ba."},
-  {"question":"Theo bài viết, du khách leo bao nhiêu bậc đá để lên đỉnh Hang Múa?","expected_answer":"500 bậc đá.","expected_context":"news/article_02.md: Bạn có thể thử sức bền bằng việc leo 500 bậc đá trải dài từ chân núi đến đỉnh hang."},
-  {"question":"Theo truyền thuyết trong bài viết, vì sao nơi này được gọi là Hang Múa?","expected_answer":"Vua Trần thường tới đây nghe các mỹ nữ và cung tần múa hát.","expected_context":"news/article_02.md: Vua Trần khi về vùng Hoa Lư lập Am Thái Vi thường tới đây để nghe các mỹ nữ, cung tần múa hát; vì vậy nơi đây được đặt tên là Hang Múa."},
-  {"question":"Bài viết khuyên leo Hang Múa vào lúc nào?","expected_answer":"Buổi sáng sớm.","expected_context":"news/article_02.md: Hang Múa nằm ở phía Đông của núi; du khách nên leo hang vào buổi sáng sớm để tận hưởng không khí mát mẻ."},
-  {"question":"Quần thể danh thắng Tràng An gồm những khu vực bảo tồn nào theo bài viết?","expected_answer":"Khu di tích lịch sử văn hóa Cố đô Hoa Lư, khu danh thắng Tràng An - Tam Cốc - Bích Động và rừng nguyên sinh đặc dụng Hoa Lư.","expected_context":"news/article_03.md: Quần thể danh thắng Tràng An bao gồm 3 khu vực bảo tồn: Khu di tích lịch sử văn hóa Cố đô Hoa Lư; Khu danh thắng Tràng An - Tam Cốc - Bích Động và Rừng nguyên sinh đặc dụng Hoa Lư."},
-  {"question":"Bài viết nêu tổng diện tích quần thể danh thắng Tràng An là bao nhiêu?","expected_answer":"12.251 ha, theo bài viết về bảo tàng địa chất ngoài trời.","expected_context":"news/article_03.md: Quần thể danh thắng Tràng An bao gồm 3 khu vực bảo tồn, với tổng diện tích 12.251 ha."},
-  {"question":"Bài viết gọi quần thể danh thắng Tràng An là bảo tàng gì?","expected_answer":"Bảo tàng địa chất ngoài trời.","expected_context":"news/article_03.md: Quần thể Danh thắng Tràng An được coi là Bảo tàng địa chất ngoài trời."},
-  {"question":"Bài viết về ba di tích quốc gia đặc biệt của Ninh Bình nêu tên những di tích nào?","expected_answer":"Cố đô Hoa Lư, Tràng An – Tam Cốc – Bích Động và Núi Non Nước.","expected_context":"news/article_04.md: Ba di tích quốc gia đặc biệt là Cố đô Hoa Lư, Danh lam thắng cảnh Tràng An – Tam Cốc – Bích Động và Núi Non Nước."},
-  {"question":"Cố đô Hoa Lư là kinh đô đầu tiên của nhà nước nào theo bài viết?","expected_answer":"Nhà nước Đại Cồ Việt.","expected_context":"news/article_04.md: Cố đô Hoa Lư là kinh đô đầu tiên của Nhà nước Đại Cồ Việt."},
-  {"question":"Theo bài viết, UNESCO công nhận Quần thể danh thắng Tràng An là di sản thế giới vào năm nào?","expected_answer":"Năm 2014.","expected_context":"news/article_04.md: Năm 2014, Quần thể danh thắng Tràng An được UNESCO công nhận là Di sản Văn hóa và Thiên nhiên thế giới."},
-  {"question":"Bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình nêu Ninh Bình cách Hà Nội bao xa?","expected_answer":"Khoảng 90 km về phía đông nam.","expected_context":"news/article_05.md: Cách thủ đô Hà Nội 90km về phía đông nam, Ninh Bình sở hữu cảnh quan thiên nhiên non nước hữu tình."},
-  {"question":"Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Bích Động có nghĩa là gì?","expected_answer":"Động xanh.","expected_context":"news/article_05.md: Bích Động, nghĩa là động xanh, được mệnh danh là Nam thiên đệ nhị động."},
-  {"question":"Theo bài viết Thưởng ngoạn cảnh sắc thiên nhiên tuyệt đẹp của Ninh Bình, Tam Cốc nghĩa là gì?","expected_answer":"Ba hang, gồm hang Cả, hang Hai và hang Ba.","expected_context":"news/article_05.md: Tam Cốc nghĩa là 3 hang, gồm hang Cả, hang Hai và hang Ba."}
+  {
+    "question": "Theo Luật Du lịch 2017, khách du lịch có những quyền gì?",
+    "expected_answer": "Theo Điều 11 Luật Du lịch 2017, khách du lịch có quyền: sử dụng dịch vụ du lịch hoặc tự đi du lịch; yêu cầu cung cấp thông tin về chương trình, dịch vụ; được bảo đảm an toàn về tính mạng, sức khỏe, tài sản; được đối xử bình đẳng; được cứu hộ cứu nạn trong trường hợp khẩn cấp; khiếu nại, tố cáo và yêu cầu bồi thường thiệt hại khi bị vi phạm hợp đồng.",
+    "expected_context": "luat-du-lich-2017.md (Điều 11. Quyền của khách du lịch)"
+  },
+  {
+    "question": "Nghĩa vụ của khách du lịch theo Luật Du lịch 2017 bao gồm những gì?",
+    "expected_answer": "Theo Điều 12 Luật Du lịch 2017, khách du lịch có nghĩa vụ: tuân thủ pháp luật Việt Nam và điểm đến; ứng xử văn minh, tôn trọng phong tục tập quán bản sắc văn hóa địa phương; tuân thủ nội quy khu/điểm du lịch; thanh toán dịch vụ theo hợp đồng; bồi thường thiệt hại nếu gây ra; chấp hành các quy định về an ninh, an toàn và bảo vệ môi trường.",
+    "expected_context": "luat-du-lich-2017.md (Điều 12. Nghĩa vụ của khách du lịch)"
+  },
+  {
+    "question": "Các hành vi nào bị nghiêm cấm trong hoạt động du lịch?",
+    "expected_answer": "Theo Điều 9 Luật Du lịch 2017, các hành vi bị nghiêm cấm gồm: làm phương hại đến chủ quyền, lợi ích quốc gia, an ninh, trật tự, truyền thống văn hóa đạo đức; lợi dụng du lịch để đưa người xuất nhập cảnh trái phép; xâm hại tài nguyên và môi trường du lịch; phân biệt đối xử, tranh giành, chèo kéo ép khách; cho mượn giấy phép lữ hành; hành nghề hướng dẫn viên khi không đủ điều kiện; kinh doanh du lịch khi không đủ điều kiện hoặc không có giấy phép.",
+    "expected_context": "luat-du-lich-2017.md (Điều 9. Các hành vi bị nghiêm cấm trong hoạt động du lịch)"
+  },
+  {
+    "question": "Thẻ hướng dẫn viên du lịch gồm những loại nào và có thời hạn bao lâu?",
+    "expected_answer": "Theo Điều 58 Luật Du lịch 2017, thẻ hướng dẫn viên du lịch bao gồm 3 loại: thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm. Thẻ hướng dẫn viên du lịch quốc tế và nội địa có thời hạn 05 năm.",
+    "expected_context": "luat-du-lich-2017.md (Điều 58. Hướng dẫn viên du lịch và thẻ hướng dẫn viên du lịch)"
+  },
+  {
+    "question": "Điều kiện để một khu vực được công nhận là khu du lịch quốc gia là gì?",
+    "expected_answer": "Theo Điều 25 Luật Du lịch 2017, khu du lịch quốc gia phải đáp ứng: có tài nguyên du lịch đặc biệt hấp dẫn với ưu thế về cảnh quan thiên nhiên hoặc giá trị văn hóa; nằm trong danh mục tiềm năng phát triển được Thủ tướng phê duyệt; có kết cấu hạ tầng, cơ sở vật chất kỹ thuật và dịch vụ đồng bộ chất lượng cao; kết nối hạ tầng giao thông viễn thông quốc gia; bảo đảm an ninh trật tự, môi trường và cứu hộ cứu nạn.",
+    "expected_context": "luat-du-lich-2017.md (Điều 25. Điều kiện công nhận khu du lịch quốc gia)"
+  },
+  {
+    "question": "Theo Bộ quy tắc ứng xử văn minh du lịch, khách du lịch không nên làm những điều gì?",
+    "expected_answer": "Theo Quyết định 718/QĐ-BVHTTDL, khách du lịch không nên: vứt rác khạc nhổ bừa bãi, gây ồn ào mất trật tự nơi công cộng, viết vẽ khắc tên làm biến dạng di tích cảnh quan, sờ mó hiện vật trong bảo tàng, mua bán sử dụng động thực vật hoang dã nguy cấp quý hiếm, và không chụp ảnh ở nơi có biển cấm.",
+    "expected_context": "quy-tac-ung-xu-van-minh-du-lich.md (Mục 1. Quy tắc ứng xử đối với khách du lịch)"
+  },
+  {
+    "question": "Thông điệp cốt lõi của Bộ quy tắc ứng xử văn minh du lịch là gì?",
+    "expected_answer": "Thông điệp cốt lõi là 'Văn minh, tự trọng, trách nhiệm, thân thiện' trong mọi hoạt động du lịch; bảo vệ môi trường du lịch xanh - sạch - đẹp và giữ gìn bản sắc văn hóa dân tộc.",
+    "expected_context": "quy-tac-ung-xu-van-minh-du-lich.md (Điều 3. Thông điệp cốt lõi)"
+  },
+  {
+    "question": "Cơ sở lưu trú du lịch phải tuân thủ phương châm phục vụ nào theo Bộ quy tắc ứng xử?",
+    "expected_answer": "Cơ sở lưu trú du lịch phải thực hiện phương châm phục vụ: 'Sạch sẽ - Thân thiện - Chu đáo - Chuyên nghiệp'; niêm yết giá công khai, không tự ý tăng giá ép khách trong mùa cao điểm, bảo đảm an ninh trật tự và an toàn thực phẩm.",
+    "expected_context": "quy-tac-ung-xu-van-minh-du-lich.md (Mục 2. Quy tắc ứng xử đối với cơ sở lưu trú du lịch)"
+  },
+  {
+    "question": "Mục tiêu phát triển du lịch biển tỉnh Ninh Bình giai đoạn 2026 - 2027 là gì?",
+    "expected_answer": "Theo Kế hoạch 75/KH-UBND, giai đoạn 2026 - 2027 Ninh Bình tập trung: bảo vệ hệ sinh thái môi trường biển; xây dựng thương hiệu 'Du lịch biển Ninh Bình - Điểm đến xanh, an toàn, chất lượng và thân thiện'; phát triển sản phẩm du lịch biển chủ đạo và làm mới thương hiệu du lịch biển Quất Lâm, Thịnh Long; hình thành 02 mô hình du lịch nghỉ dưỡng biển gắn với cộng đồng, làng nghề tại xã Hải Thịnh, xã Giao Ninh và xã Giao Minh.",
+    "expected_context": "ke-hoach-du-lich-bien-ninh-binh-2026-2030.md (Trang 2, II. Nội dung - 1. Mục tiêu)"
+  },
+  {
+    "question": "Tuyến du lịch biển trọng điểm nào được định hướng phát triển tại Ninh Bình giai đoạn 2026-2030?",
+    "expected_answer": "Tuyến du lịch biển trọng điểm gồm: Kim Đông - Rạng Đông - Hải Thịnh - Hải Tiến - Giao Ninh - Giao Hưng - Giao Minh với các sản phẩm tắm biển, nghỉ dưỡng, du lịch làng nghề, cộng đồng ven biển, thể thao và vui chơi giải trí.",
+    "expected_context": "ke-hoach-du-lich-bien-ninh-binh-2026-2030.md (Trang 3, Mục 2.2 Phát triển đa dạng sản phẩm du lịch biển)"
+  },
+  {
+    "question": "Khu du lịch Tam Cốc - Bích Động có những điểm tham quan tiêu biểu nào?",
+    "expected_answer": "Tam Cốc gồm ba hang xuyên thủy trên dòng sông Ngô Đồng là Hang Cả, Hang Hai và Hang Ba. Ngoài ra còn có chùa Bích Động ('Nam thiên đệ nhị động'), Đền Thái Vi thờ các vua và tướng lĩnh thời Trần, và Động Thiên Hương.",
+    "expected_context": "article_01.md, article_02.md, article_04.md (Khu du lịch Tam Cốc - Bích Động)"
+  },
+  {
+    "question": "Lễ hội sắc vàng Tam Cốc - Tràng An được tổ chức vào thời điểm nào và có ý nghĩa gì?",
+    "expected_answer": "Lễ hội thường được tổ chức vào cuối tháng 5 đến đầu tháng 6 hàng năm, đúng vào mùa lúa chín vàng rực hai bên bờ sông Ngô Đồng, nhằm tôn vinh giá trị Di sản Văn hóa và Thiên nhiên Thế giới Quần thể danh thắng Tràng An và quảng bá vẻ đẹp du lịch Ninh Bình.",
+    "expected_context": "article_03.md (Lễ hội sắc vàng Tam Cốc - Tràng An)"
+  },
+  {
+    "question": "Vườn quốc gia Cúc Phương có những nét đặc sắc gì về sinh thái và bảo tồn?",
+    "expected_answer": "Cúc Phương là vườn quốc gia đầu tiên của Việt Nam, đặc trưng bởi rừng nhiệt đới mưa mùa thường xanh, hệ động thực vật vô cùng phong phú đa dạng, với cây chò ngàn năm tuổi, trung tâm cứu hộ linh trưởng nguy cấp, trung tâm bảo tồn rùa và mùa bướm nở rộ vào đầu hè.",
+    "expected_context": "article_06.md (Vườn quốc gia Cúc Phương)"
+  },
+  {
+    "question": "Khu bảo tồn thiên nhiên đất ngập nước Vân Long có đặc điểm gì nổi bật?",
+    "expected_answer": "Vân Long là khu bảo tồn thiên nhiên đất ngập nước lớn nhất vùng đồng bằng Bắc Bộ, sở hữu cảnh quan 'vịnh không sóng', là nơi lưu giữ quần thể voọc mông trắng (loài linh trưởng đặc hữu có nguy cơ tuyệt chủng cao) lớn nhất Việt Nam cùng nhiều loài chim nước quý hiếm.",
+    "expected_context": "article_07.md (Khu bảo tồn thiên nhiên đất ngập nước Vân Long)"
+  },
+  {
+    "question": "Điểm nhấn đặc biệt khi du khách trải nghiệm khám phá Hang Múa ở Ninh Bình là gì?",
+    "expected_answer": "Điểm nhấn của Hang Múa là hành trình chinh phục 486 bậc thang đá dẫn lên đỉnh núi Ngọa Long, nơi có tượng rồng đá uốn lượn và tầm nhìn toàn cảnh 360 độ ngắm trọn thung lũng Tam Cốc với dòng sông Ngô Đồng uốn lượn bên cánh đồng lúa.",
+    "expected_context": "article_08.md (Khám phá hang Múa Ninh Bình)"
+  },
+  {
+    "question": "Đặc sản ẩm thực nổi tiếng của Ninh Bình gồm những món nào?",
+    "expected_answer": "Các đặc sản tiêu biểu của Ninh Bình gồm Cơm cháy Ninh Bình giòn rụm ăn kèm nước sốt dê hoặc tim cật ('Nhất hưởng Thiên Kim') và Nem chua Yên Mạc ('Nem tiến Vua') được làm từ thịt nạc mông heo, bì lợn thái mỏng trộn thính và gói lá ổi.",
+    "expected_context": "article_09.md (Nem chua Yên Mạc), article_10.md (Cơm cháy)"
+  },
+  {
+    "question": "Thủ đô của nước Pháp là thành phố nào?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+    "expected_context": "Out of domain"
+  },
+  {
+    "question": "Công thức hóa học của nước và định luật vạn vật hấp dẫn là gì?",
+    "expected_answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+    "expected_context": "Out of domain"
+  }
 ]

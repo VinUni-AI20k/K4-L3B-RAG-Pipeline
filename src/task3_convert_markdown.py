@@ -1,125 +1,108 @@
-"""Task 3 — Chuyển tài liệu gốc sang Markdown."""
+"""
+Task 3 — Chuẩn hóa dữ liệu sang Markdown.
+
+Hướng dẫn:
+    1. Dùng MarkItDown để convert PDF/DOCX.
+    2. Đọc JSON và giữ metadata ở đầu file Markdown.
+    3. Giữ cấu trúc thư mục legal/ và news/.
+    4. Không tạo file rỗng hoặc file trùng khi chạy lại.
+
+Cài đặt:
+    Dependency MarkItDown đã được khai báo trong pyproject.toml.
+    
+-> Hoặc dùng công cụ nào bạn quen khác Markitdown
+"""
 
 import json
-import re
 from pathlib import Path
+
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 
 
 def convert_legal_docs() -> None:
-    from markitdown import MarkItDown
+    import json
+    import fitz
+    import pytesseract
 
-    source_dir = LANDING_DIR / "legal"
+    legal_dir = LANDING_DIR / "legal"
     output_dir = OUTPUT_DIR / "legal"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    converter = MarkItDown()
+    sources_path = legal_dir / "sources.json"
+    sources = json.loads(sources_path.read_text(encoding="utf-8")) if sources_path.exists() else {}
 
-    for path in sorted(source_dir.iterdir()):
-        if path.suffix.lower() not in {".pdf", ".doc", ".docx"}:
+    for path in sorted(legal_dir.glob("*.pdf")):
+        info = sources.get(path.name, {})
+        pages = []
+
+        with fitz.open(path) as pdf:
+            for page_number, page in enumerate(pdf, start=1):
+                text = page.get_text("text").strip()
+
+                # PDF scan ảnh: OCR từng trang để tránh nạp cả tài liệu vào RAM.
+                if len(text) < 30:
+                    pix = page.get_pixmap(matrix=fitz.Matrix(1.5, 1.5))
+                    from PIL import Image
+                    image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+                    text = pytesseract.image_to_string(image, lang="vie+eng").strip()
+
+                if text:
+                    pages.append(f"## Trang {page_number}\n\n{text}")
+
+        if not pages:
+            print(f"KHÔNG ĐỌC ĐƯỢC: {path.name}")
             continue
 
-        content = converter.convert(str(path)).text_content.strip()
-        if not content:
-            raise ValueError(f"Tài liệu không trích xuất được nội dung: {path.name}")
-
-        output = output_dir / f"{path.stem}.md"
-        output.write_text(
-            f"# {path.stem}\n\n"
-            f"**Original file:** {path.name}\n\n"
-            f"{content}\n",
-            encoding="utf-8",
+        header = (
+            f"# {info.get('title', path.stem)}\n\n"
+            f"**Source:** {info.get('url', '')}\n\n"
+            f"**Issuer:** {info.get('issuer', '')}\n\n"
         )
-        print(f"Saved: {output}")
+        output_path = output_dir / f"{path.stem}.md"
+        output_path.write_text(header + "\n\n".join(pages), encoding="utf-8")
+        print(f"Converted {path.name}: {len(pages)} pages")
 
 
 def convert_news_articles() -> None:
-    source_dir = LANDING_DIR / "news"
+    """Convert JSON vào standardized/news."""
+    news_dir = LANDING_DIR / "news"
     output_dir = OUTPUT_DIR / "news"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    for path in sorted(source_dir.glob("*.json")):
-        article = json.loads(path.read_text(encoding="utf-8"))
+    if not news_dir.exists():
+        print("No news landing directory found")
+        return
 
-        required = ("url", "date_crawled", "content_markdown")
-        if not all(str(article.get(key, "")).strip() for key in required):
-            raise ValueError(f"Thiếu dữ liệu trong {path.name}")
+    for path in sorted(news_dir.glob("*.json")):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+            title = data.get("title", "Untitled")
+            url = data.get("url", "")
+            date_crawled = data.get("date_crawled", "")
+            content = data.get("content_markdown", "")
 
-        raw = article["content_markdown"]
-
-        # Tìm tiêu đề bài viết ngay trước dòng "Cập nhật:".
-        published = re.search(r"(?m)^Cập nhật:", raw)
-        headings = list(re.finditer(r"(?m)^# (.+)$", raw))
-
-        if not published:
-            raise ValueError(f"Không tìm thấy dòng ngày cập nhật: {path.name}")
-
-        before_date = [h for h in headings if h.start() < published.start()]
-        if not before_date:
-            raise ValueError(f"Không tìm thấy tiêu đề bài viết: {path.name}")
-
-        heading = before_date[-1]
-        body = raw[heading.start():]
-
-        # Cắt phần đánh giá, bài liên quan và chân trang.
-        ending = re.search(
-            r"(?m)^(?:Đánh giá bài viết|Quét mã QR|Xem tiếp|TRANG THÔNG TIN)",
-            body,
-        )
-        if ending:
-            body = body[:ending.start()]
-
-        # Bỏ ảnh, nút chia sẻ và thông báo của trình duyệt.
-        lines = []
-        for line in body.splitlines():
-            stripped = line.strip()
-
-            if stripped in {
-                "* email",
-                "Your browser does not support the audio element.",
-            }:
-                continue
-
-            if stripped.startswith("![](") or stripped.startswith("[![]("):
-                continue
-
-            if any(
-                text in stripped.lower()
-                for text in (
-                    "facebook.com/sharer",
-                    "twitter.com/intent/tweet",
-                    "instagram.com",
-                )
-            ):
-                continue
-
-            lines.append(line)
-
-        content = "\n".join(lines).strip()
-        if len(content) < 200:
-            raise ValueError(f"Bài viết sau khi lọc quá ngắn: {path.name}")
-
-        header = (
-            f"**Source:** {article['url']}\n\n"
-            f"**Crawled:** {article['date_crawled']}\n\n"
-            f"---\n\n"
-        )
-
-        output = output_dir / f"{path.stem}.md"
-        output.write_text(
-            header + content + "\n",
-            encoding="utf-8",
-        )
-        print(f"Saved: {output}")
+            header = (
+                f"# {title}\n\n"
+                f"**Source:** {url}\n\n"
+                f"**Crawled:** {date_crawled}\n\n---\n\n"
+            )
+            output_path = output_dir / f"{path.stem}.md"
+            output_path.write_text(
+                header + content, encoding="utf-8"
+            )
+            print(f"Converted news: {output_path}")
+        except Exception as e:
+            print(f"Failed to convert {path.name}: {e}")
 
 
 def convert_all() -> None:
+    """Convert toàn bộ dữ liệu landing."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     convert_legal_docs()
     convert_news_articles()
-    print(f"Hoàn tất chuẩn hóa: {OUTPUT_DIR}")
+    print(f"Saved Markdown to: {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
