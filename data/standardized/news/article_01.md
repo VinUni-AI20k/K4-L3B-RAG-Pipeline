@@ -2,10 +2,21 @@
 
 **Source:** https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp
 
-**Crawled:** 2026-09-25T12:00:24.936639
+**Crawled:** 2026-09-26T09:20:04.261917
 
 ---
 
+### [Tin mới](https://www.vietnamplus.vn/tin-moi.vnp "Tin mới")
+### [Việt Nam thuộc nhóm các nền kinh tế thúc đẩy tăng trưởng du lịch toàn cầu](https://www.vietnamplus.vn/viet-nam-thuoc-nhom-cac-nen-kinh-te-thuc-day-tang-truong-du-lich-toan-cau-post1138465.vnp "Việt Nam thuộc nhóm các nền kinh tế thúc đẩy tăng trưởng du lịch toàn cầu")
+26/09/2026 09:16
+### [Dấu ấn Việt Nam tại “sân chơi” thương mại lớn ở Ấn Độ](https://www.vietnamplus.vn/dau-an-viet-nam-tai-san-choi-thuong-mai-lon-o-an-do-post1138464.vnp "Dấu ấn Việt Nam tại “sân chơi” thương mại lớn ở Ấn Độ")
+26/09/2026 09:15
+### [Vietnam Airlines làm chủ công nghệ huấn luyện cho chiến lược đội bay mới ](https://www.vietnamplus.vn/vietnam-airlines-lam-chu-cong-nghe-huan-luyen-cho-chien-luoc-doi-bay-moi-post1138460.vnp "Vietnam Airlines làm chủ công nghệ huấn luyện cho chiến lược đội bay mới ")
+26/09/2026 09:03
+### [SAIGONTEL thúc đẩy nội địa hoá công nghệ với đối tác Hoa Kỳ ](https://www.vietnamplus.vn/saigontel-thuc-day-noi-dia-hoa-cong-nghe-voi-doi-tac-hoa-ky-post1138462.vnp "SAIGONTEL thúc đẩy nội địa hoá công nghệ với đối tác Hoa Kỳ ")
+26/09/2026 08:58
+### [VietinBank 4 năm liên tiếp được nhà đầu tư bình chọn yêu thích ](https://www.vietnamplus.vn/vietinbank-4-nam-lien-tiep-duoc-nha-dau-tu-binh-chon-yeu-thich-post1138427.vnp "VietinBank 4 năm liên tiếp được nhà đầu tư bình chọn yêu thích ")
+26/09/2026 08:56
 [Vietnam+ (VietnamPlus)](https://www.vietnamplus.vn/ "Vietnam+ \(VietnamPlus\)")
   * [Tiếng Việt](https://www.vietnamplus.vn/ "Tiếng Việt")
   * [English](https://en.vietnamplus.vn "English")
@@ -16,6 +27,7 @@
   * [](https://hanoi.vietnamplus.vn/ "Thăng Long - Hà Nội")
 
 
+[](javascript:void\(0\);)
 ##  [Kinh tế](https://www.vietnamplus.vn/kinhte/ "Kinh tế")
 ##  [Tài chính](https://www.vietnamplus.vn/kinhte/taichinh/ "Tài chính")
 #  Bỏ áp dụng thuế khoán: Hộ kinh doanh bước vào cuộc chơi mới 
@@ -54,11 +66,11 @@ Người tiêu dùng thờ ơ với hóa đơn điện từ là bỏ qua những
 [Facebook](javascript:void\(0\); "Facebook") [Twitter](javascript:void\(0\); "Twitter") [Lưu bài viết](javascript:void\(0\); "Lưu bài viết") [Bản in](javascript:void\(0\); "Print") [Copy link](javascript:void\(0\); "Copy link")
 [Theo dõi VietnamPlus ](https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEblpwWlhSdVlXMXdiSFZ6TG5adUtBQVAB?ceid=VN:vi&oc=3&hl=vi&gl=VN "Google News")
 ###  [ Chuyển đổi Số Quốc gia ](https://www.vietnamplus.vn/topic/chuyen-doi-so-quoc-gia-1111.vnp "Chuyển đổi Số Quốc gia")
+##  [ Sớm ban hành Nghị quyết triển khai Đề án Trung tâm dữ liệu, điều hành giao thông ](https://www.vietnamplus.vn/som-ban-hanh-nghi-quyet-trien-khai-de-an-trung-tam-du-lieu-dieu-hanh-giao-thong-post1138433.vnp "Sớm ban hành Nghị quyết triển khai Đề án Trung tâm dữ liệu, điều hành giao thông")
 ##  [ Cần Thơ: Xây "mắt xích" chiến lược trong hệ sinh thái số chung ](https://www.vietnamplus.vn/can-tho-xay-mat-xich-chien-luoc-trong-he-sinh-thai-so-chung-post1138316.vnp "Cần Thơ: Xây "mắt xích" chiến lược trong hệ sinh thái số chung")
 ##  [ Bài phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm phản ánh đúng cục diện công nghệ toàn cầu ](https://www.vietnamplus.vn/bai-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-phan-anh-dung-cuc-dien-cong-nghe-toan-cau-post1138094.vnp "Bài phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm phản ánh đúng cục diện công nghệ toàn cầu")
 ##  [ Thường trực Ban Bí thư chủ trì Phiên họp lần thứ 5 Ban Chỉ đạo chuyển đổi số trong các cơ quan đảng ](https://www.vietnamplus.vn/thuong-truc-ban-bi-thu-chu-tri-phien-hop-lan-thu-5-ban-chi-dao-chuyen-doi-so-trong-cac-co-quan-dang-post1138092.vnp "Thường trực Ban Bí thư chủ trì Phiên họp lần thứ 5 Ban Chỉ đạo chuyển đổi số trong các cơ quan đảng")
 ##  [ Thường trực Ban Bí thư: Tiên phong chuyển đổi số trong các cơ quan Đảng, làm thực chất, làm đến đâu chắc đến đó ](https://www.vietnamplus.vn/thuong-truc-ban-bi-thu-tien-phong-chuyen-doi-so-trong-cac-co-quan-dang-lam-thuc-chat-lam-den-dau-chac-den-do-post1138007.vnp "Thường trực Ban Bí thư: Tiên phong chuyển đổi số trong các cơ quan Đảng, làm thực chất, làm đến đâu chắc đến đó")
-##  [ Thường trực Ban Bí thư chủ trì họp về hệ thống quản lý công việc, đánh giá cán bộ trên môi trường số ](https://www.vietnamplus.vn/thuong-truc-ban-bi-thu-chu-tri-hop-ve-he-thong-quan-ly-cong-viec-danh-gia-can-bo-tren-moi-truong-so-post1137962.vnp "Thường trực Ban Bí thư chủ trì họp về hệ thống quản lý công việc, đánh giá cán bộ trên môi trường số")
 ### Bình luận
 Xin vui lòng gõ tiếng Việt có dấu
 [ ](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) Gửi bình luận 
@@ -77,6 +89,10 @@ Ngành Thuế cho biết 100% người nộp thuế sử dụng dịch vụ côn
 27/03/2025 09:53
 Với kế hoạch triển khai đồng bộ, Cục Thuế thể hiện quyết tâm cao về hoàn thiện hệ thống hóa đơn, chứng từ điện tử, tạo môi trường kinh doanh minh bạch, công bằng và nâng cao hiệu quả quản lý thuế.
 ###  [ Tin cùng chuyên mục ](https://www.vietnamplus.vn/kinhte/taichinh/ "Tài chính")
+[ ![Các diễn giả trình bày tại phiên thảo luận. \(Ảnh: Vietnam+\)](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/thanh-toan-qr-xuyen-bien-gioi-mo-rong-du-dia-cho-du-lich-ban-le-post1138418.vnp "Thanh toán QR xuyên biên giới mở rộng dư địa cho du lịch, bán lẻ")
+##  [ Thanh toán QR xuyên biên giới mở rộng dư địa cho du lịch, bán lẻ ](https://www.vietnamplus.vn/thanh-toan-qr-xuyen-bien-gioi-mo-rong-du-dia-cho-du-lich-ban-le-post1138418.vnp "Thanh toán QR xuyên biên giới mở rộng dư địa cho du lịch, bán lẻ")
+25/09/2026 21:03
+Thanh toán QR xuyên biên giới tại Việt Nam đang mở rộng, giảm chi phí, nâng cao trải nghiệm du khách và doanh nghiệp, thúc đẩy kinh tế số hiệu quả.
 [ ![\(Ảnh minh họa. AFP/TTXVN](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/moskva-phan-doi-eu-chuyen-tien-lai-tu-tai-san-bi-dong-bang-cua-nga-cho-ukraine-post1138243.vnp "Moskva phản đối EU chuyển tiền lãi từ tài sản bị đóng băng của Nga cho Ukraine")
 ##  [ Moskva phản đối EU chuyển tiền lãi từ tài sản bị đóng băng của Nga cho Ukraine ](https://www.vietnamplus.vn/moskva-phan-doi-eu-chuyen-tien-lai-tu-tai-san-bi-dong-bang-cua-nga-cho-ukraine-post1138243.vnp "Moskva phản đối EU chuyển tiền lãi từ tài sản bị đóng băng của Nga cho Ukraine")
 24/09/2026 20:23
@@ -193,10 +209,6 @@ Việc Ngân hàng Nhà nước điều chỉnh cách tính tín dụng đối v
 ##  [ Đề án hiện đại hóa ngân hàng, tăng khả năng tiếp cận vốn cho doanh nghiệp ](https://www.vietnamplus.vn/de-an-hien-dai-hoa-ngan-hang-tang-kha-nang-tiep-can-von-cho-doanh-nghiep-post1137099.vnp "Đề án hiện đại hóa ngân hàng, tăng khả năng tiếp cận vốn cho doanh nghiệp ")
 19/09/2026 09:06
 Chính phủ phê duyệt đề án hiện đại hóa ngân hàng, xử lý tổ chức tín dụng yếu kém, thúc đẩy tăng trưởng kinh tế với nguồn vốn dễ tiếp cận cho doanh nghiệp nhỏ và vừa.
-[ ![Bộ Tài chính phối hợp các cơ quan tổ chức đợt quảng bá nhằm nâng cao minh bạch và thu hút nhà đầu tư quốc tế, thúc đẩy phát triển kinh tế Việt Nam. \(Ảnh minh họa: BTC\)](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/bo-tai-chinh-to-chuc-dot-tiep-xuc-nha-dau-tu-khong-kem-phat-hanh-trai-phieu-post1137090.vnp "Bộ Tài chính tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu ")
-##  [ Bộ Tài chính tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu ](https://www.vietnamplus.vn/bo-tai-chinh-to-chuc-dot-tiep-xuc-nha-dau-tu-khong-kem-phat-hanh-trai-phieu-post1137090.vnp "Bộ Tài chính tổ chức đợt tiếp xúc nhà đầu tư không kèm phát hành trái phiếu ")
-19/09/2026 08:30
-Bộ Tài chính đang chuẩn bị chủ trì, phối hợp với Ngân hàng Nhà nước Việt Nam cùng các Bộ, ngành liên quan tổ chức đợt quảng bá không kèm phát hành trái phiếu quốc tế
 Xem thêm
 ADVERTISEMENT
 ###  [Đọc nhiều](https://www.vietnamplus.vn/tin-doc-nhieu.vnp "Đọc nhiều")
@@ -206,15 +218,15 @@ ADVERTISEMENT
 ##  [ Cục Dự trữ Liên bang Mỹ phát tín hiệu tăng lãi suất nếu lạm phát không hạ nhiệt ](https://www.vietnamplus.vn/cuc-du-tru-lien-bang-my-phat-tin-hieu-tang-lai-suat-neu-lam-phat-khong-ha-nhiet-post1133231.vnp "Cục Dự trữ Liên bang Mỹ phát tín hiệu tăng lãi suất nếu lạm phát không hạ nhiệt")
 ##  [ Đồng USD tăng mạnh sau tín hiệu cứng rắn từ Chủ tịch Fed ](https://www.vietnamplus.vn/dong-usd-tang-manh-sau-tin-hieu-cung-ran-tu-chu-tich-fed-post1133288.vnp "Đồng USD tăng mạnh sau tín hiệu cứng rắn từ Chủ tịch Fed")
 ###  [ Infographics ](https://www.vietnamplus.vn/infographics/ "Infographics")
-[ ![Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gui-thu-chuc-tet-trung-thu-cac-thieu-nhi-post1138300.vnp "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi")
-##  [ Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi ](https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gui-thu-chuc-tet-trung-thu-cac-thieu-nhi-post1138300.vnp "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư chúc Tết Trung Thu các thiếu nhi")
-25/09/2026 08:02
+[ ![Tân Sơn Nhất và Nội Bài lọt top 50 cảng hàng không kết nối tốt nhất thế giới ](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/tan-son-nhat-va-noi-bai-lot-top-50-cang-hang-khong-ket-noi-tot-nhat-the-gioi-post1138359.vnp "Tân Sơn Nhất và Nội Bài lọt top 50 cảng hàng không kết nối tốt nhất thế giới ")
+##  [ Tân Sơn Nhất và Nội Bài lọt top 50 cảng hàng không kết nối tốt nhất thế giới ](https://www.vietnamplus.vn/tan-son-nhat-va-noi-bai-lot-top-50-cang-hang-khong-ket-noi-tot-nhat-the-gioi-post1138359.vnp "Tân Sơn Nhất và Nội Bài lọt top 50 cảng hàng không kết nối tốt nhất thế giới ")
+25/09/2026 14:25
 ###  [ Video ](https://www.vietnamplus.vn/video/ "Video")
-[ ![Khi những câu chuyện bản địa bước vào thế giới game ](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/khi-nhung-cau-chuyen-ban-dia-buoc-vao-the-gioi-game-post1138082.vnp "Khi những câu chuyện bản địa bước vào thế giới game ")
-##  [ Khi những câu chuyện bản địa bước vào thế giới game ](https://www.vietnamplus.vn/khi-nhung-cau-chuyen-ban-dia-buoc-vao-the-gioi-game-post1138082.vnp "Khi những câu chuyện bản địa bước vào thế giới game ")
-25/09/2026 05:00 [ ![iPhone Duo sẽ thay đổi cuộc đua smartphone màn hình gập? ](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/iphone-duo-se-thay-doi-cuoc-dua-smartphone-man-hinh-gap-post1138146.vnp "iPhone Duo sẽ thay đổi cuộc đua smartphone màn hình gập? ")
-##  [ iPhone Duo sẽ thay đổi cuộc đua smartphone màn hình gập? ](https://www.vietnamplus.vn/iphone-duo-se-thay-doi-cuoc-dua-smartphone-man-hinh-gap-post1138146.vnp "iPhone Duo sẽ thay đổi cuộc đua smartphone màn hình gập? ")
-24/09/2026 22:10
+[ ![Ấn Độ trình diễn công nghệ hàng không, quốc phòng thế hệ mới tại triển lãm AEDEX+AIRPORT 2026](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/an-do-trinh-dien-cong-nghe-hang-khong-quoc-phong-the-he-moi-tai-trien-lam-aedexairport-2026-post1138127.vnp "Ấn Độ trình diễn công nghệ hàng không, quốc phòng thế hệ mới tại triển lãm AEDEX+AIRPORT 2026")
+##  [ Ấn Độ trình diễn công nghệ hàng không, quốc phòng thế hệ mới tại triển lãm AEDEX+AIRPORT 2026 ](https://www.vietnamplus.vn/an-do-trinh-dien-cong-nghe-hang-khong-quoc-phong-the-he-moi-tai-trien-lam-aedexairport-2026-post1138127.vnp "Ấn Độ trình diễn công nghệ hàng không, quốc phòng thế hệ mới tại triển lãm AEDEX+AIRPORT 2026")
+26/09/2026 05:15 [ ![Bỏ cộng điểm IELTS khi xét tuyển đại học: Công bằng và lộ trình](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/bo-cong-diem-ielts-khi-xet-tuyen-dai-hoc-cong-bang-va-lo-trinh-post1138428.vnp "Bỏ cộng điểm IELTS khi xét tuyển đại học: Công bằng và lộ trình")
+##  [ Bỏ cộng điểm IELTS khi xét tuyển đại học: Công bằng và lộ trình ](https://www.vietnamplus.vn/bo-cong-diem-ielts-khi-xet-tuyen-dai-hoc-cong-bang-va-lo-trinh-post1138428.vnp "Bỏ cộng điểm IELTS khi xét tuyển đại học: Công bằng và lộ trình")
+25/09/2026 21:18
 ###  [ Podcast ](https://www.vietnamplus.vn/podcast/ "Podcast")
 [ ![Hai tuyển thủ Esports hàng đầu Việt Nam bị cấm vĩnh viễn ](https://www.vietnamplus.vn/bo-ap-dung-thue-khoan-ho-kinh-doanh-buoc-vao-cuoc-choi-moi-post1042297.vnp) ](https://www.vietnamplus.vn/hai-tuyen-thu-esports-hang-dau-viet-nam-bi-cam-vinh-vien-post1138102.vnp "Hai tuyển thủ Esports hàng đầu Việt Nam bị cấm vĩnh viễn ")
 ##  [ Hai tuyển thủ Esports hàng đầu Việt Nam bị cấm vĩnh viễn ](https://www.vietnamplus.vn/hai-tuyen-thu-esports-hang-dau-viet-nam-bi-cam-vinh-vien-post1138102.vnp "Hai tuyển thủ Esports hàng đầu Việt Nam bị cấm vĩnh viễn ")

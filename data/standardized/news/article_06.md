@@ -3,7 +3,7 @@ của hộ kinh doanh
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm
 
-**Crawled:** 2026-09-25T12:00:33.854667
+**Crawled:** 2026-09-26T09:20:14.645295
 
 ---
 
@@ -28,10 +28,10 @@ Hoặc
 [ ](https://zalo.me/3692566389422713378 "Góp ý qua Zalo") [ ](https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm "Góp ý trực tiếp")
 Đóng
 Gửi thông tin góp ý hiến kế 
-[ ![Thuế suất đối với các hoạt động kinh doanh
-của hộ kinh doanh](https://xdcs.cdnchinhphu.vn/zoom/200_125/446259493575335936/2026/4/7/thuesuat-1775532687615597417511-0-0-545-872-crop-17755326910151730679286.png) ](https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm "Thuế suất đối với các hoạt động kinh doanh
+[ ![Thuế suất đối với các hoạt động kinh doanh
+của hộ kinh doanh](https://xdcs.cdnchinhphu.vn/zoom/200_125/446259493575335936/2026/4/7/thuesuat-1775532687615597417511-0-0-545-872-crop-17755326910151730679286.png) ](https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm "Thuế suất đối với các hoạt động kinh doanh
 của hộ kinh doanh")
-###  [ Thuế suất đối với các hoạt động kinh doanh của hộ kinh doanh ](https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm "Thuế suất đối với các hoạt động kinh doanh
+###  [ Thuế suất đối với các hoạt động kinh doanh của hộ kinh doanh ](https://xaydungchinhsach.chinhphu.vn/thue-suat-doi-voi-cac-hoat-dong-kinh-doanhcua-ho-kinh-doanh-119260407103211289.htm "Thuế suất đối với các hoạt động kinh doanh
 của hộ kinh doanh")
 (Chinhphu.vn) - Cục Thuế hướng dãn thuế suất đối với các hoạt động kinh doanh của hộ kinh doanh. 
 Gọi tổng đài 

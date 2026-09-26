@@ -2,7 +2,7 @@
 
 **Source:** https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm
 
-**Crawled:** 2026-09-25T12:00:28.518559
+**Crawled:** 2026-09-26T09:20:06.435462
 
 ---
 
@@ -81,23 +81,23 @@ Góp ý, hiến kế cho Chính phủ ngay tại đây
 Đọc nhiều 
 [ ![NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2026/1/13/phat-trien-van-hoa-1768292590074525173439-0-11-168-280-crop-176829259721141935935.jpg) ](https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm "NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương")
 ###  [NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương](https://xaydungchinhsach.chinhphu.vn/ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-huong-nguyen-luong-119260113152642414.htm "NGÀY VĂN HÓA VIỆT NAM - 24/11, người lao động được nghỉ, hưởng nguyên lương")
-[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
 (Chinhphu.vn) - Quốc hội đã thông qua Nghị quyết quy định ngày 24/11 hằng năm là “Ngày Văn hóa Việt Nam”, người lao động được nghỉ làm việc và hưởng nguyên lương. Bộ Nội vụ đề xuất 2 phương án nghỉ Ngày Văn hóa Việt Nam năm 2026.
 [ ![Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2026/6/29/tuyensinh-1782717198796128509659-0-0-428-684-crop-1782717211537240408280.jpg) ](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
 ###  [Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng](https://xaydungchinhsach.chinhphu.vn/qquyet-dinh-so-1826-qd-bgddt-danh-muc-111-nganh-dao-tao-nguoi-hoc-duoc-cap-hoc-bong-hang-thang-119260629141342898.htm "Danh mục 111 NGÀNH được nhận HỌC BỔNG hằng tháng")
-[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Hướng dẫn thực hiện chính sách")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/huong-dan-thuc-hien-chinh-sach.htm "Hướng dẫn thực hiện chính sách")
 (Chinhphu.vn) - Toàn văn Quyết định số 1826/QĐ-BGDĐT của Bộ GDĐT ban hành danh mục 111 đào tạo (thuộc 15 nhóm ngành) người học được nhận học bổng theo Nghị định số 179/2026/NĐ-CP của Chính phủ.
 [ ![Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2025/6/12/cover-2-1749718862944335083148.jpg) ](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
 ###  [Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm "Chi tiết 34 ĐƠN VỊ HÀNH CHÍNH CẤP TỈNH")
-[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
 (Chinhphu.vn) - Kể từ ngày 12/6/2025, cả nước có 34 đơn vị hành chính cấp tỉnh, gồm 28 tỉnh và 6 thành phố. Trong đó có 19 tỉnh và 4 thành phố hình thành sau sắp xếp và 11 tỉnh, thành phố không thực hiện sắp xếp.
 [ ![Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2024/10/30/huu-1730262006262356742418-0-0-500-800-crop-1730262008638710542553.jpeg) ](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")
 ###  [Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU](https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm "Tra cứu TUỔI NGHỈ HƯU và THỜI ĐIỂM NGHỈ HƯU")
-[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Hướng dẫn thực hiện chính sách")
+[Hướng dẫn thực hiện chính sách](https://xaydungchinhsach.chinhphu.vn/huong-dan-thuc-hien-chinh-sach.htm "Hướng dẫn thực hiện chính sách")
 (Chinhphu.vn) - Năm 2026, độ tuổi nghỉ hưu của người lao động nam là 61 tuổi 6 tháng, lao động nữ là 57 tuổi. Năm 2027, độ tuổi nghỉ hưu của người lao động nam sẽ là 61 tuổi 9 tháng, lao động nữ sẽ là 57 tuổi 4 tháng;...
 [ ![TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia](https://xdcs.cdnchinhphu.vn/zoom/60_60/446259493575335936/2024/12/24/khcn-1735037666032281784375-4-0-504-800-crop-1735037676858439032787.jpg) ](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia")
 ###  [TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-ve-dot-pha-phat-trien-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-quoc-gia-119241224180048642.htm "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia")
-[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm "Chính sách và cuộc sống")
+[Chính sách và cuộc sống](https://xaydungchinhsach.chinhphu.vn/chinh-sach-va-cuoc-song.htm "Chính sách và cuộc sống")
 (Chinhphu.vn) - Tổng Bí thư Tô Lâm đã ký ban hành Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Cổng TTĐT Chính phủ trân trọng giới thiệu toàn văn Nghị quyết.
 ![Chúng tôi luôn Lắng nghe và phản hồi](https://static.mediacdn.vn/XayDungChinhSachPhapLuat/web/images/image-feedback.png) Chúng tôi   
 luôn   
