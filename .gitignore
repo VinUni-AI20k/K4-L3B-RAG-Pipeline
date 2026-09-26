@@ -44,6 +44,10 @@ data/_tmp_pdf/
 *.log
 pageindex_doc_ids.json
 pageindex_pdfs/
+data/pageindex_cache.json
+
+# Local vector database
+chroma_db/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -55,3 +59,5 @@ pageindex_pdfs/
 # OS
 .DS_Store
 Thumbs.db
+
+CLAUDE.md
